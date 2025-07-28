@@ -55,3 +55,9 @@ Subsequent graphs are updated daily at 5:00 am Eastern Time.
 ![health](./graphs/health.png)
 ![pandemic](./graphs/pandemic.png)
 ![health-research](./graphs/health-research.png)
+### Blockchain
+![bitcoin](./graphs/bitcoin.png)
+![ethereum](./graphs/ethereum.png)
+![stablecoin](./graphs/stablecoin.png)
+![defi](./graphs/defi.png)
+![nft](./graphs/nft.png)
