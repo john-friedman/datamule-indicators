@@ -291,7 +291,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1847903/000184790325000051/cnta-20241231.htm#:~:text=orphan%20drug,Life Sciences,Centessa Pharmaceuticals plc,1847903
 2025-02-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/875320/000087532025000053/vrtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,VERTEX PHARMACEUTICALS INC / MA,875320
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1434316/000095017025033510/fate-20241231.htm#:~:text=orphan%20drug,Life Sciences,FATE THERAPEUTICS INC,1434316
-2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1835579/000095017025034188/ikna-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Ikena Oncology, Inc.",1835579
+2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1835579/000095017025034188/ikna-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ImageneBio, Inc.",1835579
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1894562/000162828025008884/prme-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Prime Medicine, Inc.",1894562
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1539029/000095017025046134/clsd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Clearside Biomedical, Inc.",1539029
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1232524/000123252425000011/jazz-20241231.htm#:~:text=orphan%20drug,Life Sciences,Jazz Pharmaceuticals plc,1232524
@@ -964,7 +964,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/938323/000119312525054371/d854846d20f.htm#:~:text=healthcare%20blockchain,Manufacturing,PEARSON PLC,938323
 2024-07-31,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1951229/000101376224003197/ea0209858-20f_reitar.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Reitar Logtech Holdings Ltd,1951229
 2025-01-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1687451/000141057825000055/zkin-20240930x20f.htm#:~:text=healthcare%20blockchain,Manufacturing,"ZK International Group Co., Ltd.",1687451
-2024-07-29,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1144967/000119312524187406/d759422d20f.htm#:~:text=healthcare%20blockchain,Finance,HDFC BANK LTD,1144967
 2025-02-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1167831/000116010625000012/lbk-20241231.htm#:~:text=healthcare%20blockchain,Finance,Lloyds Bank plc,1167831
 2025-03-05,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm#:~:text=healthcare%20blockchain,Technology,ASML HOLDING NV,937966
 2024-12-31,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1827401/000106299324021301/form20f.htm#:~:text=healthcare%20blockchain,Life Sciences,BRIGHT MINDS BIOSCIENCES INC.,1827401

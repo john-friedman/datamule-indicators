@@ -730,7 +730,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/1630472/000163047225000005/trtx-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"TPG RE Finance Trust, Inc.",1630472
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1956955/000168316825001929/unusual_i10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,"Unusual Machines, Inc.",1956955
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1639438/000162828025007882/cava-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"CAVA GROUP, INC.",1639438
-2024-07-29,domestic,https://www.sec.gov/Archives/edgar/data/1922639/000149315224029338/form10-k.htm#:~:text=consumer%20confidence,Energy & Transportation,Permex Petroleum Corp,1922639
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1578732/000157873225000015/mmi-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Marcus & Millichap, Inc.",1578732
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1302387/000095017025045947/bvfl-20241231.htm#:~:text=consumer%20confidence,Finance,"BV Financial, Inc.",1302387
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#:~:text=consumer%20confidence,Manufacturing,NVIDIA CORP,1045810
@@ -1464,7 +1463,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1381640/000119312525059759/d894115d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,Melco Resorts & Entertainment LTD,1381640
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1649373/000162828025011193/san-20241231.htm#:~:text=consumer%20confidence,Finance,SANTANDER UK GROUP HOLDINGS PLC,1649373
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1845097/000155837025002142/ambp-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,Ardagh Metal Packaging S.A.,1845097
-2024-07-29,international,https://www.sec.gov/Archives/edgar/data/1985062/000141057824001112/pbm-20240331x20f.htm#:~:text=consumer%20confidence,Life Sciences,PSYENCE BIOMEDICAL LTD.,1985062
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1839799/000183979925000022/gamb-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Gambling.com Group Ltd,1839799
 2024-10-25,international,https://www.sec.gov/Archives/edgar/data/1999297/000121390024090783/ea0218236-20f_bigtree.htm#:~:text=consumer%20confidence,Manufacturing,Big Tree Cloud Holdings Ltd,1999297
 2025-02-21,international,https://www.sec.gov/Archives/edgar/data/1648416/000164841625000027/race-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Ferrari N.V.,1648416
@@ -1534,7 +1532,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,international,https://www.sec.gov/Archives/edgar/data/1114446/000161052025000027/ubs-20241231.htm#:~:text=consumer%20confidence,Finance,UBS AG,1114446
 2025-03-06,international,https://www.sec.gov/Archives/edgar/data/1039765/000162828025010764/ing-20241231.htm#:~:text=consumer%20confidence,Finance,ING GROEP NV,1039765
 2024-10-23,international,https://www.sec.gov/Archives/edgar/data/1034957/000165495424013234/cresud_20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,CRESUD INC,1034957
-2024-07-29,international,https://www.sec.gov/Archives/edgar/data/1144967/000119312524187406/d759422d20f.htm#:~:text=consumer%20confidence,Finance,HDFC BANK LTD,1144967
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/814052/000081405225000036/tef-20241231.htm#:~:text=consumer%20confidence,Technology,TELEFONICA S A,814052
 2025-02-13,international,https://www.sec.gov/Archives/edgar/data/312070/000031207025000007/bbplc-20241231.htm#:~:text=consumer%20confidence,Finance,BARCLAYS BANK PLC,312070
 2025-03-17,international,https://www.sec.gov/Archives/edgar/data/1610520/000161052025000023/ubs-20241231.htm#:~:text=consumer%20confidence,Finance,UBS Group AG,1610520
