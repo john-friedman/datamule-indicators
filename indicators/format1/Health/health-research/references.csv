@@ -319,7 +319,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1579428/000095017025022457/axsm-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Axsome Therapeutics, Inc.",1579428
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1082554/000108255425000005/uthr-20241231.htm#:~:text=orphan%20drug,Life Sciences,UNITED THERAPEUTICS Corp,1082554
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1006281/000155837025003039/plx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Protalix BioTherapeutics, Inc.",1006281
-2024-07-30,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1752828/000095017024087886/celu-20231231.htm#:~:text=orphan%20drug,Life Sciences,Celularity Inc,1752828
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=orphan%20drug,Life Sciences,"GRI Bio, Inc.",1824293
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1293971/000129397125000009/blue-20241231.htm#:~:text=orphan%20drug,Life Sciences,"bluebird bio, Inc.",1293971
 2025-02-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1655759/000165575925000016/arvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ARVINAS, INC.",1655759
@@ -512,7 +511,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1370053/000137005325000024/anab-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ANAPTYSBIO, INC",1370053
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1831868/000095017025046200/icu-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,SeaStar Medical Holding Corp,1831868
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/882095/000088209525000006/gild-20241231.htm#:~:text=orphan%20drug,Life Sciences,"GILEAD SCIENCES, INC.",882095
-2024-07-30,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1677077/000121465924013191/x71924010k.htm#:~:text=orphan%20drug,Life Sciences,"Alzamend Neuro, Inc.",1677077
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1840563/000101376225003553/ea0234665-10k_pmgchold.htm#:~:text=orphan%20drug,Life Sciences,PMGC Holdings Inc.,1840563
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1923840/000095017025045736/thrd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Third Harmonic Bio, Inc.",1923840
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1157601/000162828025007980/mdgl-20241231.htm#:~:text=orphan%20drug,Life Sciences,"MADRIGAL PHARMACEUTICALS, INC.",1157601
@@ -595,7 +593,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-29,genomic_domestic,https://www.sec.gov/Archives/edgar/data/316253/000121390024091798/ea0218602-10k_enzobio.htm#:~:text=genomic&text=genomic%20research,Life Sciences,ENZO BIOCHEM INC,316253
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1650664/000165066425000022/edit-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Editas Medicine, Inc.",1650664
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1699382/000095017025030414/pmvp-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"PMV Pharmaceuticals, Inc.",1699382
-2024-07-30,genomic_domestic,https://www.sec.gov/Archives/edgar/data/711377/000095017024087670/neog-20240531.htm#:~:text=genomic&text=genomic%20research,Life Sciences,NEOGEN CORP,711377
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1808158/000095017025030405/rptx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Repare Therapeutics Inc.,1808158
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1808805/000180880525000008/naut-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Nautilus Biotechnology, Inc.",1808805
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1699031/000169903125000041/gral-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"GRAIL, Inc.",1699031
@@ -754,7 +751,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1999480/000199948025000025/alto-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Alto Neuroscience, Inc.",1999480
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1326706/000164117225001613/form10-k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"NanoVibronix, Inc.",1326706
 2024-12-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1980845/000095017024138472/engn-20241031.htm#:~:text=genomic&text=genomic%20research,Life Sciences,enGene Holdings Inc.,1980845
-2024-07-30,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1752828/000095017024087886/celu-20231231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Celularity Inc,1752828
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1994702/000095017025046074/kytx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Kyverna Therapeutics, Inc.",1994702
 2025-02-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1503802/000095017025022765/kpti-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Karyopharm Therapeutics Inc.,1503802
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1855485/000164117225001810/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Calidi Biotherapeutics, Inc.",1855485

@@ -1,6 +1,5 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1069530/000143774925005919/sava20241231c_10k.htm#:~:text=Alzheimer,Life Sciences,CASSAVA SCIENCES INC,1069530
-2024-07-30,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1677077/000121465924013191/x71924010k.htm#:~:text=Alzheimer,Life Sciences,"Alzamend Neuro, Inc.",1677077
 2024-12-23,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1314052/000173112224002041/e6219_10-k.htm#:~:text=Alzheimer,Life Sciences,ANAVEX LIFE SCIENCES CORP.,1314052
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=Alzheimer,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1503274/000150327425000031/qtrx-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,Quanterix Corp,1503274
@@ -348,7 +347,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,nash_domestic,https://www.sec.gov/Archives/edgar/data/1727196/000155837025001682/srrk-20241231x10k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Scholar Rock Holding Corp,1727196
 2024-11-25,nash_domestic,https://www.sec.gov/Archives/edgar/data/1869974/000149315224047661/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Ocean Biomedical, Inc.",1869974
 2024-09-30,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1191070/000121390024082909/ea0213573-10k_bionomic.htm#:~:text=PTSD,Life Sciences,Neuphoria Therapeutics Inc.,1191070
-2024-07-30,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1677077/000121465924013191/x71924010k.htm#:~:text=PTSD,Life Sciences,"Alzamend Neuro, Inc.",1677077
 2025-03-18,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=PTSD,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1816590/000162828025008412/cmps-20241231.htm#:~:text=PTSD,Life Sciences,COMPASS Pathways plc,1816590
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=PTSD,Life Sciences,"Silo Pharma, Inc.",1514183
@@ -375,7 +373,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=PTSD,Life Sciences,TAO Synergies Inc.,1571934
 2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=PTSD,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
 2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1070985/000095017025024745/cxw-20241231.htm#:~:text=PTSD,Real Estate & Construction,"CoreCivic, Inc.",1070985
-2024-07-30,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1731348/000143774924023774/tlry20240531c_10k.htm#:~:text=PTSD,Life Sciences,"Tilray Brands, Inc.",1731348
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1776738/000177673825000003/cbstf-20241231.htm#:~:text=PTSD,Industrial Applications and Services,Cannabist Co Holdings Inc.,1776738
 2025-03-04,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1771706/000155837025002130/vreof-20241231x10k.htm#:~:text=PTSD,Life Sciences,Vireo Growth Inc.,1771706
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,ATAI Life Sciences N.V.,1840904
@@ -566,7 +563,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774924034900/ex_711279.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,OMEROS CORP,1285819
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1830214/000162828024047276/ex991earningspr.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Ginkgo Bioworks Holdings, Inc.",1830214
 2025-02-25,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1580560/000119312525035188/d843798dex992.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Trade & Services,Flywire Corp,1580560
-2024-07-30,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/78003/000007800324000155/pfe-6302024xex99.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,PFIZER INC,78003
 2024-11-15,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1787803/000149315224046286/ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Technology,Meiwu Technology Co Ltd,1787803
 2025-01-16,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-28,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201

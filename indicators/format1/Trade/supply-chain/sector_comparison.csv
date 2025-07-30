@@ -7,9 +7,9 @@ Finance,0,25,constraints_domestic
 Finance,1,34,constraints_domestic
 Industrial Applications and Services,0,68,constraints_domestic
 Industrial Applications and Services,1,89,constraints_domestic
-Life Sciences,0,54,constraints_domestic
-Life Sciences,1,70,constraints_domestic
-Manufacturing,0,121,constraints_domestic
+Life Sciences,0,53,constraints_domestic
+Life Sciences,1,71,constraints_domestic
+Manufacturing,0,120,constraints_domestic
 Manufacturing,1,178,constraints_domestic
 Office of Structured Finance,1,1,constraints_domestic
 Real Estate & Construction,0,37,constraints_domestic
@@ -17,8 +17,8 @@ Real Estate & Construction,1,40,constraints_domestic
 Technology,0,62,constraints_domestic
 Technology,1,85,constraints_domestic
 Trade & Services,0,48,constraints_domestic
-Trade & Services,1,72,constraints_domestic
-Energy & Transportation,0,15,constraints_intl
+Trade & Services,1,70,constraints_domestic
+Energy & Transportation,0,14,constraints_intl
 Energy & Transportation,1,26,constraints_intl
 Finance,0,3,constraints_intl
 Finance,1,5,constraints_intl

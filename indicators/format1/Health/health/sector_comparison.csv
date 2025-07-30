@@ -4,7 +4,7 @@ Finance,0,3,alzheimer_domestic
 Finance,1,4,alzheimer_domestic
 Industrial Applications and Services,0,25,alzheimer_domestic
 Industrial Applications and Services,1,31,alzheimer_domestic
-Life Sciences,0,93,alzheimer_domestic
+Life Sciences,0,92,alzheimer_domestic
 Life Sciences,1,119,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,13,alzheimer_domestic
@@ -34,8 +34,8 @@ Energy & Transportation,0,1,ptsd_domestic
 Energy & Transportation,1,1,ptsd_domestic
 Industrial Applications and Services,0,4,ptsd_domestic
 Industrial Applications and Services,1,10,ptsd_domestic
-Life Sciences,0,20,ptsd_domestic
-Life Sciences,1,27,ptsd_domestic
+Life Sciences,0,18,ptsd_domestic
+Life Sciences,1,28,ptsd_domestic
 Manufacturing,0,1,ptsd_domestic
 Manufacturing,1,1,ptsd_domestic
 Real Estate & Construction,0,2,ptsd_domestic
@@ -87,7 +87,7 @@ Finance,1,1,mpox_domestic
 Industrial Applications and Services,0,5,mpox_domestic
 Industrial Applications and Services,1,13,mpox_domestic
 Life Sciences,0,43,mpox_domestic
-Life Sciences,1,61,mpox_domestic
+Life Sciences,1,59,mpox_domestic
 Manufacturing,0,2,mpox_domestic
 Manufacturing,1,1,mpox_domestic
 Technology,0,1,mpox_domestic
@@ -98,8 +98,8 @@ Industrial Applications and Services,0,3,zika_domestic
 Life Sciences,1,6,zika_domestic
 Industrial Applications and Services,0,10,h5n1-avian_domestic
 Industrial Applications and Services,1,16,h5n1-avian_domestic
-Life Sciences,0,31,h5n1-avian_domestic
-Life Sciences,1,14,h5n1-avian_domestic
+Life Sciences,0,30,h5n1-avian_domestic
+Life Sciences,1,15,h5n1-avian_domestic
 Manufacturing,0,19,h5n1-avian_domestic
 Manufacturing,1,28,h5n1-avian_domestic
 Technology,0,1,h5n1-avian_domestic

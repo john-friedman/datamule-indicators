@@ -196,7 +196,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1048695/000104869524000185/ffiv-20240930.htm#:~:text=Supply%20chain%20constraints,Technology,"F5, INC.",1048695
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/931015/000162828025006009/pii-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Polaris Inc.,931015
 2025-03-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1641614/000155837025002098/pmts-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,CPI Card Group Inc.,1641614
-2024-07-30,constraints_domestic,https://www.sec.gov/Archives/edgar/data/711377/000095017024087670/neog-20240531.htm#:~:text=Supply%20chain%20constraints,Life Sciences,NEOGEN CORP,711377
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1411207/000095017025019379/alsn-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Allison Transmission Holdings Inc,1411207
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/828146/000141057825000511/link-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Technology,INTERLINK ELECTRONICS INC,828146
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/877212/000087721225000027/zbra-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,ZEBRA TECHNOLOGIES CORP,877212
@@ -293,7 +292,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"LifeMD, Inc.",948320
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1625641/000162564125000027/law-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"CS Disco, Inc.",1625641
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1959348/000162828025007817/klg-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,WK Kellogg Co,1959348
-2024-07-30,constraints_domestic,https://www.sec.gov/Archives/edgar/data/108516/000095017024087983/wor-20240531.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"WORTHINGTON ENTERPRISES, INC.",108516
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1124524/000155837025002509/cyrx-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Cryoport, Inc.",1124524
 2025-03-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1854964/000185496425000004/nlcp-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"NewLake Capital Partners, Inc.",1854964
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/315852/000095017025026789/rrc-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,RANGE RESOURCES CORP,315852
@@ -557,7 +555,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,constraints_intl,https://www.sec.gov/Archives/edgar/data/1950246/000110465925029012/mtal-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,MAC Copper Ltd,1950246
 2025-02-21,constraints_intl,https://www.sec.gov/Archives/edgar/data/313216/000031321625000009/phg-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,KONINKLIJKE PHILIPS NV,313216
 2025-02-20,constraints_intl,https://www.sec.gov/Archives/edgar/data/1140465/000114046525000037/hbeu-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,HSBC BANK PLC,1140465
-2024-07-30,constraints_intl,https://www.sec.gov/Archives/edgar/data/1848763/000095017024087904/rnw-20240331.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,ReNew Energy Global plc,1848763
 2025-03-10,constraints_intl,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ArcelorMittal,1243429
 2025-03-25,constraints_intl,https://www.sec.gov/Archives/edgar/data/1306965/000130696525000007/shel-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Shell plc,1306965
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1172724/000117272425000010/gfi-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,GOLD FIELDS LTD,1172724
