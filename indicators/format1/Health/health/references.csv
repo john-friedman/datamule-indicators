@@ -463,7 +463,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125003011/ex99-02.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-08-30,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764424000155/pressrelease_08292024.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2024-11-12,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924034551/ex_721715.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809
-2024-08-01,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124035316/ef20033337_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2025-03-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2025-03-11,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036125008092/ef20045222_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2024-11-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/832489/000143774924034910/ex_747310.htm#:~:text=mpox&text=monkeypox,Life Sciences,"GeoVax Labs, Inc.",832489
@@ -535,7 +534,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-17,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465924100709/tm2424247d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2024-08-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1360565/000149315224031189/ex99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Technology,"Where Food Comes From, Inc.",1360565
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924034551/ex_721715.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
-2024-08-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095024000209/ex99-1q32024er.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
 2025-01-30,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1022079/000102207925000008/dgx123120248-kexhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,QUEST DIAGNOSTICS INC,1022079
 2024-08-08,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017024093324/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
 2024-11-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017024122799/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
@@ -547,8 +545,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-24,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654024000028/exh991-pressreleaseq32024.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,DARLING INGREDIENTS INC.,916540
 2024-08-05,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049324000101/tsn2024q3exh-991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"TYSON FOODS, INC.",100493
 2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248124000091/ex991ppcq3earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
-2024-08-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248124000063/a2024_q2ppcex991earningsre.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
-2024-08-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248124000065/ex991ppcq2earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-02-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000008/ex991ppcq4earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-02-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-02-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000007/a2024_q4xppcearningsrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
@@ -609,7 +605,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-04,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006720/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-10-21,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005718/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-11-26,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006606/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-08-01,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324004340/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-09-18,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005246/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-12-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006682/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-24,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025014459/valnevapr24-3x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564

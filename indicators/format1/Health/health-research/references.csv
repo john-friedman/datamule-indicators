@@ -803,7 +803,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-30,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1807166/000121390024083458/ea0214870-10k_amesite.htm#:~:text=healthcare%20blockchain,Technology,Amesite Inc.,1807166
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1044777/000162828025008750/ospn-20241231.htm#:~:text=healthcare%20blockchain,Technology,OneSpan Inc.,1044777
 2025-02-07,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1758730/000175873025000038/tw-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Tradeweb Markets Inc.,1758730
-2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2006815/000182912625002231/voyageracq_10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Voyager Acquisition Corp./Cayman Islands,2006815
+2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2006815/000182912625002231/voyageracq_10k.htm#:~:text=healthcare%20blockchain,Life Sciences,Voyager Acquisition Corp./Cayman Islands,2006815
 2025-02-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1053706/000105370625000007/crai-20241228.htm#:~:text=healthcare%20blockchain,Trade & Services,"CRA INTERNATIONAL, INC.",1053706
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2014982/000121390025026255/ea0235387-10k_simacq1.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,SIM Acquisition Corp. I,2014982
 2025-03-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1695473/000164117225000512/form10-k.htm#:~:text=healthcare%20blockchain,Life Sciences,"Greater Cannabis Company, Inc.",1695473
@@ -952,7 +952,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-13,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1687451/000141057824001331/zkin-20230930x20f.htm#:~:text=healthcare%20blockchain,Manufacturing,"ZK International Group Co., Ltd.",1687451
 2024-11-15,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1807389/000121390024099099/ea0220328-20f_popcult.htm#:~:text=healthcare%20blockchain,Trade & Services,"Pop Culture Group Co., Ltd",1807389
 2025-03-20,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1951222/000119380525000334/e664249_20f-sealsq.htm#:~:text=healthcare%20blockchain,Manufacturing,SEALSQ Corp,1951222
-2024-08-01,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1751876/000192998024000320/pavs_20f.htm#:~:text=healthcare%20blockchain,Technology,Paranovus Entertainment Technology Ltd.,1751876
 2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1557860/000162828025009110/glob-20241231.htm#:~:text=healthcare%20blockchain,Technology,Globant S.A.,1557860
 2024-08-15,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1892274/000168316824005751/visionary_i20f-033124.htm#:~:text=healthcare%20blockchain,Trade & Services,Visionary Holdings Inc.,1892274
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,ArcelorMittal,1243429

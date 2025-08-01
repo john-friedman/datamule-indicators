@@ -1375,7 +1375,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1925309/000095017025021144/ck0001925309-20241231.htm#:~:text=consumer%20confidence,,Sixth Street Lending Partners,1925309
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1934850/000193485025000015/fg-20241231.htm#:~:text=consumer%20confidence,Finance,"F&G Annuities & Life, Inc.",1934850
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/2008861/000200886125000007/ndoi-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Endo, Inc.",2008861
-2024-08-01,domestic,https://www.sec.gov/Archives/edgar/data/1002638/000100263824000052/otex-20240630.htm#:~:text=consumer%20confidence,Technology,OPEN TEXT CORP,1002638
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1920453/000095017025041963/ck0001920453-20241231.htm#:~:text=consumer%20confidence,,Fidelity Private Credit Fund,1920453
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1363829/000136382925000022/esgr-20241231.htm#:~:text=consumer%20confidence,Finance,Enstar Group LTD,1363829
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/cvs-20241231.htm#:~:text=consumer%20confidence,Trade & Services,CVS HEALTH Corp,64803
@@ -1441,7 +1440,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1924064/000121390024092983/ea0218684-20f_royaland.htm#:~:text=consumer%20confidence,Technology,RoyaLand Co Ltd.,1924064
 2024-10-30,international,https://www.sec.gov/Archives/edgar/data/1930179/000121390024091998/ea0218403-20f_arbiot.htm#:~:text=consumer%20confidence,Technology,ARB IOT Group Ltd,1930179
 2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1981519/000149315224043200/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,MIXED MARTIAL ARTS GROUP LTD,1981519
-2024-08-01,international,https://www.sec.gov/Archives/edgar/data/835403/000083540324000029/deo-20240630.htm#:~:text=consumer%20confidence,Manufacturing,DIAGEO PLC,835403
 2025-01-28,international,https://www.sec.gov/Archives/edgar/data/1808110/000121390025007160/ea0208402-20f_ddcenter.htm#:~:text=consumer%20confidence,Manufacturing,DDC Enterprise Ltd,1808110
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1087711/000162828025011199/san-20241231.htm#:~:text=consumer%20confidence,Finance,Santander UK plc,1087711
 2025-01-27,international,https://www.sec.gov/Archives/edgar/data/1959726/000149315225003767/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,Autozi Internet Technology (Global) Ltd.,1959726
