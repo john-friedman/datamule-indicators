@@ -808,10 +808,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/708955/000070895525000012/ffbc-20241231_d2.htm#:~:text=consumer%20confidence,Finance,FIRST FINANCIAL BANCORP /OH/,708955
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1499832/000149983225000040/tsq-20241231.htm#:~:text=consumer%20confidence,Technology,"Townsquare Media, Inc.",1499832
 2024-11-25,domestic,https://www.sec.gov/Archives/edgar/data/1589526/000158952624000119/blbd-20240928.htm#:~:text=consumer%20confidence,Manufacturing,Blue Bird Corp,1589526
-2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/821130/000082113025000023/usm-20241231.htm#:~:text=consumer%20confidence,Technology,UNITED STATES CELLULAR CORP,821130
+2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/821130/000082113025000023/usm-20241231.htm#:~:text=consumer%20confidence,Technology,"ARRAY DIGITAL INFRASTRUCTURE, INC.",821130
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/62234/000006223425000006/mcs-20241226.htm#:~:text=consumer%20confidence,Trade & Services,MARCUS CORP,62234
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1811414/000095017025027308/qs-20241231.htm#:~:text=consumer%20confidence,Manufacturing,QuantumScape Corp,1811414
-2024-08-02,domestic,https://www.sec.gov/Archives/edgar/data/1968487/000095017024090031/ws-20240531.htm#:~:text=consumer%20confidence,Manufacturing,"Worthington Steel, Inc.",1968487
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1086222/000108622225000028/akam-20241231.htm#:~:text=consumer%20confidence,Trade & Services,AKAMAI TECHNOLOGIES INC,1086222
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1518715/000151871525000026/hmst-20241231.htm#:~:text=consumer%20confidence,Finance,"HomeStreet, Inc.",1518715
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/34067/000003406725000028/boom-20241231.htm#:~:text=consumer%20confidence,Manufacturing,DMC Global Inc.,34067
@@ -824,7 +823,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1964979/000095017025046063/alur-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"ALLURION TECHNOLOGIES, INC.",1964979
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1270436/000143774925007158/cohn20241231_10k.htm#:~:text=consumer%20confidence,Finance,Cohen & Co Inc.,1270436
 2025-01-27,domestic,https://www.sec.gov/Archives/edgar/data/1035443/000103544325000067/are-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",1035443
-2024-08-02,domestic,https://www.sec.gov/Archives/edgar/data/1137789/000113778924000068/stx-20240628.htm#:~:text=consumer%20confidence,Technology,Seagate Technology Holdings plc,1137789
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1490161/000095017025045749/sowg-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Sow Good Inc.,1490161
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/749647/000149315225008460/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"Imunon, Inc.",749647
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/350852/000114036125006428/ef20038948_10k.htm#:~:text=consumer%20confidence,Finance,COMMUNITY TRUST BANCORP INC /KY/,350852
@@ -1374,7 +1372,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1954360/000095017025024835/ck0001954360-20241231.htm#:~:text=consumer%20confidence,,Crescent Private Credit Income Corp,1954360
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1925309/000095017025021144/ck0001925309-20241231.htm#:~:text=consumer%20confidence,,Sixth Street Lending Partners,1925309
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1934850/000193485025000015/fg-20241231.htm#:~:text=consumer%20confidence,Finance,"F&G Annuities & Life, Inc.",1934850
-2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/2008861/000200886125000007/ndoi-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Endo, Inc.",2008861
+2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/2008861/000200886125000007/ndoi-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Endo LP,2008861
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1920453/000095017025041963/ck0001920453-20241231.htm#:~:text=consumer%20confidence,,Fidelity Private Credit Fund,1920453
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1363829/000136382925000022/esgr-20241231.htm#:~:text=consumer%20confidence,Finance,Enstar Group LTD,1363829
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/cvs-20241231.htm#:~:text=consumer%20confidence,Trade & Services,CVS HEALTH Corp,64803
