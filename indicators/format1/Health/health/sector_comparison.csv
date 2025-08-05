@@ -14,18 +14,18 @@ Technology,1,6,alzheimer_domestic
 Trade & Services,0,4,alzheimer_domestic
 Trade & Services,1,6,alzheimer_domestic
 Crypto Assets,0,1,obesity_domestic
-Crypto Assets,1,1,obesity_domestic
+Crypto Assets,1,2,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,47,obesity_domestic
 Industrial Applications and Services,1,54,obesity_domestic
 Life Sciences,0,97,obesity_domestic
 Life Sciences,1,101,obesity_domestic
 Manufacturing,0,20,obesity_domestic
-Manufacturing,1,25,obesity_domestic
+Manufacturing,1,24,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
 Technology,1,2,obesity_domestic
-Trade & Services,0,21,obesity_domestic
-Trade & Services,1,31,obesity_domestic
+Trade & Services,0,20,obesity_domestic
+Trade & Services,1,32,obesity_domestic
 Industrial Applications and Services,0,3,nash_domestic
 Industrial Applications and Services,1,3,nash_domestic
 Life Sciences,0,18,nash_domestic
@@ -98,10 +98,10 @@ Industrial Applications and Services,0,3,zika_domestic
 Life Sciences,1,6,zika_domestic
 Industrial Applications and Services,0,10,h5n1-avian_domestic
 Industrial Applications and Services,1,16,h5n1-avian_domestic
-Life Sciences,0,29,h5n1-avian_domestic
-Life Sciences,1,16,h5n1-avian_domestic
-Manufacturing,0,16,h5n1-avian_domestic
-Manufacturing,1,29,h5n1-avian_domestic
+Life Sciences,0,28,h5n1-avian_domestic
+Life Sciences,1,17,h5n1-avian_domestic
+Manufacturing,0,15,h5n1-avian_domestic
+Manufacturing,1,30,h5n1-avian_domestic
 Technology,0,1,h5n1-avian_domestic
 Trade & Services,0,1,h5n1-avian_domestic
 Crypto Assets,0,1,h1n1-swine_international
@@ -119,8 +119,8 @@ Technology,1,2,h1n1-swine_international
 Trade & Services,0,1,h1n1-swine_international
 Trade & Services,1,2,h1n1-swine_international
 Energy & Transportation,0,4,mpox_international
-Life Sciences,0,6,mpox_international
-Life Sciences,1,16,mpox_international
+Life Sciences,0,5,mpox_international
+Life Sciences,1,17,mpox_international
 Manufacturing,0,2,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,0,1,mpox_international
