@@ -2,7 +2,7 @@ ownerOrg,period,count,component
 Crypto Assets,0,1,diversity_domestic
 Crypto Assets,1,8,diversity_domestic
 Energy & Transportation,0,88,diversity_domestic
-Energy & Transportation,1,197,diversity_domestic
+Energy & Transportation,1,198,diversity_domestic
 Finance,0,83,diversity_domestic
 Finance,1,173,diversity_domestic
 Industrial Applications and Services,0,64,diversity_domestic
@@ -11,32 +11,30 @@ Life Sciences,0,76,diversity_domestic
 Life Sciences,1,129,diversity_domestic
 Manufacturing,0,72,diversity_domestic
 Manufacturing,1,167,diversity_domestic
-Office of Structured Finance,1,1,diversity_domestic
 Real Estate & Construction,0,56,diversity_domestic
 Real Estate & Construction,1,101,diversity_domestic
 Technology,0,63,diversity_domestic
 Technology,1,142,diversity_domestic
-Trade & Services,0,78,diversity_domestic
-Trade & Services,1,168,diversity_domestic
+Trade & Services,0,77,diversity_domestic
+Trade & Services,1,169,diversity_domestic
 Crypto Assets,0,15,equity_domestic
 Crypto Assets,1,22,equity_domestic
 Energy & Transportation,0,112,equity_domestic
-Energy & Transportation,1,185,equity_domestic
+Energy & Transportation,1,186,equity_domestic
 Finance,0,177,equity_domestic
 Finance,1,181,equity_domestic
 Industrial Applications and Services,0,138,equity_domestic
 Industrial Applications and Services,1,182,equity_domestic
-Life Sciences,0,164,equity_domestic
-Life Sciences,1,217,equity_domestic
+Life Sciences,0,163,equity_domestic
+Life Sciences,1,218,equity_domestic
 Manufacturing,0,157,equity_domestic
 Manufacturing,1,236,equity_domestic
-Office of Structured Finance,1,1,equity_domestic
 Real Estate & Construction,0,153,equity_domestic
 Real Estate & Construction,1,247,equity_domestic
 Technology,0,157,equity_domestic
 Technology,1,190,equity_domestic
-Trade & Services,0,189,equity_domestic
-Trade & Services,1,237,equity_domestic
+Trade & Services,0,188,equity_domestic
+Trade & Services,1,238,equity_domestic
 Crypto Assets,0,6,inclusion_domestic
 Crypto Assets,1,10,inclusion_domestic
 Energy & Transportation,0,108,inclusion_domestic
@@ -53,8 +51,8 @@ Real Estate & Construction,0,65,inclusion_domestic
 Real Estate & Construction,1,77,inclusion_domestic
 Technology,0,117,inclusion_domestic
 Technology,1,166,inclusion_domestic
-Trade & Services,0,129,inclusion_domestic
-Trade & Services,1,172,inclusion_domestic
+Trade & Services,0,127,inclusion_domestic
+Trade & Services,1,174,inclusion_domestic
 Crypto Assets,0,1,diversity_international
 Crypto Assets,1,2,diversity_international
 Energy & Transportation,0,15,diversity_international

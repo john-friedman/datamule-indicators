@@ -117,7 +117,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1496323/000095017025034597/igms-20241231.htm#:~:text=orphan%20drug,Life Sciences,"IGM Biosciences, Inc.",1496323
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1645666/000164566625000010/kzr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Kezar Life Sciences, Inc.",1645666
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1771910/000162828025015131/adc-20241231.htm#:~:text=orphan%20drug,Life Sciences,ADC Therapeutics SA,1771910
-2024-08-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1834645/000095017024091127/pkbo-20231231.htm#:~:text=orphan%20drug,Life Sciences,"Peak Bio, Inc.",1834645
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1636651/000162828025011844/ovid-20241231.htm#:~:text=orphan%20drug,Life Sciences,Ovid Therapeutics Inc.,1636651
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1356576/000135657625000017/supn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SUPERNUS PHARMACEUTICALS, INC.",1356576
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1590560/000155837025001699/qure-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,uniQure N.V.,1590560
@@ -664,7 +663,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1652935/000168316825001581/actuate_i10k-123124.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ACTUATE THERAPEUTICS, INC.",1652935
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1861657/000164117225000654/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Tharimmune, Inc.",1861657
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/105319/000095017025029511/ww-20241228.htm#:~:text=genomic&text=genomic%20research,Trade & Services,"WW INTERNATIONAL, INC.",105319
-2024-08-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1834645/000095017024091127/pkbo-20231231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Peak Bio, Inc.",1834645
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1863127/000095017025046124/tyra-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Tyra Biosciences, Inc.",1863127
 2025-03-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/2022416/000117891325000887/zk2532833.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Silexion Therapeutics Corp,2022416
 2025-02-24,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1599298/000159929825000048/smmt-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Summit Therapeutics Inc.,1599298
@@ -821,7 +819,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2023658/000202365825000012/bcax-20241231.htm#:~:text=healthcare%20blockchain,Life Sciences,Bicara Therapeutics Inc.,2023658
 2025-02-11,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2031561/000141057825000114/aldf-20241231x10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Aldel Financial II Inc.,2031561
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1648960/000101376225004290/ea0234787-10k_datchat.htm#:~:text=healthcare%20blockchain,Technology,"DatChat, Inc.",1648960
-2024-08-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1383312/000138331224000039/br-20240630.htm#:~:text=healthcare%20blockchain,Trade & Services,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",1383312
 2025-03-17,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1082324/000114036125009024/ef20039047_10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,VirnetX Holding Corp,1082324
 2025-02-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/708955/000070895525000012/ffbc-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRST FINANCIAL BANCORP /OH/,708955
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1437283/000121465925005083/rpmt-20241231.htm#:~:text=healthcare%20blockchain,Technology,"REGO PAYMENT ARCHITECTURES, INC.",1437283
