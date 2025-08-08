@@ -75,7 +75,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1590955/000095017025024136/payc-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Paycom Software, Inc.",1590955
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,PROGRESSIVE CORP/OH/,80661
 2024-11-27,domestic,https://www.sec.gov/Archives/edgar/data/924396/000149315224047996/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Crypto Assets,"OpenLocker Holdings, Inc.",924396
-2024-08-08,domestic,https://www.sec.gov/Archives/edgar/data/748268/000155479524000195/rcat0808form10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Red Cat Holdings, Inc.",748268
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/945114/000094511425000012/gic-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,GLOBAL INDUSTRIAL Co,945114
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1107843/000110784325000009/qlys-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"QUALYS, INC.",1107843
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1656472/000165647225000014/cron-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Cronos Group Inc.,1656472
@@ -89,7 +88,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1012100/000162828025008091/see-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,SEALED AIR CORP/DE,1012100
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1409493/000162828025006426/cim-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,CHIMERA INVESTMENT CORP,1409493
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1844862/000155837025001874/sldp-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,"Solid Power, Inc.",1844862
-2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/851310/000085131025000021/hlit-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,HARMONIC INC,851310
+2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/851310/000085131025000021/hlit-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,HARMONIC INC.,851310
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/351834/000106299325003695/form10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,SunOpta Inc.,351834
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/1114995/000095017025017077/pi-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,IMPINJ INC,1114995
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/320121/000032012125000011/tls-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,TELOS CORP,320121
