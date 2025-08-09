@@ -16,12 +16,12 @@ Trade & Services,1,6,alzheimer_domestic
 Crypto Assets,0,1,obesity_domestic
 Crypto Assets,1,2,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
-Industrial Applications and Services,0,47,obesity_domestic
-Industrial Applications and Services,1,54,obesity_domestic
+Industrial Applications and Services,0,46,obesity_domestic
+Industrial Applications and Services,1,55,obesity_domestic
 Life Sciences,0,97,obesity_domestic
 Life Sciences,1,101,obesity_domestic
-Manufacturing,0,20,obesity_domestic
-Manufacturing,1,24,obesity_domestic
+Manufacturing,0,19,obesity_domestic
+Manufacturing,1,25,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
 Technology,1,2,obesity_domestic
 Trade & Services,0,20,obesity_domestic
@@ -72,10 +72,10 @@ Industrial Applications and Services,1,1,ptsd_international
 Life Sciences,0,2,ptsd_international
 Life Sciences,1,6,ptsd_international
 Technology,0,2,ptsd_international
-Industrial Applications and Services,0,3,h1n1-swine_domestic
-Industrial Applications and Services,1,5,h1n1-swine_domestic
+Industrial Applications and Services,0,2,h1n1-swine_domestic
+Industrial Applications and Services,1,6,h1n1-swine_domestic
 Life Sciences,0,9,h1n1-swine_domestic
-Life Sciences,1,13,h1n1-swine_domestic
+Life Sciences,1,12,h1n1-swine_domestic
 Manufacturing,0,2,h1n1-swine_domestic
 Manufacturing,1,6,h1n1-swine_domestic
 Real Estate & Construction,1,4,h1n1-swine_domestic
@@ -86,17 +86,17 @@ Finance,1,1,mpox_domestic
 Industrial Applications and Services,0,5,mpox_domestic
 Industrial Applications and Services,1,11,mpox_domestic
 Life Sciences,0,41,mpox_domestic
-Life Sciences,1,56,mpox_domestic
+Life Sciences,1,52,mpox_domestic
 Manufacturing,0,2,mpox_domestic
 Manufacturing,1,1,mpox_domestic
 Technology,0,1,mpox_domestic
 Technology,1,3,mpox_domestic
 Trade & Services,0,1,mpox_domestic
-Trade & Services,1,3,mpox_domestic
+Trade & Services,1,2,mpox_domestic
 Industrial Applications and Services,0,3,zika_domestic
-Life Sciences,1,6,zika_domestic
-Industrial Applications and Services,0,10,h5n1-avian_domestic
-Industrial Applications and Services,1,16,h5n1-avian_domestic
+Life Sciences,1,4,zika_domestic
+Industrial Applications and Services,0,9,h5n1-avian_domestic
+Industrial Applications and Services,1,17,h5n1-avian_domestic
 Life Sciences,0,27,h5n1-avian_domestic
 Life Sciences,1,17,h5n1-avian_domestic
 Manufacturing,0,14,h5n1-avian_domestic

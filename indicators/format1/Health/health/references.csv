@@ -169,7 +169,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=Obesity,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1984086/000095017025045745/sepn-20241231.htm#:~:text=Obesity,Life Sciences,"Septerna, Inc.",1984086
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711786/000101376225004108/ea0233805-10k_hoth.htm#:~:text=Obesity,Life Sciences,"Hoth Therapeutics, Inc.",1711786
-2024-08-09,obesity_domestic,https://www.sec.gov/Archives/edgar/data/943819/000094381924000013/rmd-20240630.htm#:~:text=Obesity,Industrial Applications and Services,RESMED INC,943819
 2025-03-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1870940/000187094025000008/airs-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"Airsculpt Technologies, Inc.",1870940
 2024-09-30,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1811115/000095017024110315/rnlx-20240630.htm#:~:text=Obesity,Industrial Applications and Services,Renalytix plc,1811115
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=Obesity,Life Sciences,Biohaven Ltd.,1935979
@@ -267,7 +266,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1418135/000141813525000013/kdp-20241231.htm#:~:text=Obesity,Manufacturing,Keurig Dr Pepper Inc.,1418135
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1606366/000160636625000008/loco-20241225x10k.htm#:~:text=Obesity,Trade & Services,"El Pollo Loco Holdings, Inc.",1606366
 2025-02-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1286681/000095017025025223/dpz-20241229.htm#:~:text=Obesity,Trade & Services,DOMINOS PIZZA INC,1286681
-2024-08-09,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1892480/000147793224004612/hpco_10k.htm#:~:text=Obesity,Manufacturing,"Hempacco Co., Inc.",1892480
 2025-03-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,"HELIUS MEDICAL TECHNOLOGIES, INC.",1610853
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=Obesity,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"LifeMD, Inc.",948320
@@ -300,7 +298,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-30,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1873875/000121390024082937/ea0212488-10k_incannex.htm#:~:text=Obesity,Life Sciences,Incannex Healthcare Inc.,1873875
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1341235/000095017025030102/aldx-20241231.htm#:~:text=Obesity,Life Sciences,"Aldeyra Therapeutics, Inc.",1341235
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm#:~:text=Obesity,Life Sciences,"Moderna, Inc.",1682852
-2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=Obesity,Life Sciences,CONDUIT PHARMACEUTICALS INC.,1896212
+2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=Obesity,Life Sciences,CDT Equity Inc.,1896212
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1133869/000155837025003707/capr-20241231x10k.htm#:~:text=Obesity,Life Sciences,"CAPRICOR THERAPEUTICS, INC.",1133869
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1930313/000164117225001062/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,SBC Medical Group Holdings Inc,1930313
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1710072/000155837025002006/ewtx-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Edgewise Therapeutics, Inc.",1710072
@@ -342,7 +340,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,nash_domestic,https://www.sec.gov/Archives/edgar/data/1831868/000095017025046200/icu-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,SeaStar Medical Holding Corp,1831868
 2025-03-06,nash_domestic,https://www.sec.gov/Archives/edgar/data/1810560/000095017025034584/revb-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"REVELATION BIOSCIENCES, INC.",1810560
 2025-03-03,nash_domestic,https://www.sec.gov/Archives/edgar/data/1572616/000095017025030807/guts-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,"FRACTYL HEALTH, INC.",1572616
-2025-03-28,nash_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,CONDUIT PHARMACEUTICALS INC.,1896212
+2025-03-28,nash_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,CDT Equity Inc.,1896212
 2025-02-27,nash_domestic,https://www.sec.gov/Archives/edgar/data/1727196/000155837025001682/srrk-20241231x10k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Scholar Rock Holding Corp,1727196
 2024-11-25,nash_domestic,https://www.sec.gov/Archives/edgar/data/1869974/000149315224047661/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Ocean Biomedical, Inc.",1869974
 2024-09-30,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1191070/000121390024082909/ea0213573-10k_bionomic.htm#:~:text=PTSD,Life Sciences,Neuphoria Therapeutics Inc.,1191070
@@ -443,7 +441,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-07,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,AIM ImmunoTech Inc.,946644
 2024-10-29,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315224042741/form8-k.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2024-11-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774924034900/ex_711279.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,OMEROS CORP,1285819
-2024-08-09,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1641631/000149315224030972/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,"Beyond Air, Inc.",1641631
 2024-11-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224037168/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-09-09,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224028650/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124014604/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -532,7 +529,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924034551/ex_721715.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-01-30,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1022079/000102207925000008/dgx123120248-kexhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,QUEST DIAGNOSTICS INC,1022079
 2024-11-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017024122799/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
-2024-08-09,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1641631/000149315224030972/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,"Beyond Air, Inc.",1641631
 2025-02-03,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049325000006/tsn2025q1exh-991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"TYSON FOODS, INC.",100493
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017025028361/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
 2025-03-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1768224/000119380525000275/e664243_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Arcturus Therapeutics Holdings Inc.,1768224

@@ -6,7 +6,7 @@ Energy & Transportation,1,197,diversity_domestic
 Finance,0,83,diversity_domestic
 Finance,1,173,diversity_domestic
 Industrial Applications and Services,0,63,diversity_domestic
-Industrial Applications and Services,1,117,diversity_domestic
+Industrial Applications and Services,1,116,diversity_domestic
 Life Sciences,0,76,diversity_domestic
 Life Sciences,1,129,diversity_domestic
 Manufacturing,0,72,diversity_domestic
@@ -23,12 +23,12 @@ Energy & Transportation,0,112,equity_domestic
 Energy & Transportation,1,186,equity_domestic
 Finance,0,177,equity_domestic
 Finance,1,181,equity_domestic
-Industrial Applications and Services,0,137,equity_domestic
+Industrial Applications and Services,0,136,equity_domestic
 Industrial Applications and Services,1,183,equity_domestic
 Life Sciences,0,163,equity_domestic
 Life Sciences,1,218,equity_domestic
-Manufacturing,0,157,equity_domestic
-Manufacturing,1,236,equity_domestic
+Manufacturing,0,156,equity_domestic
+Manufacturing,1,237,equity_domestic
 Real Estate & Construction,0,153,equity_domestic
 Real Estate & Construction,1,247,equity_domestic
 Technology,0,155,equity_domestic
@@ -41,8 +41,8 @@ Energy & Transportation,0,108,inclusion_domestic
 Energy & Transportation,1,109,inclusion_domestic
 Finance,0,140,inclusion_domestic
 Finance,1,170,inclusion_domestic
-Industrial Applications and Services,0,87,inclusion_domestic
-Industrial Applications and Services,1,97,inclusion_domestic
+Industrial Applications and Services,0,86,inclusion_domestic
+Industrial Applications and Services,1,98,inclusion_domestic
 Life Sciences,0,56,inclusion_domestic
 Life Sciences,1,71,inclusion_domestic
 Manufacturing,0,111,inclusion_domestic

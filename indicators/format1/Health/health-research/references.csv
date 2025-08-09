@@ -368,7 +368,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1374339/000155837025004068/pmn-20241231xex19d1.htm#:~:text=orphan%20drug,Life Sciences,ProMIS Neurosciences Inc.,1374339
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1946563/000101376225003343/ea0232429-10k_60degrees.htm#:~:text=orphan%20drug,Life Sciences,"60 DEGREES PHARMACEUTICALS, INC.",1946563
 2024-09-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1420720/000142072024000038/ibio-20240630x10k.htm#:~:text=orphan%20drug,Life Sciences,"iBio, Inc.",1420720
-2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=orphan%20drug,Life Sciences,CONDUIT PHARMACEUTICALS INC.,1896212
+2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=orphan%20drug,Life Sciences,CDT Equity Inc.,1896212
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1806952/000162828025011978/lyel-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Lyell Immunopharma, Inc.",1806952
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1098972/000095017025040289/agen-20241231.htm#:~:text=orphan%20drug,Life Sciences,AGENUS INC,1098972
 2025-02-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1599298/000159929825000048/smmt-20241231.htm#:~:text=orphan%20drug,Life Sciences,Summit Therapeutics Inc.,1599298
@@ -818,7 +818,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1141391/000114139125000011/ma-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,Mastercard Inc,1141391
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2023658/000202365825000012/bcax-20241231.htm#:~:text=healthcare%20blockchain,Life Sciences,Bicara Therapeutics Inc.,2023658
 2025-02-11,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2031561/000141057825000114/aldf-20241231x10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Aldel Financial II Inc.,2031561
-2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1648960/000101376225004290/ea0234787-10k_datchat.htm#:~:text=healthcare%20blockchain,Technology,"DatChat, Inc.",1648960
+2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1648960/000101376225004290/ea0234787-10k_datchat.htm#:~:text=healthcare%20blockchain,Technology,"Myseum, Inc.",1648960
 2025-03-17,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1082324/000114036125009024/ef20039047_10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,VirnetX Holding Corp,1082324
 2025-02-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/708955/000070895525000012/ffbc-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRST FINANCIAL BANCORP /OH/,708955
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1437283/000121465925005083/rpmt-20241231.htm#:~:text=healthcare%20blockchain,Technology,"REGO PAYMENT ARCHITECTURES, INC.",1437283
