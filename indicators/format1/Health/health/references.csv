@@ -218,7 +218,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1857154/000185715425000013/dnut-20241229.htm#:~:text=Obesity,Trade & Services,"Krispy Kreme, Inc.",1857154
 2025-03-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/814586/000168316825001592/lifeway_i10k-123124.htm#:~:text=Obesity,Manufacturing,"Lifeway Foods, Inc.",814586
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1531978/000155837025002386/fna-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,"Paragon 28, Inc.",1531978
-2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1484565/000095017025029545/slno-20241231.htm#:~:text=Obesity,Industrial Applications and Services,SOLENO THERAPEUTICS INC,1484565
+2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1484565/000095017025029545/slno-20241231.htm#:~:text=Obesity,Life Sciences,SOLENO THERAPEUTICS INC,1484565
 2024-08-29,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1493712/000139390524000308/cmxc-20240531.htm#:~:text=Obesity,Industrial Applications and Services,Stimcell Energetics Inc.,1493712
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1400118/000155837025002747/sgmt-20241231x10k.htm#:~:text=Obesity,Life Sciences,Sagimet Biosciences Inc.,1400118
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1567514/000162828025006993/itci-20241231.htm#:~:text=Obesity,Life Sciences,"Intra-Cellular Therapies, Inc.",1567514
@@ -433,7 +433,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-06,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
 2024-09-30,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/882796/000117184324005393/exh_991.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,BIOCRYST PHARMACEUTICALS INC,882796
 2025-03-21,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"Traws Pharma, Inc.",1130598
-2024-08-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924026398/ex_678860.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-01-22,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225003136/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2024-08-20,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315224033314/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2025-01-10,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225001603/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
@@ -501,7 +500,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224031886/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2025-03-10,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-02.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-04,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000110465925020023/tm258153d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
-2024-08-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924026398/ex_678860.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-03-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2024-12-20,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824008868/aethlon_ex9901.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2025-01-23,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925005455/tm253126d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
@@ -553,7 +551,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-22,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1899123/000114036124047636/ef20039115_ex99-3.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Crypto Assets,Bitdeer Technologies Group,1899123
 2024-08-15,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1809122/000141057824001487/cvac-20240630xex99d2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,CureVac N.V.,1809122
 2024-11-12,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1809122/000141057824001884/cvac-20240930xex99d2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,CureVac N.V.,1809122
-2024-08-13,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299324014886/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
 2024-11-18,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1577552/000110465924119899/tm2428512d1_ex99-4.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Trade & Services,Alibaba Group Holding Ltd,1577552
 2024-11-14,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299324019047/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-02-13,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
@@ -574,7 +571,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,mpox_international,https://www.sec.gov/Archives/edgar/data/756894/000119312525054509/d16481dex991.pdf#:~:text=mpox&text=monkeypox,Energy & Transportation,BARRICK MINING CORP,756894
 2025-02-26,mpox_international,https://www.sec.gov/Archives/edgar/data/1438569/000110465925017501/tm257688d1_6k.htm#:~:text=mpox&text=monkeypox,Life Sciences,Grifols SA,1438569
 2024-11-07,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828024046047/valnevaq3pren1.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-08-13,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828024036881/h12024resultspressrelease.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-02-18,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025005939/valnevapr18-2x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-10-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005468/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-10-10,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005587/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
@@ -613,7 +609,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,Zentek Ltd.,1904501
 2024-08-30,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1828098/000121390024074141/ea021170601ex99-2_steak.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,Steakholder Foods Ltd.,1828098
 2024-11-15,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1787803/000149315224046286/ex99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Technology,Meiwu Technology Co Ltd,1787803
-2024-08-13,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299324014886/exhibit99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-01-16,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-28,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2024-11-22,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1899123/000114036124047636/ef20039115_ex99-3.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Crypto Assets,Bitdeer Technologies Group,1899123
