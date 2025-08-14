@@ -45,7 +45,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/916076/000095017025024770/mlm-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,MARTIN MARIETTA MATERIALS INC,916076
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1365135/000095017025024137/wu-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Western Union CO,1365135
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,HAVERTY FURNITURE COMPANIES INC,216085
-2024-08-14,domestic,https://www.sec.gov/Archives/edgar/data/1618673/000095017024097033/pfgc-20240629.htm#:~:text=consumer%20confidence,Trade & Services,Performance Food Group Co,1618673
 2024-12-20,domestic,https://www.sec.gov/Archives/edgar/data/1938109/000149315224051101/form10-k.htm#:~:text=consumer%20confidence,Finance,Pineapple Financial Inc.,1938109
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/21665/000002166525000008/cl-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,COLGATE PALMOLIVE CO,21665
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1285550/000095017025027934/clpt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"ClearPoint Neuro, Inc.",1285550
@@ -1205,7 +1204,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/2023658/000202365825000012/bcax-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Bicara Therapeutics Inc.,2023658
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925008572/vxrt20241231_10k.htm#:~:text=consumer%20confidence,Life Sciences,"Vaxart, Inc.",72444
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1806952/000162828025011978/lyel-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Lyell Immunopharma, Inc.",1806952
-2024-08-14,domestic,https://www.sec.gov/Archives/edgar/data/1795250/000179525024000026/sphr-20240630.htm#:~:text=consumer%20confidence,Trade & Services,Sphere Entertainment Co.,1795250
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1447362/000144736225000031/cstl-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CASTLE BIOSCIENCES INC,1447362
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/2027537/000202753725000004/gsreft-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Goldman Sachs Real Estate Finance Trust Inc,2027537
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1267238/000126723825000008/aiz-20241231.htm#:~:text=consumer%20confidence,Finance,"ASSURANT, INC.",1267238

@@ -384,7 +384,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-25,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1829667/000121390024090791/ea0218410-20f_regencell.htm#:~:text=Alzheimer,Life Sciences,Regencell Bioscience Holdings Ltd,1829667
 2025-03-03,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Alzheimer,Life Sciences,GSK plc,1131399
 2025-02-18,alzheimer_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,ASTRAZENECA PLC,901832
-2024-08-14,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1412558/000110465924089121/evo-20231231x20f.htm#:~:text=Alzheimer,Life Sciences,Evotec SE,1412558
 2025-03-20,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1697862/000169786225000024/argx-20241231.htm#:~:text=Alzheimer,Life Sciences,ARGENX SE,1697862
 2025-03-24,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1818838/000141057825000419/adag-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,Adagene Inc.,1818838
 2025-03-27,alzheimer_international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=Alzheimer,Finance,AEGON LTD.,769218
@@ -412,7 +411,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,obesity_international,https://www.sec.gov/Archives/edgar/data/1631487/000101376225002502/ea0235317-20f_collplant.htm#:~:text=Obesity,Industrial Applications and Services,CollPlant Biotechnologies Ltd,1631487
 2025-03-03,obesity_international,https://www.sec.gov/Archives/edgar/data/1651717/000165171725000011/nomd-20241231.htm#:~:text=Obesity,Manufacturing,Nomad Foods Ltd,1651717
 2025-03-26,obesity_international,https://www.sec.gov/Archives/edgar/data/925261/000141057825000473/akoa-20241231x20f.htm#:~:text=Obesity,Manufacturing,ANDINA BOTTLING CO INC,925261
-2024-08-14,obesity_international,https://www.sec.gov/Archives/edgar/data/1412558/000110465924089121/evo-20231231x20f.htm#:~:text=Obesity,Life Sciences,Evotec SE,1412558
 2025-03-26,obesity_international,https://www.sec.gov/Archives/edgar/data/1116578/000110465925027998/puk-20241231x20f.htm#:~:text=Obesity,Finance,PRUDENTIAL PLC,1116578
 2025-03-13,obesity_international,https://www.sec.gov/Archives/edgar/data/217410/000021741025000015/ul-20241231.htm#:~:text=Obesity,Industrial Applications and Services,UNILEVER PLC,217410
 2025-03-27,obesity_international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=Obesity,Finance,AEGON LTD.,769218
@@ -427,7 +425,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-31,ptsd_international,https://www.sec.gov/Archives/edgar/data/1827401/000106299324021301/form20f.htm#:~:text=PTSD,Life Sciences,BRIGHT MINDS BIOSCIENCES INC.,1827401
 2024-12-30,ptsd_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052506/form20-f.htm#:~:text=PTSD,Technology,"Ehave, Inc.",1653606
 2024-12-30,ptsd_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052509/form20-f.htm#:~:text=PTSD,Technology,"Ehave, Inc.",1653606
-2024-08-14,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824005697/aethlon_ex9901.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-11-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824007972/aethlon_ex9901.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-10-24,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654024000028/exh991-pressreleaseq32024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-02-06,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
@@ -484,7 +481,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002252/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124015671/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-10-22,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367083/000168316824007283/sonoma_ex9901.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,"Sonoma Pharmaceuticals, Inc.",1367083
-2024-08-14,mpox_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824005697/aethlon_ex9901.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-12-20,mpox_domestic,https://www.sec.gov/Archives/edgar/data/743238/000095010324018087/dp222354_ex0201.htm#:~:text=mpox&text=monkeypox,Technology,"SHYFT GROUP, INC.",743238
 2024-08-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/91767/000110465924092158/tm2422481d1_ex2-1.htm#:~:text=mpox&text=monkeypox,Manufacturing,SONOCO PRODUCTS CO,91767
 2025-01-21,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1819810/000181981025000016/exhibit21-agreementandpl.htm#:~:text=mpox&text=monkeypox,Manufacturing,Redwire Corp,1819810
@@ -493,11 +489,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/935703/000110465925029393/tm2510014d2_ex2-1.htm#:~:text=mpox&text=monkeypox,Trade & Services,"DOLLAR TREE, INC.",935703
 2025-03-07,zika_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=zika,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2024-11-13,zika_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824007972/aethlon_ex9901.htm#:~:text=zika,Industrial Applications and Services,AETHLON MEDICAL INC,882291
-2024-08-14,zika_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824005697/aethlon_ex9901.htm#:~:text=zika,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224043141/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2025-02-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000149315225006040/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
-2024-08-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224031886/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2025-03-10,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-02.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-04,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000110465925020023/tm258153d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
 2025-03-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
@@ -539,7 +533,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095024000353/ex99-1q42024er.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
 2025-01-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000004/a994definitiveagreemtpress.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Salarius Pharmaceuticals, Inc.",1615219
 2025-03-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
-2024-08-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824005697/aethlon_ex9901.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-11-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824007972/aethlon_ex9901.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-11-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774924034900/ex_711279.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,OMEROS CORP,1285819
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1830214/000162828024047276/ex991earningspr.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Ginkgo Bioworks Holdings, Inc.",1830214

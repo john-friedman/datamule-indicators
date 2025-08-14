@@ -19,7 +19,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,ai_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,GSK plc,1131399
 2025-03-27,ai_international,https://www.sec.gov/Archives/edgar/data/1809196/000095017025045724/imtx-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,Immatics N.V.,1809196
 2024-11-07,ai_international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
-2024-08-14,ai_international,https://www.sec.gov/Archives/edgar/data/1095435/000117184324004800/f20f_081224.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,PORTAGE BIOTECH INC.,1095435
 2024-10-22,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1625288/000149315224041978/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"NEXIEN BIOPHARMA, INC.",1625288
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1211583/000155837025003710/fencf-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,FENNEC PHARMACEUTICALS INC.,1211583
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1369568/000095017025027714/cprx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"CATALYST PHARMACEUTICALS, INC.",1369568
@@ -564,7 +563,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1631487/000101376225002502/ea0235317-20f_collplant.htm#:~:text=orphan%20drug,Industrial Applications and Services,CollPlant Biotechnologies Ltd,1631487
 2025-03-11,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1893645/000121390025022732/ea0232371-20f_polyrizon.htm#:~:text=orphan%20drug,Industrial Applications and Services,Polyrizon Ltd.,1893645
 2025-02-26,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1512717/000119312525035910/d857007d20f.htm#:~:text=orphan%20drug,Life Sciences,Theratechnologies Inc.,1512717
-2024-08-14,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1412558/000110465924089121/evo-20231231x20f.htm#:~:text=orphan%20drug,Life Sciences,Evotec SE,1412558
 2025-01-31,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/nvs-20241231.htm#:~:text=orphan%20drug,Life Sciences,NOVARTIS AG,1114448
 2025-03-03,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=orphan%20drug,Life Sciences,GSK plc,1131399
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1393772/000109690625000350/budz-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"WEED, INC.",1393772
