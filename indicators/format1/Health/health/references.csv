@@ -84,7 +84,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=Alzheimer,Life Sciences,Biohaven Ltd.,1935979
 2025-02-11,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1597553/000095017025017909/sage-20241231.htm#:~:text=Alzheimer,Life Sciences,"Sage Therapeutics, Inc.",1597553
 2025-03-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1386570/000162828025009774/cdxc-20241231.htm#:~:text=Alzheimer,Life Sciences,"Niagen Bioscience, Inc.",1386570
-2024-08-15,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1175680/000155837024012328/cydy-20240531x10k.htm#:~:text=Alzheimer,Life Sciences,CytoDyn Inc.,1175680
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1803737/000180373725000049/ehab-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Enhabit, Inc.",1803737
 2025-03-05,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1141103/000162828025010519/ccrn-20241231.htm#:~:text=Alzheimer,Trade & Services,CROSS COUNTRY HEALTHCARE INC,1141103
 2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Alzheimer,Trade & Services,"Verb Technology Company, Inc.",1566610
@@ -442,7 +441,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-16,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224029343/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-08-26,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224026712/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-01,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224036731/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-08-15,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124037428/ef20034039_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124045654/ef20038209_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
@@ -507,7 +505,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000100069425000006/q42024earningspressrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
 2024-11-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465924119064/tm2428509d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-01-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925001459/ex_767668.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
-2024-08-15,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465924089914/tm2421727d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-03-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925008617/ex_792722.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
 2025-01-28,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1971532/000149315225003909/form8-k.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Telomir Pharmaceuticals, Inc.",1971532
 2025-02-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095025000071/ex99-1q12025er.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
@@ -542,7 +539,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2024-08-16,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465924090514/tm2421894d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2024-11-22,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1899123/000114036124047636/ef20039115_ex99-3.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Crypto Assets,Bitdeer Technologies Group,1899123
-2024-08-15,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1809122/000141057824001487/cvac-20240630xex99d2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,CureVac N.V.,1809122
 2024-11-12,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1809122/000141057824001884/cvac-20240930xex99d2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,CureVac N.V.,1809122
 2024-11-18,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1577552/000110465924119899/tm2428512d1_ex99-4.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Trade & Services,Alibaba Group Holding Ltd,1577552
 2024-11-14,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299324019047/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
@@ -593,8 +589,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,zika_international,https://www.sec.gov/Archives/edgar/data/930157/000110465925027955/tm251260d2_ex99-1.pdf#:~:text=zika,Trade & Services,RENTOKIL INITIAL PLC /FI,930157
 2024-09-05,zika_international,https://www.sec.gov/Archives/edgar/data/1769624/000121390024075796/ea021226101ex99-1_agba.htm#:~:text=zika,Finance,Triller Group Inc.,1769624
 2024-11-06,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299324018385/exhibit99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,Zentek Ltd.,1904501
-2024-08-15,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1809122/000110465924090139/tm2421794d3_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,CureVac N.V.,1809122
-2024-08-15,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1809122/000141057824001487/cvac-20240630xex99d2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,CureVac N.V.,1809122
 2024-11-12,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1809122/000141057824001884/cvac-20240930xex99d2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,CureVac N.V.,1809122
 2024-12-17,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Virax Biolabs Group Ltd,1885827
 2024-11-12,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1809122/000110465924116821/tm2427734d2_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,CureVac N.V.,1809122

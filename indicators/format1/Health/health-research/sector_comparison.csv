@@ -17,21 +17,21 @@ Trade & Services,1,1,ai_international
 Energy & Transportation,0,1,orphan-drug_domestic
 Industrial Applications and Services,0,15,orphan-drug_domestic
 Industrial Applications and Services,1,22,orphan-drug_domestic
-Life Sciences,0,489,orphan-drug_domestic
+Life Sciences,0,488,orphan-drug_domestic
 Life Sciences,1,539,orphan-drug_domestic
 Real Estate & Construction,1,1,orphan-drug_domestic
 Trade & Services,0,1,orphan-drug_domestic
 Trade & Services,1,2,orphan-drug_domestic
 Industrial Applications and Services,0,2,orphan-drug_international
-Industrial Applications and Services,1,3,orphan-drug_international
-Life Sciences,0,38,orphan-drug_international
+Industrial Applications and Services,1,4,orphan-drug_international
+Life Sciences,0,37,orphan-drug_international
 Life Sciences,1,86,orphan-drug_international
 Trade & Services,1,1,orphan-drug_international
 Energy & Transportation,1,1,genomic_domestic
 Industrial Applications and Services,0,49,genomic_domestic
 Industrial Applications and Services,1,57,genomic_domestic
 Life Sciences,0,122,genomic_domestic
-Life Sciences,1,147,genomic_domestic
+Life Sciences,1,146,genomic_domestic
 Manufacturing,0,2,genomic_domestic
 Manufacturing,1,4,genomic_domestic
 Real Estate & Construction,0,1,genomic_domestic
@@ -49,7 +49,7 @@ Technology,0,3,genomic_international
 Technology,1,3,genomic_international
 Trade & Services,1,1,genomic_international
 Crypto Assets,0,21,healthcare-blockchain_domestic
-Crypto Assets,1,18,healthcare-blockchain_domestic
+Crypto Assets,1,19,healthcare-blockchain_domestic
 Energy & Transportation,0,5,healthcare-blockchain_domestic
 Energy & Transportation,1,4,healthcare-blockchain_domestic
 Finance,0,60,healthcare-blockchain_domestic
@@ -59,7 +59,7 @@ Industrial Applications and Services,1,4,healthcare-blockchain_domestic
 Life Sciences,0,6,healthcare-blockchain_domestic
 Life Sciences,1,10,healthcare-blockchain_domestic
 Manufacturing,0,6,healthcare-blockchain_domestic
-Manufacturing,1,13,healthcare-blockchain_domestic
+Manufacturing,1,12,healthcare-blockchain_domestic
 Real Estate & Construction,0,10,healthcare-blockchain_domestic
 Real Estate & Construction,1,23,healthcare-blockchain_domestic
 Technology,0,25,healthcare-blockchain_domestic
@@ -80,5 +80,5 @@ Manufacturing,1,3,healthcare-blockchain_international
 Real Estate & Construction,1,1,healthcare-blockchain_international
 Technology,0,12,healthcare-blockchain_international
 Technology,1,26,healthcare-blockchain_international
-Trade & Services,0,3,healthcare-blockchain_international
-Trade & Services,1,8,healthcare-blockchain_international
+Trade & Services,0,2,healthcare-blockchain_international
+Trade & Services,1,9,healthcare-blockchain_international

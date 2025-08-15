@@ -223,7 +223,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/791908/000155837025003131/xoma-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,XOMA Royalty Corp,791908
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1601830/000160183025000035/rxrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"RECURSION PHARMACEUTICALS, INC.",1601830
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000037/flks-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Salarius Pharmaceuticals, Inc.",1615219
-2024-08-15,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1175680/000155837024012328/cydy-20240531x10k.htm#:~:text=orphan%20drug,Life Sciences,CytoDyn Inc.,1175680
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1781174/000095017025046056/acrv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Acrivon Therapeutics, Inc.",1781174
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1664710/000166471025000018/kros-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Keros Therapeutics, Inc.",1664710
 2024-11-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1713863/000121390024095111/ea0217275-10k_rafael.htm#:~:text=orphan%20drug,Life Sciences,"Rafael Holdings, Inc.",1713863
@@ -553,7 +552,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-19,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1648257/000141057825000377/hcm-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,HUTCHMED (China) Ltd,1648257
 2025-03-06,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1745114/000174511425000009/a48-molecularpartnersxoran.htm#:~:text=orphan%20drug,Life Sciences,MOLECULAR PARTNERS AG,1745114
 2025-02-13,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1121404/000112140425000010/sny-20241231.htm#:~:text=orphan%20drug,Life Sciences,Sanofi,1121404
-2024-08-15,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1946399/000121390024069344/ea0210595-20f_lakeshore.htm#:~:text=orphan%20drug,Life Sciences,"LakeShore Biopharma Co., Ltd.",1946399
 2025-02-12,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1434265/000155837025000846/gmab-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,GENMAB A/S,1434265
 2024-08-30,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1815620/000095017024102094/opt-20240630.htm#:~:text=orphan%20drug,Life Sciences,Opthea Ltd,1815620
 2025-03-31,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1962738/000155837025004086/casi-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,"CASI Pharmaceuticals, Inc.",1962738
@@ -943,7 +941,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-15,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1807389/000121390024099099/ea0220328-20f_popcult.htm#:~:text=healthcare%20blockchain,Trade & Services,"Pop Culture Group Co., Ltd",1807389
 2025-03-20,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1951222/000119380525000334/e664249_20f-sealsq.htm#:~:text=healthcare%20blockchain,Manufacturing,SEALSQ Corp,1951222
 2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1557860/000162828025009110/glob-20241231.htm#:~:text=healthcare%20blockchain,Technology,Globant S.A.,1557860
-2024-08-15,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1892274/000168316824005751/visionary_i20f-033124.htm#:~:text=healthcare%20blockchain,Trade & Services,Visionary Holdings Inc.,1892274
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,ArcelorMittal,1243429
 2025-02-19,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1653242/000165324225000010/ntb-20241231.htm#:~:text=healthcare%20blockchain,Finance,Bank of N.T. Butterfield & Son Ltd,1653242
 2025-03-14,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/938323/000119312525054371/d854846d20f.htm#:~:text=healthcare%20blockchain,Manufacturing,PEARSON PLC,938323

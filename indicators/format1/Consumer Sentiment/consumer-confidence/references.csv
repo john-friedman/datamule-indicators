@@ -220,7 +220,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-03,domestic,https://www.sec.gov/Archives/edgar/data/840489/000084048925000032/fcfs-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"FirstCash Holdings, Inc.",840489
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1743759/000095017025027856/crsr-20241231.htm#:~:text=consumer%20confidence,Technology,"Corsair Gaming, Inc.",1743759
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1641601/000095017025036910/ck0001641601-20241231.htm#:~:text=consumer%20confidence,Finance,River Financial Corp,1641601
-2024-08-15,domestic,https://www.sec.gov/Archives/edgar/data/1116132/000111613224000018/tpr-20240629.htm#:~:text=consumer%20confidence,Manufacturing,"TAPESTRY, INC.",1116132
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1580905/000158090525000010/ibp-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Installed Building Products, Inc.",1580905
 2024-11-08,domestic,https://www.sec.gov/Archives/edgar/data/1772177/000095017024124091/krus-20240831.htm#:~:text=consumer%20confidence,Trade & Services,"KURA SUSHI USA, INC.",1772177
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1124941/000112494125000021/becn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO BUILDING PRODUCTS, INC.",1124941
@@ -1451,7 +1450,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1835654/000117891325000817/zk2532805.htm#:~:text=consumer%20confidence,Manufacturing,Innoviz Technologies Ltd.,1835654
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1841209/000182912625001963/microcloud_20f.htm#:~:text=consumer%20confidence,Technology,MicroCloud Hologram Inc.,1841209
 2024-11-07,international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=consumer%20confidence,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
-2024-08-15,international,https://www.sec.gov/Archives/edgar/data/1816319/000121390024069682/ea0211100-20f_lytustech.htm#:~:text=consumer%20confidence,Technology,Lytus Technologies Holdings PTV. Ltd.,1816319
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1834489/000095017025039412/geni-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Genius Sports Ltd,1834489
 2024-08-22,international,https://www.sec.gov/Archives/edgar/data/1962845/000121390024071835/ea0208335-20f_pixiedust.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"PIXIE DUST TECHNOLOGIES, INC.",1962845
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/858446/000119312525037543/d867363d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,INTERCONTINENTAL HOTELS GROUP PLC /NEW/,858446
@@ -1497,7 +1495,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-16,international,https://www.sec.gov/Archives/edgar/data/1905660/000121390024070066/ea0210187-20f_hubcyber.htm#:~:text=consumer%20confidence,Technology,Hub Cyber Security Ltd.,1905660
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1697862/000169786225000024/argx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,ARGENX SE,1697862
 2025-02-28,international,https://www.sec.gov/Archives/edgar/data/932470/000110465925019133/teo-20241231x20f.htm#:~:text=consumer%20confidence,Technology,TELECOM ARGENTINA SA,932470
-2024-08-15,international,https://www.sec.gov/Archives/edgar/data/1946399/000121390024069344/ea0210595-20f_lakeshore.htm#:~:text=consumer%20confidence,Life Sciences,"LakeShore Biopharma Co., Ltd.",1946399
 2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1945711/000194571124000044/lvro-20240630.htm#:~:text=consumer%20confidence,Trade & Services,Lavoro Ltd,1945711
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1855612/000185561225000013/ck0001855612-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Grab Holdings Ltd,1855612
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1857190/000141057825000398/nyxh-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Nyxoah SA,1857190
