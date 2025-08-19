@@ -5,8 +5,8 @@ Energy & Transportation,0,474,environmental_domestic
 Energy & Transportation,1,548,environmental_domestic
 Finance,0,194,environmental_domestic
 Finance,1,214,environmental_domestic
-Industrial Applications and Services,0,194,environmental_domestic
-Industrial Applications and Services,1,234,environmental_domestic
+Industrial Applications and Services,0,193,environmental_domestic
+Industrial Applications and Services,1,235,environmental_domestic
 Life Sciences,0,82,environmental_domestic
 Life Sciences,1,110,environmental_domestic
 Manufacturing,0,357,environmental_domestic
@@ -23,8 +23,8 @@ Energy & Transportation,0,231,social_domestic
 Energy & Transportation,1,294,social_domestic
 Finance,0,202,social_domestic
 Finance,1,225,social_domestic
-Industrial Applications and Services,0,139,social_domestic
-Industrial Applications and Services,1,169,social_domestic
+Industrial Applications and Services,0,138,social_domestic
+Industrial Applications and Services,1,170,social_domestic
 Life Sciences,0,101,social_domestic
 Life Sciences,1,123,social_domestic
 Manufacturing,0,231,social_domestic
@@ -105,5 +105,5 @@ Real Estate & Construction,0,6,governance_international
 Real Estate & Construction,1,17,governance_international
 Technology,0,39,governance_international
 Technology,1,112,governance_international
-Trade & Services,0,29,governance_international
-Trade & Services,1,97,governance_international
+Trade & Services,0,28,governance_international
+Trade & Services,1,98,governance_international
