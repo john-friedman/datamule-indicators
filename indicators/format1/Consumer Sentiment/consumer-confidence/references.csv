@@ -67,7 +67,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1338749/000095017025019711/pch-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,POTLATCHDELTIC CORP,1338749
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1672013/000167201325000009/golf-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Acushnet Holdings Corp.,1672013
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/814586/000168316825001592/lifeway_i10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,"Lifeway Foods, Inc.",814586
-2024-08-20,domestic,https://www.sec.gov/Archives/edgar/data/1024305/000102430524000035/coty-20240630.htm#:~:text=consumer%20confidence,Industrial Applications and Services,COTY INC.,1024305
 2025-01-30,domestic,https://www.sec.gov/Archives/edgar/data/1576940/000157694025000006/ccs-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Century Communities, Inc.",1576940
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1828962/000182896225000039/crct-20241231.htm#:~:text=consumer%20confidence,Technology,"Cricut, Inc.",1828962
 2024-11-26,domestic,https://www.sec.gov/Archives/edgar/data/1605331/000166357724000297/abqq10k_083124.htm#:~:text=consumer%20confidence,Real Estate & Construction,AB INTERNATIONAL GROUP CORP.,1605331
@@ -780,7 +779,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/63276/000162828025007887/mat-20241231.htm#:~:text=consumer%20confidence,Manufacturing,MATTEL INC /DE/,63276
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1834622/000183462225000009/hayw-20241231.htm#:~:text=consumer%20confidence,Technology,"Hayward Holdings, Inc.",1834622
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1037976/000103797625000006/jll-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JONES LANG LASALLE INC,1037976
-2024-08-20,domestic,https://www.sec.gov/Archives/edgar/data/1408710/000140871024000032/fn-20240628.htm#:~:text=consumer%20confidence,Manufacturing,Fabrinet,1408710
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1551306/000155130625000040/pgny-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Progyny, Inc.",1551306
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1110611/000111061125000004/ontf-20241231.htm#:~:text=consumer%20confidence,Technology,ON24 INC.,1110611
@@ -1431,7 +1429,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1087711/000162828025011199/san-20241231.htm#:~:text=consumer%20confidence,Finance,Santander UK plc,1087711
 2025-01-27,international,https://www.sec.gov/Archives/edgar/data/1959726/000149315225003767/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,Autozi Internet Technology (Global) Ltd.,1959726
 2025-02-20,international,https://www.sec.gov/Archives/edgar/data/1160106/000116010625000005/lyg-20241231_d2.htm#:~:text=consumer%20confidence,Finance,Lloyds Banking Group plc,1160106
-2024-08-20,international,https://www.sec.gov/Archives/edgar/data/1981662/000121390024070853/ea0211229-20f_newgen.htm#:~:text=consumer%20confidence,Industrial Applications and Services,NewGenIvf Group Ltd,1981662
 2024-10-18,international,https://www.sec.gov/Archives/edgar/data/1964314/000149315224041544/form20-f.htm#:~:text=consumer%20confidence,Manufacturing,JBDI Holdings Ltd,1964314
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1867729/000119312525062519/d921190d20f.htm#:~:text=consumer%20confidence,Technology,WeRide Inc.,1867729
 2025-02-24,international,https://www.sec.gov/Archives/edgar/data/1986247/000121390025016603/ea0231351-20f_parkhabio.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Park Ha Biological Technology Co., Ltd.",1986247
