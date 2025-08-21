@@ -466,7 +466,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/3499/000000349925000004/alx-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,ALEXANDERS INC,3499
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1672909/000143774925006992/cphc20241231_10k.htm#:~:text=consumer%20confidence,Trade & Services,Canterbury Park Holding Corp,1672909
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm#:~:text=consumer%20confidence,Finance,PROGRESSIVE CORP/OH/,80661
-2024-08-21,domestic,https://www.sec.gov/Archives/edgar/data/703351/000070335124000030/eat-20240626.htm#:~:text=consumer%20confidence,Trade & Services,"BRINKER INTERNATIONAL, INC",703351
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/95574/000143774925007055/sgc20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"SUPERIOR GROUP OF COMPANIES, INC.",95574
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1552493/000155837025001957/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Finance,CNH Industrial Capital LLC,1552493
 2024-09-06,domestic,https://www.sec.gov/Archives/edgar/data/1308027/000149315224035353/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Vystar Corp,1308027
@@ -571,7 +570,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1171759/000117175925000012/rrgb-20241229.htm#:~:text=consumer%20confidence,Trade & Services,RED ROBIN GOURMET BURGERS INC,1171759
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/14846/000001484625000005/brt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,BRT Apartments Corp.,14846
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/700841/000143774925007557/rcmt20241228_10k.htm#:~:text=consumer%20confidence,Trade & Services,"RCM TECHNOLOGIES, INC.",700841
-2024-08-21,domestic,https://www.sec.gov/Archives/edgar/data/880117/000095017024099489/jbss-20240627.htm#:~:text=consumer%20confidence,Manufacturing,SANFILIPPO JOHN B & SON INC,880117
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1901203/000121390025015846/ea0230568-10k_ironhorse.htm#:~:text=consumer%20confidence,Manufacturing,Iron Horse Acquisitions Corp.,1901203
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1031235/000095017025045186/self-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Global Self Storage, Inc.",1031235
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1611647/000161164725000007/frpt-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Freshpet, Inc.",1611647

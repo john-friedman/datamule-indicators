@@ -15,8 +15,8 @@ Real Estate & Construction,0,10,general_domestic
 Real Estate & Construction,1,7,general_domestic
 Technology,0,68,general_domestic
 Technology,1,61,general_domestic
-Trade & Services,0,22,general_domestic
-Trade & Services,1,12,general_domestic
+Trade & Services,0,21,general_domestic
+Trade & Services,1,13,general_domestic
 Crypto Assets,1,1,openai_domestic
 Energy & Transportation,0,8,openai_domestic
 Energy & Transportation,1,5,openai_domestic
@@ -48,8 +48,8 @@ Real Estate & Construction,0,1,google_domestic
 Real Estate & Construction,1,2,google_domestic
 Technology,0,42,google_domestic
 Technology,1,36,google_domestic
-Trade & Services,0,10,google_domestic
-Trade & Services,1,7,google_domestic
+Trade & Services,0,9,google_domestic
+Trade & Services,1,8,google_domestic
 Crypto Assets,1,1,general_international
 Energy & Transportation,1,2,general_international
 Finance,0,5,general_international
