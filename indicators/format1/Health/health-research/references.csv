@@ -616,7 +616,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1830214/000162828025007819/dna-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Ginkgo Bioworks Holdings, Inc.",1830214
 2024-12-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/coo-20241031.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"COOPER COMPANIES, INC.",711404
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1674930/000095017025029512/flgt-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Fulgent Genetics, Inc.",1674930
-2024-08-22,genomic_domestic,https://www.sec.gov/Archives/edgar/data/842023/000155837024012430/tech-20240630x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BIO-TECHNE Corp,842023
 2024-10-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1527728/000173112224001578/e5986_10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,RENOVARO INC.,1527728
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BeOne Medicines Ltd.,1651308
 2024-12-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1090872/000109087224000049/a-20241031.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"AGILENT TECHNOLOGIES, INC.",1090872
@@ -779,7 +778,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1763415/000095017025040572/bitb-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Bitwise Bitcoin ETF,1763415
 2025-02-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/880631/000121465925003503/wt-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,"WisdomTree, Inc.",880631
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2000638/000143774925006261/iset20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,iShares Ethereum Trust ETF,2000638
-2024-08-22,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1679379/000121390024071547/ea0210632-10k_nyiaxinc.htm#:~:text=healthcare%20blockchain,Finance,"NYIAX, INC.",1679379
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=healthcare%20blockchain,Life Sciences,ALT5 Sigma Corp,862861
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1703157/000101738625000028/scth_form10k12312024.htm#:~:text=healthcare%20blockchain,Manufacturing,"Securetech Innovations, Inc.",1703157
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1755953/000121390025026404/ea0235701-10k_gryphon.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Gryphon Digital Mining, Inc.",1755953

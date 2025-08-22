@@ -351,7 +351,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1893657/000164117225000072/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Rubber Leaf Inc,1893657
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1063761/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP INC /DE/,1063761
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1022344/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP L P /DE/,1022344
-2024-08-22,domestic,https://www.sec.gov/Archives/edgar/data/1639825/000163982524000128/pton-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"PELOTON INTERACTIVE, INC.",1639825
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1760965/000176096525000011/ktb-20241228.htm#:~:text=consumer%20confidence,Manufacturing,"Kontoor Brands, Inc.",1760965
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1653558/000165355825000039/prth-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Priority Technology Holdings, Inc.",1653558
 2024-11-21,domestic,https://www.sec.gov/Archives/edgar/data/1666138/000166613824000164/atkr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Atkore Inc.,1666138
@@ -761,7 +760,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/795403/000155837025001102/wts-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,WATTS WATER TECHNOLOGIES INC,795403
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/317540/000031754025000025/coke-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Coca-Cola Consolidated, Inc.",317540
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1739566/000173956625000053/utz-20241229.htm#:~:text=consumer%20confidence,Manufacturing,"Utz Brands, Inc.",1739566
-2024-08-22,domestic,https://www.sec.gov/Archives/edgar/data/895419/000089541924000062/wolf-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"WOLFSPEED, INC.",895419
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/862692/000095017025030138/ccel-20241130.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CRYO CELL INTERNATIONAL INC,862692
 2025-02-07,domestic,https://www.sec.gov/Archives/edgar/data/896622/000089662225000007/atr-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"APTARGROUP, INC.",896622
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1999001/000199900125000052/fun-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Six Flags Entertainment Corporation/NEW,1999001
@@ -824,7 +822,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/921825/000092182525000019/fr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,FIRST INDUSTRIAL REALTY TRUST INC,921825
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1033128/000092182525000019/fr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,FIRST INDUSTRIAL LP,1033128
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000011/ppc-20241229.htm#:~:text=consumer%20confidence,Manufacturing,PILGRIMS PRIDE CORP,802481
-2024-08-22,domestic,https://www.sec.gov/Archives/edgar/data/1839439/000183943924000051/pycr-20240630.htm#:~:text=consumer%20confidence,Technology,"PAYCOR HCM, INC.",1839439
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1821160/000182116025000007/ghld-20241231.htm#:~:text=consumer%20confidence,Finance,Guild Holdings Co,1821160
 2024-11-13,domestic,https://www.sec.gov/Archives/edgar/data/50725/000005072524000152/gff-20240930.htm#:~:text=consumer%20confidence,Manufacturing,GRIFFON CORP,50725
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1653477/000165347725000015/ngvt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Ingevity Corp,1653477
@@ -1445,7 +1442,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1841209/000182912625001963/microcloud_20f.htm#:~:text=consumer%20confidence,Technology,MicroCloud Hologram Inc.,1841209
 2024-11-07,international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=consumer%20confidence,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1834489/000095017025039412/geni-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Genius Sports Ltd,1834489
-2024-08-22,international,https://www.sec.gov/Archives/edgar/data/1962845/000121390024071835/ea0208335-20f_pixiedust.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"PIXIE DUST TECHNOLOGIES, INC.",1962845
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/858446/000119312525037543/d867363d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,INTERCONTINENTAL HOTELS GROUP PLC /NEW/,858446
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1668717/000119312525052976/d899194d20f.htm#:~:text=consumer%20confidence,Manufacturing,Anheuser-Busch InBev SA/NV,1668717
 2025-03-10,international,https://www.sec.gov/Archives/edgar/data/1837493/000121390025022325/ea0233226-20f_inspira.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Inspira Technologies OXY B.H.N. Ltd,1837493
