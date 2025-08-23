@@ -7,7 +7,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/61986/000095017025024838/mtw-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,MANITOWOC CO INC,61986
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1017303/000114036125010065/ef20039038_10k.htm#:~:text=Supply%20chain%20constraints,Technology,TRANSACT TECHNOLOGIES INC,1017303
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/355811/000035581125000009/gntx-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GENTEX CORP,355811
-2024-08-23,constraints_domestic,https://www.sec.gov/Archives/edgar/data/817720/000095017024100261/syna-20240629.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SYNAPTICS Inc,817720
 2025-01-31,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1035267/000103526725000017/isrg-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,INTUITIVE SURGICAL INC,1035267
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/20639/000114036125010025/ef20038924_10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,AmBase Corp,20639
 2024-11-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/897723/000089772324000056/sanm-20240928.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SANMINA CORP,897723
@@ -211,7 +210,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/34563/000003456324000070/farm-20240630.htm#:~:text=Supply%20chain%20constraints,Manufacturing,FARMER BROTHERS CO,34563
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1364479/000136447925000007/hri-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,HERC HOLDINGS INC,1364479
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1579241/000157924125000008/alle-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Allegion plc,1579241
-2024-08-23,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1511737/000151173724000053/ubnt-20240630.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Ubiquiti Inc.,1511737
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1018164/000101816425000027/wlfc-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,WILLIS LEASE FINANCE CORP,1018164
 2024-08-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/707549/000070754924000106/lrcx-20240630.htm#:~:text=Supply%20chain%20constraints,Technology,LAM RESEARCH CORP,707549
 2024-11-22,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1674910/000167491024000152/vvv-20240930.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,VALVOLINE INC,1674910

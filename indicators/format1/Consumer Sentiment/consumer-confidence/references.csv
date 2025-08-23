@@ -102,7 +102,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-13,domestic,https://www.sec.gov/Archives/edgar/data/915840/000091584024000069/bzh-20240930.htm#:~:text=consumer%20confidence,Real Estate & Construction,BEAZER HOMES USA INC,915840
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1616707/000161670725000022/w-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Wayfair Inc.,1616707
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/883569/000088356925000010/fosl-20241228.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Fossil Group, Inc.",883569
-2024-08-23,domestic,https://www.sec.gov/Archives/edgar/data/896156/000143774924027664/eth20240630_10k.htm#:~:text=consumer%20confidence,Manufacturing,ETHAN ALLEN INTERIORS INC,896156
 2024-12-16,domestic,https://www.sec.gov/Archives/edgar/data/1423221/000142322124000015/nx-20241031.htm#:~:text=consumer%20confidence,Manufacturing,Quanex Building Products CORP,1423221
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1705696/000170569625000033/vici-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,VICI PROPERTIES INC.,1705696
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1920791/000170569625000033/vici-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,VICI Properties L.P.,1920791
@@ -280,7 +279,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/898173/000089817325000008/orly-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,O REILLY AUTOMOTIVE INC,898173
 2024-11-27,domestic,https://www.sec.gov/Archives/edgar/data/1821806/000095017024131476/lesl-20240928.htm#:~:text=consumer%20confidence,Trade & Services,"Leslie's, Inc.",1821806
 2024-10-03,domestic,https://www.sec.gov/Archives/edgar/data/1916879/000106594924000110/vhld-20240630.htm.htm#:~:text=consumer%20confidence,Real Estate & Construction,"VECTOR 21 HOLDINGS, INC.",1916879
-2024-08-23,domestic,https://www.sec.gov/Archives/edgar/data/1837774/000173112224001311/e5885_10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Global Innovative Platforms Inc.,1837774
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/105418/000010541825000014/wmk-20241228x10k.htm#:~:text=consumer%20confidence,Trade & Services,WEIS MARKETS INC,105418
 2024-12-17,domestic,https://www.sec.gov/Archives/edgar/data/1745032/000155837024016328/lfr-20231231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Lodging Fund REIT III, Inc.",1745032
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1874178/000187417825000007/rivn-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Rivian Automotive, Inc. / DE",1874178
@@ -320,7 +318,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1618755/000161875525000010/qsr-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Restaurant Brands International Limited Partnership,1618755
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/922621/000092262125000004/erie-20241231.htm#:~:text=consumer%20confidence,Finance,ERIE INDEMNITY CO,922621
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1847874/000143774925007028/minf20241231_10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Mobile Infrastructure Corp,1847874
-2024-08-23,domestic,https://www.sec.gov/Archives/edgar/data/100726/000095017024100146/ufi-20240630.htm#:~:text=consumer%20confidence,Manufacturing,UNIFI INC,100726
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1740332/000174033225000010/rezi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"RESIDEO TECHNOLOGIES, INC.",1740332
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1195734/000119573425000029/pbpb-20241229.htm#:~:text=consumer%20confidence,Trade & Services,POTBELLY CORP,1195734
 2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/1772016/000177201624000108/brbr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,"BELLRING BRANDS, INC.",1772016
@@ -665,7 +662,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-12,domestic,https://www.sec.gov/Archives/edgar/data/720500/000095017024135825/asys-20240930.htm#:~:text=consumer%20confidence,Technology,AMTECH SYSTEMS INC,720500
 2024-09-12,domestic,https://www.sec.gov/Archives/edgar/data/34563/000003456324000070/farm-20240630.htm#:~:text=consumer%20confidence,Manufacturing,FARMER BROTHERS CO,34563
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/26780/000143774925004554/dan20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,DANA Inc,26780
-2024-08-23,domestic,https://www.sec.gov/Archives/edgar/data/1511737/000151173724000053/ubnt-20240630.htm#:~:text=consumer%20confidence,Manufacturing,Ubiquiti Inc.,1511737
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1758009/000121390025025561/ea0234742-10k_quantum.htm#:~:text=consumer%20confidence,Technology,Quantum Computing Inc.,1758009
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1590714/000159071425000022/esi-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Element Solutions Inc,1590714
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/842517/000084251725000053/isba-20241231.htm#:~:text=consumer%20confidence,Finance,ISABELLA BANK CORP,842517
