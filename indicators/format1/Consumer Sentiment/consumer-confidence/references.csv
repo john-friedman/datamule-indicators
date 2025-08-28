@@ -41,7 +41,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm#:~:text=consumer%20confidence,Trade & Services,Victoria's Secret & Co.,1856437
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1019849/000101984925000022/pag-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"PENSKE AUTOMOTIVE GROUP, INC.",1019849
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/33488/000143774925006863/esca20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,ESCALADE INC,33488
-2024-08-28,domestic,https://www.sec.gov/Archives/edgar/data/96021/000009602124000128/syy-20240629.htm#:~:text=consumer%20confidence,Trade & Services,SYSCO CORP,96021
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/916076/000095017025024770/mlm-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,MARTIN MARIETTA MATERIALS INC,916076
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1365135/000095017025024137/wu-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Western Union CO,1365135
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,HAVERTY FURNITURE COMPANIES INC,216085
@@ -229,7 +228,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-23,domestic,https://www.sec.gov/Archives/edgar/data/107687/000010768724000026/wgo-20240831.htm#:~:text=consumer%20confidence,Manufacturing,WINNEBAGO INDUSTRIES INC,107687
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1069878/000095017025025780/trex-20241231.htm#:~:text=consumer%20confidence,Manufacturing,TREX CO INC,1069878
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/852772/000085277225000070/denn-20241225.htm#:~:text=consumer%20confidence,Trade & Services,DENNY'S Corp,852772
-2024-08-28,domestic,https://www.sec.gov/Archives/edgar/data/716643/000071664324000031/rgs-20240630.htm#:~:text=consumer%20confidence,Trade & Services,REGIS CORP,716643
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/9326/000162828025007202/bcpc-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,BALCHEM CORP,9326
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1684144/000155837025002904/zom-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,Zomedica Corp.,1684144
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1683606/000095017025029023/cars-20241231.htm#:~:text=consumer%20confidence,Technology,Cars.com Inc.,1683606
@@ -701,7 +699,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1573516/000157351625000010/musa-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Murphy USA Inc.,1573516
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1137547/000113754725000039/ubfo-20241231.htm#:~:text=consumer%20confidence,Finance,UNITED SECURITY BANCSHARES,1137547
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/891482/000089148225000009/fll-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,FULL HOUSE RESORTS INC,891482
-2024-08-28,domestic,https://www.sec.gov/Archives/edgar/data/1287032/000128703224000280/psec-20240630.htm#:~:text=consumer%20confidence,,PROSPECT CAPITAL CORP,1287032
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1901037/000155837025002420/tmb-20241231x10k.htm#:~:text=consumer%20confidence,,Stellus Private Credit BDC,1901037
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1907108/000095017025043486/lxeo-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Lexeo Therapeutics, Inc.",1907108
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1327273/000095017025038751/lyra-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Lyra Therapeutics, Inc.",1327273
@@ -1077,7 +1074,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/923139/000155837025002687/ffic-20241231x10k.htm#:~:text=consumer%20confidence,Finance,FLUSHING FINANCIAL CORP,923139
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1679268/000167926825000009/tusk-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"MAMMOTH ENERGY SERVICES, INC.",1679268
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1690536/000162828025014348/fscreit-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"FS Credit Real Estate Income Trust, Inc.",1690536
-2024-08-28,domestic,https://www.sec.gov/Archives/edgar/data/1820953/000182095324000035/afrm-20240630.htm#:~:text=consumer%20confidence,Finance,"Affirm Holdings, Inc.",1820953
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1220754/000122075425000008/modv-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,ModivCare Inc,1220754
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1820872/000162828025011370/gbtg-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"Global Business Travel Group, Inc.",1820872
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/2012706/000201270625000004/suns-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Sunrise Realty Trust, Inc.",2012706
