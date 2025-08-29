@@ -73,7 +73,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-14,domestic,https://www.sec.gov/Archives/edgar/data/1963685/000121390025003458/ea0226831-10k_richtech.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,RICHTECH ROBOTICS INC.,1963685
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1590955/000095017025024136/payc-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Paycom Software, Inc.",1590955
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,PROGRESSIVE CORP/OH/,80661
-2024-11-27,domestic,https://www.sec.gov/Archives/edgar/data/924396/000149315224047996/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Crypto Assets,"OpenLocker Holdings, Inc.",924396
+2024-11-27,domestic,https://www.sec.gov/Archives/edgar/data/924396/000149315224047996/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Crypto Assets,Crisp Momentum Inc.,924396
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/945114/000094511425000012/gic-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,GLOBAL INDUSTRIAL Co,945114
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1107843/000110784325000009/qlys-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"QUALYS, INC.",1107843
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1656472/000165647225000014/cron-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Cronos Group Inc.,1656472
@@ -101,7 +101,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1468748/000095017025046098/kod-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Kodiak Sciences Inc.,1468748
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1477815/000162828025008367/sg-20241229.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"Sweetgreen, Inc.",1477815
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1803901/000095017025038107/talk-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"Talkspace, Inc.",1803901
-2024-08-29,domestic,https://www.sec.gov/Archives/edgar/data/1801661/000180166124000100/sklz-20231231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Skillz Inc.,1801661
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/1699838/000095017025022369/cflt-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Confluent, Inc.",1699838
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1787740/000095017025043234/tivc-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"Tivic Health Systems, Inc.",1787740
 2024-09-12,domestic,https://www.sec.gov/Archives/edgar/data/34563/000003456324000070/farm-20240630.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,FARMER BROTHERS CO,34563
@@ -509,7 +508,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/922864/000095017025025775/aiv-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,APARTMENT INVESTMENT & MANAGEMENT CO,922864
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1820878/000095017025025775/aiv-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,Aimco OP L.P.,1820878
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1518715/000151871525000026/hmst-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,"HomeStreet, Inc.",1518715
-2024-08-29,domestic,https://www.sec.gov/Archives/edgar/data/1039065/000141057824001571/osis-20240630x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,OSI SYSTEMS INC,1039065
 2024-10-10,domestic,https://www.sec.gov/Archives/edgar/data/1467373/000146737324000278/acn-20240831.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,Accenture plc,1467373
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1625641/000162564125000027/law-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"CS Disco, Inc.",1625641
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1660134/000166013425000049/okta-20250131.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Okta, Inc.",1660134
@@ -1051,7 +1049,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1709626/000095017025042709/ncna-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,NuCana plc,1709626
 2025-03-06,international,https://www.sec.gov/Archives/edgar/data/1849853/000095017025034633/stvn-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,Stevanato Group S.p.A.,1849853
 2024-10-29,international,https://www.sec.gov/Archives/edgar/data/1815021/000121390024091726/ea0217975-20f_boqii.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,Boqii Holding Ltd,1815021
-2024-08-29,international,https://www.sec.gov/Archives/edgar/data/1345099/000134509924000063/meso-20240630.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,MESOBLAST LTD,1345099
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1627281/000095017025039038/clls-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Cellectis S.A.,1627281
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1723690/000119312525061847/d930276d20f.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Bilibili Inc.,1723690
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1722608/000095017025045691/iq-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"iQIYI, Inc.",1722608

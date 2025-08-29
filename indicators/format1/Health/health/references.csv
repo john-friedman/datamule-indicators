@@ -61,7 +61,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1704292/000162828025008409/zlab-20241231.htm#:~:text=Alzheimer,Life Sciences,Zai Lab Ltd,1704292
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/790526/000162828025009481/rdnt-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"RadNet, Inc.",790526
 2025-02-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1159036/000115903625000010/halo-20241231.htm#:~:text=Alzheimer,Life Sciences,"HALOZYME THERAPEUTICS, INC.",1159036
-2024-08-29,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1493712/000139390524000308/cmxc-20240531.htm#:~:text=Alzheimer,Industrial Applications and Services,Stimcell Energetics Inc.,1493712
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=Alzheimer,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
 2025-02-20,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1773427/000177342725000010/swtx-20241231.htm#:~:text=Alzheimer,Life Sciences,"SpringWorks Therapeutics, Inc.",1773427
 2025-02-20,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1022079/000102207925000044/dgx-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,QUEST DIAGNOSTICS INC,1022079
@@ -218,7 +217,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/814586/000168316825001592/lifeway_i10k-123124.htm#:~:text=Obesity,Manufacturing,"Lifeway Foods, Inc.",814586
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1531978/000155837025002386/fna-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,"Paragon 28, Inc.",1531978
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1484565/000095017025029545/slno-20241231.htm#:~:text=Obesity,Life Sciences,SOLENO THERAPEUTICS INC,1484565
-2024-08-29,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1493712/000139390524000308/cmxc-20240531.htm#:~:text=Obesity,Industrial Applications and Services,Stimcell Energetics Inc.,1493712
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1400118/000155837025002747/sgmt-20241231x10k.htm#:~:text=Obesity,Life Sciences,Sagimet Biosciences Inc.,1400118
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1567514/000162828025006993/itci-20241231.htm#:~:text=Obesity,Life Sciences,"Intra-Cellular Therapies, Inc.",1567514
 2025-02-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1866581/000186658125000048/bros-20241231.htm#:~:text=Obesity,Trade & Services,Dutch Bros Inc.,1866581
@@ -373,7 +371,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,ATAI Life Sciences N.V.,1840904
 2024-09-26,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1131343/000121390024082281/ea0215061-20f_alterity.htm#:~:text=Alzheimer,Life Sciences,ALTERITY THERAPEUTICS LTD,1131343
 2025-03-13,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1651625/000155837025002855/aciu-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,AC Immune SA,1651625
-2024-08-29,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1018735/000164033424001383/nymox_20f.htm#:~:text=Alzheimer,Life Sciences,NYMOX PHARMACEUTICAL CORP,1018735
 2024-11-07,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=Alzheimer,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
 2025-02-05,alzheimer_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Alzheimer,Life Sciences,NOVO NORDISK A S,353278
 2024-10-22,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1668438/000121390024089557/ea0209004-20f_integrated.htm#:~:text=Alzheimer,Manufacturing,Integrated Media Technology Ltd,1668438

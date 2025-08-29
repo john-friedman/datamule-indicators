@@ -173,7 +173,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-24,domestic,https://www.sec.gov/Archives/edgar/data/899394/000089939424000006/hrbr-20231231.htm#:~:text=consumer%20confidence,Energy & Transportation,"HARBOR DIVERSIFIED, INC.",899394
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/899629/000095017025021145/akr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,ACADIA REALTY TRUST,899629
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/91388/000009138825000017/smf-20241229.htm#:~:text=consumer%20confidence,Manufacturing,SMITHFIELD FOODS INC,91388
-2024-08-29,domestic,https://www.sec.gov/Archives/edgar/data/1590976/000159097624000073/mbuu-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"MALIBU BOATS, INC.",1590976
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1847064/000162828025012592/psqh-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"PSQ Holdings, Inc.",1847064
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1857853/000185785325000018/tra-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Traeger, Inc.",1857853
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1720116/000095017025029184/rdvt-20241231.htm#:~:text=consumer%20confidence,Technology,"Red Violet, Inc.",1720116
@@ -1025,7 +1024,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/2024218/000202421825000020/smlp-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Summit Midstream Corp,2024218
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1870144/000107997325000428/cdio_10k-123124.htm#:~:text=consumer%20confidence,Life Sciences,"Cardio Diagnostics Holdings, Inc.",1870144
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/895417/000089541725000013/els-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,EQUITY LIFESTYLE PROPERTIES INC,895417
-2024-08-29,domestic,https://www.sec.gov/Archives/edgar/data/1801661/000180166124000100/sklz-20231231.htm#:~:text=consumer%20confidence,Technology,Skillz Inc.,1801661
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1123360/000112336025000011/gpn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,GLOBAL PAYMENTS INC,1123360
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1477815/000162828025008367/sg-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"Sweetgreen, Inc.",1477815
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1333986/000133398625000011/eqh-20241231.htm#:~:text=consumer%20confidence,Finance,"Equitable Holdings, Inc.",1333986
@@ -1404,7 +1402,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-24,international,https://www.sec.gov/Archives/edgar/data/1837821/000121390025006519/ea0227825-20f_jinmedical.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Jin Medical International Ltd.,1837821
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Stellantis N.V.,1605484
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/1928948/000121390025018123/ea0231767-20f_hightrend.htm#:~:text=consumer%20confidence,Energy & Transportation,High-Trend International Group,1928948
-2025-02-14,international,https://www.sec.gov/Archives/edgar/data/1984014/000121390025014457/ea0230411-20f_bloomz.htm#:~:text=consumer%20confidence,Trade & Services,BloomZ Inc.,1984014
+2025-02-14,international,https://www.sec.gov/Archives/edgar/data/1984014/000121390025014457/ea0230411-20f_bloomz.htm#:~:text=consumer%20confidence,Trade & Services,Harrison Global Holdings Inc.,1984014
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1713334/000119312525059760/d907381d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,STUDIO CITY INTERNATIONAL HOLDINGS Ltd,1713334
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1073404/000141057825000353/ggb-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,GERDAU S.A.,1073404
 2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1924064/000121390024092983/ea0218684-20f_royaland.htm#:~:text=consumer%20confidence,Technology,RoyaLand Co Ltd.,1924064
