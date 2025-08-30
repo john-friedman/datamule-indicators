@@ -353,7 +353,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1612630/000162828025012702/jynt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JOINT Corp,1612630
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/887596/000141057825000195/cake-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,CHEESECAKE FACTORY INC,887596
 2024-10-15,domestic,https://www.sec.gov/Archives/edgar/data/1618921/000161892124000084/wba-20240831.htm#:~:text=consumer%20confidence,Trade & Services,"Walgreens Boots Alliance, Inc.",1618921
-2024-08-30,domestic,https://www.sec.gov/Archives/edgar/data/56701/000005670124000028/koss-20240630x10k.htm#:~:text=consumer%20confidence,Manufacturing,KOSS CORP,56701
 2024-12-13,domestic,https://www.sec.gov/Archives/edgar/data/1297937/000149315224049988/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,"PARKS AMERICA, INC",1297937
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1236275/000162828025009626/qxo-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO, Inc.",1236275
 2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1301991/000109690624002294/smme-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"SmartMetric, Inc.",1301991
@@ -582,7 +581,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1282637/000128263725000004/neu-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,NEWMARKET CORP,1282637
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1007587/000100758725000003/kvhi-20241231.htm#:~:text=consumer%20confidence,Manufacturing,KVH INDUSTRIES INC \DE\,1007587
 2025-01-28,domestic,https://www.sec.gov/Archives/edgar/data/804269/000080426925000007/acf-20241231.htm#:~:text=consumer%20confidence,Finance,"General Motors Financial Company, Inc.",804269
-2024-08-30,domestic,https://www.sec.gov/Archives/edgar/data/1638290/000095017024102002/mcft-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"MasterCraft Boat Holdings, Inc.",1638290
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/897077/000089707725000007/alg-20241231.htm#:~:text=consumer%20confidence,Technology,ALAMO GROUP INC,897077
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1646614/000095017025039264/ck0001646614-20241231.htm#:~:text=consumer%20confidence,,Silver Point Specialty Lending Fund,1646614
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/805676/000080567625000014/prk-20241231.htm#:~:text=consumer%20confidence,Finance,PARK NATIONAL CORP /OH/,805676
@@ -946,7 +944,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-05,domestic,https://www.sec.gov/Archives/edgar/data/858877/000085887724000017/csco-20240727.htm#:~:text=consumer%20confidence,Technology,"CISCO SYSTEMS, INC.",858877
 2024-10-01,domestic,https://www.sec.gov/Archives/edgar/data/1836754/000149315224038926/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,Legacy Education Inc.,1836754
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/745308/000155837025001603/joe-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,ST JOE Co,745308
-2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1779128/000177912825000010/blde-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"Blade Air Mobility, Inc.",1779128
+2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1779128/000177912825000010/blde-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"Strata Critical Medical, Inc.",1779128
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1794515/000179451525000045/zi-20241231.htm#:~:text=consumer%20confidence,Technology,ZoomInfo Technologies Inc.,1794515
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1125345/000112534525000042/mgnx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,MACROGENICS INC,1125345
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1891101/000189110125000006/brcc-20241231.htm#:~:text=consumer%20confidence,Manufacturing,BRC Inc.,1891101
@@ -1465,7 +1463,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,international,https://www.sec.gov/Archives/edgar/data/1849853/000095017025034633/stvn-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Stevanato Group S.p.A.,1849853
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1565025/000129281425000831/abevform20f_2024.htm#:~:text=consumer%20confidence,Manufacturing,AMBEV S.A.,1565025
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1953530/000095017025037224/ocs-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Oculis Holding AG,1953530
-2024-08-30,international,https://www.sec.gov/Archives/edgar/data/1815620/000095017024102094/opt-20240630.htm#:~:text=consumer%20confidence,Life Sciences,Opthea Ltd,1815620
 2025-02-12,international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Ascendis Pharma A/S,1612042
 2025-03-26,international,https://www.sec.gov/Archives/edgar/data/1861974/000186197425000004/exc-20241231.htm#:~:text=consumer%20confidence,Technology,ECARX Holdings Inc.,1861974
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1709626/000095017025042709/ncna-20241231.htm#:~:text=consumer%20confidence,Life Sciences,NuCana plc,1709626
