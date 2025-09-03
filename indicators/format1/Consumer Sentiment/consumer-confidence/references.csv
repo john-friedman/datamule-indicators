@@ -264,7 +264,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1393612/000139361225000009/dfs-20241231.htm#:~:text=consumer%20confidence,Finance,Discover Financial Services,1393612
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1468174/000146817425000009/h-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Hyatt Hotels Corp,1468174
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1938046/000164117225000085/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
-2024-09-03,domestic,https://www.sec.gov/Archives/edgar/data/915358/000091535824000010/sgma-20240430x10k.htm#:~:text=consumer%20confidence,Manufacturing,SIGMATRON INTERNATIONAL INC,915358
 2024-09-06,domestic,https://www.sec.gov/Archives/edgar/data/1084869/000143774924028591/flws20240630_10k.htm#:~:text=consumer%20confidence,Trade & Services,1 800 FLOWERS COM INC,1084869
 2024-12-30,domestic,https://www.sec.gov/Archives/edgar/data/836690/000155837024016501/issc-20240930x10k.htm#:~:text=consumer%20confidence,Technology,INNOVATIVE SOLUTIONS & SUPPORT INC,836690
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/dltr-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"DOLLAR TREE, INC.",935703
@@ -380,7 +379,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1800315/000095017025041981/glto-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Galecto, Inc.",1800315
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/18349/000001834925000049/syn-20241231.htm#:~:text=consumer%20confidence,Finance,SYNOVUS FINANCIAL CORP,18349
 2024-09-25,domestic,https://www.sec.gov/Archives/edgar/data/1578348/000095017024109384/icmb-20240630.htm#:~:text=consumer%20confidence,,"Investcorp Credit Management BDC, Inc.",1578348
-2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/28412/000002841225000108/cma-20241231.htm#:~:text=consumer%20confidence,Finance,COMERICA INC /NEW/,28412
+2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/28412/000002841225000108/cma-20241231.htm#:~:text=consumer%20confidence,Finance,COMERICA INC,28412
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/2017758/000101376225003420/ea0232620-10k_linkhome.htm#:~:text=consumer%20confidence,Real Estate & Construction,Linkhome Holdings Inc.,2017758
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/20639/000114036125010025/ef20038924_10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,AmBase Corp,20639
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1819394/000181939425000007/mttr-20241231.htm#:~:text=consumer%20confidence,Technology,"Matterport, Inc./DE",1819394
@@ -787,7 +786,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/62234/000006223425000006/mcs-20241226.htm#:~:text=consumer%20confidence,Trade & Services,MARCUS CORP,62234
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1811414/000095017025027308/qs-20241231.htm#:~:text=consumer%20confidence,Manufacturing,QuantumScape Corp,1811414
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1086222/000108622225000028/akam-20241231.htm#:~:text=consumer%20confidence,Trade & Services,AKAMAI TECHNOLOGIES INC,1086222
-2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1518715/000151871525000026/hmst-20241231.htm#:~:text=consumer%20confidence,Finance,"HomeStreet, Inc.",1518715
+2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1518715/000151871525000026/hmst-20241231.htm#:~:text=consumer%20confidence,Finance,Mechanics Bancorp,1518715
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/34067/000003406725000028/boom-20241231.htm#:~:text=consumer%20confidence,Manufacturing,DMC Global Inc.,34067
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1660134/000166013425000049/okta-20250131.htm#:~:text=consumer%20confidence,Technology,"Okta, Inc.",1660134
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1544190/000149315225010927/form10-k.htm#:~:text=consumer%20confidence,Finance,"Shepherd's Finance, LLC",1544190
