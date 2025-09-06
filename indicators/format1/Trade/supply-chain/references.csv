@@ -143,7 +143,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1065837/000095017025030016/skx-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SKECHERS USA INC,1065837
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/97134/000009713425000006/tnc-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,TENNANT CO,97134
 2024-12-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/27673/000155837024016174/jdcc-20241027x10k.htm#:~:text=Supply%20chain%20constraints,Finance,DEERE JOHN CAPITAL CORP,27673
-2024-09-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/100378/000143774924028638/twin20240630_10k.htm#:~:text=Supply%20chain%20constraints,Technology,TWIN DISC INC,100378
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1026655/000102665525000005/cmt-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,CORE MOLDING TECHNOLOGIES INC,1026655
 2024-12-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/810136/000114036124049881/ef20035608_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PHOTRONICS INC,810136
 2024-12-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/825324/000121465924020434/gtim-20240924.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Good Times Restaurants Inc.,825324
@@ -510,7 +509,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-25,constraints_intl,https://www.sec.gov/Archives/edgar/data/1978867/000110465925027667/cdlr-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Cadeler A/S,1978867
 2025-03-06,constraints_intl,https://www.sec.gov/Archives/edgar/data/1655891/000165589125000013/trmd-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,TORM plc,1655891
 2025-03-28,constraints_intl,https://www.sec.gov/Archives/edgar/data/1640043/000164117225001092/form20-f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pyxis Tankers Inc.,1640043
-2024-09-06,constraints_intl,https://www.sec.gov/Archives/edgar/data/314590/000110465924097550/ssl-20240630x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,SASOL LTD,314590
 2025-03-20,constraints_intl,https://www.sec.gov/Archives/edgar/data/1029145/000102914525000012/gogl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Golden Ocean Group Ltd,1029145
 2025-03-17,constraints_intl,https://www.sec.gov/Archives/edgar/data/1289877/000128987725000013/sfl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,SFL Corp Ltd.,1289877
 2024-11-15,constraints_intl,https://www.sec.gov/Archives/edgar/data/1928581/000149315224046303/form20-f.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Fitell Corp,1928581
