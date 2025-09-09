@@ -1,8 +1,8 @@
 ownerOrg,period,count,component
 Crypto Assets,0,9,domestic
 Crypto Assets,1,17,domestic
-Energy & Transportation,0,71,domestic
-Energy & Transportation,1,95,domestic
+Energy & Transportation,0,70,domestic
+Energy & Transportation,1,96,domestic
 Finance,0,186,domestic
 Finance,1,209,domestic
 Industrial Applications and Services,0,116,domestic
@@ -18,8 +18,8 @@ Technology,1,169,domestic
 Trade & Services,0,234,domestic
 Trade & Services,1,341,domestic
 Crypto Assets,1,5,international
-Energy & Transportation,0,9,international
-Energy & Transportation,1,35,international
+Energy & Transportation,0,8,international
+Energy & Transportation,1,36,international
 Finance,0,13,international
 Finance,1,30,international
 Industrial Applications and Services,0,13,international

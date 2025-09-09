@@ -344,7 +344,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1760965/000176096525000011/ktb-20241228.htm#:~:text=consumer%20confidence,Manufacturing,"Kontoor Brands, Inc.",1760965
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1653558/000165355825000039/prth-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Priority Technology Holdings, Inc.",1653558
 2024-11-21,domestic,https://www.sec.gov/Archives/edgar/data/1666138/000166613824000164/atkr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Atkore Inc.,1666138
-2024-09-09,domestic,https://www.sec.gov/Archives/edgar/data/1888654/000095017024104782/feam-20240630.htm#:~:text=consumer%20confidence,Energy & Transportation,"5E Advanced Materials, Inc.",1888654
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1534675/000149315225008697/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Tecnoglass Inc.,1534675
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1593222/000095017025023714/cio-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"City Office REIT, Inc.",1593222
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1612630/000162828025012702/jynt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JOINT Corp,1612630
@@ -1372,7 +1371,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-29,international,https://www.sec.gov/Archives/edgar/data/1815021/000121390024091726/ea0217975-20f_boqii.htm#:~:text=consumer%20confidence,Trade & Services,Boqii Holding Ltd,1815021
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1843586/000095017025038739/otly-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Oatly Group AB,1843586
 2025-02-18,international,https://www.sec.gov/Archives/edgar/data/1979610/000173112225000239/e6355_20-f.htm#:~:text=consumer%20confidence,Real Estate & Construction,WF International Ltd.,1979610
-2024-09-09,international,https://www.sec.gov/Archives/edgar/data/1928948/000121390024076729/ea0213139-20f_caravelle.htm#:~:text=consumer%20confidence,Energy & Transportation,High-Trend International Group,1928948
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1745201/000095017025036852/vik-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Viking Holdings Ltd,1745201
 2025-03-26,international,https://www.sec.gov/Archives/edgar/data/930157/000110465925027944/rto-20241231x20f.htm#:~:text=consumer%20confidence,Trade & Services,RENTOKIL INITIAL PLC /FI,930157
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1756708/000175670825000018/jmia-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Jumia Technologies AG,1756708
