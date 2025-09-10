@@ -94,7 +94,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1492298/000149229825000008/sbra-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"Sabra Health Care REIT, Inc.",1492298
 2025-03-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1503707/000150370725000019/nshi-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"NorthStar Healthcare Income, Inc.",1503707
 2025-02-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm#:~:text=Alzheimer,Life Sciences,AbbVie Inc.,1551152
-2024-09-10,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1834376/000183437624000074/innv-20240630.htm#:~:text=Alzheimer,Industrial Applications and Services,InnovAge Holding Corp.,1834376
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1200375/000120037525000003/cdxs-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"CODEXIS, INC.",1200375
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/896262/000089626225000018/amed-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,AMEDISYS INC,896262
 2025-03-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1290476/000155837025003706/vbfc-20241231x10k.htm#:~:text=Alzheimer,Finance,Village Bank & Trust Financial Corp.,1290476
@@ -452,7 +451,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000054/pressrelease_03102025.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000083/pressrelease-3192025bayvie.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
-2024-09-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224028820/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-01-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/744452/000110465925002888/tm253059d1_ex99-1.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,APPLIED DNA SCIENCES INC,744452
 2025-02-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001105/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-10-17,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224034021/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306

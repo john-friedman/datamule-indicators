@@ -2,7 +2,7 @@ ownerOrg,period,count,component
 Crypto Assets,0,37,environmental_domestic
 Crypto Assets,1,46,environmental_domestic
 Energy & Transportation,0,473,environmental_domestic
-Energy & Transportation,1,548,environmental_domestic
+Energy & Transportation,1,549,environmental_domestic
 Finance,0,194,environmental_domestic
 Finance,1,214,environmental_domestic
 Industrial Applications and Services,0,192,environmental_domestic
@@ -11,24 +11,24 @@ Life Sciences,0,79,environmental_domestic
 Life Sciences,1,110,environmental_domestic
 Manufacturing,0,343,environmental_domestic
 Manufacturing,1,483,environmental_domestic
-Real Estate & Construction,0,313,environmental_domestic
+Real Estate & Construction,0,312,environmental_domestic
 Real Estate & Construction,1,368,environmental_domestic
 Technology,0,183,environmental_domestic
 Technology,1,247,environmental_domestic
 Trade & Services,0,248,environmental_domestic
-Trade & Services,1,315,environmental_domestic
+Trade & Services,1,314,environmental_domestic
 Crypto Assets,0,48,social_domestic
 Crypto Assets,1,53,social_domestic
 Energy & Transportation,0,229,social_domestic
 Energy & Transportation,1,294,social_domestic
 Finance,0,200,social_domestic
-Finance,1,226,social_domestic
+Finance,1,225,social_domestic
 Industrial Applications and Services,0,137,social_domestic
 Industrial Applications and Services,1,170,social_domestic
 Life Sciences,0,98,social_domestic
 Life Sciences,1,123,social_domestic
-Manufacturing,0,221,social_domestic
-Manufacturing,1,307,social_domestic
+Manufacturing,0,220,social_domestic
+Manufacturing,1,308,social_domestic
 Real Estate & Construction,0,163,social_domestic
 Real Estate & Construction,1,187,social_domestic
 Technology,0,151,social_domestic
@@ -39,8 +39,8 @@ Crypto Assets,0,9,governance_domestic
 Crypto Assets,1,14,governance_domestic
 Energy & Transportation,0,117,governance_domestic
 Energy & Transportation,1,137,governance_domestic
-Finance,0,196,governance_domestic
-Finance,1,226,governance_domestic
+Finance,0,195,governance_domestic
+Finance,1,227,governance_domestic
 Industrial Applications and Services,0,91,governance_domestic
 Industrial Applications and Services,1,109,governance_domestic
 Life Sciences,0,107,governance_domestic
