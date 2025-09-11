@@ -292,7 +292,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1539029/000095017025046134/clsd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Clearside Biomedical, Inc.",1539029
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1232524/000123252425000011/jazz-20241231.htm#:~:text=orphan%20drug,Life Sciences,Jazz Pharmaceuticals plc,1232524
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1785279/000095017025040217/mgx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Metagenomi, Inc.",1785279
-2024-09-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1262104/000095017024108185/meip-20240630.htm#:~:text=orphan%20drug,Life Sciences,"MEI Pharma, Inc.",1262104
+2024-09-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1262104/000095017024108185/meip-20240630.htm#:~:text=orphan%20drug,Life Sciences,"Lite Strategy, Inc.",1262104
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1724521/000172452125000040/rcus-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Arcus Biosciences, Inc.",1724521
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,Biohaven Ltd.,1935979
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1746466/000095017025045726/eq-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Equillium, Inc.",1746466
@@ -777,7 +777,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2000638/000143774925006261/iset20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,iShares Ethereum Trust ETF,2000638
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=healthcare%20blockchain,Life Sciences,ALT5 Sigma Corp,862861
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1703157/000101738625000028/scth_form10k12312024.htm#:~:text=healthcare%20blockchain,Manufacturing,"Securetech Innovations, Inc.",1703157
-2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1755953/000121390025026404/ea0235701-10k_gryphon.htm#:~:text=healthcare%20blockchain,Crypto Assets,American Bitcoin Corp. /DE/,1755953
+2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1755953/000121390025026404/ea0235701-10k_gryphon.htm#:~:text=healthcare%20blockchain,Crypto Assets,American Bitcoin Corp.,1755953
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1980994/000143774925006260/bit20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,iShares Bitcoin Trust ETF,1980994
 2025-02-18,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1050446/000095017025021814/mstr-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Strategy Inc,1050446
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1838163/000183816325000005/bnai-20241231.htm#:~:text=healthcare%20blockchain,Technology,Brand Engagement Network Inc.,1838163

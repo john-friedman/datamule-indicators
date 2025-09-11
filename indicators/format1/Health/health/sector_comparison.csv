@@ -23,7 +23,7 @@ Industrial Applications and Services,1,52,obesity_domestic
 Life Sciences,0,96,obesity_domestic
 Life Sciences,1,102,obesity_domestic
 Manufacturing,0,19,obesity_domestic
-Manufacturing,1,25,obesity_domestic
+Manufacturing,1,24,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
 Technology,1,2,obesity_domestic
 Trade & Services,0,20,obesity_domestic
@@ -77,7 +77,7 @@ Life Sciences,0,2,ptsd_international
 Life Sciences,1,6,ptsd_international
 Technology,0,2,ptsd_international
 Industrial Applications and Services,0,1,h1n1-swine_domestic
-Industrial Applications and Services,1,6,h1n1-swine_domestic
+Industrial Applications and Services,1,5,h1n1-swine_domestic
 Life Sciences,0,7,h1n1-swine_domestic
 Life Sciences,1,11,h1n1-swine_domestic
 Manufacturing,0,2,h1n1-swine_domestic
@@ -124,7 +124,7 @@ Trade & Services,0,1,h1n1-swine_international
 Trade & Services,1,2,h1n1-swine_international
 Energy & Transportation,0,4,mpox_international
 Life Sciences,0,4,mpox_international
-Life Sciences,1,17,mpox_international
+Life Sciences,1,16,mpox_international
 Manufacturing,0,2,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,0,1,mpox_international
