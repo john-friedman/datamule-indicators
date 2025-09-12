@@ -19,7 +19,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/730263/000073026324000010/tho-20240731.htm#:~:text=Supply%20chain%20constraints,Manufacturing,THOR INDUSTRIES INC,730263
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/863436/000095017025025644/bhe-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BENCHMARK ELECTRONICS INC,863436
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/886346/000088634625000006/kai-20241228.htm#:~:text=Supply%20chain%20constraints,Technology,KADANT INC,886346
-2024-09-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/65312/000117494724001056/ea0212437-10k_eviindus.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"EVI INDUSTRIES, INC.",65312
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1438423/000155837025001827/mram-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,EVERSPIN TECHNOLOGIES INC.,1438423
 2025-02-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/40545/000004054525000015/ge-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GENERAL ELECTRIC CO,40545
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1758766/000175876625000005/stem-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"STEM, INC.",1758766
@@ -204,7 +203,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1575515/000157551525000011/sfm-20241229.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Sprouts Farmers Market, Inc.",1575515
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1649094/000164909425000028/pcvx-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Vaxcyte, Inc.",1649094
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/8063/000000806325000017/atro-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ASTRONICS CORP,8063
-2024-09-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/34563/000003456324000070/farm-20240630.htm#:~:text=Supply%20chain%20constraints,Manufacturing,FARMER BROTHERS CO,34563
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1364479/000136447925000007/hri-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,HERC HOLDINGS INC,1364479
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1579241/000157924125000008/alle-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Allegion plc,1579241
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1018164/000101816425000027/wlfc-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,WILLIS LEASE FINANCE CORP,1018164
