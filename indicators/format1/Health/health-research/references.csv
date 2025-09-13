@@ -327,7 +327,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/921114/000155837025003406/armp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Armata Pharmaceuticals, Inc.",921114
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1425205/000155837025001834/iova-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"IOVANCE BIOTHERAPEUTICS, INC.",1425205
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1770121/000095017025040254/sana-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Sana Biotechnology, Inc.",1770121
-2024-09-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1293971/000129397124000037/blue-20231231.htm#:~:text=orphan%20drug,Life Sciences,"bluebird bio, Inc.",1293971
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1641281/000095017025043873/bolt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Bolt Biotherapeutics, Inc.",1641281
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1638287/000155837025003386/mtva-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,MetaVia Inc.,1638287
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1788028/000121390025018384/ea0231788-10k_jasper.htm#:~:text=orphan%20drug,Life Sciences,"Jasper Therapeutics, Inc.",1788028
@@ -682,7 +681,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1395937/000095017025030394/sndx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Syndax Pharmaceuticals Inc,1395937
 2025-03-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1287098/000155837025002721/mxct-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"MAXCYTE, INC.",1287098
-2024-09-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1868573/000119312524218930/d455089d10k.htm#:~:text=genomic&text=genomic%20research,Real Estate & Construction,APx Acquisition Corp. I,1868573
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1712762/000164117225001840/form10-k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"bioAffinity Technologies, Inc.",1712762
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/946644/000164117225000847/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1022079/000102207925000044/dgx-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,QUEST DIAGNOSTICS INC,1022079
@@ -823,7 +821,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1853044/000182912624006527/aeriestech_10k.htm#:~:text=healthcare%20blockchain,Trade & Services,"Aeries Technology, Inc.",1853044
 2025-02-19,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1278680/000143774925004257/iau20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,ISHARES GOLD TRUST,1278680
 2025-03-13,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1556727/000143774925007492/fnwb20241231_10k.htm#:~:text=healthcare%20blockchain,Finance,First Northwest Bancorp,1556727
-2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1920406/000121390025026431/ea0235693-10k_assetenti.htm#:~:text=healthcare%20blockchain,Crypto Assets,Asset Entities Inc.,1920406
+2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1920406/000121390025026431/ea0235693-10k_assetenti.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Strive, Inc.",1920406
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000164117225000085/form10-k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1140536/000095017025026278/wtw-20241231.htm#:~:text=healthcare%20blockchain,Finance,WILLIS TOWERS WATSON PLC,1140536
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1946563/000101376225003343/ea0232429-10k_60degrees.htm#:~:text=healthcare%20blockchain,Life Sciences,"60 DEGREES PHARMACEUTICALS, INC.",1946563

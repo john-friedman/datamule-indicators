@@ -301,7 +301,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1636315/000128604325000014/krg-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Kite Realty Group, L.P.",1636315
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1800227/000180022725000013/iaci-20241231.htm#:~:text=consumer%20confidence,Technology,IAC Inc.,1800227
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1642896/000164289625000022/iot-20250201.htm#:~:text=consumer%20confidence,Technology,Samsara Inc.,1642896
-2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1210708/000121070825000013/hson-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Hudson Global, Inc.",1210708
+2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1210708/000121070825000013/hson-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Star Equity Holdings, Inc.",1210708
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1580670/000158067025000016/lgih-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"LGI Homes, Inc.",1580670
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1898795/000189879525000055/lvwr-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"LiveWire Group, Inc.",1898795
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1784535/000178453525000011/prch-20241231.htm#:~:text=consumer%20confidence,Technology,"Porch Group, Inc.",1784535
@@ -421,7 +421,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1538849/000095017025028082/capl-20241231.htm#:~:text=consumer%20confidence,Trade & Services,CrossAmerica Partners LP,1538849
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1841408/000095017025032164/dave-20241231.htm#:~:text=consumer%20confidence,Finance,Dave Inc./DE,1841408
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1653909/000162828025012130/bird-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Allbirds, Inc.",1653909
-2024-09-13,domestic,https://www.sec.gov/Archives/edgar/data/1868573/000119312524218930/d455089d10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,APx Acquisition Corp. I,1868573
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/726728/000072672825000055/o-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,REALTY INCOME CORP,726728
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/55067/000162828025007118/k-20241228.htm#:~:text=consumer%20confidence,Manufacturing,KELLANOVA,55067
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1333493/000133349325000027/ehth-20241231.htm#:~:text=consumer%20confidence,Finance,"eHealth, Inc.",1333493
@@ -1259,7 +1258,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1587987/000158798725000050/newt-20241231.htm#:~:text=consumer%20confidence,Finance,"NewtekOne, Inc.",1587987
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/73124/000007312425000105/ntrs-20241231.htm#:~:text=consumer%20confidence,Finance,NORTHERN TRUST CORP,73124
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1415404/000155837025001663/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Technology,EchoStar CORP,1415404
-2024-09-13,domestic,https://www.sec.gov/Archives/edgar/data/1293971/000129397124000037/blue-20231231.htm#:~:text=consumer%20confidence,Life Sciences,"bluebird bio, Inc.",1293971
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1975736/000162828025012551/kfits-20241231.htm#:~:text=consumer%20confidence,,KKR FS Income Trust Select,1975736
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1390777/000139077725000046/bk-20241231_d2.htm#:~:text=consumer%20confidence,Finance,Bank of New York Mellon Corp,1390777
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/764038/000155837025001274/ssb-20241231x10k.htm#:~:text=consumer%20confidence,Finance,SouthState Bank Corp,764038
@@ -1423,7 +1421,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1584371/000101376225003012/ea0235090-20f_icecure.htm#:~:text=consumer%20confidence,Industrial Applications and Services,IceCure Medical Ltd.,1584371
 2025-03-06,international,https://www.sec.gov/Archives/edgar/data/1851112/000185111225000006/rskd-20241231.htm#:~:text=consumer%20confidence,Trade & Services,RISKIFIED LTD.,1851112
 2024-12-18,international,https://www.sec.gov/Archives/edgar/data/1977102/000095017024137610/birk-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Birkenstock Holding plc,1977102
-2024-09-13,international,https://www.sec.gov/Archives/edgar/data/1549107/000110465924099826/manu-20240630x20f.htm#:~:text=consumer%20confidence,Trade & Services,Manchester United plc,1549107
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1833835/000095017025032340/psfe-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Paysafe Ltd,1833835
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1612940/000155837025002851/tmb-20241231x20f.htm#:~:text=consumer%20confidence,Life Sciences,ProQR Therapeutics N.V.,1612940
 2024-10-30,international,https://www.sec.gov/Archives/edgar/data/1903995/000121390024091945/ea0218237-20f_millennium.htm#:~:text=consumer%20confidence,Manufacturing,Millennium Group International Holdings Ltd,1903995

@@ -12,7 +12,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1113232/000155837025001855/acls-20241231x10k.htm#:~:text=Large%20Language%20Models,Technology,AXCELIS TECHNOLOGIES INC,1113232
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1364954/000136495425000013/chgg-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,"CHEGG, INC",1364954
 2025-03-05,general_domestic,https://www.sec.gov/Archives/edgar/data/714562/000071456225000010/thff-20241231x10k.htm#:~:text=Large%20Language%20Models,Finance,FIRST FINANCIAL CORP /IN/,714562
-2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,"Kindly MD, Inc.",1946573
+2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=Large%20Language%20Models,Crypto Assets,"Kindly MD, Inc.",1946573
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,EBAY INC,1065088
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=Large%20Language%20Models,Technology,"SOUNDHOUND AI, INC.",1840856
 2024-09-30,general_domestic,https://www.sec.gov/Archives/edgar/data/1807166/000121390024083458/ea0214870-10k_amesite.htm#:~:text=Large%20Language%20Models,Technology,Amesite Inc.,1807166
@@ -159,7 +159,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1176948/000162828025008665/ares-20241231.htm#:~:text=Large%20Language%20Models,Finance,Ares Management Corp,1176948
 2025-02-24,openai_domestic,https://www.sec.gov/Archives/edgar/data/903651/000141057825000194/inod-20241231x10k.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Technology,INNODATA INC,903651
 2025-02-24,openai_domestic,https://www.sec.gov/Archives/edgar/data/1364954/000136495425000013/chgg-20241231.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Trade & Services,"CHEGG, INC",1364954
-2025-03-28,openai_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Industrial Applications and Services,"Kindly MD, Inc.",1946573
+2025-03-28,openai_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Crypto Assets,"Kindly MD, Inc.",1946573
 2025-02-28,openai_domestic,https://www.sec.gov/Archives/edgar/data/1585521/000158552125000042/zm-20250131.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Technology,"Zoom Communications, Inc.",1585521
 2025-03-11,openai_domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Technology,"SOUNDHOUND AI, INC.",1840856
 2025-02-27,openai_domestic,https://www.sec.gov/Archives/edgar/data/1345016/000134501625000007/yelp-20241231.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Trade & Services,YELP INC,1345016

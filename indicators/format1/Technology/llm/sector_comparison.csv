@@ -1,11 +1,11 @@
 ownerOrg,period,count,component
-Crypto Assets,0,3,general_domestic
+Crypto Assets,0,4,general_domestic
 Crypto Assets,1,1,general_domestic
 Energy & Transportation,0,13,general_domestic
 Energy & Transportation,1,11,general_domestic
 Finance,0,21,general_domestic
 Finance,1,15,general_domestic
-Industrial Applications and Services,0,9,general_domestic
+Industrial Applications and Services,0,8,general_domestic
 Industrial Applications and Services,1,4,general_domestic
 Life Sciences,0,4,general_domestic
 Life Sciences,1,5,general_domestic
@@ -14,14 +14,15 @@ Manufacturing,1,8,general_domestic
 Real Estate & Construction,0,10,general_domestic
 Real Estate & Construction,1,7,general_domestic
 Technology,0,64,general_domestic
-Technology,1,63,general_domestic
+Technology,1,62,general_domestic
 Trade & Services,0,21,general_domestic
 Trade & Services,1,13,general_domestic
+Crypto Assets,0,1,openai_domestic
 Crypto Assets,1,1,openai_domestic
 Energy & Transportation,0,8,openai_domestic
 Energy & Transportation,1,5,openai_domestic
 Finance,1,1,openai_domestic
-Industrial Applications and Services,0,2,openai_domestic
+Industrial Applications and Services,0,1,openai_domestic
 Life Sciences,1,1,openai_domestic
 Real Estate & Construction,1,1,openai_domestic
 Technology,0,10,openai_domestic
@@ -47,7 +48,7 @@ Manufacturing,1,3,google_domestic
 Real Estate & Construction,0,1,google_domestic
 Real Estate & Construction,1,2,google_domestic
 Technology,0,40,google_domestic
-Technology,1,37,google_domestic
+Technology,1,36,google_domestic
 Trade & Services,0,9,google_domestic
 Trade & Services,1,8,google_domestic
 Crypto Assets,1,1,general_international
