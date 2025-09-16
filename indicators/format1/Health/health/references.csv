@@ -323,7 +323,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,nash_domestic,https://www.sec.gov/Archives/edgar/data/1157601/000162828025007980/exhibit1036-evonikresmetir.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"MADRIGAL PHARMACEUTICALS, INC.",1157601
 2025-03-13,nash_domestic,https://www.sec.gov/Archives/edgar/data/1535955/000149315225010146/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Lipocine Inc.,1535955
 2025-03-05,nash_domestic,https://www.sec.gov/Archives/edgar/data/1359931/000121390025020368/ea0231646-10k_protara.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Protara Therapeutics, Inc.",1359931
-2024-09-16,nash_domestic,https://www.sec.gov/Archives/edgar/data/1411057/000168316824006402/cannabisbio_i10k-053124.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,"Cannabis Bioscience International Holdings, Inc.",1411057
 2025-03-14,nash_domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"GRI Bio, Inc.",1824293
 2025-03-10,nash_domestic,https://www.sec.gov/Archives/edgar/data/1799448/000095017025035929/algs-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Aligos Therapeutics, Inc.",1799448
 2025-02-28,nash_domestic,https://www.sec.gov/Archives/edgar/data/886163/000088616325000012/lgnd-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,LIGAND PHARMACEUTICALS INC,886163
@@ -347,7 +346,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=PTSD,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
 2025-02-20,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1773427/000177342725000010/swtx-20241231.htm#:~:text=PTSD,Life Sciences,"SpringWorks Therapeutics, Inc.",1773427
 2025-03-14,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1527352/000182912625001794/nexalintech_10k.htm#:~:text=PTSD,Industrial Applications and Services,"Nexalin Technology, Inc.",1527352
-2024-09-16,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1411057/000168316824006402/cannabisbio_i10k-053124.htm#:~:text=PTSD,Industrial Applications and Services,"Cannabis Bioscience International Holdings, Inc.",1411057
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/890821/000164117225001296/form10-k.htm#:~:text=PTSD,Life Sciences,"Enveric Biosciences, Inc.",890821
 2025-03-03,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1708331/000173112225000316/e6385_10k.htm#:~:text=PTSD,Life Sciences,"Virpax Pharmaceuticals, Inc.",1708331
 2025-03-12,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1560258/000121390025023259/ecor-20241231.htm#:~:text=PTSD,Industrial Applications and Services,"electroCore, Inc.",1560258
@@ -428,7 +426,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774924034900/ex_711279.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,OMEROS CORP,1285819
 2024-11-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224037168/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124014604/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-09-16,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224029343/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-01,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224036731/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -528,7 +525,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-07,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1862461/000149315224043911/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Real Estate & Construction,Real Brokerage Inc,1862461
 2025-03-11,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2024-11-19,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1808110/000121390024099916/ea0221768-6k_ddcenter.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DDC Enterprise Ltd,1808110
-2024-09-16,mpox_international,https://www.sec.gov/Archives/edgar/data/1681348/000149315224036308/ex99-1.htm#:~:text=mpox&text=monkeypox,Energy & Transportation,VivoPower International PLC,1681348
 2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
 2024-11-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390024099095/ea0221159-6k_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
 2025-01-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390025003895/ea022738201ex99-2_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
