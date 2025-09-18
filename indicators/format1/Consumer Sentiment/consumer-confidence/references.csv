@@ -134,7 +134,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1441816/000144181625000057/mdb-20250131.htm#:~:text=consumer%20confidence,Technology,"MongoDB, Inc.",1441816
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1513761/000155837025001743/nclh-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,Norwegian Cruise Line Holdings Ltd.,1513761
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1866581/000186658125000048/bros-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Dutch Bros Inc.,1866581
-2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1130713/000113071325000024/byon-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"BEYOND, INC.",1130713
+2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1130713/000113071325000024/byon-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"BED BATH & BEYOND, INC.",1130713
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1870940/000187094025000008/airs-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Airsculpt Technologies, Inc.",1870940
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1898604/000164117225000804/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,Vestand Inc.,1898604
 2024-11-20,domestic,https://www.sec.gov/Archives/edgar/data/936528/000093652824000164/wfsl-20240930.htm#:~:text=consumer%20confidence,Finance,WAFD INC,936528
@@ -832,7 +832,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1331875/000133187525000013/fnf-20241231.htm#:~:text=consumer%20confidence,Finance,"Fidelity National Financial, Inc.",1331875
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/763901/000119312525043848/d924089d10k.htm#:~:text=consumer%20confidence,Finance,"POPULAR, INC.",763901
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1370755/000095017025028389/tcpc-20241231.htm#:~:text=consumer%20confidence,,BlackRock TCP Capital Corp.,1370755
-2024-09-18,domestic,https://www.sec.gov/Archives/edgar/data/1725430/000149315224036953/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,INTELLIGENT BIO SOLUTIONS INC.,1725430
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1562463/000156246325000022/inbk-20241231.htm#:~:text=consumer%20confidence,Finance,First Internet Bancorp,1562463
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1000209/000095017025038693/mfin-20241231.htm#:~:text=consumer%20confidence,Finance,MEDALLION FINANCIAL CORP,1000209
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1318568/000131856825000004/evri-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Everi Holdings Inc.,1318568
