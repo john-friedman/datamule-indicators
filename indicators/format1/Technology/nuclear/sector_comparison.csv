@@ -33,8 +33,8 @@ Trade & Services,0,2,fuel_domestic
 Trade & Services,1,1,fuel_domestic
 Energy & Transportation,0,2,technology_domestic
 Energy & Transportation,1,2,technology_domestic
-Industrial Applications and Services,0,30,technology_domestic
-Industrial Applications and Services,1,44,technology_domestic
+Industrial Applications and Services,0,29,technology_domestic
+Industrial Applications and Services,1,45,technology_domestic
 Life Sciences,0,89,technology_domestic
 Life Sciences,1,128,technology_domestic
 Manufacturing,0,6,technology_domestic
@@ -63,8 +63,8 @@ Energy & Transportation,0,90,regulation_domestic
 Energy & Transportation,1,90,regulation_domestic
 Finance,0,1,regulation_domestic
 Finance,1,2,regulation_domestic
-Industrial Applications and Services,0,10,regulation_domestic
-Industrial Applications and Services,1,13,regulation_domestic
+Industrial Applications and Services,0,9,regulation_domestic
+Industrial Applications and Services,1,14,regulation_domestic
 Life Sciences,0,6,regulation_domestic
 Life Sciences,1,6,regulation_domestic
 Manufacturing,0,4,regulation_domestic

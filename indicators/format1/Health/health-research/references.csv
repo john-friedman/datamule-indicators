@@ -292,7 +292,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1539029/000095017025046134/clsd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Clearside Biomedical, Inc.",1539029
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1232524/000123252425000011/jazz-20241231.htm#:~:text=orphan%20drug,Life Sciences,Jazz Pharmaceuticals plc,1232524
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1785279/000095017025040217/mgx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Metagenomi, Inc.",1785279
-2024-09-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1262104/000095017024108185/meip-20240630.htm#:~:text=orphan%20drug,Life Sciences,"Lite Strategy, Inc.",1262104
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1724521/000172452125000040/rcus-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Arcus Biosciences, Inc.",1724521
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,Biohaven Ltd.,1935979
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1746466/000095017025045726/eq-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Equillium, Inc.",1746466
@@ -475,7 +474,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/925741/000143774925009397/bcda20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"BioCardia, Inc.",925741
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1829247/000149315225010367/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"BullFrog AI Holdings, Inc.",1829247
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/899460/000095017025027735/mnkd-20241231.htm#:~:text=orphan%20drug,Life Sciences,MANNKIND CORP,899460
-2024-09-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1509261/000155837024012901/rzlt-20240630x10k.htm#:~:text=orphan%20drug,Life Sciences,"Rezolute, Inc.",1509261
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1761612/000155837025001438/bcyc-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,BICYCLE THERAPEUTICS PLC,1761612
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1782303/000095017025045725/bold-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Boundless Bio, Inc.",1782303
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1534120/000162828025013986/avtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Avalo Therapeutics, Inc.",1534120

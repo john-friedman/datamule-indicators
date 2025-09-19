@@ -20,8 +20,8 @@ Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,44,obesity_domestic
 Industrial Applications and Services,1,52,obesity_domestic
-Life Sciences,0,96,obesity_domestic
-Life Sciences,1,101,obesity_domestic
+Life Sciences,0,95,obesity_domestic
+Life Sciences,1,102,obesity_domestic
 Manufacturing,0,18,obesity_domestic
 Manufacturing,1,25,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
@@ -80,7 +80,7 @@ Technology,0,2,ptsd_international
 Industrial Applications and Services,0,1,h1n1-swine_domestic
 Industrial Applications and Services,1,5,h1n1-swine_domestic
 Life Sciences,0,7,h1n1-swine_domestic
-Life Sciences,1,11,h1n1-swine_domestic
+Life Sciences,1,10,h1n1-swine_domestic
 Manufacturing,0,2,h1n1-swine_domestic
 Manufacturing,1,6,h1n1-swine_domestic
 Real Estate & Construction,1,3,h1n1-swine_domestic
@@ -90,8 +90,8 @@ Finance,0,2,mpox_domestic
 Finance,1,1,mpox_domestic
 Industrial Applications and Services,0,4,mpox_domestic
 Industrial Applications and Services,1,12,mpox_domestic
-Life Sciences,0,33,mpox_domestic
-Life Sciences,1,51,mpox_domestic
+Life Sciences,0,32,mpox_domestic
+Life Sciences,1,52,mpox_domestic
 Manufacturing,0,1,mpox_domestic
 Manufacturing,1,2,mpox_domestic
 Technology,0,1,mpox_domestic

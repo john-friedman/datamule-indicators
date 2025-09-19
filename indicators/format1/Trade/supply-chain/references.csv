@@ -44,7 +44,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-23,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2021031/000114036124050278/ef20040423_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Treasure Holdco, Inc.",2021031
 2025-03-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1787740/000095017025043234/tivc-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Tivic Health Systems, Inc.",1787740
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1262823/000126282325000011/wlk-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,WESTLAKE CORP,1262823
-2024-09-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1509261/000155837024012901/rzlt-20240630x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Rezolute, Inc.",1509261
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1307579/000143774925009832/liqt20241231_10k.htm#:~:text=Supply%20chain%20constraints,Technology,LIQTECH INTERNATIONAL INC,1307579
 2024-11-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1308547/000162828024048519/dlb-20240927.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Dolby Laboratories, Inc.",1308547
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2186/000143774925009464/bkti20241231_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BK Technologies Corp,2186
@@ -152,7 +151,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1652535/000162828025006992/ichr-20241227.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"ICHOR HOLDINGS, LTD.",1652535
 2024-12-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1397016/000149315224050771/form10-k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Optex Systems Holdings Inc,1397016
 2025-02-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1693256/000155837025001154/wttr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"Select Water Solutions, Inc.",1693256
-2024-09-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1138723/000095017024108118/aray-20240630.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,ACCURAY INC,1138723
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1012477/000101247725000010/avdl-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,AVADEL PHARMACEUTICALS PLC,1012477
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1750149/000095017025046096/ikt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Inhibikase Therapeutics, Inc.",1750149
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/910606/000095017025021359/reg-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,REGENCY CENTERS CORP,910606

@@ -687,7 +687,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1907108/000095017025043486/lxeo-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Lexeo Therapeutics, Inc.",1907108
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1327273/000095017025038751/lyra-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Lyra Therapeutics, Inc.",1327273
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1868279/000155837025001999/avbp-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,"ArriVent BioPharma, Inc.",1868279
-2024-09-19,domestic,https://www.sec.gov/Archives/edgar/data/16732/000001673224000130/cpb-20240728.htm#:~:text=consumer%20confidence,Manufacturing,CAMPBELL'S Co,16732
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1056358/000105635825000018/mtex-20241231.htm#:~:text=consumer%20confidence,Life Sciences,MANNATECH INC,1056358
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/1630472/000163047225000005/trtx-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"TPG RE Finance Trust, Inc.",1630472
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1956955/000168316825001929/unusual_i10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,"Unusual Machines, Inc.",1956955
@@ -1428,7 +1427,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,international,https://www.sec.gov/Archives/edgar/data/1504379/000117891325000706/zk2532778.htm#:~:text=consumer%20confidence,Manufacturing,Caesarstone Ltd.,1504379
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1448397/000114036125009905/ef20039029_20f.htm#:~:text=consumer%20confidence,Energy & Transportation,Seanergy Maritime Holdings Corp.,1448397
 2024-11-08,international,https://www.sec.gov/Archives/edgar/data/1430162/000155485524000744/csan-20231231.htm#:~:text=consumer%20confidence,Trade & Services,Cosan S.A.,1430162
-2024-09-19,international,https://www.sec.gov/Archives/edgar/data/1656081/000165608124000037/dava-20240630.htm#:~:text=consumer%20confidence,Technology,Endava plc,1656081
 2025-03-19,international,https://www.sec.gov/Archives/edgar/data/1386716/000095015725000241/sblk-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Star Bulk Carriers Corp.,1386716
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/717826/000119312525051949/d853477dex151.htm#:~:text=consumer%20confidence,Manufacturing,ERICSSON LM TELEPHONE CO,717826
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1992818/000149315225009478/form20-f.htm#:~:text=consumer%20confidence,Technology,ZOOZ Power Ltd.,1992818

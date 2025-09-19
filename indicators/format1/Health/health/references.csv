@@ -225,7 +225,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/bsx-20241231.htm#:~:text=Obesity,Industrial Applications and Services,BOSTON SCIENTIFIC CORP,885725
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1651407/000141057825000528/ckpt-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Checkpoint Therapeutics, Inc.",1651407
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1725255/000162828025007740/ahco-20241231.htm#:~:text=Obesity,Industrial Applications and Services,AdaptHealth Corp.,1725255
-2024-09-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1509261/000155837024012901/rzlt-20240630x10k.htm#:~:text=Obesity,Life Sciences,"Rezolute, Inc.",1509261
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1124105/000095017025040279/gyre-20241231.htm#:~:text=Obesity,Life Sciences,"GYRE THERAPEUTICS, INC.",1124105
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1664710/000166471025000018/exhibit1024form10-kfy2024.htm#:~:text=Obesity,Life Sciences,"Keros Therapeutics, Inc.",1664710
 2025-02-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1180262/000095017025023207/hlf-20241231.htm#:~:text=Obesity,Trade & Services,HERBALIFE LTD.,1180262
@@ -453,7 +452,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-16,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224033909/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-09-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224030149/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-09-27,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224031012/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-09-19,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224029804/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001136/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001293/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224043099/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
