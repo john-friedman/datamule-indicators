@@ -1,5 +1,4 @@
 filing_date,component,url,ownerOrg,name,cik
-2024-09-24,domestic,https://www.sec.gov/Archives/edgar/data/730263/000073026324000010/tho-20240731.htm#:~:text=consumer%20confidence,Manufacturing,THOR INDUSTRIES INC,730263
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1316835/000095017025023953/bldr-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Builders FirstSource, Inc.",1316835
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/701719/000070171925000007/ela-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,Envela Corp,701719
 2024-12-11,domestic,https://www.sec.gov/Archives/edgar/data/1687221/000095017024135208/revg-20241031.htm#:~:text=consumer%20confidence,Manufacturing,"REV Group, Inc.",1687221
@@ -590,7 +589,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/823768/000155837025001132/wm-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,WASTE MANAGEMENT INC,823768
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1835856/000162828025013683/aurcu-20241231.htm#:~:text=consumer%20confidence,Finance,Better Home & Finance Holding Co,1835856
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1995413/000121390025022353/ea0232786-10k_colombier2.htm#:~:text=consumer%20confidence,Real Estate & Construction,COLOMBIER ACQUISITION CORP. II,1995413
-2024-09-24,domestic,https://www.sec.gov/Archives/edgar/data/1832161/000149315224037866/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,"VIP Play, Inc.",1832161
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1861107/000095017025026773/cbll-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Ceribell, Inc.",1861107
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1799332/000149315225010404/form10-k.htm#:~:text=consumer%20confidence,Technology,GAN Ltd,1799332
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1527541/000152754125000038/whlr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Wheeler Real Estate Investment Trust, Inc.",1527541
