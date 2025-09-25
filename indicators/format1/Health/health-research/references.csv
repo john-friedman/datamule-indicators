@@ -462,7 +462,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/310158/000162828025007732/mrk-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Merck & Co., Inc.",310158
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1730463/000173046325000019/autl-20241231.htm#:~:text=orphan%20drug,Life Sciences,Autolus Therapeutics plc,1730463
 2025-02-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm#:~:text=orphan%20drug,Life Sciences,ELI LILLY & Co,59478
-2024-09-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1815974/000149315224038127/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Anebulo Pharmaceuticals, Inc.",1815974
 2025-02-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm#:~:text=orphan%20drug,Life Sciences,AbbVie Inc.,1551152
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1178253/000095017025038044/scyx-20241231.htm#:~:text=orphan%20drug,Life Sciences,SCYNEXIS INC,1178253
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1857044/000149315225010136/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Indaptus Therapeutics, Inc.",1857044
@@ -874,7 +873,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1527166/000152716625000006/cg-20241231.htm#:~:text=healthcare%20blockchain,Finance,Carlyle Group Inc.,1527166
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1176948/000162828025008665/ares-20241231.htm#:~:text=healthcare%20blockchain,Finance,Ares Management Corp,1176948
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/790359/000114036125006528/ef20039015_10k.htm#:~:text=healthcare%20blockchain,Finance,NBT BANCORP INC,790359
-2024-09-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1769663/000155837024013020/pbfs-20240630x10k.htm#:~:text=healthcare%20blockchain,Finance,"Pioneer Bancorp, Inc./MD",1769663
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1814287/000181428725000006/abl-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Abacus Global Management, Inc.",1814287
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/763563/000076356325000058/chmg-20241231.htm#:~:text=healthcare%20blockchain,Finance,CHEMUNG FINANCIAL CORP,763563
 2025-02-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1691421/000169142125000031/lmnd-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Lemonade, Inc.",1691421
