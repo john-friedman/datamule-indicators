@@ -121,7 +121,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1632970/000163297025000018/ahr-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"American Healthcare REIT, Inc.",1632970
 2025-03-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1719406/000143774925007743/nrxp20241231c_10k.htm#:~:text=Alzheimer,Life Sciences,"NRX Pharmaceuticals, Inc.",1719406
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1001233/000162828025013088/sgmo-20241231.htm#:~:text=Alzheimer,Life Sciences,"SANGAMO THERAPEUTICS, INC",1001233
-2024-09-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1631282/000121390024082285/ea0214480-10k_datasea.htm#:~:text=Alzheimer,Technology,DATASEA INC.,1631282
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/944809/000143774925005811/opk20241231_10k.htm#:~:text=Alzheimer,Life Sciences,"OPKO HEALTH, INC.",944809
 2025-02-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/310158/000162828025007732/mrk-20241231.htm#:~:text=Alzheimer,Life Sciences,"Merck & Co., Inc.",310158
 2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1703647/000095017025040759/krro-20241231.htm#:~:text=Alzheimer,Life Sciences,"Korro Bio, Inc.",1703647
@@ -360,7 +359,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1776738/000177673825000003/cbstf-20241231.htm#:~:text=PTSD,Industrial Applications and Services,Cannabist Co Holdings Inc.,1776738
 2025-03-04,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1771706/000155837025002130/vreof-20241231x10k.htm#:~:text=PTSD,Life Sciences,Vireo Growth Inc.,1771706
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,ATAI Life Sciences N.V.,1840904
-2024-09-26,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1131343/000121390024082281/ea0215061-20f_alterity.htm#:~:text=Alzheimer,Life Sciences,ALTERITY THERAPEUTICS LTD,1131343
 2025-03-13,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1651625/000155837025002855/aciu-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,AC Immune SA,1651625
 2024-11-07,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=Alzheimer,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
 2025-02-05,alzheimer_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Alzheimer,Life Sciences,NOVO NORDISK A S,353278

@@ -418,7 +418,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/55067/000162828025007118/k-20241228.htm#:~:text=consumer%20confidence,Manufacturing,KELLANOVA,55067
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1333493/000133349325000027/ehth-20241231.htm#:~:text=consumer%20confidence,Finance,"eHealth, Inc.",1333493
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1637207/000163720725000016/plnt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Planet Fitness, Inc.",1637207
-2024-09-26,domestic,https://www.sec.gov/Archives/edgar/data/812011/000081201124000091/mtn-20240731.htm#:~:text=consumer%20confidence,Trade & Services,VAIL RESORTS INC,812011
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1757073/000175707325000007/nvst-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Envista Holdings Corp,1757073
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,Monster Beverage Corp,865752
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1559865/000155986525000007/evtc-20241231.htm#:~:text=consumer%20confidence,Technology,"EVERTEC, Inc.",1559865
@@ -700,7 +699,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/766421/000076642125000009/alk-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"ALASKA AIR GROUP, INC.",766421
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1320461/000132046125000033/cps-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Cooper-Standard Holdings Inc.,1320461
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1018979/000095017025030059/amsf-20241231.htm#:~:text=consumer%20confidence,Finance,AMERISAFE INC,1018979
-2024-09-26,domestic,https://www.sec.gov/Archives/edgar/data/1860484/000121390024082228/ea0202443-10k_relativity.htm#:~:text=consumer%20confidence,Real Estate & Construction,Relativity Acquisition Corp,1860484
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1822928/000143774925007614/hlly20241112_10k.htm#:~:text=consumer%20confidence,Manufacturing,Holley Inc.,1822928
 2024-10-29,domestic,https://www.sec.gov/Archives/edgar/data/1702744/000170274424000089/atk-20240831.htm#:~:text=consumer%20confidence,Manufacturing,Simply Good Foods Co,1702744
 2025-02-05,domestic,https://www.sec.gov/Archives/edgar/data/1476150/000147615025000004/trno-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Terreno Realty Corp,1476150
@@ -747,7 +745,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1561550/000156155025000025/ddog-20241231.htm#:~:text=consumer%20confidence,Technology,"Datadog, Inc.",1561550
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1549084/000143774925005913/ekso20241231_10k.htm#:~:text=consumer%20confidence,Technology,"EKSO BIONICS HOLDINGS, INC.",1549084
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1428205/000142820525000027/arr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Armour Residential REIT, Inc.",1428205
-2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1577445/000164117225000677/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Odysight.ai Inc.,1577445
+2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1577445/000164117225000677/form10-k.htm#:~:text=consumer%20confidence,Technology,Odysight.ai Inc.,1577445
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1286681/000095017025025223/dpz-20241229.htm#:~:text=consumer%20confidence,Trade & Services,DOMINOS PIZZA INC,1286681
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/903129/000095017025023344/thrm-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Gentherm Inc,903129
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1498828/000162828025009083/hhc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Howard Hughes Corp,1498828

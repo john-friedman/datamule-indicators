@@ -6,27 +6,27 @@ Energy & Transportation,1,550,environmental_domestic
 Finance,0,193,environmental_domestic
 Finance,1,215,environmental_domestic
 Industrial Applications and Services,0,191,environmental_domestic
-Industrial Applications and Services,1,236,environmental_domestic
+Industrial Applications and Services,1,235,environmental_domestic
 International Corp Fin,0,1,environmental_domestic
 International Corp Fin,1,1,environmental_domestic
 Life Sciences,0,79,environmental_domestic
 Life Sciences,1,110,environmental_domestic
 Manufacturing,0,338,environmental_domestic
-Manufacturing,1,482,environmental_domestic
+Manufacturing,1,481,environmental_domestic
 Real Estate & Construction,0,311,environmental_domestic
 Real Estate & Construction,1,366,environmental_domestic
-Technology,0,180,environmental_domestic
+Technology,0,179,environmental_domestic
 Technology,1,247,environmental_domestic
-Trade & Services,0,242,environmental_domestic
-Trade & Services,1,315,environmental_domestic
+Trade & Services,0,241,environmental_domestic
+Trade & Services,1,316,environmental_domestic
 Crypto Assets,0,48,social_domestic
 Crypto Assets,1,53,social_domestic
-Energy & Transportation,0,226,social_domestic
-Energy & Transportation,1,294,social_domestic
+Energy & Transportation,0,225,social_domestic
+Energy & Transportation,1,295,social_domestic
 Finance,0,196,social_domestic
 Finance,1,225,social_domestic
 Industrial Applications and Services,0,136,social_domestic
-Industrial Applications and Services,1,171,social_domestic
+Industrial Applications and Services,1,170,social_domestic
 International Corp Fin,1,1,social_domestic
 Life Sciences,0,98,social_domestic
 Life Sciences,1,123,social_domestic
@@ -34,7 +34,7 @@ Manufacturing,0,219,social_domestic
 Manufacturing,1,307,social_domestic
 Real Estate & Construction,0,163,social_domestic
 Real Estate & Construction,1,186,social_domestic
-Technology,0,149,social_domestic
+Technology,0,148,social_domestic
 Technology,1,201,social_domestic
 Trade & Services,0,201,social_domestic
 Trade & Services,1,266,social_domestic
@@ -44,16 +44,16 @@ Energy & Transportation,0,116,governance_domestic
 Energy & Transportation,1,138,governance_domestic
 Finance,0,193,governance_domestic
 Finance,1,228,governance_domestic
-Industrial Applications and Services,0,91,governance_domestic
-Industrial Applications and Services,1,109,governance_domestic
+Industrial Applications and Services,0,90,governance_domestic
+Industrial Applications and Services,1,108,governance_domestic
 Life Sciences,0,104,governance_domestic
 Life Sciences,1,139,governance_domestic
 Manufacturing,0,110,governance_domestic
-Manufacturing,1,152,governance_domestic
+Manufacturing,1,151,governance_domestic
 Real Estate & Construction,0,69,governance_domestic
 Real Estate & Construction,1,107,governance_domestic
-Technology,0,112,governance_domestic
-Technology,1,133,governance_domestic
+Technology,0,113,governance_domestic
+Technology,1,134,governance_domestic
 Trade & Services,0,105,governance_domestic
 Trade & Services,1,123,governance_domestic
 Crypto Assets,0,2,environmental_international
@@ -100,8 +100,8 @@ Finance,0,28,governance_international
 Finance,1,60,governance_international
 Industrial Applications and Services,0,17,governance_international
 Industrial Applications and Services,1,40,governance_international
-Life Sciences,0,34,governance_international
-Life Sciences,1,85,governance_international
+Life Sciences,0,33,governance_international
+Life Sciences,1,86,governance_international
 Manufacturing,0,34,governance_international
 Manufacturing,1,105,governance_international
 Real Estate & Construction,0,5,governance_international
