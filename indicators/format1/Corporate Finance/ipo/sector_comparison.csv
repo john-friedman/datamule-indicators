@@ -59,10 +59,10 @@ Technology,1,1,domestic_cn
 Trade & Services,0,1,domestic_cn
 Trade & Services,1,1,domestic_cn
 Crypto Assets,0,2,international_cn
-Crypto Assets,1,1,international_cn
+Crypto Assets,1,2,international_cn
 Energy & Transportation,0,1,international_cn
 Energy & Transportation,1,2,international_cn
-Finance,1,2,international_cn
+Finance,1,1,international_cn
 Industrial Applications and Services,1,1,international_cn
 Manufacturing,0,1,international_cn
 Manufacturing,1,3,international_cn

@@ -17,27 +17,27 @@ Real Estate & Construction,1,100,diversity_domestic
 Technology,0,52,diversity_domestic
 Technology,1,145,diversity_domestic
 Trade & Services,0,66,diversity_domestic
-Trade & Services,1,168,diversity_domestic
+Trade & Services,1,167,diversity_domestic
 Crypto Assets,0,15,equity_domestic
 Crypto Assets,1,22,equity_domestic
-Energy & Transportation,0,111,equity_domestic
-Energy & Transportation,1,188,equity_domestic
+Energy & Transportation,0,110,equity_domestic
+Energy & Transportation,1,189,equity_domestic
 Finance,0,176,equity_domestic
 Finance,1,181,equity_domestic
 Industrial Applications and Services,0,131,equity_domestic
-Industrial Applications and Services,1,182,equity_domestic
+Industrial Applications and Services,1,181,equity_domestic
 International Corp Fin,0,1,equity_domestic
 International Corp Fin,1,1,equity_domestic
 Life Sciences,0,162,equity_domestic
-Life Sciences,1,218,equity_domestic
+Life Sciences,1,217,equity_domestic
 Manufacturing,0,139,equity_domestic
 Manufacturing,1,236,equity_domestic
-Real Estate & Construction,0,150,equity_domestic
-Real Estate & Construction,1,246,equity_domestic
+Real Estate & Construction,0,149,equity_domestic
+Real Estate & Construction,1,245,equity_domestic
 Technology,0,145,equity_domestic
 Technology,1,193,equity_domestic
-Trade & Services,0,172,equity_domestic
-Trade & Services,1,239,equity_domestic
+Trade & Services,0,166,equity_domestic
+Trade & Services,1,244,equity_domestic
 Crypto Assets,0,6,inclusion_domestic
 Crypto Assets,1,10,inclusion_domestic
 Energy & Transportation,0,107,inclusion_domestic
@@ -56,8 +56,8 @@ Real Estate & Construction,0,64,inclusion_domestic
 Real Estate & Construction,1,76,inclusion_domestic
 Technology,0,110,inclusion_domestic
 Technology,1,165,inclusion_domestic
-Trade & Services,0,116,inclusion_domestic
-Trade & Services,1,171,inclusion_domestic
+Trade & Services,0,114,inclusion_domestic
+Trade & Services,1,173,inclusion_domestic
 Crypto Assets,1,2,diversity_international
 Energy & Transportation,0,13,diversity_international
 Energy & Transportation,1,24,diversity_international

@@ -100,7 +100,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/946644/000164117225000847/form10-k.htm#:~:text=Alzheimer,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=Alzheimer,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
 2024-12-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/720154/000162828024049947/notv-20240930.htm#:~:text=Alzheimer,Industrial Applications and Services,"Inotiv, Inc.",720154
-2024-09-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1379006/000141057824001650/nnvc-20240630x10k.htm#:~:text=Alzheimer,Life Sciences,"NANOVIRICIDES, INC.",1379006
 2025-03-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1750155/000175015525000006/cweb-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Charlotte's Web Holdings, Inc.",1750155
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=Alzheimer,Life Sciences,Aptose Biosciences Inc.,882361
 2025-03-13,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1832332/000095017025038504/avah-20241228.htm#:~:text=Alzheimer,Industrial Applications and Services,"Aveanna Healthcare Holdings, Inc.",1832332
@@ -238,7 +237,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1417663/000162828025014141/snwv-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"SANUWAVE Health, Inc.",1417663
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1509745/000141057825000454/lptx-20241231x10k.htm#:~:text=Obesity,Life Sciences,"LEAP THERAPEUTICS, INC.",1509745
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1650696/000143774925005236/lsf20241231_10k.htm#:~:text=Obesity,Manufacturing,"Laird Superfood, Inc.",1650696
-2024-09-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1067294/000155837024013061/tmb-20240802x10k.htm#:~:text=Obesity,Trade & Services,"CRACKER BARREL OLD COUNTRY STORE, INC",1067294
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1769759/000141057825000321/mgrm-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,Monogram Technologies Inc.,1769759
 2025-02-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/105770/000010577025000013/wst-20241231.htm#:~:text=Obesity,Industrial Applications and Services,WEST PHARMACEUTICAL SERVICES INC,105770
 2025-03-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=Obesity,Life Sciences,ALUMIS INC.,1847367
@@ -446,7 +444,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001105/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-10-17,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224034021/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-10-16,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224033909/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-09-27,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224031012/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001136/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001293/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224043099/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
