@@ -8,7 +8,7 @@ Finance,1,4,adoption_domestic
 Industrial Applications and Services,0,1,adoption_domestic
 Industrial Applications and Services,1,1,adoption_domestic
 Life Sciences,0,4,adoption_domestic
-Life Sciences,1,4,adoption_domestic
+Life Sciences,1,3,adoption_domestic
 Manufacturing,1,1,adoption_domestic
 Real Estate & Construction,0,3,adoption_domestic
 Real Estate & Construction,1,3,adoption_domestic
@@ -21,13 +21,13 @@ Crypto Assets,1,20,protocols_domestic
 Energy & Transportation,0,159,protocols_domestic
 Energy & Transportation,1,164,protocols_domestic
 Finance,0,101,protocols_domestic
-Finance,1,99,protocols_domestic
+Finance,1,98,protocols_domestic
 Industrial Applications and Services,0,140,protocols_domestic
 Industrial Applications and Services,1,160,protocols_domestic
 International Corp Fin,0,1,protocols_domestic
 International Corp Fin,1,1,protocols_domestic
 Life Sciences,0,476,protocols_domestic
-Life Sciences,1,498,protocols_domestic
+Life Sciences,1,497,protocols_domestic
 Manufacturing,0,131,protocols_domestic
 Manufacturing,1,153,protocols_domestic
 Real Estate & Construction,0,68,protocols_domestic
