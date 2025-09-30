@@ -6,8 +6,8 @@ Finance,0,3,alzheimer_domestic
 Finance,1,4,alzheimer_domestic
 Industrial Applications and Services,0,23,alzheimer_domestic
 Industrial Applications and Services,1,32,alzheimer_domestic
-Life Sciences,0,89,alzheimer_domestic
-Life Sciences,1,117,alzheimer_domestic
+Life Sciences,0,86,alzheimer_domestic
+Life Sciences,1,120,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,13,alzheimer_domestic
 Real Estate & Construction,1,19,alzheimer_domestic
@@ -18,10 +18,10 @@ Trade & Services,1,6,alzheimer_domestic
 Crypto Assets,0,1,obesity_domestic
 Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
-Industrial Applications and Services,0,44,obesity_domestic
-Industrial Applications and Services,1,51,obesity_domestic
-Life Sciences,0,93,obesity_domestic
-Life Sciences,1,101,obesity_domestic
+Industrial Applications and Services,0,43,obesity_domestic
+Industrial Applications and Services,1,52,obesity_domestic
+Life Sciences,0,90,obesity_domestic
+Life Sciences,1,104,obesity_domestic
 Manufacturing,0,18,obesity_domestic
 Manufacturing,1,25,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
@@ -38,8 +38,8 @@ Crypto Assets,1,1,ptsd_domestic
 Energy & Transportation,0,1,ptsd_domestic
 Industrial Applications and Services,0,3,ptsd_domestic
 Industrial Applications and Services,1,11,ptsd_domestic
-Life Sciences,0,17,ptsd_domestic
-Life Sciences,1,27,ptsd_domestic
+Life Sciences,0,16,ptsd_domestic
+Life Sciences,1,28,ptsd_domestic
 Manufacturing,0,1,ptsd_domestic
 Manufacturing,1,1,ptsd_domestic
 Real Estate & Construction,0,2,ptsd_domestic
@@ -79,15 +79,15 @@ Life Sciences,1,6,ptsd_international
 Technology,0,2,ptsd_international
 Industrial Applications and Services,0,1,h1n1-swine_domestic
 Industrial Applications and Services,1,5,h1n1-swine_domestic
-Life Sciences,0,7,h1n1-swine_domestic
-Life Sciences,1,9,h1n1-swine_domestic
+Life Sciences,0,6,h1n1-swine_domestic
+Life Sciences,1,10,h1n1-swine_domestic
 Manufacturing,0,2,h1n1-swine_domestic
 Manufacturing,1,6,h1n1-swine_domestic
 Real Estate & Construction,1,3,h1n1-swine_domestic
 Technology,1,1,h1n1-swine_domestic
 Energy & Transportation,1,2,mpox_domestic
-Finance,0,2,mpox_domestic
-Finance,1,1,mpox_domestic
+Finance,0,1,mpox_domestic
+Finance,1,2,mpox_domestic
 Industrial Applications and Services,0,4,mpox_domestic
 Industrial Applications and Services,1,11,mpox_domestic
 Life Sciences,0,30,mpox_domestic

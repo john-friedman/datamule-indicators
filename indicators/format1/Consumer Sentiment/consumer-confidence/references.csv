@@ -307,7 +307,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1195734/000119573425000029/pbpb-20241229.htm#:~:text=consumer%20confidence,Trade & Services,POTBELLY CORP,1195734
 2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/1772016/000177201624000108/brbr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,"BELLRING BRANDS, INC.",1772016
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1023128/000102312825000026/lad-20241231.htm#:~:text=consumer%20confidence,Trade & Services,LITHIA MOTORS INC,1023128
-2024-09-30,domestic,https://www.sec.gov/Archives/edgar/data/1807166/000121390024083458/ea0214870-10k_amesite.htm#:~:text=consumer%20confidence,Technology,Amesite Inc.,1807166
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/761648/000076164825000019/cdr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"CEDAR REALTY TRUST, INC.",761648
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/888981/000107997325000476/nnup_10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,NOCOPI TECHNOLOGIES INC/MD/,888981
 2024-10-10,domestic,https://www.sec.gov/Archives/edgar/data/103595/000010359524000019/vlgea-20240727.htm#:~:text=consumer%20confidence,Trade & Services,VILLAGE SUPER MARKET INC,103595
@@ -1155,7 +1154,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1590750/000159075025000004/vrdn-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Viridian Therapeutics, Inc.\DE",1590750
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1098972/000095017025040289/agen-20241231.htm#:~:text=consumer%20confidence,Life Sciences,AGENUS INC,1098972
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1579091/000157909125000015/cart-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Maplebear Inc.,1579091
-2024-09-30,domestic,https://www.sec.gov/Archives/edgar/data/1811115/000095017024110315/rnlx-20240630.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Renalytix plc,1811115
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1101215/000110121525000031/bfh-20241231.htm#:~:text=consumer%20confidence,Finance,"BREAD FINANCIAL HOLDINGS, INC.",1101215
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1974138/000197413825000016/ncr-20241231.htm#:~:text=consumer%20confidence,Technology,NCR Atleos Corp,1974138
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1212545/000121254525000090/wal-20241231.htm#:~:text=consumer%20confidence,Finance,WESTERN ALLIANCE BANCORPORATION,1212545
@@ -1268,7 +1266,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1761918/000095017025042682/eras-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Erasca, Inc.",1761918
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1701541/000170154125000016/bdtx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Black Diamond Therapeutics, Inc.",1701541
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/883948/000088394825000021/aub-20241231x10k.htm#:~:text=consumer%20confidence,Finance,Atlantic Union Bankshares Corp,883948
-2024-09-30,domestic,https://www.sec.gov/Archives/edgar/data/1191070/000121390024082909/ea0213573-10k_bionomic.htm#:~:text=consumer%20confidence,Life Sciences,Neuphoria Therapeutics Inc.,1191070
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1771514/000095017025028554/er-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,ExchangeRight Income Fund,1771514
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1674760/000095017025032226/ck0001674760-20241231.htm#:~:text=consumer%20confidence,,Silver Capital Holdings LLC,1674760
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1820302/000162828025013959/bakkt-20241231.htm#:~:text=consumer%20confidence,Crypto Assets,"Bakkt Holdings, Inc.",1820302
