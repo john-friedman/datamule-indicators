@@ -71,8 +71,8 @@ Technology,0,2,obesity_international
 Technology,1,2,obesity_international
 Trade & Services,1,6,obesity_international
 Industrial Applications and Services,0,1,nash_international
-Life Sciences,0,6,nash_international
-Life Sciences,1,10,nash_international
+Life Sciences,0,5,nash_international
+Life Sciences,1,11,nash_international
 Industrial Applications and Services,1,1,ptsd_international
 Life Sciences,0,2,ptsd_international
 Life Sciences,1,6,ptsd_international
@@ -101,8 +101,8 @@ Trade & Services,1,1,mpox_domestic
 Industrial Applications and Services,0,2,zika_domestic
 Industrial Applications and Services,1,1,zika_domestic
 Life Sciences,1,4,zika_domestic
-Industrial Applications and Services,0,7,h5n1-avian_domestic
-Industrial Applications and Services,1,17,h5n1-avian_domestic
+Industrial Applications and Services,0,6,h5n1-avian_domestic
+Industrial Applications and Services,1,18,h5n1-avian_domestic
 Life Sciences,0,23,h5n1-avian_domestic
 Life Sciences,1,21,h5n1-avian_domestic
 Manufacturing,0,14,h5n1-avian_domestic
