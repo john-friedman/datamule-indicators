@@ -370,7 +370,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1672688/000162828025013464/absi-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,Absci Corp,1672688
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1429260/000155837025004160/fbio-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Fortress Biotech, Inc.",1429260
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1477845/000155837025003482/anvs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Annovis Bio, Inc.",1477845
-2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=orphan%20drug,Life Sciences,ALT5 Sigma Corp,862861
+2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=orphan%20drug,Crypto Assets,ALT5 Sigma Corp,862861
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1710340/000143774925008136/eton20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"Eton Pharmaceuticals, Inc.",1710340
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1357459/000095017025043859/pali-20241231.htm#:~:text=orphan%20drug,Life Sciences,"PALISADE BIO, INC.",1357459
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1326110/000132611025000033/ibrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ImmunityBio, Inc.",1326110
@@ -755,7 +755,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1763415/000095017025040572/bitb-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Bitwise Bitcoin ETF,1763415
 2025-02-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/880631/000121465925003503/wt-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,"WisdomTree, Inc.",880631
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2000638/000143774925006261/iset20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,iShares Ethereum Trust ETF,2000638
-2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=healthcare%20blockchain,Life Sciences,ALT5 Sigma Corp,862861
+2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=healthcare%20blockchain,Crypto Assets,ALT5 Sigma Corp,862861
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1703157/000101738625000028/scth_form10k12312024.htm#:~:text=healthcare%20blockchain,Manufacturing,"Securetech Innovations, Inc.",1703157
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1755953/000121390025026404/ea0235701-10k_gryphon.htm#:~:text=healthcare%20blockchain,Crypto Assets,American Bitcoin Corp.,1755953
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1980994/000143774925006260/bit20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,iShares Bitcoin Trust ETF,1980994
