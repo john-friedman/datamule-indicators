@@ -42,7 +42,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1658551/000095017025031309/amlx-20241231.htm#:~:text=Alzheimer,Life Sciences,"Amylyx Pharmaceuticals, Inc.",1658551
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1819411/000155837025003823/ganx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Gain Therapeutics, Inc.",1819411
 2025-02-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/874015/000087401525000089/form10k.htm#:~:text=Alzheimer,Life Sciences,IONIS PHARMACEUTICALS INC,874015
-2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Alzheimer,Industrial Applications and Services,"HELIUS MEDICAL TECHNOLOGIES, INC.",1610853
+2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Alzheimer,Industrial Applications and Services,Solana Co,1610853
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1053691/000143774925007829/crvo20241231_10k.htm#:~:text=Alzheimer,Life Sciences,CervoMed Inc.,1053691
 2025-02-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1098009/000118518525000157/amgreat10k063024.htm#:~:text=Alzheimer,Life Sciences,America Great Health,1098009
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1828673/000095017025046724/hcwb-20241231.htm#:~:text=Alzheimer,Life Sciences,HCW Biologics Inc.,1828673
@@ -247,7 +247,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1418135/000141813525000013/kdp-20241231.htm#:~:text=Obesity,Manufacturing,Keurig Dr Pepper Inc.,1418135
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1606366/000160636625000008/loco-20241225x10k.htm#:~:text=Obesity,Trade & Services,"El Pollo Loco Holdings, Inc.",1606366
 2025-02-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1286681/000095017025025223/dpz-20241229.htm#:~:text=Obesity,Trade & Services,DOMINOS PIZZA INC,1286681
-2025-03-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,"HELIUS MEDICAL TECHNOLOGIES, INC.",1610853
+2025-03-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,Solana Co,1610853
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=Obesity,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"LifeMD, Inc.",948320
 2024-11-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/804328/000080432824000075/qcom-20240929.htm#:~:text=Obesity,Manufacturing,QUALCOMM INC/DE,804328
@@ -515,7 +515,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,mpox_international,https://www.sec.gov/Archives/edgar/data/1438569/000110465925017501/tm257688d1_6k.htm#:~:text=mpox&text=monkeypox,Life Sciences,Grifols SA,1438569
 2024-11-07,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828024046047/valnevaq3pren1.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-02-18,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025005939/valnevapr18-2x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-10-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005468/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-10-10,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005587/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025009323/valnevapr3-3x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-25,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025014598/valnevapr25-3x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
