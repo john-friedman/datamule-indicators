@@ -15,14 +15,15 @@ Technology,0,9,launch_domestic
 Technology,1,18,launch_domestic
 Trade & Services,0,2,launch_domestic
 Trade & Services,1,4,launch_domestic
+Crypto Assets,0,1,satellite_domestic
+Crypto Assets,1,1,satellite_domestic
 Energy & Transportation,0,1,satellite_domestic
 Energy & Transportation,1,7,satellite_domestic
 Finance,0,1,satellite_domestic
 Finance,1,2,satellite_domestic
-Industrial Applications and Services,0,1,satellite_domestic
-Industrial Applications and Services,1,4,satellite_domestic
-Manufacturing,0,18,satellite_domestic
-Manufacturing,1,24,satellite_domestic
+Industrial Applications and Services,1,3,satellite_domestic
+Manufacturing,0,16,satellite_domestic
+Manufacturing,1,26,satellite_domestic
 Real Estate & Construction,0,4,satellite_domestic
 Real Estate & Construction,1,4,satellite_domestic
 Technology,0,19,satellite_domestic

@@ -12,8 +12,8 @@ Manufacturing,0,5,domestic_us
 Manufacturing,1,10,domestic_us
 Real Estate & Construction,0,5,domestic_us
 Real Estate & Construction,1,3,domestic_us
-Technology,0,10,domestic_us
-Technology,1,18,domestic_us
+Technology,0,9,domestic_us
+Technology,1,19,domestic_us
 Trade & Services,0,7,domestic_us
 Trade & Services,1,11,domestic_us
 Finance,0,1,international_us
@@ -58,8 +58,7 @@ Technology,1,1,domestic_cn
 Trade & Services,1,2,domestic_cn
 Crypto Assets,0,2,international_cn
 Crypto Assets,1,2,international_cn
-Energy & Transportation,0,1,international_cn
-Energy & Transportation,1,2,international_cn
+Energy & Transportation,1,3,international_cn
 Industrial Applications and Services,1,1,international_cn
 Manufacturing,0,1,international_cn
 Manufacturing,1,3,international_cn
