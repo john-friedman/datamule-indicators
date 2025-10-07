@@ -11,8 +11,8 @@ International Corp Fin,0,1,environmental_domestic
 International Corp Fin,1,1,environmental_domestic
 Life Sciences,0,77,environmental_domestic
 Life Sciences,1,111,environmental_domestic
-Manufacturing,0,332,environmental_domestic
-Manufacturing,1,485,environmental_domestic
+Manufacturing,0,331,environmental_domestic
+Manufacturing,1,486,environmental_domestic
 Real Estate & Construction,0,310,environmental_domestic
 Real Estate & Construction,1,365,environmental_domestic
 Technology,0,176,environmental_domestic
@@ -48,8 +48,8 @@ Industrial Applications and Services,0,87,governance_domestic
 Industrial Applications and Services,1,110,governance_domestic
 Life Sciences,0,100,governance_domestic
 Life Sciences,1,143,governance_domestic
-Manufacturing,0,109,governance_domestic
-Manufacturing,1,152,governance_domestic
+Manufacturing,0,108,governance_domestic
+Manufacturing,1,153,governance_domestic
 Real Estate & Construction,0,68,governance_domestic
 Real Estate & Construction,1,108,governance_domestic
 Technology,0,113,governance_domestic
