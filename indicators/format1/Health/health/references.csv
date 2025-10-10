@@ -364,7 +364,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-05,obesity_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Obesity,Life Sciences,NOVO NORDISK A S,353278
 2025-01-22,obesity_international,https://www.sec.gov/Archives/edgar/data/1892500/000121390025005490/ea0227485-20f_clearmind.htm#:~:text=Obesity,Life Sciences,Clearmind Medicine Inc.,1892500
 2025-02-18,obesity_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231xex15d3.htm#:~:text=Obesity,Life Sciences,ASTRAZENECA PLC,901832
-2025-01-14,obesity_international,https://www.sec.gov/Archives/edgar/data/1114936/000147793225000220/umewf_20f.htm#:~:text=Obesity,Technology,UMeWorld Ltd,1114936
+2025-01-14,obesity_international,https://www.sec.gov/Archives/edgar/data/1114936/000147793225000220/umewf_20f.htm#:~:text=Obesity,Technology,UMeWorld Inc.,1114936
 2024-10-23,obesity_international,https://www.sec.gov/Archives/edgar/data/1976695/000149315224042243/form20-f.htm#:~:text=Obesity,Technology,Mobile-health Network Solutions,1976695
 2025-02-12,obesity_international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=Obesity,Life Sciences,Ascendis Pharma A/S,1612042
 2025-03-06,obesity_international,https://www.sec.gov/Archives/edgar/data/1849853/000095017025034633/stvn-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Stevanato Group S.p.A.,1849853
@@ -515,7 +515,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,mpox_international,https://www.sec.gov/Archives/edgar/data/1438569/000110465925017501/tm257688d1_6k.htm#:~:text=mpox&text=monkeypox,Life Sciences,Grifols SA,1438569
 2024-11-07,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828024046047/valnevaq3pren1.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-02-18,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025005939/valnevapr18-2x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-10-10,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005587/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025009323/valnevapr3-3x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-25,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025014598/valnevapr25-3x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-20,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025013977/valnevapr3-20x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564

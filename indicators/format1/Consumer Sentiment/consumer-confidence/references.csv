@@ -306,7 +306,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1023128/000102312825000026/lad-20241231.htm#:~:text=consumer%20confidence,Trade & Services,LITHIA MOTORS INC,1023128
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/761648/000076164825000019/cdr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"CEDAR REALTY TRUST, INC.",761648
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/888981/000107997325000476/nnup_10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,NOCOPI TECHNOLOGIES INC/MD/,888981
-2024-10-10,domestic,https://www.sec.gov/Archives/edgar/data/103595/000010359524000019/vlgea-20240727.htm#:~:text=consumer%20confidence,Trade & Services,VILLAGE SUPER MARKET INC,103595
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/909724/000114036125006103/ef20039035_10k.htm#:~:text=consumer%20confidence,Manufacturing,TANDY LEATHER FACTORY INC,909724
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1981535/000143774925007734/sbet20250131_10k.htm#:~:text=consumer%20confidence,Technology,"SharpLink Gaming, Inc.",1981535
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1757715/000143774925009139/ater20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"Aterian, Inc.",1757715
@@ -591,7 +590,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1337013/000162828025012095/infu-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"InfuSystem Holdings, Inc",1337013
 2025-01-21,domestic,https://www.sec.gov/Archives/edgar/data/876167/000087616725000010/prgs-20241130.htm#:~:text=consumer%20confidence,Technology,PROGRESS SOFTWARE CORP /MA,876167
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1158449/000115844925000064/aap-20241228.htm#:~:text=consumer%20confidence,Trade & Services,ADVANCE AUTO PARTS INC,1158449
-2024-10-10,domestic,https://www.sec.gov/Archives/edgar/data/74046/000007404624000061/odc-20240731.htm#:~:text=consumer%20confidence,Manufacturing,Oil-Dri Corp of America,74046
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/874238/000087423825000025/strl-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"STERLING INFRASTRUCTURE, INC.",874238
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1606498/000160649825000024/avns-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"AVANOS MEDICAL, INC.",1606498
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/917470/000143774925004742/zeus20241231_10k.htm#:~:text=consumer%20confidence,Trade & Services,OLYMPIC STEEL INC,917470

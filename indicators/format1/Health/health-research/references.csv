@@ -1,6 +1,5 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-07,ai_domestic,https://www.sec.gov/Archives/edgar/data/827187/000082718725000018/snbr-20241228.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Manufacturing,Sleep Number Corp,827187
-2024-10-10,ai_domestic,https://www.sec.gov/Archives/edgar/data/1527728/000173112224001578/e5986_10-k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,Lunai Bioworks Inc.,1527728
 2024-12-04,ai_domestic,https://www.sec.gov/Archives/edgar/data/785557/000078555724000067/dlhc-20240930.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Trade & Services,DLH Holdings Corp.,785557
 2025-02-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/1637207/000163720725000016/plnt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Trade & Services,"Planet Fitness, Inc.",1637207
 2025-01-30,ai_domestic,https://www.sec.gov/Archives/edgar/data/1373715/000137371525000010/now-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Technology,"ServiceNow, Inc.",1373715
@@ -598,7 +597,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1830214/000162828025007819/dna-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Ginkgo Bioworks Holdings, Inc.",1830214
 2024-12-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/coo-20241031.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"COOPER COMPANIES, INC.",711404
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1674930/000095017025029512/flgt-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Fulgent Genetics, Inc.",1674930
-2024-10-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1527728/000173112224001578/e5986_10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Lunai Bioworks Inc.,1527728
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BeOne Medicines Ltd.,1651308
 2024-12-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1090872/000109087224000049/a-20241031.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"AGILENT TECHNOLOGIES, INC.",1090872
 2025-02-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/313616/000031361625000043/dhr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,DANAHER CORP /DE/,313616
@@ -804,7 +802,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000164117225000085/form10-k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1140536/000095017025026278/wtw-20241231.htm#:~:text=healthcare%20blockchain,Finance,WILLIS TOWERS WATSON PLC,1140536
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1946563/000101376225003343/ea0232429-10k_60degrees.htm#:~:text=healthcare%20blockchain,Life Sciences,"60 DEGREES PHARMACEUTICALS, INC.",1946563
-2024-10-10,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1467373/000146737324000278/acn-20240831.htm#:~:text=healthcare%20blockchain,Trade & Services,Accenture plc,1467373
 2025-02-10,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/62709/000006270925000015/mmc-20241231.htm#:~:text=healthcare%20blockchain,Finance,"MARSH & MCLENNAN COMPANIES, INC.",62709
 2025-02-07,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/syf-20241231.htm#:~:text=healthcare%20blockchain,Finance,Synchrony Financial,1601712
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1718939/000171893925000080/idai-20241231.htm#:~:text=healthcare%20blockchain,Technology,T Stamp Inc,1718939
