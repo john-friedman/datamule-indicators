@@ -237,7 +237,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1575295/000147793224008119/alid_10k.htm#:~:text=Obesity,Trade & Services,Allied Corp.,1575295
 2025-02-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1046257/000104625725000018/ingr-20241231.htm#:~:text=Obesity,Manufacturing,Ingredion Inc,1046257
 2024-11-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/807882/000080788224000052/jack-20240929.htm#:~:text=Obesity,Trade & Services,JACK IN THE BOX INC,807882
-2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1760903/000164117225001259/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"Safety Shot, Inc.",1760903
+2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1760903/000164117225001259/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"BONK, INC.",1760903
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1376339/000137633925000009/mdxg-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"MIMEDX GROUP, INC.",1376339
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1789940/000178994025000010/fwrg-20241229.htm#:~:text=Obesity,Trade & Services,"First Watch Restaurant Group, Inc.",1789940
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1759425/000175942525000014/mirm-20241231.htm#:~:text=Obesity,Life Sciences,"Mirum Pharmaceuticals, Inc.",1759425
@@ -505,7 +505,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
 2024-11-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390024099095/ea0221159-6k_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
 2025-01-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390025003895/ea022738201ex99-2_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
-2024-10-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1553846/000117891324003282/zk2432138.htm#:~:text=mpox&text=monkeypox,Life Sciences,RedHill Biopharma Ltd.,1553846
 2024-11-04,mpox_international,https://www.sec.gov/Archives/edgar/data/1776985/000177698524000091/bnt_2024q3ex99x1quarterlyr.htm#:~:text=mpox&text=monkeypox,Life Sciences,BioNTech SE,1776985
 2025-03-11,mpox_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=mpox&text=monkeypox,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2024-10-18,mpox_international,https://www.sec.gov/Archives/edgar/data/1985487/000095017024115440/kspi-ex99_1.htm#:~:text=mpox&text=monkeypox,Trade & Services,Joint Stock Co Kaspi.kz,1985487

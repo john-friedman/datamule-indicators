@@ -91,7 +91,7 @@ Finance,1,2,mpox_domestic
 Industrial Applications and Services,0,4,mpox_domestic
 Industrial Applications and Services,1,10,mpox_domestic
 Life Sciences,0,30,mpox_domestic
-Life Sciences,1,49,mpox_domestic
+Life Sciences,1,47,mpox_domestic
 Manufacturing,0,1,mpox_domestic
 Manufacturing,1,2,mpox_domestic
 Technology,0,1,mpox_domestic
@@ -125,8 +125,8 @@ Trade & Services,0,1,h1n1-swine_international
 Trade & Services,1,1,h1n1-swine_international
 Energy & Transportation,0,3,mpox_international
 Energy & Transportation,1,1,mpox_international
-Life Sciences,0,4,mpox_international
-Life Sciences,1,16,mpox_international
+Life Sciences,0,3,mpox_international
+Life Sciences,1,17,mpox_international
 Manufacturing,0,2,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,0,1,mpox_international
