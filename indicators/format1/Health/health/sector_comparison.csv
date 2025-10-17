@@ -52,7 +52,7 @@ Energy & Transportation,1,1,alzheimer_international
 Finance,0,1,alzheimer_international
 Industrial Applications and Services,1,2,alzheimer_international
 Life Sciences,0,9,alzheimer_international
-Life Sciences,1,23,alzheimer_international
+Life Sciences,1,22,alzheimer_international
 Manufacturing,0,1,alzheimer_international
 Technology,0,1,alzheimer_international
 Technology,1,1,alzheimer_international
@@ -75,7 +75,7 @@ Life Sciences,0,5,nash_international
 Life Sciences,1,11,nash_international
 Industrial Applications and Services,1,1,ptsd_international
 Life Sciences,0,2,ptsd_international
-Life Sciences,1,6,ptsd_international
+Life Sciences,1,5,ptsd_international
 Technology,0,2,ptsd_international
 Industrial Applications and Services,0,1,h1n1-swine_domestic
 Industrial Applications and Services,1,5,h1n1-swine_domestic
@@ -90,7 +90,7 @@ Finance,0,1,mpox_domestic
 Finance,1,2,mpox_domestic
 Industrial Applications and Services,0,4,mpox_domestic
 Industrial Applications and Services,1,10,mpox_domestic
-Life Sciences,0,29,mpox_domestic
+Life Sciences,0,28,mpox_domestic
 Life Sciences,1,48,mpox_domestic
 Manufacturing,0,1,mpox_domestic
 Manufacturing,1,2,mpox_domestic

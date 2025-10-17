@@ -760,7 +760,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/800240/000095017025027569/odp-20241228.htm#:~:text=consumer%20confidence,Trade & Services,ODP Corp,800240
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1490281/000149028125000005/grpn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Groupon, Inc.",1490281
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1680367/000168036725000012/sttk-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Shattuck Labs, Inc.",1680367
-2024-10-17,domestic,https://www.sec.gov/Archives/edgar/data/22444/000002244424000140/cmc-20240831.htm#:~:text=consumer%20confidence,Manufacturing,COMMERCIAL METALS Co,22444
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1042642/000155837025003292/ddbs-20241231x10k.htm#:~:text=consumer%20confidence,Technology,DISH DBS CORP,1042642
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1278021/000095017025025606/mktx-20241231.htm#:~:text=consumer%20confidence,Crypto Assets,MARKETAXESS HOLDINGS INC,1278021
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/921825/000092182525000019/fr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,FIRST INDUSTRIAL REALTY TRUST INC,921825
@@ -1393,7 +1392,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-08,international,https://www.sec.gov/Archives/edgar/data/1430162/000155485524000744/csan-20231231.htm#:~:text=consumer%20confidence,Trade & Services,Cosan S.A.,1430162
 2025-03-19,international,https://www.sec.gov/Archives/edgar/data/1386716/000095015725000241/sblk-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Star Bulk Carriers Corp.,1386716
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/717826/000119312525051949/d853477dex151.htm#:~:text=consumer%20confidence,Manufacturing,ERICSSON LM TELEPHONE CO,717826
-2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1992818/000149315225009478/form20-f.htm#:~:text=consumer%20confidence,Technology,ZOOZ Power Ltd.,1992818
+2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1992818/000149315225009478/form20-f.htm#:~:text=consumer%20confidence,Technology,ZOOZ Strategy Ltd.,1992818
 2025-01-02,international,https://www.sec.gov/Archives/edgar/data/1913749/000121390025000430/ea0225904-20f_global.htm#:~:text=consumer%20confidence,Technology,Global Mofy AI Ltd,1913749
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1840706/000184070625000009/soph-20241231.htm#:~:text=consumer%20confidence,Technology,SOPHiA GENETICS SA,1840706
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1781446/000121390025022437/ea0233167-20f_gauzy.htm#:~:text=consumer%20confidence,Manufacturing,Gauzy Ltd.,1781446

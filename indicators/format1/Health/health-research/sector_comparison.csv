@@ -27,7 +27,7 @@ Trade & Services,1,2,orphan-drug_domestic
 Industrial Applications and Services,0,2,orphan-drug_international
 Industrial Applications and Services,1,4,orphan-drug_international
 Life Sciences,0,33,orphan-drug_international
-Life Sciences,1,86,orphan-drug_international
+Life Sciences,1,85,orphan-drug_international
 Trade & Services,1,1,orphan-drug_international
 Energy & Transportation,1,1,genomic_domestic
 Industrial Applications and Services,0,49,genomic_domestic
@@ -81,6 +81,6 @@ Manufacturing,0,6,healthcare-blockchain_international
 Manufacturing,1,3,healthcare-blockchain_international
 Real Estate & Construction,1,1,healthcare-blockchain_international
 Technology,0,11,healthcare-blockchain_international
-Technology,1,25,healthcare-blockchain_international
+Technology,1,24,healthcare-blockchain_international
 Trade & Services,0,2,healthcare-blockchain_international
 Trade & Services,1,9,healthcare-blockchain_international

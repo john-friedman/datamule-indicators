@@ -22,8 +22,8 @@ Industrial Applications and Services,1,1,international_us
 Life Sciences,0,1,international_us
 Manufacturing,0,2,international_us
 Manufacturing,1,9,international_us
-Technology,0,4,international_us
-Technology,1,13,international_us
+Technology,0,3,international_us
+Technology,1,14,international_us
 Trade & Services,0,1,international_us
 Crypto Assets,0,1,domestic_eu
 Crypto Assets,1,2,domestic_eu
@@ -44,8 +44,8 @@ Finance,1,1,international_eu
 Industrial Applications and Services,1,2,international_eu
 Life Sciences,1,1,international_eu
 Manufacturing,1,8,international_eu
-Technology,0,4,international_eu
-Technology,1,4,international_eu
+Technology,0,3,international_eu
+Technology,1,5,international_eu
 Trade & Services,0,1,international_eu
 Trade & Services,1,1,international_eu
 Energy & Transportation,0,1,domestic_cn

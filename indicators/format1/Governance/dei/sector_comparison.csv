@@ -10,8 +10,8 @@ Industrial Applications and Services,1,117,diversity_domestic
 International Corp Fin,1,1,diversity_domestic
 Life Sciences,0,71,diversity_domestic
 Life Sciences,1,131,diversity_domestic
-Manufacturing,0,64,diversity_domestic
-Manufacturing,1,161,diversity_domestic
+Manufacturing,0,63,diversity_domestic
+Manufacturing,1,162,diversity_domestic
 Real Estate & Construction,0,56,diversity_domestic
 Real Estate & Construction,1,100,diversity_domestic
 Technology,0,50,diversity_domestic
@@ -31,7 +31,7 @@ International Corp Fin,1,1,equity_domestic
 Life Sciences,0,161,equity_domestic
 Life Sciences,1,218,equity_domestic
 Manufacturing,0,134,equity_domestic
-Manufacturing,1,239,equity_domestic
+Manufacturing,1,238,equity_domestic
 Real Estate & Construction,0,147,equity_domestic
 Real Estate & Construction,1,246,equity_domestic
 Technology,0,144,equity_domestic
@@ -51,7 +51,7 @@ International Corp Fin,1,1,inclusion_domestic
 Life Sciences,0,56,inclusion_domestic
 Life Sciences,1,71,inclusion_domestic
 Manufacturing,0,101,inclusion_domestic
-Manufacturing,1,159,inclusion_domestic
+Manufacturing,1,158,inclusion_domestic
 Real Estate & Construction,0,64,inclusion_domestic
 Real Estate & Construction,1,76,inclusion_domestic
 Technology,0,109,inclusion_domestic
@@ -83,7 +83,7 @@ Finance,1,27,equity_international
 Industrial Applications and Services,0,16,equity_international
 Industrial Applications and Services,1,23,equity_international
 Life Sciences,0,17,equity_international
-Life Sciences,1,37,equity_international
+Life Sciences,1,36,equity_international
 Manufacturing,0,19,equity_international
 Manufacturing,1,49,equity_international
 Real Estate & Construction,0,2,equity_international
