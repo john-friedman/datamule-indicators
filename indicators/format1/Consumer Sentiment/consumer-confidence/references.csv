@@ -84,7 +84,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1854139/000095017025027728/zvia-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Zevia PBC,1854139
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1868726/000186872625000013/olpx-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"OLAPLEX HOLDINGS, INC.",1868726
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1727263/000095017025028375/ftdr-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Frontdoor, Inc.",1727263
-2025-02-11,domestic,https://www.sec.gov/Archives/edgar/data/773141/000077314125000004/mdc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"M.D.C. HOLDINGS, INC.",773141
+2025-02-11,domestic,https://www.sec.gov/Archives/edgar/data/773141/000077314125000004/mdc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"SEKISUI HOUSE U.S., INC.",773141
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1833197/000155837025002212/swim-20241231x10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Latham Group, Inc.",1833197
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1846576/000162828025008688/figs-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"FIGS, Inc.",1846576
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/790273/000168316825001163/conectisys_10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,CONECTISYS CORP,790273
@@ -1353,7 +1353,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1087711/000162828025011199/san-20241231.htm#:~:text=consumer%20confidence,Finance,Santander UK plc,1087711
 2025-01-27,international,https://www.sec.gov/Archives/edgar/data/1959726/000149315225003767/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,Autozi Internet Technology (Global) Ltd.,1959726
 2025-02-20,international,https://www.sec.gov/Archives/edgar/data/1160106/000116010625000005/lyg-20241231_d2.htm#:~:text=consumer%20confidence,Finance,Lloyds Banking Group plc,1160106
-2024-10-18,international,https://www.sec.gov/Archives/edgar/data/1964314/000149315224041544/form20-f.htm#:~:text=consumer%20confidence,Manufacturing,JBDI Holdings Ltd,1964314
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1867729/000119312525062519/d921190d20f.htm#:~:text=consumer%20confidence,Technology,WeRide Inc.,1867729
 2025-02-24,international,https://www.sec.gov/Archives/edgar/data/1986247/000121390025016603/ea0231351-20f_parkhabio.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Park Ha Biological Technology Co., Ltd.",1986247
 2025-02-12,international,https://www.sec.gov/Archives/edgar/data/1434265/000155837025000846/gmab-20241231x20f.htm#:~:text=consumer%20confidence,Life Sciences,GENMAB A/S,1434265

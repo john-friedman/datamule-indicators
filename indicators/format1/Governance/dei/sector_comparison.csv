@@ -37,7 +37,7 @@ Real Estate & Construction,1,246,equity_domestic
 Technology,0,144,equity_domestic
 Technology,1,193,equity_domestic
 Trade & Services,0,165,equity_domestic
-Trade & Services,1,238,equity_domestic
+Trade & Services,1,237,equity_domestic
 Crypto Assets,0,6,inclusion_domestic
 Crypto Assets,1,10,inclusion_domestic
 Energy & Transportation,0,106,inclusion_domestic
@@ -55,7 +55,7 @@ Manufacturing,1,158,inclusion_domestic
 Real Estate & Construction,0,64,inclusion_domestic
 Real Estate & Construction,1,76,inclusion_domestic
 Technology,0,109,inclusion_domestic
-Technology,1,165,inclusion_domestic
+Technology,1,164,inclusion_domestic
 Trade & Services,0,112,inclusion_domestic
 Trade & Services,1,173,inclusion_domestic
 Crypto Assets,1,2,diversity_international
