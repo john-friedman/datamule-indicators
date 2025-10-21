@@ -28,7 +28,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/859737/000085973724000024/holx-20240928.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,HOLOGIC INC,859737
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1262039/000126203925000011/ftnt-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Fortinet, Inc.",1262039
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/701719/000070171925000007/ela-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Envela Corp,701719
-2024-10-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/105132/000010513224000064/wdfc-20240831.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,WD 40 CO,105132
 2024-11-22,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1048268/000104826824000134/iesc-20240930.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"IES Holdings, Inc.",1048268
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/100517/000010051725000046/ual-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"United Airlines Holdings, Inc.",100517
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/319687/000010051725000046/ual-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"UNITED AIRLINES, INC.",319687
@@ -162,7 +161,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/315374/000155837025000129/hurc-20241031x10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,HURCO COMPANIES INC,315374
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/84748/000008474825000026/rog-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,ROGERS CORP,84748
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/864240/000143774925009524/sypr20241231_10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,SYPRIS SOLUTIONS INC,864240
-2024-10-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/6955/000000695524000046/epac-20240831.htm#:~:text=Supply%20chain%20constraints,Technology,ENERPAC TOOL GROUP CORP,6955
 2025-03-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1007587/000100758725000003/kvhi-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,KVH INDUSTRIES INC \DE\,1007587
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/882835/000088283525000008/rop-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,ROPER TECHNOLOGIES INC,882835
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1817004/000164117225000939/form10-k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"NEXTNRG, INC.",1817004

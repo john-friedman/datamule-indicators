@@ -31,8 +31,8 @@ Manufacturing,1,3,holdings_domestic
 Real Estate & Construction,0,7,holdings_domestic
 Technology,0,9,holdings_domestic
 Technology,1,21,holdings_domestic
-Trade & Services,0,4,holdings_domestic
-Trade & Services,1,5,holdings_domestic
+Trade & Services,0,3,holdings_domestic
+Trade & Services,1,6,holdings_domestic
 Crypto Assets,0,43,mining_domestic
 Crypto Assets,1,44,mining_domestic
 Energy & Transportation,0,146,mining_domestic
