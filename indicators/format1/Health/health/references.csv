@@ -397,7 +397,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-30,ptsd_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052506/form20-f.htm#:~:text=PTSD,Technology,"Ehave, Inc.",1653606
 2024-12-30,ptsd_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052509/form20-f.htm#:~:text=PTSD,Technology,"Ehave, Inc.",1653606
 2024-11-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824007972/aethlon_ex9901.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,AETHLON MEDICAL INC,882291
-2024-10-24,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654024000028/exh991-pressreleaseq32024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-02-06,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-03-21,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-01-22,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225003136/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
@@ -472,7 +471,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017025028361/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
 2025-03-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1768224/000119380525000275/e664243_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Arcturus Therapeutics Holdings Inc.,1768224
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049324000118/tsn2024q4exh-991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"TYSON FOODS, INC.",100493
-2024-10-24,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654024000028/exh991-pressreleaseq32024.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,DARLING INGREDIENTS INC.,916540
 2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248124000091/ex991ppcq3earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-02-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000008/ex991ppcq4earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-02-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,DARLING INGREDIENTS INC.,916540
