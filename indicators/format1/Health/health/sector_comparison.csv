@@ -20,8 +20,8 @@ Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,43,obesity_domestic
 Industrial Applications and Services,1,52,obesity_domestic
-Life Sciences,0,90,obesity_domestic
-Life Sciences,1,103,obesity_domestic
+Life Sciences,0,89,obesity_domestic
+Life Sciences,1,104,obesity_domestic
 Manufacturing,0,18,obesity_domestic
 Manufacturing,1,24,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
@@ -51,8 +51,8 @@ Trade & Services,1,2,ptsd_domestic
 Energy & Transportation,1,1,alzheimer_international
 Finance,0,1,alzheimer_international
 Industrial Applications and Services,1,2,alzheimer_international
-Life Sciences,0,9,alzheimer_international
-Life Sciences,1,22,alzheimer_international
+Life Sciences,0,8,alzheimer_international
+Life Sciences,1,23,alzheimer_international
 Manufacturing,1,1,alzheimer_international
 Technology,0,1,alzheimer_international
 Technology,1,1,alzheimer_international
@@ -82,7 +82,7 @@ Industrial Applications and Services,1,5,h1n1-swine_domestic
 Life Sciences,0,6,h1n1-swine_domestic
 Life Sciences,1,10,h1n1-swine_domestic
 Manufacturing,0,1,h1n1-swine_domestic
-Manufacturing,1,7,h1n1-swine_domestic
+Manufacturing,1,6,h1n1-swine_domestic
 Real Estate & Construction,1,3,h1n1-swine_domestic
 Technology,1,1,h1n1-swine_domestic
 Energy & Transportation,1,2,mpox_domestic
@@ -91,7 +91,7 @@ Finance,1,2,mpox_domestic
 Industrial Applications and Services,0,3,mpox_domestic
 Industrial Applications and Services,1,11,mpox_domestic
 Life Sciences,0,28,mpox_domestic
-Life Sciences,1,47,mpox_domestic
+Life Sciences,1,46,mpox_domestic
 Manufacturing,0,1,mpox_domestic
 Manufacturing,1,2,mpox_domestic
 Technology,0,1,mpox_domestic
@@ -106,7 +106,7 @@ Industrial Applications and Services,1,16,h5n1-avian_domestic
 Life Sciences,0,23,h5n1-avian_domestic
 Life Sciences,1,21,h5n1-avian_domestic
 Manufacturing,0,13,h5n1-avian_domestic
-Manufacturing,1,30,h5n1-avian_domestic
+Manufacturing,1,27,h5n1-avian_domestic
 Technology,1,1,h5n1-avian_domestic
 Trade & Services,0,1,h5n1-avian_domestic
 Crypto Assets,0,1,h1n1-swine_international

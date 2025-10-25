@@ -16,7 +16,7 @@ Real Estate & Construction,1,6,power_domestic
 Technology,0,6,power_domestic
 Technology,1,10,power_domestic
 Trade & Services,0,8,power_domestic
-Trade & Services,1,8,power_domestic
+Trade & Services,1,7,power_domestic
 Energy & Transportation,0,102,fuel_domestic
 Energy & Transportation,1,104,fuel_domestic
 Finance,0,2,fuel_domestic
@@ -72,7 +72,7 @@ Real Estate & Construction,1,3,regulation_domestic
 Technology,0,3,regulation_domestic
 Technology,1,3,regulation_domestic
 Trade & Services,0,3,regulation_domestic
-Trade & Services,1,4,regulation_domestic
+Trade & Services,1,3,regulation_domestic
 Crypto Assets,0,1,fusion_domestic
 Crypto Assets,1,1,fusion_domestic
 Energy & Transportation,0,5,fusion_domestic

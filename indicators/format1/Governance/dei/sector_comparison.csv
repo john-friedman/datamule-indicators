@@ -11,7 +11,7 @@ International Corp Fin,1,1,diversity_domestic
 Life Sciences,0,71,diversity_domestic
 Life Sciences,1,131,diversity_domestic
 Manufacturing,0,61,diversity_domestic
-Manufacturing,1,161,diversity_domestic
+Manufacturing,1,160,diversity_domestic
 Real Estate & Construction,0,56,diversity_domestic
 Real Estate & Construction,1,100,diversity_domestic
 Technology,0,50,diversity_domestic
@@ -31,7 +31,7 @@ International Corp Fin,1,1,equity_domestic
 Life Sciences,0,161,equity_domestic
 Life Sciences,1,218,equity_domestic
 Manufacturing,0,131,equity_domestic
-Manufacturing,1,239,equity_domestic
+Manufacturing,1,238,equity_domestic
 Real Estate & Construction,0,147,equity_domestic
 Real Estate & Construction,1,246,equity_domestic
 Technology,0,142,equity_domestic
