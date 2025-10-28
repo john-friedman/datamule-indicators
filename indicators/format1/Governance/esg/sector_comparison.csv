@@ -11,14 +11,14 @@ International Corp Fin,0,1,environmental_domestic
 International Corp Fin,1,1,environmental_domestic
 Life Sciences,0,77,environmental_domestic
 Life Sciences,1,111,environmental_domestic
-Manufacturing,0,327,environmental_domestic
-Manufacturing,1,484,environmental_domestic
+Manufacturing,0,325,environmental_domestic
+Manufacturing,1,486,environmental_domestic
 Real Estate & Construction,0,310,environmental_domestic
 Real Estate & Construction,1,365,environmental_domestic
 Technology,0,173,environmental_domestic
 Technology,1,250,environmental_domestic
-Trade & Services,0,226,environmental_domestic
-Trade & Services,1,318,environmental_domestic
+Trade & Services,0,225,environmental_domestic
+Trade & Services,1,319,environmental_domestic
 Crypto Assets,0,48,social_domestic
 Crypto Assets,1,52,social_domestic
 Energy & Transportation,0,224,social_domestic
@@ -30,14 +30,14 @@ Industrial Applications and Services,1,170,social_domestic
 International Corp Fin,1,1,social_domestic
 Life Sciences,0,97,social_domestic
 Life Sciences,1,122,social_domestic
-Manufacturing,0,211,social_domestic
-Manufacturing,1,306,social_domestic
+Manufacturing,0,209,social_domestic
+Manufacturing,1,308,social_domestic
 Real Estate & Construction,0,161,social_domestic
 Real Estate & Construction,1,187,social_domestic
 Technology,0,143,social_domestic
 Technology,1,202,social_domestic
-Trade & Services,0,194,social_domestic
-Trade & Services,1,266,social_domestic
+Trade & Services,0,193,social_domestic
+Trade & Services,1,267,social_domestic
 Crypto Assets,0,9,governance_domestic
 Crypto Assets,1,12,governance_domestic
 Energy & Transportation,0,114,governance_domestic
