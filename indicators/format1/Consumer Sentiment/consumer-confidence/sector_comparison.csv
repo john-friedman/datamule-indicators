@@ -6,14 +6,14 @@ Energy & Transportation,1,96,domestic
 Finance,0,184,domestic
 Finance,1,208,domestic
 Industrial Applications and Services,0,112,domestic
-Industrial Applications and Services,1,161,domestic
+Industrial Applications and Services,1,160,domestic
 Life Sciences,0,168,domestic
 Life Sciences,1,229,domestic
-Manufacturing,0,172,domestic
-Manufacturing,1,300,domestic
+Manufacturing,0,171,domestic
+Manufacturing,1,301,domestic
 Real Estate & Construction,0,204,domestic
-Real Estate & Construction,1,259,domestic
-Technology,0,121,domestic
+Real Estate & Construction,1,258,domestic
+Technology,0,120,domestic
 Technology,1,169,domestic
 Trade & Services,0,220,domestic
 Trade & Services,1,340,domestic
@@ -27,10 +27,10 @@ Industrial Applications and Services,1,19,international
 Life Sciences,0,8,international
 Life Sciences,1,17,international
 Manufacturing,0,23,international
-Manufacturing,1,75,international
+Manufacturing,1,73,international
 Real Estate & Construction,0,5,international
 Real Estate & Construction,1,17,international
 Technology,0,22,international
-Technology,1,53,international
-Trade & Services,0,17,international
-Trade & Services,1,58,international
+Technology,1,52,international
+Trade & Services,0,16,international
+Trade & Services,1,59,international

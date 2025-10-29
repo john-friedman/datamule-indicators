@@ -195,7 +195,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1158895/000143774925005637/lmat20241231_10k.htm#:~:text=Obesity,Industrial Applications and Services,LEMAITRE VASCULAR INC,1158895
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/celh-20241231.htm#:~:text=Obesity,Manufacturing,"Celsius Holdings, Inc.",1341766
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1195734/000119573425000029/pbpb-20241229.htm#:~:text=Obesity,Trade & Services,POTBELLY CORP,1195734
-2024-10-29,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1702744/000170274424000089/atk-20240831.htm#:~:text=Obesity,Manufacturing,Simply Good Foods Co,1702744
 2025-02-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/937098/000093709825000016/tnet-20241231.htm#:~:text=Obesity,Trade & Services,"TRINET GROUP, INC.",937098
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1708527/000155837025002719/elut-20241231x10k.htm#:~:text=Obesity,Life Sciences,ELUTIA INC.,1708527
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1826457/000095017025042344/glue-20241231.htm#:~:text=Obesity,Life Sciences,"Monte Rosa Therapeutics, Inc.",1826457
@@ -312,7 +311,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,nash_domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"GRI Bio, Inc.",1824293
 2025-03-10,nash_domestic,https://www.sec.gov/Archives/edgar/data/1799448/000095017025035929/algs-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Aligos Therapeutics, Inc.",1799448
 2025-02-28,nash_domestic,https://www.sec.gov/Archives/edgar/data/886163/000088616325000012/lgnd-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,LIGAND PHARMACEUTICALS INC,886163
-2024-10-29,nash_domestic,https://www.sec.gov/Archives/edgar/data/1610820/000149315224042743/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,BriaCell Therapeutics Corp.,1610820
 2025-03-20,nash_domestic,https://www.sec.gov/Archives/edgar/data/1641489/000164148925000014/vtvt-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,vTv Therapeutics Inc.,1641489
 2025-03-27,nash_domestic,https://www.sec.gov/Archives/edgar/data/1831868/000095017025046200/icu-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,SeaStar Medical Holding Corp,1831868
 2025-03-06,nash_domestic,https://www.sec.gov/Archives/edgar/data/1810560/000095017025034584/revb-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"REVELATION BIOSCIENCES, INC.",1810560
@@ -400,7 +398,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-22,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225003136/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2025-01-10,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225001603/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2025-02-07,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,AIM ImmunoTech Inc.,946644
-2024-10-29,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315224042741/form8-k.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2024-11-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774924034900/ex_711279.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,OMEROS CORP,1285819
 2024-11-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224037168/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124014604/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306

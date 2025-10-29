@@ -3,7 +3,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1094285/000109428525000053/tdy-ex1012_performanceplan.htm#:~:text=Supply%20chain%20constraints,Manufacturing,TELEDYNE TECHNOLOGIES INC,1094285
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1334036/000133403625000009/crox-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Crocs, Inc.",1334036
 2025-02-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/12927/000001292725000015/ba-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BOEING CO,12927
-2024-10-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1702744/000170274424000089/atk-20240831.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Simply Good Foods Co,1702744
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/61986/000095017025024838/mtw-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,MANITOWOC CO INC,61986
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1017303/000114036125010065/ef20039038_10k.htm#:~:text=Supply%20chain%20constraints,Technology,TRANSACT TECHNOLOGIES INC,1017303
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/355811/000035581125000009/gntx-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GENTEX CORP,355811
@@ -271,7 +270,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1418819/000162828025005302/irdm-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Iridium Communications Inc.,1418819
 2025-02-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1466258/000146625825000039/tt-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Trane Technologies plc,1466258
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1659166/000165916625000024/ftv-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Fortive Corp,1659166
-2024-10-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1667313/000121390024091735/ea0218596-10k_zedge.htm#:~:text=Supply%20chain%20constraints,Technology,"Zedge, Inc.",1667313
 2025-03-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1609151/000160915125000022/weav-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Weave Communications, Inc.",1609151
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1060822/000106082225000030/cri-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,CARTERS INC,1060822
 2025-03-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1845437/000184543725000008/npwr-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,NET Power Inc.,1845437

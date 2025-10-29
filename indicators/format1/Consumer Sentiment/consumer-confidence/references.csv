@@ -676,7 +676,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1320461/000132046125000033/cps-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Cooper-Standard Holdings Inc.,1320461
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1018979/000095017025030059/amsf-20241231.htm#:~:text=consumer%20confidence,Finance,AMERISAFE INC,1018979
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1822928/000143774925007614/hlly20241112_10k.htm#:~:text=consumer%20confidence,Manufacturing,Holley Inc.,1822928
-2024-10-29,domestic,https://www.sec.gov/Archives/edgar/data/1702744/000170274424000089/atk-20240831.htm#:~:text=consumer%20confidence,Manufacturing,Simply Good Foods Co,1702744
 2025-02-05,domestic,https://www.sec.gov/Archives/edgar/data/1476150/000147615025000004/trno-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Terreno Realty Corp,1476150
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1419554/000149315225008383/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Bone Biologics Corp,1419554
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1141103/000162828025010519/ccrn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,CROSS COUNTRY HEALTHCARE INC,1141103
@@ -762,7 +761,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-13,domestic,https://www.sec.gov/Archives/edgar/data/50725/000005072524000152/gff-20240930.htm#:~:text=consumer%20confidence,Manufacturing,GRIFFON CORP,50725
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1653477/000165347725000015/ngvt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Ingevity Corp,1653477
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1563190/000156319025000050/comp-20241231.htm#:~:text=consumer%20confidence,Technology,"Compass, Inc.",1563190
-2024-10-29,domestic,https://www.sec.gov/Archives/edgar/data/1667313/000121390024091735/ea0218596-10k_zedge.htm#:~:text=consumer%20confidence,Technology,"Zedge, Inc.",1667313
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1603652/000095017025039411/uly-20241231.htm#:~:text=consumer%20confidence,Technology,Urgent.ly Inc.,1603652
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1295810/000155837025001297/sho-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Sunstone Hotel Investors, Inc.",1295810
 2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/831641/000083164124000063/ttek-20240929.htm#:~:text=consumer%20confidence,Trade & Services,TETRA TECH INC,831641
@@ -1314,7 +1312,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000003/onholdingag-20241231.htm#:~:text=consumer%20confidence,Manufacturing,On Holding AG,1858985
 2024-12-26,international,https://www.sec.gov/Archives/edgar/data/1981462/000121390024112300/ea0225264-20f_leddar.htm#:~:text=consumer%20confidence,Technology,LeddarTech Holdings Inc.,1981462
 2025-01-30,international,https://www.sec.gov/Archives/edgar/data/1955104/000095017025011073/zapp-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Zapp Electric Vehicles Group Ltd,1955104
-2024-10-29,international,https://www.sec.gov/Archives/edgar/data/1815021/000121390024091726/ea0217975-20f_boqii.htm#:~:text=consumer%20confidence,Trade & Services,Boqii Holding Ltd,1815021
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1843586/000095017025038739/otly-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Oatly Group AB,1843586
 2025-02-18,international,https://www.sec.gov/Archives/edgar/data/1979610/000173112225000239/e6355_20-f.htm#:~:text=consumer%20confidence,Real Estate & Construction,WF International Ltd.,1979610
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1745201/000095017025036852/vik-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Viking Holdings Ltd,1745201
