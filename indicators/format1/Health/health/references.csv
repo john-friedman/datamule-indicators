@@ -366,7 +366,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,obesity_international,https://www.sec.gov/Archives/edgar/data/1857190/000141057825000398/nyxh-20241231x20f.htm#:~:text=Obesity,Industrial Applications and Services,Nyxoah SA,1857190
 2025-03-03,obesity_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Obesity,Life Sciences,GSK plc,1131399
 2025-03-10,obesity_international,https://www.sec.gov/Archives/edgar/data/845982/000155837025002550/snn-20241231x20f.htm#:~:text=Obesity,Industrial Applications and Services,SMITH & NEPHEW PLC,845982
-2024-10-31,obesity_international,https://www.sec.gov/Archives/edgar/data/1023514/000162828024044479/fy24_exhibit151iar2024.htm#:~:text=Obesity,Energy & Transportation,HARMONY GOLD MINING CO LTD,1023514
 2025-03-19,obesity_international,https://www.sec.gov/Archives/edgar/data/1593984/000117891325000934/zk2532841.htm#:~:text=Obesity,Life Sciences,MediWound Ltd.,1593984
 2025-03-27,obesity_international,https://www.sec.gov/Archives/edgar/data/1574565/000117891325001092/zk2532892.htm#:~:text=Obesity,Industrial Applications and Services,Evogene Ltd.,1574565
 2025-02-26,obesity_international,https://www.sec.gov/Archives/edgar/data/1611842/000121390025017412/ea0231533-20f_polypid.htm#:~:text=Obesity,Industrial Applications and Services,PolyPid Ltd.,1611842
@@ -436,7 +435,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/935703/000110465925029393/tm2510014d2_ex2-1.htm#:~:text=mpox&text=monkeypox,Trade & Services,"DOLLAR TREE, INC.",935703
 2025-03-07,zika_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=zika,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2024-11-13,zika_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824007972/aethlon_ex9901.htm#:~:text=zika,Industrial Applications and Services,AETHLON MEDICAL INC,882291
-2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224043141/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2025-02-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000149315225006040/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
 2025-03-10,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-02.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -466,11 +464,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017025028361/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
 2025-03-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1768224/000119380525000275/e664243_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Arcturus Therapeutics Holdings Inc.,1768224
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049324000118/tsn2024q4exh-991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"TYSON FOODS, INC.",100493
-2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248124000091/ex991ppcq3earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-02-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000008/ex991ppcq4earningsslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-02-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-02-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000007/a2024_q4xppcearningsrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
-2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248124000089/a2024_q3ppcex991earningsre.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-03-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000021/ex991investordayslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2024-11-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095024000353/ex99-1q42024er.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
 2025-01-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000004/a994definitiveagreemtpress.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Salarius Pharmaceuticals, Inc.",1615219

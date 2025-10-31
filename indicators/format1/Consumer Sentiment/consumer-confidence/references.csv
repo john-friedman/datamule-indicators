@@ -1336,8 +1336,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,international,https://www.sec.gov/Archives/edgar/data/1984014/000121390025014457/ea0230411-20f_bloomz.htm#:~:text=consumer%20confidence,Trade & Services,Harrison Global Holdings Inc.,1984014
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1713334/000119312525059760/d907381d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,STUDIO CITY INTERNATIONAL HOLDINGS Ltd,1713334
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1073404/000141057825000353/ggb-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,GERDAU S.A.,1073404
-2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1924064/000121390024092983/ea0218684-20f_royaland.htm#:~:text=consumer%20confidence,Technology,RoyaLand Co Ltd.,1924064
-2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1981519/000149315224043200/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,MIXED MARTIAL ARTS GROUP LTD,1981519
 2025-01-28,international,https://www.sec.gov/Archives/edgar/data/1808110/000121390025007160/ea0208402-20f_ddcenter.htm#:~:text=consumer%20confidence,Manufacturing,DDC Enterprise Ltd,1808110
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1087711/000162828025011199/san-20241231.htm#:~:text=consumer%20confidence,Finance,Santander UK plc,1087711
 2025-01-27,international,https://www.sec.gov/Archives/edgar/data/1959726/000149315225003767/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,Autozi Internet Technology (Global) Ltd.,1959726
@@ -1392,10 +1390,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Ascendis Pharma A/S,1612042
 2025-03-26,international,https://www.sec.gov/Archives/edgar/data/1861974/000186197425000004/exc-20241231.htm#:~:text=consumer%20confidence,Technology,ECARX Holdings Inc.,1861974
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1709626/000095017025042709/ncna-20241231.htm#:~:text=consumer%20confidence,Life Sciences,NuCana plc,1709626
-2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1294404/000141057824001737/sfuny-20221231x20f.htm#:~:text=consumer%20confidence,Technology,Fang Holdings Ltd,1294404
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1697862/000169786225000024/argx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,ARGENX SE,1697862
 2025-02-28,international,https://www.sec.gov/Archives/edgar/data/932470/000110465925019133/teo-20241231x20f.htm#:~:text=consumer%20confidence,Technology,TELECOM ARGENTINA SA,932470
-2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1945711/000194571124000044/lvro-20240630.htm#:~:text=consumer%20confidence,Trade & Services,Lavoro Ltd,1945711
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1855612/000185561225000013/ck0001855612-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Grab Holdings Ltd,1855612
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1857190/000141057825000398/nyxh-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Nyxoah SA,1857190
 2025-02-14,international,https://www.sec.gov/Archives/edgar/data/1303523/000130352325000021/bti-20241231.htm#:~:text=consumer%20confidence,Manufacturing,British American Tobacco p.l.c.,1303523
