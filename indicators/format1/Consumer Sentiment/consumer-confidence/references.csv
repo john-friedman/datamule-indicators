@@ -117,7 +117,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/106532/000155837025002984/weys-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,WEYCO GROUP INC,106532
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/30697/000003069725000003/wen-20241229.htm#:~:text=consumer%20confidence,Trade & Services,Wendy's Co,30697
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1705012/000162828025009125/fat-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"Fat Brands, Inc",1705012
-2024-11-01,domestic,https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm#:~:text=consumer%20confidence,Technology,Apple Inc.,320193
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/885639/000095017025042662/kss-20250201.htm#:~:text=consumer%20confidence,Trade & Services,KOHLS Corp,885639
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1061069/000143774925008584/awx20241231_10k.htm#:~:text=consumer%20confidence,Energy & Transportation,AVALON HOLDINGS CORP,1061069
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1136893/000113689325000014/fis-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Fidelity National Information Services, Inc.",1136893
@@ -447,7 +446,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1810560/000095017025034584/revb-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"REVELATION BIOSCIENCES, INC.",1810560
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1818201/000095017025026848/cccs-20241231.htm#:~:text=consumer%20confidence,Technology,CCC Intelligent Solutions Holdings Inc.,1818201
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1468748/000095017025046098/kod-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Kodiak Sciences Inc.,1468748
-2024-11-01,domestic,https://www.sec.gov/Archives/edgar/data/1477246/000095017024120144/sanw-20240630.htm#:~:text=consumer%20confidence,Industrial Applications and Services,S&W Seed Co,1477246
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/835357/000083535725000003/efloa-20241231.htm#:~:text=consumer%20confidence,Finance,EQUITABLE FINANCIAL LIFE INSURANCE CO OF AMERICA,835357
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1045450/000104545025000051/epr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,EPR PROPERTIES,1045450
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1988494/000095017025042774/fvr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"FrontView REIT, Inc.",1988494

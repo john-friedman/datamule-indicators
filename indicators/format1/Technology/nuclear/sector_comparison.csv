@@ -13,8 +13,8 @@ Manufacturing,0,18,power_domestic
 Manufacturing,1,24,power_domestic
 Real Estate & Construction,0,3,power_domestic
 Real Estate & Construction,1,6,power_domestic
-Technology,0,6,power_domestic
-Technology,1,10,power_domestic
+Technology,0,5,power_domestic
+Technology,1,11,power_domestic
 Trade & Services,0,8,power_domestic
 Trade & Services,1,7,power_domestic
 Energy & Transportation,0,102,fuel_domestic
