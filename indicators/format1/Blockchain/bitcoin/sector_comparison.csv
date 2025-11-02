@@ -6,7 +6,7 @@ Energy & Transportation,1,8,adoption_domestic
 Finance,0,17,adoption_domestic
 Finance,1,13,adoption_domestic
 Industrial Applications and Services,0,7,adoption_domestic
-Industrial Applications and Services,1,8,adoption_domestic
+Industrial Applications and Services,1,7,adoption_domestic
 Life Sciences,0,12,adoption_domestic
 Life Sciences,1,14,adoption_domestic
 Manufacturing,0,11,adoption_domestic
@@ -41,7 +41,7 @@ Energy & Transportation,1,158,mining_domestic
 Finance,0,6,mining_domestic
 Finance,1,7,mining_domestic
 Industrial Applications and Services,0,19,mining_domestic
-Industrial Applications and Services,1,21,mining_domestic
+Industrial Applications and Services,1,20,mining_domestic
 Life Sciences,0,2,mining_domestic
 Life Sciences,1,1,mining_domestic
 Manufacturing,0,24,mining_domestic
