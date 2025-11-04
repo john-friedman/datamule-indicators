@@ -398,7 +398,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-10,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225001603/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2025-02-07,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,AIM ImmunoTech Inc.,946644
 2024-11-13,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774924034900/ex_711279.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,OMEROS CORP,1285819
-2024-11-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224037168/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-11-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124014604/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -488,7 +487,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
 2024-11-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390024099095/ea0221159-6k_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
 2025-01-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390025003895/ea022738201ex99-2_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
-2024-11-04,mpox_international,https://www.sec.gov/Archives/edgar/data/1776985/000177698524000091/bnt_2024q3ex99x1quarterlyr.htm#:~:text=mpox&text=monkeypox,Life Sciences,BioNTech SE,1776985
 2025-03-11,mpox_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=mpox&text=monkeypox,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2025-03-26,mpox_international,https://www.sec.gov/Archives/edgar/data/1973832/000162828025014876/a2024_sustainabilityreport.pdf#:~:text=mpox&text=monkeypox,Energy & Transportation,AngloGold Ashanti PLC,1973832
 2025-02-13,mpox_international,https://www.sec.gov/Archives/edgar/data/756894/000119312525025337/d853431dex992.htm#:~:text=mpox&text=monkeypox,Energy & Transportation,BARRICK MINING CORP,756894
