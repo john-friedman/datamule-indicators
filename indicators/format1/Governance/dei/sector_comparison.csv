@@ -61,8 +61,8 @@ Trade & Services,1,173,inclusion_domestic
 Crypto Assets,1,2,diversity_international
 Energy & Transportation,0,12,diversity_international
 Energy & Transportation,1,24,diversity_international
-Finance,0,19,diversity_international
-Finance,1,28,diversity_international
+Finance,0,18,diversity_international
+Finance,1,29,diversity_international
 Industrial Applications and Services,0,7,diversity_international
 Industrial Applications and Services,1,9,diversity_international
 Life Sciences,0,9,diversity_international
@@ -78,8 +78,8 @@ Trade & Services,1,13,diversity_international
 Crypto Assets,1,4,equity_international
 Energy & Transportation,0,13,equity_international
 Energy & Transportation,1,37,equity_international
-Finance,0,15,equity_international
-Finance,1,28,equity_international
+Finance,0,14,equity_international
+Finance,1,29,equity_international
 Industrial Applications and Services,0,16,equity_international
 Industrial Applications and Services,1,23,equity_international
 Life Sciences,0,17,equity_international
@@ -95,8 +95,8 @@ Trade & Services,1,29,equity_international
 Crypto Assets,1,1,inclusion_international
 Energy & Transportation,0,8,inclusion_international
 Energy & Transportation,1,21,inclusion_international
-Finance,0,13,inclusion_international
-Finance,1,15,inclusion_international
+Finance,0,12,inclusion_international
+Finance,1,16,inclusion_international
 Industrial Applications and Services,0,6,inclusion_international
 Industrial Applications and Services,1,7,inclusion_international
 Life Sciences,0,5,inclusion_international

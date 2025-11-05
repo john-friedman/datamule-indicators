@@ -93,7 +93,7 @@ Life Sciences,1,45,mpox_domestic
 Manufacturing,0,1,mpox_domestic
 Manufacturing,1,2,mpox_domestic
 Technology,0,1,mpox_domestic
-Technology,1,3,mpox_domestic
+Technology,1,2,mpox_domestic
 Trade & Services,0,1,mpox_domestic
 Industrial Applications and Services,0,2,zika_domestic
 Industrial Applications and Services,1,1,zika_domestic
@@ -103,7 +103,7 @@ Industrial Applications and Services,1,16,h5n1-avian_domestic
 Life Sciences,0,22,h5n1-avian_domestic
 Life Sciences,1,21,h5n1-avian_domestic
 Manufacturing,0,11,h5n1-avian_domestic
-Manufacturing,1,28,h5n1-avian_domestic
+Manufacturing,1,27,h5n1-avian_domestic
 Technology,1,1,h5n1-avian_domestic
 Trade & Services,0,1,h5n1-avian_domestic
 Crypto Assets,0,1,h1n1-swine_international
@@ -123,7 +123,7 @@ Trade & Services,1,1,h1n1-swine_international
 Energy & Transportation,0,3,mpox_international
 Energy & Transportation,1,1,mpox_international
 Life Sciences,0,2,mpox_international
-Life Sciences,1,17,mpox_international
+Life Sciences,1,15,mpox_international
 Manufacturing,0,2,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,1,1,mpox_international
