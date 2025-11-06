@@ -416,7 +416,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-28,domestic,https://www.sec.gov/Archives/edgar/data/1467858/000146785825000032/gm-20241231.htm#:~:text=consumer%20confidence,Manufacturing,General Motors Co,1467858
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1122904/000095017025021413/ntgr-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"NETGEAR, INC.",1122904
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1816581/000162828025014318/oust-20241231.htm#:~:text=consumer%20confidence,Technology,"Ouster, Inc.",1816581
-2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1572386/000149315225009823/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,GREENWAY TECHNOLOGIES INC,1572386
+2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1572386/000149315225009823/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,"GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES",1572386
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1841761/000162828025013839/grov-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Grove Collaborative Holdings, Inc.",1841761
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1783398/000178339825000007/uwmc-20241231.htm#:~:text=consumer%20confidence,Finance,UWM Holdings Corp,1783398
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1428439/000142843925000013/roku-20241231.htm#:~:text=consumer%20confidence,Technology,"ROKU, INC",1428439
@@ -714,7 +714,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1110611/000111061125000004/ontf-20241231.htm#:~:text=consumer%20confidence,Technology,ON24 INC.,1110611
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1660280/000166028025000034/tenb-20241231.htm#:~:text=consumer%20confidence,Technology,"Tenable Holdings, Inc.",1660280
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/315131/000095017025037978/phx-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,PHX MINERALS INC.,315131
-2024-11-06,domestic,https://www.sec.gov/Archives/edgar/data/914712/000162828024045740/stcn-20240731.htm#:~:text=consumer%20confidence,Trade & Services,Steel Connect LLC,914712
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1561550/000156155025000025/ddog-20241231.htm#:~:text=consumer%20confidence,Technology,"Datadog, Inc.",1561550
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1549084/000143774925005913/ekso20241231_10k.htm#:~:text=consumer%20confidence,Technology,"EKSO BIONICS HOLDINGS, INC.",1549084
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1428205/000142820525000027/arr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Armour Residential REIT, Inc.",1428205
