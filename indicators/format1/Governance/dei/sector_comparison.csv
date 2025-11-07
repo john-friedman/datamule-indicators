@@ -2,7 +2,7 @@ ownerOrg,period,count,component
 Crypto Assets,0,1,diversity_domestic
 Crypto Assets,1,9,diversity_domestic
 Energy & Transportation,0,88,diversity_domestic
-Energy & Transportation,1,197,diversity_domestic
+Energy & Transportation,1,196,diversity_domestic
 Finance,0,82,diversity_domestic
 Finance,1,172,diversity_domestic
 Industrial Applications and Services,0,60,diversity_domestic
@@ -17,11 +17,11 @@ Real Estate & Construction,1,100,diversity_domestic
 Technology,0,50,diversity_domestic
 Technology,1,144,diversity_domestic
 Trade & Services,0,60,diversity_domestic
-Trade & Services,1,171,diversity_domestic
+Trade & Services,1,169,diversity_domestic
 Crypto Assets,0,15,equity_domestic
 Crypto Assets,1,22,equity_domestic
 Energy & Transportation,0,108,equity_domestic
-Energy & Transportation,1,189,equity_domestic
+Energy & Transportation,1,188,equity_domestic
 Finance,0,176,equity_domestic
 Finance,1,181,equity_domestic
 Industrial Applications and Services,0,128,equity_domestic
@@ -37,7 +37,7 @@ Real Estate & Construction,1,245,equity_domestic
 Technology,0,141,equity_domestic
 Technology,1,194,equity_domestic
 Trade & Services,0,161,equity_domestic
-Trade & Services,1,237,equity_domestic
+Trade & Services,1,236,equity_domestic
 Crypto Assets,0,6,inclusion_domestic
 Crypto Assets,1,10,inclusion_domestic
 Energy & Transportation,0,106,inclusion_domestic
@@ -57,7 +57,7 @@ Real Estate & Construction,1,76,inclusion_domestic
 Technology,0,106,inclusion_domestic
 Technology,1,164,inclusion_domestic
 Trade & Services,0,110,inclusion_domestic
-Trade & Services,1,174,inclusion_domestic
+Trade & Services,1,173,inclusion_domestic
 Crypto Assets,1,2,diversity_international
 Energy & Transportation,0,12,diversity_international
 Energy & Transportation,1,24,diversity_international
@@ -90,8 +90,8 @@ Real Estate & Construction,0,2,equity_international
 Real Estate & Construction,1,4,equity_international
 Technology,0,31,equity_international
 Technology,1,52,equity_international
-Trade & Services,0,10,equity_international
-Trade & Services,1,29,equity_international
+Trade & Services,0,9,equity_international
+Trade & Services,1,30,equity_international
 Crypto Assets,1,1,inclusion_international
 Energy & Transportation,0,8,inclusion_international
 Energy & Transportation,1,21,inclusion_international

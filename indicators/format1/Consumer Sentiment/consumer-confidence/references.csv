@@ -320,8 +320,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1818093/000162828025012407/skin-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Beauty Health Co,1818093
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1856485/000185648525000008/syl-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Sylvamo Corp,1856485
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1893657/000164117225000072/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Rubber Leaf Inc,1893657
-2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1063761/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP INC /DE/,1063761
-2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1022344/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP L P /DE/,1022344
+2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1063761/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP INC.,1063761
+2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1022344/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP L P,1022344
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1760965/000176096525000011/ktb-20241228.htm#:~:text=consumer%20confidence,Manufacturing,"Kontoor Brands, Inc.",1760965
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1653558/000165355825000039/prth-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Priority Technology Holdings, Inc.",1653558
 2024-11-21,domestic,https://www.sec.gov/Archives/edgar/data/1666138/000166613824000164/atkr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Atkore Inc.,1666138
@@ -1280,7 +1280,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/766704/000076670425000009/well-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,WELLTOWER INC.,766704
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1737924/000162828025008382/ncdlc-20241231.htm#:~:text=consumer%20confidence,,Nuveen Churchill Direct Lending Corp.,1737924
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1126328/000141057825000160/pfg-20241231x10k.htm#:~:text=consumer%20confidence,Finance,PRINCIPAL FINANCIAL GROUP INC,1126328
-2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=consumer%20confidence,Life Sciences,ATAI Life Sciences N.V.,1840904
+2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Atai Beckley N.V.,1840904
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1920145/000095017025032199/ck0001920145-20241231.htm#:~:text=consumer%20confidence,,Goldman Sachs Private Credit Corp.,1920145
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1662972/000166297225000027/breit-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Blackstone Real Estate Income Trust, Inc.",1662972
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1276520/000119312525041860/d869080d10k.htm#:~:text=consumer%20confidence,Finance,GENWORTH FINANCIAL INC,1276520
@@ -1350,7 +1350,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,international,https://www.sec.gov/Archives/edgar/data/1978527/000149315225006117/form20-f.htm#:~:text=consumer%20confidence,Energy & Transportation,Globavend Holdings Ltd,1978527
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1835654/000117891325000817/zk2532805.htm#:~:text=consumer%20confidence,Manufacturing,Innoviz Technologies Ltd.,1835654
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1841209/000182912625001963/microcloud_20f.htm#:~:text=consumer%20confidence,Technology,MicroCloud Hologram Inc.,1841209
-2024-11-07,international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=consumer%20confidence,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1834489/000095017025039412/geni-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Genius Sports Ltd,1834489
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/858446/000119312525037543/d867363d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,INTERCONTINENTAL HOTELS GROUP PLC /NEW/,858446
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1668717/000119312525052976/d899194d20f.htm#:~:text=consumer%20confidence,Manufacturing,Anheuser-Busch InBev SA/NV,1668717

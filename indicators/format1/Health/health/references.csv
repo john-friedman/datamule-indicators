@@ -127,7 +127,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=Alzheimer,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1966394/000196639425000025/fnlr-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,Fortress Net Lease REIT,1966394
 2025-03-07,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1854401/000185440125000062/brdg-20241231.htm#:~:text=Alzheimer,Finance,Bridge Investment Group Holdings Inc.,1854401
-2024-11-07,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1713863/000121390024095111/ea0217275-10k_rafael.htm#:~:text=Alzheimer,Life Sciences,"Rafael Holdings, Inc.",1713863
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1888886/000155837025001826/gpcr-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,Structure Therapeutics Inc.,1888886
 2025-02-12,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/766704/000076670425000009/well-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,WELLTOWER INC.,766704
 2025-02-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1276520/000119312525041860/d869080d10k.htm#:~:text=Alzheimer,Finance,GENWORTH FINANCIAL INC,1276520
@@ -343,9 +342,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1070985/000095017025024745/cxw-20241231.htm#:~:text=PTSD,Real Estate & Construction,"CoreCivic, Inc.",1070985
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1776738/000177673825000003/cbstf-20241231.htm#:~:text=PTSD,Industrial Applications and Services,Cannabist Co Holdings Inc.,1776738
 2025-03-04,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1771706/000155837025002130/vreof-20241231x10k.htm#:~:text=PTSD,Life Sciences,Vireo Growth Inc.,1771706
-2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,ATAI Life Sciences N.V.,1840904
+2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,Atai Beckley N.V.,1840904
 2025-03-13,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1651625/000155837025002855/aciu-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,AC Immune SA,1651625
-2024-11-07,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=Alzheimer,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
 2025-02-05,alzheimer_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Alzheimer,Life Sciences,NOVO NORDISK A S,353278
 2025-01-22,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1892500/000121390025005490/ea0227485-20f_clearmind.htm#:~:text=Alzheimer,Life Sciences,Clearmind Medicine Inc.,1892500
 2025-03-04,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1840706/000184070625000009/soph-20241231.htm#:~:text=Alzheimer,Technology,SOPHiA GENETICS SA,1840706
@@ -399,7 +397,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124014604/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-11-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124045654/ef20038209_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2024-11-12,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124014466/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124048907/ef20039836_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2025-02-06,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001243/ex99-02.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -412,7 +409,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-15,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000119312525007008/d916387dex991.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-03-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000019/ebs2024-12x31deck.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/832489/000143774925009859/ex_795727.htm#:~:text=mpox&text=monkeypox,Life Sciences,"GeoVax Labs, Inc.",832489
-2024-11-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1692415/000149315224044001/ex99-1.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,"Co-Diagnostics, Inc.",1692415
 2025-03-26,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000054/pressrelease_03102025.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000083/pressrelease-3192025bayvie.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
@@ -454,7 +450,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924034551/ex_721715.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-01-30,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1022079/000102207925000008/dgx123120248-kexhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,QUEST DIAGNOSTICS INC,1022079
-2024-11-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017024122799/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
 2025-02-03,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049325000006/tsn2025q1exh-991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"TYSON FOODS, INC.",100493
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017025028361/vitl-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Vital Farms, Inc.",1579733
 2025-03-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1768224/000119380525000275/e664243_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Arcturus Therapeutics Holdings Inc.,1768224
@@ -478,7 +473,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-18,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1577552/000110465924119899/tm2428512d1_ex99-4.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Trade & Services,Alibaba Group Holding Ltd,1577552
 2024-11-14,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299324019047/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-02-13,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
-2024-11-07,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1862461/000149315224043911/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Real Estate & Construction,Real Brokerage Inc,1862461
 2025-03-11,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2024-11-19,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1808110/000121390024099916/ea0221768-6k_ddcenter.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DDC Enterprise Ltd,1808110
 2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
@@ -489,7 +483,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,mpox_international,https://www.sec.gov/Archives/edgar/data/756894/000119312525025337/d853431dex992.htm#:~:text=mpox&text=monkeypox,Energy & Transportation,BARRICK MINING CORP,756894
 2025-03-14,mpox_international,https://www.sec.gov/Archives/edgar/data/756894/000119312525054509/d16481dex991.pdf#:~:text=mpox&text=monkeypox,Energy & Transportation,BARRICK MINING CORP,756894
 2025-02-26,mpox_international,https://www.sec.gov/Archives/edgar/data/1438569/000110465925017501/tm257688d1_6k.htm#:~:text=mpox&text=monkeypox,Life Sciences,Grifols SA,1438569
-2024-11-07,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828024046047/valnevaq3pren1.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-02-18,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025005939/valnevapr18-2x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025009323/valnevapr3-3x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-25,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025014598/valnevapr25-3x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
@@ -519,6 +512,5 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-16,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-28,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2024-11-22,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1899123/000114036124047636/ef20039115_ex99-3.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Crypto Assets,Bitdeer Technologies Group,1899123
-2024-11-07,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1862461/000149315224043911/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Real Estate & Construction,Real Brokerage Inc,1862461
 2024-11-18,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1577552/000110465924119899/tm2428512d1_ex99-4.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Trade & Services,Alibaba Group Holding Ltd,1577552
 2025-03-14,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/756894/000119312525054509/d16481dex991.pdf#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Energy & Transportation,BARRICK MINING CORP,756894

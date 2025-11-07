@@ -9,7 +9,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-07,ai_domestic,https://www.sec.gov/Archives/edgar/data/1521332/000152133225000010/aptv-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Manufacturing,Aptiv PLC,1521332
 2025-02-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/310158/000162828025007732/mrk-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"Merck & Co., Inc.",310158
 2025-03-06,ai_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"EyePoint Pharmaceuticals, Inc.",1314102
-2025-03-17,ai_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,ATAI Life Sciences N.V.,1840904
+2025-03-17,ai_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,Atai Beckley N.V.,1840904
 2025-02-28,ai_domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
 2025-03-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/1674632/000095017025044516/bbnx-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"Beta Bionics, Inc.",1674632
 2025-03-10,ai_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"Tenaya Therapeutics, Inc.",1858848
@@ -17,7 +17,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-30,ai_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052506/form20-f.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Technology,"Ehave, Inc.",1653606
 2025-03-03,ai_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,GSK plc,1131399
 2025-03-27,ai_international,https://www.sec.gov/Archives/edgar/data/1809196/000095017025045724/imtx-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,Immatics N.V.,1809196
-2024-11-07,ai_international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1211583/000155837025003710/fencf-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,FENNEC PHARMACEUTICALS INC.,1211583
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1369568/000095017025027714/cprx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"CATALYST PHARMACEUTICALS, INC.",1369568
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1398733/000162828025010506/aqst-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aquestive Therapeutics, Inc.",1398733
@@ -218,7 +217,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000037/flks-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Salarius Pharmaceuticals, Inc.",1615219
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1781174/000095017025046056/acrv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Acrivon Therapeutics, Inc.",1781174
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1664710/000166471025000018/kros-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Keros Therapeutics, Inc.",1664710
-2024-11-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1713863/000121390024095111/ea0217275-10k_rafael.htm#:~:text=orphan%20drug,Life Sciences,"Rafael Holdings, Inc.",1713863
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1671927/000167192725000006/imcr-20241231.htm#:~:text=orphan%20drug,Life Sciences,Immunocore Holdings plc,1671927
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1626971/000155837025003621/crvs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Corvus Pharmaceuticals, Inc.",1626971
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1680048/000155837025003913/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"MUSTANG BIO, INC.",1680048
