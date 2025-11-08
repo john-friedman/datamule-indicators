@@ -205,7 +205,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1743759/000095017025027856/crsr-20241231.htm#:~:text=consumer%20confidence,Technology,"Corsair Gaming, Inc.",1743759
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1641601/000095017025036910/ck0001641601-20241231.htm#:~:text=consumer%20confidence,Finance,River Financial Corp,1641601
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1580905/000158090525000010/ibp-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Installed Building Products, Inc.",1580905
-2024-11-08,domestic,https://www.sec.gov/Archives/edgar/data/1772177/000095017024124091/krus-20240831.htm#:~:text=consumer%20confidence,Trade & Services,"KURA SUSHI USA, INC.",1772177
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1124941/000112494125000021/becn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO BUILDING PRODUCTS, INC.",1124941
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1275158/000127515825000016/ndls-20241231.htm#:~:text=consumer%20confidence,Trade & Services,NOODLES & Co,1275158
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/48287/000004828725000084/hni-20241228.htm#:~:text=consumer%20confidence,Manufacturing,HNI CORP,48287
@@ -1322,7 +1321,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1900304/000155837025003368/hln-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Haleon plc,1900304
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1545772/000154577225000008/bpy-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Brookfield Property Partners L.P.,1545772
 2025-02-21,international,https://www.sec.gov/Archives/edgar/data/313216/000031321625000009/phg-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,KONINKLIJKE PHILIPS NV,313216
-2024-11-08,international,https://www.sec.gov/Archives/edgar/data/1896425/000121390024095922/ea0219095-20f_libang.htm#:~:text=consumer%20confidence,Technology,Li Bang International Corp Inc.,1896425
 2025-02-04,international,https://www.sec.gov/Archives/edgar/data/1742692/000117891325000314/zk2532597.htm#:~:text=consumer%20confidence,Industrial Applications and Services,InMode Ltd.,1742692
 2025-03-03,international,https://www.sec.gov/Archives/edgar/data/1651717/000165171725000011/nomd-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Nomad Foods Ltd,1651717
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1867102/000110465925022354/evtl-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,Vertical Aerospace Ltd.,1867102
@@ -1368,7 +1366,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1836470/000141057825000399/srad-20241231x20f.htm#:~:text=consumer%20confidence,Technology,Sportradar Group AG,1836470
 2025-03-05,international,https://www.sec.gov/Archives/edgar/data/1504379/000117891325000706/zk2532778.htm#:~:text=consumer%20confidence,Manufacturing,Caesarstone Ltd.,1504379
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1448397/000114036125009905/ef20039029_20f.htm#:~:text=consumer%20confidence,Energy & Transportation,Seanergy Maritime Holdings Corp.,1448397
-2024-11-08,international,https://www.sec.gov/Archives/edgar/data/1430162/000155485524000744/csan-20231231.htm#:~:text=consumer%20confidence,Trade & Services,Cosan S.A.,1430162
 2025-03-19,international,https://www.sec.gov/Archives/edgar/data/1386716/000095015725000241/sblk-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Star Bulk Carriers Corp.,1386716
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/717826/000119312525051949/d853477dex151.htm#:~:text=consumer%20confidence,Manufacturing,ERICSSON LM TELEPHONE CO,717826
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1992818/000149315225009478/form20-f.htm#:~:text=consumer%20confidence,Technology,ZOOZ Strategy Ltd.,1992818
