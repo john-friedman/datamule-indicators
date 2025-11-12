@@ -272,7 +272,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1492691/000149269125000013/knx-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Knight-Swift Transportation Holdings Inc.,1492691
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1552033/000155203325000015/tru-20241231.htm#:~:text=consumer%20confidence,Trade & Services,TransUnion,1552033
 2025-01-31,domestic,https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm#:~:text=consumer%20confidence,Manufacturing,INTEL CORP,50863
-2024-11-12,domestic,https://www.sec.gov/Archives/edgar/data/886206/000088620624000060/fc-20240831x10k.htm#:~:text=consumer%20confidence,Trade & Services,FRANKLIN COVEY CO,886206
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/1439288/000143928825000019/zws-20241231.htm#:~:text=consumer%20confidence,Technology,Zurn Elkay Water Solutions Corp,1439288
 2024-12-18,domestic,https://www.sec.gov/Archives/edgar/data/737758/000073775824000087/ttc-20241031.htm#:~:text=consumer%20confidence,Technology,TORO CO,737758
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/3453/000155837025001875/matx-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,"Matson, Inc.",3453
@@ -411,7 +410,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/791963/000079196325000010/opy-20241231.htm#:~:text=consumer%20confidence,Finance,OPPENHEIMER HOLDINGS INC,791963
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1102993/000110299325000018/lpsn-20241231.htm#:~:text=consumer%20confidence,Technology,LIVEPERSON INC,1102993
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1590895/000159089525000068/czr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Caesars Entertainment, Inc.",1590895
-2024-11-12,domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049324000119/tsn-20240928.htm#:~:text=consumer%20confidence,Manufacturing,"TYSON FOODS, INC.",100493
 2025-01-28,domestic,https://www.sec.gov/Archives/edgar/data/1467858/000146785825000032/gm-20241231.htm#:~:text=consumer%20confidence,Manufacturing,General Motors Co,1467858
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1122904/000095017025021413/ntgr-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"NETGEAR, INC.",1122904
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1816581/000162828025014318/oust-20241231.htm#:~:text=consumer%20confidence,Technology,"Ouster, Inc.",1816581

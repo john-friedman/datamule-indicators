@@ -233,7 +233,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1877322/000187732225000021/esab-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,ESAB Corp,1877322
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/738214/000143774925007768/amtx20241231_10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"AEMETIS, INC",738214
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1822928/000143774925007614/hlly20241112_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Holley Inc.,1822928
-2024-11-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1493594/000149359424000060/mtsi-20240927.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"MACOM Technology Solutions Holdings, Inc.",1493594
 2025-01-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1177394/000117739425000009/snx-20241130.htm#:~:text=Supply%20chain%20constraints,Trade & Services,TD SYNNEX CORP,1177394
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1534675/000149315225008697/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Tecnoglass Inc.,1534675
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/8818/000000881825000003/avy-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Avery Dennison Corp,8818
@@ -255,7 +254,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1087294/000162828025011366/cpix-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,CUMBERLAND PHARMACEUTICALS INC,1087294
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/883569/000088356925000010/fosl-20241228.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Fossil Group, Inc.",883569
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/729580/000143774925005652/belfb20241231_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BEL FUSE INC /NJ,729580
-2024-11-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1644378/000164437824000042/rmr-20240930.htm#:~:text=Supply%20chain%20constraints,Trade & Services,RMR GROUP INC.,1644378
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1062231/000106223125000008/axl-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,1062231
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1875444/000187544425000021/arhs-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Arhaus, Inc.",1875444
 2024-11-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1718227/000171822724000102/road-20240930.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Construction Partners, Inc.",1718227
@@ -317,7 +315,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1452477/000145247725000014/sevn-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,Seven Hills Realty Trust,1452477
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1384905/000138490525000014/rng-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"RingCentral, Inc.",1384905
 2025-03-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1816581/000162828025014318/oust-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Ouster, Inc.",1816581
-2024-11-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/100493/000010049324000119/tsn-20240928.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"TYSON FOODS, INC.",100493
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/773840/000077384025000010/hon-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,HONEYWELL INTERNATIONAL INC,773840
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1762303/000095017025020026/rcel-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"AVITA Medical, Inc.",1762303
 2025-02-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1895262/000162828025006184/ne-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Noble Corp plc,1895262
