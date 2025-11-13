@@ -12,7 +12,7 @@ Manufacturing,1,25,launch_domestic
 Real Estate & Construction,0,2,launch_domestic
 Real Estate & Construction,1,2,launch_domestic
 Technology,0,9,launch_domestic
-Technology,1,18,launch_domestic
+Technology,1,17,launch_domestic
 Trade & Services,0,2,launch_domestic
 Trade & Services,1,4,launch_domestic
 Crypto Assets,0,1,satellite_domestic
@@ -40,7 +40,7 @@ Manufacturing,0,7,exploration_domestic
 Manufacturing,1,11,exploration_domestic
 Real Estate & Construction,1,1,exploration_domestic
 Technology,0,3,exploration_domestic
-Technology,1,4,exploration_domestic
+Technology,1,3,exploration_domestic
 Trade & Services,0,1,exploration_domestic
 Trade & Services,1,1,exploration_domestic
 Energy & Transportation,0,2,commercial_domestic
