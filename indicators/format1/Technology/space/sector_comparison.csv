@@ -13,10 +13,9 @@ Real Estate & Construction,0,2,launch_domestic
 Real Estate & Construction,1,2,launch_domestic
 Technology,0,9,launch_domestic
 Technology,1,17,launch_domestic
-Trade & Services,0,2,launch_domestic
-Trade & Services,1,4,launch_domestic
-Crypto Assets,0,1,satellite_domestic
-Crypto Assets,1,1,satellite_domestic
+Trade & Services,0,1,launch_domestic
+Trade & Services,1,5,launch_domestic
+Crypto Assets,1,2,satellite_domestic
 Energy & Transportation,0,1,satellite_domestic
 Energy & Transportation,1,7,satellite_domestic
 Finance,0,1,satellite_domestic

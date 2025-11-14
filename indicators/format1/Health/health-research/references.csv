@@ -408,7 +408,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1174940/000149315225010389/form10-k.htm#:~:text=orphan%20drug,Life Sciences,ORAGENICS INC,1174940
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1023024/000102302425000015/anip-20241231.htm#:~:text=orphan%20drug,Life Sciences,ANI PHARMACEUTICALS INC,1023024
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1850119/000155837025003299/ipsc-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Century Therapeutics, Inc.",1850119
-2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1567892/000156789225000010/mnk-20241227.htm#:~:text=orphan%20drug,Life Sciences,Mallinckrodt plc,1567892
+2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1567892/000156789225000010/mnk-20241227.htm#:~:text=orphan%20drug,Life Sciences,Keenova Therapeutics plc,1567892
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1563577/000095017025047798/grtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Galera Therapeutics, Inc.",1563577
 2024-12-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1980845/000095017024138472/engn-20241031.htm#:~:text=orphan%20drug,Life Sciences,enGene Holdings Inc.,1980845
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1861657/000164117225000654/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Tharimmune, Inc.",1861657
@@ -429,7 +429,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1001233/000162828025013088/sgmo-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SANGAMO THERAPEUTICS, INC",1001233
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1125345/000112534525000042/mgnx-20241231.htm#:~:text=orphan%20drug,Life Sciences,MACROGENICS INC,1125345
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1117480/000111748025000004/cmrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,CHIMERIX INC,1117480
-2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1509745/000141057825000454/lptx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"LEAP THERAPEUTICS, INC.",1509745
+2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1509745/000141057825000454/lptx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,CYPHERPUNK TECHNOLOGIES INC.,1509745
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=orphan%20drug,Life Sciences,BeOne Medicines Ltd.,1651308
 2025-02-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/318154/000031815425000010/amgn-20241231.htm#:~:text=orphan%20drug,Life Sciences,AMGEN INC,318154
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1468748/000095017025046098/kod-20241231.htm#:~:text=orphan%20drug,Life Sciences,Kodiak Sciences Inc.,1468748

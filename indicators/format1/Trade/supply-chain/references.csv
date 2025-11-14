@@ -203,7 +203,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1519751/000095017025026763/fbin-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Fortune Brands Innovations, Inc.",1519751
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1720635/000172063525000018/nvt-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,nVent Electric plc,1720635
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1006045/000095017025046107/irix-20241228.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,IRIDEX CORP,1006045
-2024-11-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/56978/000005697824000148/klic-20240928.htm#:~:text=Supply%20chain%20constraints,Manufacturing,KULICKE & SOFFA INDUSTRIES INC,56978
 2025-03-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1137547/000113754725000039/ubfo-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,UNITED SECURITY BANCSHARES,1137547
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Eaton Corp plc,1551182
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1035983/000155837025001222/fix-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,COMFORT SYSTEMS USA INC,1035983
@@ -462,7 +461,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/103682/000095017025028387/d-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,VIRGINIA ELECTRIC & POWER CO,103682
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1544206/000154420625000011/csl-20241231.htm#:~:text=Supply%20chain%20constraints,,"Carlyle Secured Lending, Inc.",1544206
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1782524/000178252425000009/msdlf-20241231.htm#:~:text=Supply%20chain%20constraints,,Morgan Stanley Direct Lending Fund,1782524
-2024-11-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1376986/000137698624000029/tve-20240930.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Tennessee Valley Authority,1376986
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1737924/000162828025008382/ncdlc-20241231.htm#:~:text=Supply%20chain%20constraints,,Nuveen Churchill Direct Lending Corp.,1737924
 2025-03-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1851322/000185132225000023/pif-20241231.htm#:~:text=Supply%20chain%20constraints,,North Haven Private Income Fund LLC,1851322
 2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1976336/000095017025041127/ck0001976336-20241231.htm#:~:text=Supply%20chain%20constraints,,Antares Private Credit Fund,1976336

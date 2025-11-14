@@ -1,8 +1,8 @@
 ownerOrg,period,count,component
 Crypto Assets,0,2,power_domestic
 Crypto Assets,1,2,power_domestic
-Energy & Transportation,0,106,power_domestic
-Energy & Transportation,1,108,power_domestic
+Energy & Transportation,0,105,power_domestic
+Energy & Transportation,1,109,power_domestic
 Finance,0,1,power_domestic
 Finance,1,2,power_domestic
 Industrial Applications and Services,0,9,power_domestic
@@ -15,10 +15,10 @@ Real Estate & Construction,0,3,power_domestic
 Real Estate & Construction,1,6,power_domestic
 Technology,0,5,power_domestic
 Technology,1,10,power_domestic
-Trade & Services,0,8,power_domestic
+Trade & Services,0,7,power_domestic
 Trade & Services,1,7,power_domestic
-Energy & Transportation,0,102,fuel_domestic
-Energy & Transportation,1,103,fuel_domestic
+Energy & Transportation,0,101,fuel_domestic
+Energy & Transportation,1,104,fuel_domestic
 Finance,0,2,fuel_domestic
 Finance,1,3,fuel_domestic
 Industrial Applications and Services,0,4,fuel_domestic
@@ -44,8 +44,8 @@ Technology,0,3,technology_domestic
 Technology,1,4,technology_domestic
 Trade & Services,0,1,technology_domestic
 Trade & Services,1,3,technology_domestic
-Energy & Transportation,0,89,services_domestic
-Energy & Transportation,1,89,services_domestic
+Energy & Transportation,0,88,services_domestic
+Energy & Transportation,1,90,services_domestic
 Finance,0,2,services_domestic
 Finance,1,1,services_domestic
 Industrial Applications and Services,0,4,services_domestic
@@ -57,8 +57,8 @@ Real Estate & Construction,1,3,services_domestic
 Technology,0,1,services_domestic
 Technology,1,3,services_domestic
 Trade & Services,0,1,services_domestic
-Energy & Transportation,0,89,regulation_domestic
-Energy & Transportation,1,89,regulation_domestic
+Energy & Transportation,0,88,regulation_domestic
+Energy & Transportation,1,90,regulation_domestic
 Finance,0,1,regulation_domestic
 Finance,1,2,regulation_domestic
 Industrial Applications and Services,0,10,regulation_domestic
@@ -71,11 +71,12 @@ Real Estate & Construction,0,2,regulation_domestic
 Real Estate & Construction,1,3,regulation_domestic
 Technology,0,3,regulation_domestic
 Technology,1,3,regulation_domestic
-Trade & Services,0,3,regulation_domestic
-Trade & Services,1,3,regulation_domestic
+Trade & Services,0,2,regulation_domestic
+Trade & Services,1,4,regulation_domestic
 Crypto Assets,0,1,fusion_domestic
 Crypto Assets,1,1,fusion_domestic
-Energy & Transportation,0,5,fusion_domestic
+Energy & Transportation,0,4,fusion_domestic
+Energy & Transportation,1,1,fusion_domestic
 Industrial Applications and Services,0,2,fusion_domestic
 Industrial Applications and Services,1,4,fusion_domestic
 Manufacturing,0,1,fusion_domestic
@@ -84,8 +85,8 @@ Real Estate & Construction,1,1,fusion_domestic
 Technology,0,1,fusion_domestic
 Technology,1,2,fusion_domestic
 Trade & Services,0,1,fusion_domestic
-Energy & Transportation,0,78,risk_domestic
-Energy & Transportation,1,78,risk_domestic
+Energy & Transportation,0,77,risk_domestic
+Energy & Transportation,1,79,risk_domestic
 Finance,0,2,risk_domestic
 Finance,1,3,risk_domestic
 Industrial Applications and Services,0,4,risk_domestic
