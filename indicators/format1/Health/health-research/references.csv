@@ -516,7 +516,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1889109/000141057825000356/blte-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,"BELITE BIO, INC",1889109
 2025-03-28,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1838716/000164117225001207/form20-f.htm#:~:text=orphan%20drug,Life Sciences,Genenta Science S.p.A.,1838716
 2025-02-12,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=orphan%20drug,Life Sciences,Ascendis Pharma A/S,1612042
-2024-11-15,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1075880/000119312524259805/d872361d20f.htm#:~:text=orphan%20drug,Life Sciences,KAZIA THERAPEUTICS LTD,1075880
 2025-03-31,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1498403/000117891325001123/zk2532907.htm#:~:text=orphan%20drug,Life Sciences,BioLineRx Ltd.,1498403
 2025-03-24,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1818838/000141057825000419/adag-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,Adagene Inc.,1818838
 2025-03-20,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1697862/000169786225000024/argx-20241231.htm#:~:text=orphan%20drug,Life Sciences,ARGENX SE,1697862
@@ -678,7 +677,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1787400/000095017025045262/nktx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Nkarta, Inc.",1787400
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1817229/000095017025042623/vor-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Vor Biopharma Inc.,1817229
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
-2024-11-15,genomic_domestic,https://www.sec.gov/Archives/edgar/data/109177/000010917724000047/spb-20240930.htm#:~:text=genomic&text=genomic%20research,Manufacturing,"Spectrum Brands Holdings, Inc.",109177
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1281895/000095017025029002/rckt-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ROCKET PHARMACEUTICALS, INC.",1281895
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Athira Pharma, Inc.",1620463
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1725160/000172516025000067/zntl-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Zentalis Pharmaceuticals, Inc.",1725160
@@ -883,7 +881,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1927578/000141057825000153/ntcl-20240930x20f.htm#:~:text=healthcare%20blockchain,Technology,NetClass Technology Inc,1927578
 2024-12-30,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052506/form20-f.htm#:~:text=healthcare%20blockchain,Technology,"Ehave, Inc.",1653606
 2024-12-30,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052509/form20-f.htm#:~:text=healthcare%20blockchain,Technology,"Ehave, Inc.",1653606
-2024-11-15,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1807389/000121390024099099/ea0220328-20f_popcult.htm#:~:text=healthcare%20blockchain,Trade & Services,"Pop Culture Group Co., Ltd",1807389
 2025-03-20,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1951222/000119380525000334/e664249_20f-sealsq.htm#:~:text=healthcare%20blockchain,Manufacturing,SEALSQ Corp,1951222
 2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1557860/000162828025009110/glob-20241231.htm#:~:text=healthcare%20blockchain,Technology,Globant S.A.,1557860
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,ArcelorMittal,1243429

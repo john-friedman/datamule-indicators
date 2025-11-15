@@ -61,7 +61,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1802974/000180297424000053/avo-20241031.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Mission Produce, Inc.",1802974
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1089063/000108906325000012/dks-20250201.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"DICK'S SPORTING GOODS, INC.",1089063
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1598428/000095017025029085/mtus-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Metallus Inc.,1598428
-2024-11-15,constraints_domestic,https://www.sec.gov/Archives/edgar/data/785786/000078578624000074/plxs-20240928.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PLEXUS CORP,785786
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1759824/000095017025033669/altg-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,ALTA EQUIPMENT GROUP INC.,1759824
 2024-12-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/cien-20241102.htm#:~:text=Supply%20chain%20constraints,Manufacturing,CIENA CORP,936395
@@ -382,7 +381,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/917520/000091752025000017/iart-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,INTEGRA LIFESCIENCES HOLDINGS CORP,917520
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1001316/000143774925005908/tgtx20241231_10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"TG THERAPEUTICS, INC.",1001316
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1792580/000095017025027914/ovv-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Ovintiv Inc.,1792580
-2024-11-15,constraints_domestic,https://www.sec.gov/Archives/edgar/data/109177/000010917724000047/spb-20240930.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Spectrum Brands Holdings, Inc.",109177
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/101382/000095017025028420/umbf-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,UMB FINANCIAL CORP,101382
 2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1590717/000162828025005118/ctre-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"CareTrust REIT, Inc.",1590717
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2028686/000202868625000012/slic-20241231.htm#:~:text=Supply%20chain%20constraints,,SL Investment Fund II LLC,2028686
@@ -489,7 +487,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,constraints_intl,https://www.sec.gov/Archives/edgar/data/1640043/000164117225001092/form20-f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pyxis Tankers Inc.,1640043
 2025-03-20,constraints_intl,https://www.sec.gov/Archives/edgar/data/1029145/000102914525000012/gogl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Golden Ocean Group Ltd,1029145
 2025-03-17,constraints_intl,https://www.sec.gov/Archives/edgar/data/1289877/000128987725000013/sfl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,SFL Corp Ltd.,1289877
-2024-11-15,constraints_intl,https://www.sec.gov/Archives/edgar/data/1928581/000149315224046303/form20-f.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Fitell Corp,1928581
 2025-03-07,constraints_intl,https://www.sec.gov/Archives/edgar/data/1129928/000112992825000019/oncyf-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,ONCOLYTICS BIOTECH INC,1129928
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1041934/000155837025003828/edap-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,EDAP TMS SA,1041934
 2025-03-26,constraints_intl,https://www.sec.gov/Archives/edgar/data/1708441/000162828025014832/mynd-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Mynd.ai, Inc.",1708441

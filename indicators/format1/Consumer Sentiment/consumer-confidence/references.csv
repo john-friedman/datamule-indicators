@@ -441,7 +441,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/835357/000083535725000003/efloa-20241231.htm#:~:text=consumer%20confidence,Finance,EQUITABLE FINANCIAL LIFE INSURANCE CO OF AMERICA,835357
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1045450/000104545025000051/epr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,EPR PROPERTIES,1045450
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1988494/000095017025042774/fvr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"FrontView REIT, Inc.",1988494
-2024-11-15,domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095024000365/post-20240930.htm#:~:text=consumer%20confidence,Manufacturing,"Post Holdings, Inc.",1530950
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/726601/000072660125000013/ccbg-20241231.htm#:~:text=consumer%20confidence,Finance,CAPITAL CITY BANK GROUP INC,726601
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1339005/000114036125010598/ef20038998_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,FEMASYS INC,1339005
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1818874/000181887425000016/sofi-20241231.htm#:~:text=consumer%20confidence,Finance,"SoFi Technologies, Inc.",1818874
@@ -557,7 +556,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1861107/000095017025026773/cbll-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Ceribell, Inc.",1861107
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1799332/000149315225010404/form10-k.htm#:~:text=consumer%20confidence,Technology,GAN Ltd,1799332
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1527541/000152754125000038/whlr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Wheeler Real Estate Investment Trust, Inc.",1527541
-2024-11-15,domestic,https://www.sec.gov/Archives/edgar/data/1314727/000131472724000026/sono-20240928.htm#:~:text=consumer%20confidence,Manufacturing,Sonos Inc,1314727
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/2015955/000101376225001006/ea0234545-10k_lionheart.htm#:~:text=consumer%20confidence,Real Estate & Construction,Lionheart Holdings,2015955
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/799288/000095017025046044/le-20250131.htm#:~:text=consumer%20confidence,Trade & Services,"LANDS' END, INC.",799288
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1661458/000166145825000003/hri-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Highlands REIT, Inc.",1661458
@@ -1052,7 +1050,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1559432/000155943225000035/txo-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"TXO Partners, L.P.",1559432
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1690585/000095017025037131/dnth-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Dianthus Therapeutics, Inc. /DE/",1690585
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1860879/000182912625001989/rigelresources_10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Rigel Resource Acquisition Corp.,1860879
-2024-11-15,domestic,https://www.sec.gov/Archives/edgar/data/109177/000010917724000047/spb-20240930.htm#:~:text=consumer%20confidence,Manufacturing,"Spectrum Brands Holdings, Inc.",109177
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1384101/000138410125000014/vcyt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"VERACYTE, INC.",1384101
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1433270/000155837025000864/ar-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,ANTERO RESOURCES Corp,1433270
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1052752/000095017025019976/gty-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,GETTY REALTY CORP /MD/,1052752
@@ -1291,7 +1288,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm#:~:text=consumer%20confidence,Finance,GOLDMAN SACHS GROUP INC,886982
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/19617/000001961725000270/jpm-20241231.htm#:~:text=consumer%20confidence,Finance,JPMORGAN CHASE & CO,19617
 2025-02-05,domestic,https://www.sec.gov/Archives/edgar/data/1287750/000128775025000007/arcc-20241231.htm#:~:text=consumer%20confidence,,ARES CAPITAL CORP,1287750
-2024-11-15,international,https://www.sec.gov/Archives/edgar/data/1928581/000149315224046303/form20-f.htm#:~:text=consumer%20confidence,Manufacturing,Fitell Corp,1928581
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1734107/000119312525053425/d901296dex441.htm#:~:text=consumer%20confidence,Technology,Sohu.com Ltd,1734107
 2025-01-30,international,https://www.sec.gov/Archives/edgar/data/1967822/000121390025008172/ea0227461-20f_creative.htm#:~:text=consumer%20confidence,Trade & Services,Creative Global Technology Holdings Ltd,1967822
 2025-03-10,international,https://www.sec.gov/Archives/edgar/data/1985487/000095017025035904/kspi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Joint Stock Co Kaspi.kz,1985487
