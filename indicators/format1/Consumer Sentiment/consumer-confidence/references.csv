@@ -147,7 +147,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1374328/000143774925009469/ftlf20241231_10k.htm#:~:text=consumer%20confidence,Life Sciences,"FITLIFE BRANDS, INC.",1374328
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1129155/000155837025001921/mpx-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,MARINE PRODUCTS CORP,1129155
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/799167/000143774925005570/mrtn20241231_10k.htm#:~:text=consumer%20confidence,Energy & Transportation,MARTEN TRANSPORT LTD,799167
-2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/1406587/000140658724000118/for-20240930.htm#:~:text=consumer%20confidence,Real Estate & Construction,Forestar Group Inc.,1406587
 2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1976900/000149315224051440/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,DFP HOLDINGS Ltd,1976900
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/96869/000009686925000006/trc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,TEJON RANCH CO,96869
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1766502/000176650225000014/chwy-20250202.htm#:~:text=consumer%20confidence,Trade & Services,"Chewy, Inc.",1766502
@@ -293,7 +292,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1847874/000143774925007028/minf20241231_10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Mobile Infrastructure Corp,1847874
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1740332/000174033225000010/rezi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"RESIDEO TECHNOLOGIES, INC.",1740332
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1195734/000119573425000029/pbpb-20241229.htm#:~:text=consumer%20confidence,Trade & Services,POTBELLY CORP,1195734
-2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/1772016/000177201624000108/brbr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,"BELLRING BRANDS, INC.",1772016
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1023128/000102312825000026/lad-20241231.htm#:~:text=consumer%20confidence,Trade & Services,LITHIA MOTORS INC,1023128
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/761648/000076164825000019/cdr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"CEDAR REALTY TRUST, INC.",761648
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/888981/000107997325000476/nnup_10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,NOCOPI TECHNOLOGIES INC/MD/,888981
@@ -364,7 +362,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1334036/000133403625000009/crox-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Crocs, Inc.",1334036
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1562088/000156208825000042/duol-20241231.htm#:~:text=consumer%20confidence,Technology,"Duolingo, Inc.",1562088
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1545654/000154565425000005/alex-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Alexander & Baldwin, Inc.",1545654
-2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/882184/000088218424000057/dhi-20240930.htm#:~:text=consumer%20confidence,Real Estate & Construction,HORTON D R INC /DE/,882184
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/911147/000091114725000010/cnty-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,CENTURY CASINOS INC /CO/,911147
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/821002/000155837025003540/giii-20250131x10k.htm#:~:text=consumer%20confidence,Manufacturing,G III APPAREL GROUP LTD /DE/,821002
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1736946/000173694625000014/arlo-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Arlo Technologies, Inc.",1736946
@@ -688,7 +685,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/862692/000095017025030138/ccel-20241130.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CRYO CELL INTERNATIONAL INC,862692
 2025-02-07,domestic,https://www.sec.gov/Archives/edgar/data/896622/000089662225000007/atr-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"APTARGROUP, INC.",896622
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1999001/000199900125000052/fun-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Six Flags Entertainment Corporation/NEW,1999001
-2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/1308547/000162828024048519/dlb-20240927.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Dolby Laboratories, Inc.",1308547
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1298946/000129894625000015/drh-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,DiamondRock Hospitality Co,1298946
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/hsy-20241231.htm#:~:text=consumer%20confidence,Manufacturing,HERSHEY CO,47111
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1116942/000095017025024839/ttmi-20241230.htm#:~:text=consumer%20confidence,Manufacturing,TTM TECHNOLOGIES INC,1116942
@@ -748,7 +744,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1563190/000156319025000050/comp-20241231.htm#:~:text=consumer%20confidence,Technology,"Compass, Inc.",1563190
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1603652/000095017025039411/uly-20241231.htm#:~:text=consumer%20confidence,Technology,Urgent.ly Inc.,1603652
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1295810/000155837025001297/sho-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Sunstone Hotel Investors, Inc.",1295810
-2024-11-19,domestic,https://www.sec.gov/Archives/edgar/data/831641/000083164124000063/ttek-20240929.htm#:~:text=consumer%20confidence,Trade & Services,TETRA TECH INC,831641
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/fi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,FISERV INC,798354
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1659166/000165916625000024/ftv-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Fortive Corp,1659166
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1851909/000164117225000421/form10-k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Compass Digital Acquisition Corp.,1851909
