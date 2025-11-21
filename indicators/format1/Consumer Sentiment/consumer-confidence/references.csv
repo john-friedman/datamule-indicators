@@ -13,7 +13,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/763744/000076374425000022/lcii-20241231.htm#:~:text=consumer%20confidence,Manufacturing,LCI INDUSTRIES,763744
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1414953/000147793225001952/mojo_10k.htm#:~:text=consumer%20confidence,Manufacturing,EQUATOR Beverage Co,1414953
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1507079/000150707925000013/fnd-20241226.htm#:~:text=consumer%20confidence,Trade & Services,"Floor & Decor Holdings, Inc.",1507079
-2024-11-21,domestic,https://www.sec.gov/Archives/edgar/data/807882/000080788224000052/jack-20240929.htm#:~:text=consumer%20confidence,Trade & Services,JACK IN THE BOX INC,807882
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1579298/000095017025040472/burl-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"Burlington Stores, Inc.",1579298
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1319947/000131994725000012/dsw-20250201.htm#:~:text=consumer%20confidence,Trade & Services,Designer Brands Inc.,1319947
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1282980/000121390025015289/ea0231186-10k_drorortho.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Dror Ortho-Design, Inc.",1282980
@@ -315,7 +314,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1022344/000155837025001271/spg-20241231x10k.pdf#:~:text=consumer%20confidence,Real Estate & Construction,SIMON PROPERTY GROUP L P,1022344
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1760965/000176096525000011/ktb-20241228.htm#:~:text=consumer%20confidence,Manufacturing,"Kontoor Brands, Inc.",1760965
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1653558/000165355825000039/prth-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Priority Technology Holdings, Inc.",1653558
-2024-11-21,domestic,https://www.sec.gov/Archives/edgar/data/1666138/000166613824000164/atkr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Atkore Inc.,1666138
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1534675/000149315225008697/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Tecnoglass Inc.,1534675
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1593222/000095017025023714/cio-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"City Office REIT, Inc.",1593222
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1612630/000162828025012702/jynt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JOINT Corp,1612630
@@ -425,7 +423,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1524358/000152435825000044/vac-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,MARRIOTT VACATIONS WORLDWIDE Corp,1524358
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/911177/000091117725000010/cwst-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,CASELLA WASTE SYSTEMS INC,911177
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1818644/000143774925004906/aeye20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"AEye, Inc.",1818644
-2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1579684/000157968425000007/gci-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Gannett Co., Inc.",1579684
+2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1579684/000157968425000007/gci-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"USA TODAY Co., Inc.",1579684
 2025-02-11,domestic,https://www.sec.gov/Archives/edgar/data/1070412/000107041225000049/cnx-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,CNX Resources Corp,1070412
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/23795/000155837025001229/cto-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"CTO Realty Growth, Inc.",23795
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1477845/000155837025003482/anvs-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,"Annovis Bio, Inc.",1477845
@@ -468,7 +466,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/2186/000143774925009464/bkti20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,BK Technologies Corp,2186
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1327978/000155837025002411/are-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Ares Real Estate Income Trust Inc.,1327978
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1577134/000157713425000004/tfsa-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Terra Income Fund 6, LLC",1577134
-2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/2028707/000121390025022217/ea0232241-10k_bleich1.htm#:~:text=consumer%20confidence,Real Estate & Construction,INFLECTION POINT ACQUISITION CORP. IV,2028707
+2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/2028707/000121390025022217/ea0232241-10k_bleich1.htm#:~:text=consumer%20confidence,Technology,INFLECTION POINT ACQUISITION CORP. IV,2028707
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1821159/000155837025002400/evgo-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,EVgo Inc.,1821159
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1398987/000139898725000020/hous-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Anywhere Real Estate Inc.,1398987
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1355001/000139898725000020/hous-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Anywhere Real Estate Group LLC,1355001
