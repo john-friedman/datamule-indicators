@@ -27,7 +27,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/859737/000085973724000024/holx-20240928.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,HOLOGIC INC,859737
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1262039/000126203925000011/ftnt-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Fortinet, Inc.",1262039
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/701719/000070171925000007/ela-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Envela Corp,701719
-2024-11-22,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1048268/000104826824000134/iesc-20240930.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"IES Holdings, Inc.",1048268
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/100517/000010051725000046/ual-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"United Airlines Holdings, Inc.",100517
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/319687/000010051725000046/ual-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"UNITED AIRLINES, INC.",319687
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1396814/000139681425000041/pcrx-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Pacira BioSciences, Inc.",1396814
@@ -193,7 +192,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1364479/000136447925000007/hri-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,HERC HOLDINGS INC,1364479
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1579241/000157924125000008/alle-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Allegion plc,1579241
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1018164/000101816425000027/wlfc-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,WILLIS LEASE FINANCE CORP,1018164
-2024-11-22,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1674910/000167491024000152/vvv-20240930.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,VALVOLINE INC,1674910
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/7431/000095017025026060/awi-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,ARMSTRONG WORLD INDUSTRIES INC,7431
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/26324/000002632425000015/cw-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,CURTISS WRIGHT CORP,26324
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/907254/000090725425000022/bfs-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"SAUL CENTERS, INC.",907254

@@ -450,7 +450,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1580560/000119312525035188/d843798dex992.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Trade & Services,Flywire Corp,1580560
 2025-01-16,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-28,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
-2024-11-22,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1899123/000114036124047636/ef20039115_ex99-3.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Crypto Assets,Bitdeer Technologies Group,1899123
 2025-02-13,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-03-11,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
@@ -482,5 +481,4 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-01-16,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-28,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
-2024-11-22,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1899123/000114036124047636/ef20039115_ex99-3.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Crypto Assets,Bitdeer Technologies Group,1899123
 2025-03-14,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/756894/000119312525054509/d16481dex991.pdf#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Energy & Transportation,BARRICK MINING CORP,756894

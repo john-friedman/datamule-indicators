@@ -594,7 +594,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/842517/000084251725000053/isba-20241231.htm#:~:text=consumer%20confidence,Finance,ISABELLA BANK CORP,842517
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/935036/000093503625000006/aciw-20241231.htm#:~:text=consumer%20confidence,Technology,"ACI WORLDWIDE, INC.",935036
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1022652/000102265225000005/insg-20241231.htm#:~:text=consumer%20confidence,Manufacturing,INSEEGO CORP.,1022652
-2024-11-22,domestic,https://www.sec.gov/Archives/edgar/data/63296/000006329624000094/matw-20240930.htm#:~:text=consumer%20confidence,Manufacturing,MATTHEWS INTERNATIONAL CORP,63296
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1382821/000138282125000046/rdfn-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Redfin Corp,1382821
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1860543/000155837025002711/cdre-20241231x10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Cadre Holdings, Inc.",1860543
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/863436/000095017025025644/bhe-20241231.htm#:~:text=consumer%20confidence,Manufacturing,BENCHMARK ELECTRONICS INC,863436
@@ -602,7 +601,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1005757/000095017025023962/csgs-20241231.htm#:~:text=consumer%20confidence,Technology,CSG SYSTEMS INTERNATIONAL INC,1005757
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/907254/000090725425000022/bfs-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"SAUL CENTERS, INC.",907254
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/1301787/000130178725000012/bxc-20241228.htm#:~:text=consumer%20confidence,Trade & Services,BlueLinx Holdings Inc.,1301787
-2024-11-22,domestic,https://www.sec.gov/Archives/edgar/data/1674910/000167491024000152/vvv-20240930.htm#:~:text=consumer%20confidence,Energy & Transportation,VALVOLINE INC,1674910
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1531152/000153115225000013/bj-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"BJ's Wholesale Club Holdings, Inc.",1531152
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/49196/000004919625000020/hban-20241231.htm#:~:text=consumer%20confidence,Finance,HUNTINGTON BANCSHARES INC /MD/,49196
 2025-02-06,domestic,https://www.sec.gov/Archives/edgar/data/1413329/000141332925000013/pm-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Philip Morris International Inc.,1413329
@@ -915,7 +913,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1933567/000149315225010984/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Neuraxis, INC",1933567
 2025-03-18,domestic,https://www.sec.gov/Archives/edgar/data/1741830/000174183025000009/kron-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Kronos Bio, Inc.",1741830
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/2007596/000162828025015138/twfg-20241231.htm#:~:text=consumer%20confidence,Finance,"TWFG, Inc.",2007596
-2024-11-22,domestic,https://www.sec.gov/Archives/edgar/data/1381668/000138166824000142/tfsl-20240930.htm#:~:text=consumer%20confidence,Finance,TFS Financial CORP,1381668
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1671584/000095017025020467/apvo-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Aptevo Therapeutics Inc.,1671584
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/2011514/000114036125008455/ef20043984_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Anteris Technologies Global Corp.,2011514
 2024-11-25,domestic,https://www.sec.gov/Archives/edgar/data/1728688/000172868824000102/iiiv-20240930.htm#:~:text=consumer%20confidence,Trade & Services,"i3 Verticals, Inc.",1728688

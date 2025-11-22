@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
-Crypto Assets,0,33,adoption_domestic
-Crypto Assets,1,29,adoption_domestic
+Crypto Assets,0,31,adoption_domestic
+Crypto Assets,1,31,adoption_domestic
 Energy & Transportation,0,2,adoption_domestic
 Energy & Transportation,1,3,adoption_domestic
 Finance,0,6,adoption_domestic
@@ -16,10 +16,10 @@ Technology,0,4,adoption_domestic
 Technology,1,5,adoption_domestic
 Trade & Services,0,4,adoption_domestic
 Trade & Services,1,7,adoption_domestic
-Crypto Assets,0,32,protocols_domestic
-Crypto Assets,1,19,protocols_domestic
-Energy & Transportation,0,155,protocols_domestic
-Energy & Transportation,1,164,protocols_domestic
+Crypto Assets,0,30,protocols_domestic
+Crypto Assets,1,21,protocols_domestic
+Energy & Transportation,0,154,protocols_domestic
+Energy & Transportation,1,165,protocols_domestic
 Finance,0,99,protocols_domestic
 Finance,1,100,protocols_domestic
 Industrial Applications and Services,0,134,protocols_domestic
@@ -32,6 +32,6 @@ Real Estate & Construction,0,69,protocols_domestic
 Real Estate & Construction,1,72,protocols_domestic
 Technology,0,110,protocols_domestic
 Technology,1,126,protocols_domestic
-Trade & Services,0,84,protocols_domestic
-Trade & Services,1,90,protocols_domestic
+Trade & Services,0,83,protocols_domestic
+Trade & Services,1,91,protocols_domestic
 Crypto Assets,0,2,risk_domestic
