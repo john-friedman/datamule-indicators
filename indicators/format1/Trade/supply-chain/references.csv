@@ -1,5 +1,4 @@
 filing_date,component,url,ownerOrg,name,cik
-2024-11-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1589526/000158952624000119/blbd-20240928.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Blue Bird Corp,1589526
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1094285/000109428525000053/tdy-ex1012_performanceplan.htm#:~:text=Supply%20chain%20constraints,Manufacturing,TELEDYNE TECHNOLOGIES INC,1094285
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1334036/000133403625000009/crox-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Crocs, Inc.",1334036
 2025-02-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/12927/000001292725000015/ba-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BOEING CO,12927
@@ -250,7 +249,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/729580/000143774925005652/belfb20241231_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BEL FUSE INC /NJ,729580
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1062231/000106223125000008/axl-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,1062231
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1875444/000187544425000021/arhs-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Arhaus, Inc.",1875444
-2024-11-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1718227/000171822724000102/road-20240930.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Construction Partners, Inc.",1718227
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"LifeMD, Inc.",948320
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1625641/000162564125000027/law-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"CS Disco, Inc.",1625641
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1959348/000162828025007817/klg-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,WK Kellogg Co,1959348
