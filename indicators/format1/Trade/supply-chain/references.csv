@@ -82,7 +82,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1604665/000160466525000011/wlkp-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Westlake Chemical Partners LP,1604665
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1141688/000164117225000643/form10-k.htm#:~:text=Supply%20chain%20constraints,Finance,LANDMARK BANCORP INC,1141688
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1505155/000150515525000024/upld-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Upland Software, Inc.",1505155
-2024-11-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/6281/000000628124000204/adi-20241102.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ANALOG DEVICES INC,6281
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1856525/000185652525000081/cnm-20250202.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Core & Main, Inc.",1856525
 2025-02-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1097864/000162828025004557/on-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ON SEMICONDUCTOR CORP,1097864
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Solana Co,1610853
@@ -340,7 +339,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1477815/000162828025008367/sg-20241229.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Sweetgreen, Inc.",1477815
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1834488/000183448825000053/nabl-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"N-able, Inc.",1834488
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/775215/000162828025011264/hbt-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,"HBT Financial, Inc.",775215
-2024-11-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"ARROWHEAD PHARMACEUTICALS, INC.",879407
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1777393/000177739325000030/chpt-20250131.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"ChargePoint Holdings, Inc.",1777393
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1642896/000164289625000022/iot-20250201.htm#:~:text=Supply%20chain%20constraints,Technology,Samsara Inc.,1642896
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/93556/000009355625000007/swk-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"STANLEY BLACK & DECKER, INC.",93556
