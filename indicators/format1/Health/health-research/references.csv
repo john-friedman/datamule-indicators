@@ -541,7 +541,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1384101/000138410125000014/vcyt-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"VERACYTE, INC.",1384101
 2025-02-24,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1717115/000095017025025603/tem-20241231.htm#:~:text=genomic&text=genomic%20research,Technology,"Tempus AI, Inc.",1717115
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1001233/000162828025013088/sgmo-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"SANGAMO THERAPEUTICS, INC",1001233
-2024-11-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/933974/000143774924036289/azta20240930_10k.htm#:~:text=genomic&text=genomic%20research,Technology,"Azenta, Inc.",933974
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1534120/000162828025013986/ex-2112024listofsubsidiari.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Avalo Therapeutics, Inc.",1534120
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1527753/000095017025029221/psnl-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Personalis, Inc.",1527753
 2025-02-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1124140/000112414025000020/exas-20241231xexx21.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,EXACT SCIENCES CORP,1124140
@@ -667,7 +666,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1095981/000095017025047698/pstv-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"PLUS THERAPEUTICS, INC.",1095981
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/925741/000143774925009397/bcda20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"BioCardia, Inc.",925741
 2025-03-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Aptose Biosciences Inc.,882361
-2024-11-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/859737/000085973724000024/holx-20240928.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,HOLOGIC INC,859737
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1678660/000095017025035921/prld-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Prelude Therapeutics Inc,1678660
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1738021/000117184325001106/cmpx20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Compass Therapeutics, Inc.",1738021
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1839998/000162828025015237/aonc-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"American Oncology Network, Inc.",1839998

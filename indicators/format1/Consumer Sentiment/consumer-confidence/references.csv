@@ -248,7 +248,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/851968/000085196825000023/mhk-20241231.htm#:~:text=consumer%20confidence,Manufacturing,MOHAWK INDUSTRIES INC,851968
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/724742/000155837025003553/tphs-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Trinity Place Holdings Inc.,724742
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/898173/000089817325000008/orly-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,O REILLY AUTOMOTIVE INC,898173
-2024-11-27,domestic,https://www.sec.gov/Archives/edgar/data/1821806/000095017024131476/lesl-20240928.htm#:~:text=consumer%20confidence,Trade & Services,"Leslie's, Inc.",1821806
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/105418/000010541825000014/wmk-20241228x10k.htm#:~:text=consumer%20confidence,Trade & Services,WEIS MARKETS INC,105418
 2024-12-17,domestic,https://www.sec.gov/Archives/edgar/data/1745032/000155837024016328/lfr-20231231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Lodging Fund REIT III, Inc.",1745032
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1874178/000187417825000007/rivn-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Rivian Automotive, Inc. / DE",1874178
@@ -641,7 +640,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1789940/000178994025000010/fwrg-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"First Watch Restaurant Group, Inc.",1789940
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1759425/000175942525000014/mirm-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Mirum Pharmaceuticals, Inc.",1759425
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1407973/000095017025045214/sonx-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Sonendo, Inc.",1407973
-2024-11-27,domestic,https://www.sec.gov/Archives/edgar/data/887733/000088773324000029/cent-20240928.htm#:~:text=consumer%20confidence,Trade & Services,CENTRAL GARDEN & PET CO,887733
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1476045/000147604525000011/cldt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Chatham Lodging Trust,1476045
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1818605/000141057825000302/distu-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Distoken Acquisition Corp,1818605
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1828108/000182810825000028/aur-20241231.htm#:~:text=consumer%20confidence,Technology,"Aurora Innovation, Inc.",1828108
