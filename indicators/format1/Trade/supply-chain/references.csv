@@ -131,7 +131,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1026655/000102665525000005/cmt-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,CORE MOLDING TECHNOLOGIES INC,1026655
 2024-12-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/810136/000114036124049881/ef20035608_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PHOTRONICS INC,810136
 2024-12-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/825324/000121465924020434/gtim-20240924.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Good Times Restaurants Inc.,825324
-2024-11-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/866706/000141057824002064/ese-20240930x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ESCO TECHNOLOGIES INC,866706
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1177702/000095017025025702/saia-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,SAIA INC,1177702
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/92521/000009252125000009/sps-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,SOUTHWESTERN PUBLIC SERVICE CO,92521
 2024-12-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1357971/000141057824002104/esoa-20240930x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,Energy Services of America CORP,1357971
@@ -406,7 +405,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1719714/000095017025044787/mreo-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Mereo BioPharma Group plc,1719714
 2025-03-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1444380/000144438025000024/nvro-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,NEVRO CORP,1444380
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1826000/000182600025000035/lat-20231231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Latch, Inc.",1826000
-2024-11-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1868941/000186894124000070/flnc-20240930.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Fluence Energy, Inc.",1868941
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/879101/000095017025024723/kim-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,KIMCO REALTY CORP,879101
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1959472/000095017025024723/kim-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Kimco Realty OP, LLC",1959472
 2025-02-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1410636/000141063625000022/awk-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"American Water Works Company, Inc.",1410636

@@ -34,7 +34,7 @@ Energy & Transportation,0,2,technology_domestic
 Energy & Transportation,1,2,technology_domestic
 Industrial Applications and Services,0,28,technology_domestic
 Industrial Applications and Services,1,45,technology_domestic
-Life Sciences,0,84,technology_domestic
+Life Sciences,0,83,technology_domestic
 Life Sciences,1,129,technology_domestic
 Manufacturing,0,5,technology_domestic
 Manufacturing,1,3,technology_domestic
@@ -57,8 +57,8 @@ Real Estate & Construction,1,3,services_domestic
 Technology,0,1,services_domestic
 Technology,1,3,services_domestic
 Trade & Services,0,1,services_domestic
-Energy & Transportation,0,88,regulation_domestic
-Energy & Transportation,1,89,regulation_domestic
+Energy & Transportation,0,87,regulation_domestic
+Energy & Transportation,1,90,regulation_domestic
 Finance,0,1,regulation_domestic
 Finance,1,2,regulation_domestic
 Industrial Applications and Services,0,10,regulation_domestic
