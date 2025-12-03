@@ -86,8 +86,8 @@ Energy & Transportation,1,2,mpox_domestic
 Finance,0,1,mpox_domestic
 Finance,1,2,mpox_domestic
 Industrial Applications and Services,0,2,mpox_domestic
-Industrial Applications and Services,1,11,mpox_domestic
-Life Sciences,0,20,mpox_domestic
+Industrial Applications and Services,1,10,mpox_domestic
+Life Sciences,0,19,mpox_domestic
 Life Sciences,1,46,mpox_domestic
 Manufacturing,0,1,mpox_domestic
 Manufacturing,1,2,mpox_domestic
@@ -125,8 +125,8 @@ Manufacturing,1,1,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,1,1,mpox_international
 Finance,1,1,zika_international
-Life Sciences,0,15,zika_international
-Life Sciences,1,40,zika_international
+Life Sciences,0,14,zika_international
+Life Sciences,1,41,zika_international
 Manufacturing,1,2,zika_international
 Real Estate & Construction,0,1,zika_international
 Technology,1,1,zika_international
