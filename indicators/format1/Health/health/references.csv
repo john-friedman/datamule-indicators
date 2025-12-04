@@ -95,7 +95,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1290476/000155837025003706/vbfc-20241231x10k.htm#:~:text=Alzheimer,Finance,Village Bank & Trust Financial Corp.,1290476
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/946644/000164117225000847/form10-k.htm#:~:text=Alzheimer,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=Alzheimer,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
-2024-12-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/720154/000162828024049947/notv-20240930.htm#:~:text=Alzheimer,Industrial Applications and Services,"Inotiv, Inc.",720154
 2025-03-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1750155/000175015525000006/cweb-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Charlotte's Web Holdings, Inc.",1750155
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=Alzheimer,Life Sciences,Aptose Biosciences Inc.,882361
 2025-03-13,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1832332/000095017025038504/avah-20241228.htm#:~:text=Alzheimer,Industrial Applications and Services,"Aveanna Healthcare Holdings, Inc.",1832332
@@ -259,7 +258,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1799011/000164117225000205/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,Lucid Diagnostics Inc.,1799011
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1618756/000161875625000087/qsr-20241231.htm#:~:text=Obesity,Trade & Services,Restaurant Brands International Inc.,1618756
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1624326/000164117225000364/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,PAVmed Inc.,1624326
-2024-12-04,obesity_domestic,https://www.sec.gov/Archives/edgar/data/720154/000162828024049947/notv-20240930.htm#:~:text=Obesity,Industrial Applications and Services,"Inotiv, Inc.",720154
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/884624/000095017025026066/ofix-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Orthofix Medical Inc.,884624
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1810560/000095017025034584/revb-20241231.htm#:~:text=Obesity,Life Sciences,"REVELATION BIOSCIENCES, INC.",1810560
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1870144/000107997325000428/cdio_10k-123124.htm#:~:text=Obesity,Life Sciences,"Cardio Diagnostics Holdings, Inc.",1870144
@@ -459,7 +457,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025013977/valnevapr3-20x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-01-07,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025000702/jpmprjanuary6.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-01-30,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025003130/valnevapr30-1x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-12-04,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006720/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-24,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025014459/valnevapr24-3x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-01-21,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025001948/valnevapr20-1x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-02-28,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025008984/valnevapr28-2x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
