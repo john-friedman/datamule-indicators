@@ -406,7 +406,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124015671/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-20,mpox_domestic,https://www.sec.gov/Archives/edgar/data/743238/000095010324018087/dp222354_ex0201.htm#:~:text=mpox&text=monkeypox,Technology,"SHYFT GROUP, INC.",743238
 2025-01-21,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1819810/000181981025000016/exhibit21-agreementandpl.htm#:~:text=mpox&text=monkeypox,Manufacturing,Redwire Corp,1819810
-2024-12-09,mpox_domestic,https://www.sec.gov/Archives/edgar/data/354190/000119312524272811/d885381dex21.htm#:~:text=mpox&text=monkeypox,Finance,Arthur J. Gallagher & Co.,354190
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/935703/000110465925029393/tm2510014d2_ex2-1.htm#:~:text=mpox&text=monkeypox,Trade & Services,"DOLLAR TREE, INC.",935703
 2025-03-07,zika_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=zika,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2025-02-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,AIM ImmunoTech Inc.,946644
@@ -421,7 +420,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224052600/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2024-12-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465924132925/tm2432248d2_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-01-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000110465925002863/tm253091d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
-2024-12-09,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095024000447/ex99-1aipressreleasedecemb.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000100069425000006/q42024earningspressrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
 2025-01-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925001459/ex_767668.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
 2025-03-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925008617/ex_792722.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
