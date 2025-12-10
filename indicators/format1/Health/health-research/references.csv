@@ -7,7 +7,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,ai_domestic,https://www.sec.gov/Archives/edgar/data/1816590/000162828025008412/cmps-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,COMPASS Pathways plc,1816590
 2025-02-07,ai_domestic,https://www.sec.gov/Archives/edgar/data/1521332/000152133225000010/aptv-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Manufacturing,Aptiv PLC,1521332
 2025-02-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/310158/000162828025007732/mrk-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"Merck & Co., Inc.",310158
-2025-03-06,ai_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"EyePoint Pharmaceuticals, Inc.",1314102
+2025-03-06,ai_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"EyePoint, Inc.",1314102
 2025-03-17,ai_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,Atai Beckley N.V.,1840904
 2025-02-28,ai_domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
 2025-03-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/1674632/000095017025044516/bbnx-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"Beta Bionics, Inc.",1674632
@@ -368,7 +368,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1818844/000155837025004167/dwtx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Dogwood Therapeutics, Inc.",1818844
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/946644/000164117225000847/form10-k.htm#:~:text=orphan%20drug,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1764974/000095017025047111/tsbx-20241231.htm#:~:text=orphan%20drug,Life Sciences,Turnstone Biologics Corp.,1764974
-2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,"EyePoint Pharmaceuticals, Inc.",1314102
+2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,"EyePoint, Inc.",1314102
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1984086/000095017025045745/sepn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Septerna, Inc.",1984086
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1962918/000196291825000022/slrn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ACELYRIN, Inc.",1962918
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=orphan%20drug,Life Sciences,"Silo Pharma, Inc.",1514183
