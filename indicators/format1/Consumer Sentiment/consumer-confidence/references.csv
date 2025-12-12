@@ -7,7 +7,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/814926/000190359625000126/capc_10k.htm#:~:text=consumer%20confidence,Manufacturing,"CAPSTONE COMPANIES, INC.",814926
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1564902/000095017025030398/prks-20241231.htm#:~:text=consumer%20confidence,Trade & Services,United Parks & Resorts Inc.,1564902
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm#:~:text=consumer%20confidence,Trade & Services,EBAY INC,1065088
-2024-12-12,domestic,https://www.sec.gov/Archives/edgar/data/1547459/000143774924037351/ngvc20240930_10k.htm#:~:text=consumer%20confidence,Trade & Services,"Natural Grocers by Vitamin Cottage, Inc.",1547459
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/763744/000076374425000022/lcii-20241231.htm#:~:text=consumer%20confidence,Manufacturing,LCI INDUSTRIES,763744
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1414953/000147793225001952/mojo_10k.htm#:~:text=consumer%20confidence,Manufacturing,EQUATOR Beverage Co,1414953
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1507079/000150707925000013/fnd-20241226.htm#:~:text=consumer%20confidence,Trade & Services,"Floor & Decor Holdings, Inc.",1507079
@@ -580,7 +579,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1280452/000143774925005903/mpwr20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,MONOLITHIC POWER SYSTEMS INC,1280452
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1041024/000162828025013983/rmti-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"ROCKWELL MEDICAL, INC.",1041024
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1315257/000095017025028542/kop-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Koppers Holdings Inc.,1315257
-2024-12-12,domestic,https://www.sec.gov/Archives/edgar/data/720500/000095017024135825/asys-20240930.htm#:~:text=consumer%20confidence,Technology,AMTECH SYSTEMS INC,720500
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/26780/000143774925004554/dan20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,DANA Inc,26780
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1758009/000121390025025561/ea0234742-10k_quantum.htm#:~:text=consumer%20confidence,Technology,Quantum Computing Inc.,1758009
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1590714/000159071425000022/esi-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Element Solutions Inc,1590714
