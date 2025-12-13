@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
 Crypto Assets,0,34,environmental_domestic
-Crypto Assets,1,48,environmental_domestic
+Crypto Assets,1,47,environmental_domestic
 Energy & Transportation,0,449,environmental_domestic
 Energy & Transportation,1,548,environmental_domestic
 Finance,0,188,environmental_domestic
@@ -9,14 +9,14 @@ Industrial Applications and Services,0,173,environmental_domestic
 Industrial Applications and Services,1,238,environmental_domestic
 Life Sciences,0,77,environmental_domestic
 Life Sciences,1,109,environmental_domestic
-Manufacturing,0,297,environmental_domestic
-Manufacturing,1,486,environmental_domestic
+Manufacturing,0,296,environmental_domestic
+Manufacturing,1,485,environmental_domestic
 Real Estate & Construction,0,305,environmental_domestic
 Real Estate & Construction,1,366,environmental_domestic
-Technology,0,163,environmental_domestic
-Technology,1,252,environmental_domestic
+Technology,0,161,environmental_domestic
+Technology,1,250,environmental_domestic
 Trade & Services,0,203,environmental_domestic
-Trade & Services,1,321,environmental_domestic
+Trade & Services,1,320,environmental_domestic
 Crypto Assets,0,43,social_domestic
 Crypto Assets,1,53,social_domestic
 Energy & Transportation,0,215,social_domestic
@@ -27,14 +27,14 @@ Industrial Applications and Services,0,127,social_domestic
 Industrial Applications and Services,1,170,social_domestic
 Life Sciences,0,96,social_domestic
 Life Sciences,1,120,social_domestic
-Manufacturing,0,188,social_domestic
-Manufacturing,1,309,social_domestic
+Manufacturing,0,187,social_domestic
+Manufacturing,1,308,social_domestic
 Real Estate & Construction,0,157,social_domestic
 Real Estate & Construction,1,187,social_domestic
-Technology,0,138,social_domestic
+Technology,0,137,social_domestic
 Technology,1,206,social_domestic
 Trade & Services,0,177,social_domestic
-Trade & Services,1,268,social_domestic
+Trade & Services,1,267,social_domestic
 Crypto Assets,0,9,governance_domestic
 Crypto Assets,1,12,governance_domestic
 Energy & Transportation,0,111,governance_domestic
@@ -43,16 +43,16 @@ Finance,0,190,governance_domestic
 Finance,1,230,governance_domestic
 Industrial Applications and Services,0,76,governance_domestic
 Industrial Applications and Services,1,114,governance_domestic
-Life Sciences,0,96,governance_domestic
-Life Sciences,1,142,governance_domestic
-Manufacturing,0,99,governance_domestic
-Manufacturing,1,156,governance_domestic
+Life Sciences,0,95,governance_domestic
+Life Sciences,1,143,governance_domestic
+Manufacturing,0,98,governance_domestic
+Manufacturing,1,157,governance_domestic
 Real Estate & Construction,0,67,governance_domestic
 Real Estate & Construction,1,109,governance_domestic
-Technology,0,106,governance_domestic
-Technology,1,139,governance_domestic
+Technology,0,105,governance_domestic
+Technology,1,138,governance_domestic
 Trade & Services,0,86,governance_domestic
-Trade & Services,1,131,governance_domestic
+Trade & Services,1,129,governance_domestic
 Crypto Assets,0,2,environmental_international
 Crypto Assets,1,16,environmental_international
 Energy & Transportation,0,51,environmental_international
@@ -87,8 +87,8 @@ Real Estate & Construction,0,5,social_international
 Real Estate & Construction,1,16,social_international
 Technology,0,24,social_international
 Technology,1,66,social_international
-Trade & Services,0,13,social_international
-Trade & Services,1,61,social_international
+Trade & Services,0,12,social_international
+Trade & Services,1,62,social_international
 Crypto Assets,0,3,governance_international
 Crypto Assets,1,16,governance_international
 Energy & Transportation,0,34,governance_international
@@ -105,5 +105,5 @@ Real Estate & Construction,0,3,governance_international
 Real Estate & Construction,1,19,governance_international
 Technology,0,27,governance_international
 Technology,1,117,governance_international
-Trade & Services,0,16,governance_international
-Trade & Services,1,101,governance_international
+Trade & Services,0,15,governance_international
+Trade & Services,1,102,governance_international

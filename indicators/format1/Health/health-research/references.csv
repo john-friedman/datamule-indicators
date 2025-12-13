@@ -234,7 +234,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1720580/000095017025034587/acet-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Adicet Bio, Inc.",1720580
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817241/000095017025043837/artv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Artiva Biotherapeutics, Inc.",1817241
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1689548/000168954825000040/prax-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Praxis Precision Medicines, Inc.",1689548
-2024-12-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1540159/000117184324006946/edsa20240930_10k.htm#:~:text=orphan%20drug,Life Sciences,"Edesa Biotech, Inc.",1540159
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1659617/000143774925008751/mbrx20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"Moleculin Biotech, Inc.",1659617
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1800315/000095017025041981/glto-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Galecto, Inc.",1800315
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1761918/000095017025042682/eras-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Erasca, Inc.",1761918
@@ -562,7 +561,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1822462/000162828025010933/fhtx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Foghorn Therapeutics Inc.,1822462
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1833214/000095017025046994/sabs-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"SAB Biotherapeutics, Inc.",1833214
 2025-02-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1770787/000177078725000013/txg-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"10x Genomics, Inc.",1770787
-2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1446159/000117184325001863/poai20241231_10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Predictive Oncology Inc.,1446159
+2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1446159/000117184325001863/poai20241231_10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Axe Compute Inc.,1446159
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1439725/000095017025030835/bdsx-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,BIODESIX INC,1439725
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1447362/000144736225000031/cstl-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,CASTLE BIOSCIENCES INC,1447362
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1299130/000129913025000061/pacb-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",1299130

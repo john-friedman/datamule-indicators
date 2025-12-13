@@ -312,7 +312,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1593222/000095017025023714/cio-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"City Office REIT, Inc.",1593222
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1612630/000162828025012702/jynt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JOINT Corp,1612630
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/887596/000141057825000195/cake-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,CHEESECAKE FACTORY INC,887596
-2024-12-13,domestic,https://www.sec.gov/Archives/edgar/data/1297937/000149315224049988/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,"PARKS AMERICA, INC",1297937
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1236275/000162828025009626/qxo-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO, Inc.",1236275
 2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1301991/000109690624002294/smme-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"SmartMetric, Inc.",1301991
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/313927/000095017025019801/chd-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CHURCH & DWIGHT CO INC /DE/,313927
@@ -1325,7 +1324,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1840706/000184070625000009/soph-20241231.htm#:~:text=consumer%20confidence,Technology,SOPHiA GENETICS SA,1840706
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1781446/000121390025022437/ea0233167-20f_gauzy.htm#:~:text=consumer%20confidence,Manufacturing,Gauzy Ltd.,1781446
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1954042/000141057825000390/zk-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,ZEEKR Intelligent Technology Holding Ltd,1954042
-2024-12-13,international,https://www.sec.gov/Archives/edgar/data/1696355/000121390024108859/ea0218520-20f_bright.htm#:~:text=consumer%20confidence,Trade & Services,Bright Scholar Education Holdings Ltd,1696355
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1499780/000110465925023948/glbs-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,GLOBUS MARITIME LTD,1499780
 2024-12-26,international,https://www.sec.gov/Archives/edgar/data/1965143/000121390024112405/ea0225513-20f_nvnigroup.htm#:~:text=consumer%20confidence,Technology,Nvni Group Ltd,1965143
 2025-02-25,international,https://www.sec.gov/Archives/edgar/data/1167379/000116737925000008/alc-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,ALCON INC,1167379
