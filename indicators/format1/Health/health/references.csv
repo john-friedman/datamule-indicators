@@ -139,7 +139,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1638287/000155837025003386/mtva-20241231x10k.htm#:~:text=Obesity,Life Sciences,MetaVia Inc.,1638287
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1776111/000095017025039838/mbx-20241231.htm#:~:text=Obesity,Life Sciences,"MBX Biosciences, Inc.",1776111
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1888886/000155837025001826/gpcr-20241231x10k.htm#:~:text=Obesity,Life Sciences,Structure Therapeutics Inc.,1888886
-2024-12-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/863894/000143774924037576/veru20240930_10k.htm#:~:text=Obesity,Life Sciences,VERU INC.,863894
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1727196/000155837025001682/srrk-20241231x10k.htm#:~:text=Obesity,Life Sciences,Scholar Rock Holding Corp,1727196
 2025-03-04,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1631574/000095017025031322/wve-20241231.htm#:~:text=Obesity,Life Sciences,Wave Life Sciences Ltd.,1631574
 2025-03-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1535955/000149315225010146/form10-k.htm#:~:text=Obesity,Life Sciences,Lipocine Inc.,1535955
@@ -185,7 +184,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Obesity,Life Sciences,"Tenaya Therapeutics, Inc.",1858848
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1661181/000095017025029137/orgo-20241231.htm#:~:text=Obesity,Life Sciences,Organogenesis Holdings Inc.,1661181
 2025-03-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1735438/000155837025002867/mgtx-20241231x10k.htm#:~:text=Obesity,Life Sciences,MeiraGTx Holdings plc,1735438
-2024-12-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1540013/000155837024016299/qipt-20240930x10k.htm#:~:text=Obesity,Industrial Applications and Services,Quipt Home Medical Corp.,1540013
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1145197/000114519725000007/podd-20241231.htm#:~:text=Obesity,Industrial Applications and Services,INSULET CORP,1145197
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1158895/000143774925005637/lmat20241231_10k.htm#:~:text=Obesity,Industrial Applications and Services,LEMAITRE VASCULAR INC,1158895
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/celh-20241231.htm#:~:text=Obesity,Manufacturing,"Celsius Holdings, Inc.",1341766
@@ -227,7 +225,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1769759/000141057825000321/mgrm-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,Monogram Technologies Inc.,1769759
 2025-02-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/105770/000010577025000013/wst-20241231.htm#:~:text=Obesity,Industrial Applications and Services,WEST PHARMACEUTICAL SERVICES INC,105770
 2025-03-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=Obesity,Life Sciences,ALUMIS INC.,1847367
-2024-12-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1575295/000147793224008119/alid_10k.htm#:~:text=Obesity,Trade & Services,Allied Corp.,1575295
 2025-02-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1046257/000104625725000018/ingr-20241231.htm#:~:text=Obesity,Manufacturing,Ingredion Inc,1046257
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1760903/000164117225001259/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"BONK, INC.",1760903
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1376339/000137633925000009/mdxg-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"MIMEDX GROUP, INC.",1376339
@@ -312,7 +309,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=PTSD,Life Sciences,"Silo Pharma, Inc.",1514183
 2025-03-03,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1593773/000147793225001401/kgnr_10k.htm#:~:text=PTSD,Technology,AMJ Global Technology,1593773
 2025-03-14,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1719406/000143774925007743/nrxp20241231c_10k.htm#:~:text=PTSD,Life Sciences,"NRX Pharmaceuticals, Inc.",1719406
-2024-12-16,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1575295/000147793224008119/alid_10k.htm#:~:text=PTSD,Trade & Services,Allied Corp.,1575295
 2025-01-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1601280/000107997325000141/mdxl_10k-123123.htm#:~:text=PTSD,Energy & Transportation,"MediXall Group, Inc.",1601280
 2025-03-03,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1621221/000164033425000335/artl_10k.htm#:~:text=PTSD,Life Sciences,"ARTELO BIOSCIENCES, INC.",1621221
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=PTSD,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
