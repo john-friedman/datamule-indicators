@@ -307,7 +307,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1501697/000162828025014805/xfor-20241231.htm#:~:text=orphan%20drug,Life Sciences,"X4 Pharmaceuticals, Inc",1501697
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1072379/000141057825000598/nwbo-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,NORTHWEST BIOTHERAPEUTICS INC,1072379
 2025-02-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1377121/000155837025001317/ptgx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Protagonist Therapeutics, Inc",1377121
-2024-12-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1106838/000149315224050341/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Sonnet BioTherapeutics Holdings, Inc.",1106838
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1824893/000095017025047712/srzn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Surrozen, Inc./DE",1824893
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/921114/000155837025003406/armp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Armata Pharmaceuticals, Inc.",921114
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1425205/000155837025001834/iova-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"IOVANCE BIOTHERAPEUTICS, INC.",1425205
@@ -431,7 +430,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1582313/000095017025029149/xene-20241231.htm#:~:text=orphan%20drug,Life Sciences,Xenon Pharmaceuticals Inc.,1582313
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1610618/000161061825000017/cdtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Cidara Therapeutics, Inc.",1610618
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1738021/000117184325001106/cmpx20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"Compass Therapeutics, Inc.",1738021
-2024-12-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1633932/000155837024016318/epix-20240930x10k.htm#:~:text=orphan%20drug,Life Sciences,ESSA Pharma Inc.,1633932
 2025-02-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/875045/000087504525000009/biib-20241231.htm#:~:text=orphan%20drug,Life Sciences,BIOGEN INC.,875045
 2025-02-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/bmy-20241231.htm#:~:text=orphan%20drug,Life Sciences,BRISTOL MYERS SQUIBB CO,14272
 2025-02-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1860742/000186074225000004/blco-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,Bausch & Lomb Corp,1860742
@@ -575,7 +573,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1861560/000095017025028328/nuvl-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Nuvalent, Inc.",1861560
 2025-03-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1162194/000095017025036608/lab-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,STANDARD BIOTOOLS INC.,1162194
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1842295/000095017025047208/maze-10k-2024.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Maze Therapeutics, Inc.",1842295
-2024-12-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1633932/000155837024016318/epix-20240930x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,ESSA Pharma Inc.,1633932
 2025-03-14,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1829247/000149315225010367/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"BullFrog AI Holdings, Inc.",1829247
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1860657/000143774925010198/allr20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Allarity Therapeutics, Inc.",1860657
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1652130/000095017025029007/ntla-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Intellia Therapeutics, Inc.",1652130

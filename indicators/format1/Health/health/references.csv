@@ -396,7 +396,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001105/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001136/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001293/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-12-17,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124015450/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002252/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124015671/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-12-20,mpox_domestic,https://www.sec.gov/Archives/edgar/data/743238/000095010324018087/dp222354_ex0201.htm#:~:text=mpox&text=monkeypox,Technology,"SHYFT GROUP, INC.",743238
@@ -437,7 +436,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-13,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-03-11,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
-2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
 2025-01-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390025003895/ea022738201ex99-2_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299
 2025-03-11,mpox_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=mpox&text=monkeypox,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2025-03-26,mpox_international,https://www.sec.gov/Archives/edgar/data/1973832/000162828025014876/a2024_sustainabilityreport.pdf#:~:text=mpox&text=monkeypox,Energy & Transportation,AngloGold Ashanti PLC,1973832
@@ -459,7 +457,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,zika_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=zika,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2025-02-26,zika_international,https://www.sec.gov/Archives/edgar/data/1438569/000110465925017501/tm257688d1_6k.htm#:~:text=zika,Life Sciences,Grifols SA,1438569
 2025-03-26,zika_international,https://www.sec.gov/Archives/edgar/data/930157/000110465925027955/tm251260d2_ex99-1.pdf#:~:text=zika,Trade & Services,RENTOKIL INITIAL PLC /FI,930157
-2024-12-17,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,Virax Biolabs Group Ltd,1885827
 2025-02-13,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1904501/000106299325002212/exhibit99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,Zentek Ltd.,1904501
 2025-01-16,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201
 2025-02-28,h5n1-avian_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925018643/tm257550d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,SINOVAC BIOTECH LTD,1084201

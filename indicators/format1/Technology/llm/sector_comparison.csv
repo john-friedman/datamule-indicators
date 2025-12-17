@@ -58,8 +58,8 @@ Finance,1,8,general_international
 Life Sciences,1,3,general_international
 Manufacturing,0,1,general_international
 Manufacturing,1,6,general_international
-Technology,0,15,general_international
-Technology,1,23,general_international
+Technology,0,14,general_international
+Technology,1,24,general_international
 Trade & Services,0,1,general_international
 Trade & Services,1,4,general_international
 Technology,0,3,openai_international
@@ -73,6 +73,6 @@ Energy & Transportation,1,2,google_international
 Life Sciences,1,1,google_international
 Manufacturing,0,1,google_international
 Manufacturing,1,1,google_international
-Technology,0,10,google_international
-Technology,1,15,google_international
+Technology,0,9,google_international
+Technology,1,16,google_international
 Trade & Services,1,3,google_international
