@@ -43,8 +43,8 @@ Life Sciences,1,26,ptsd_domestic
 Manufacturing,1,1,ptsd_domestic
 Real Estate & Construction,0,2,ptsd_domestic
 Real Estate & Construction,1,4,ptsd_domestic
-Technology,0,2,ptsd_domestic
-Technology,1,2,ptsd_domestic
+Technology,0,1,ptsd_domestic
+Technology,1,3,ptsd_domestic
 Trade & Services,0,1,ptsd_domestic
 Trade & Services,1,2,ptsd_domestic
 Energy & Transportation,1,1,alzheimer_international
@@ -95,7 +95,7 @@ Technology,1,1,mpox_domestic
 Trade & Services,0,1,mpox_domestic
 Industrial Applications and Services,0,1,zika_domestic
 Industrial Applications and Services,1,2,zika_domestic
-Life Sciences,1,2,zika_domestic
+Life Sciences,1,1,zika_domestic
 Industrial Applications and Services,0,5,h5n1-avian_domestic
 Industrial Applications and Services,1,13,h5n1-avian_domestic
 Life Sciences,0,17,h5n1-avian_domestic
