@@ -1,7 +1,6 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1846069/000184606925000017/kind-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Nextdoor Holdings, Inc.",1846069
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,VERINT SYSTEMS INC,1166388
-2024-12-20,domestic,https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/cien-20241102.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,CIENA CORP,936395
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1759509/000175950925000025/lyft-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,"Lyft, Inc.",1759509
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1532961/000162828025007077/nvee-20241228.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"NV5 Global, Inc.",1532961
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1664740/000149315225009930/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,MBC FUNDING II CORP.,1664740
@@ -39,7 +38,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1823878/000182387825000017/myps-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"PLAYSTUDIOS, Inc.",1823878
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1793659/000179365925000047/rsi-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"Rush Street Interactive, Inc.",1793659
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1947210/000143774925008652/hrol20241231_10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"High Roller Technologies, Inc.",1947210
-2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1853825/000149315225009872/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,THUMZUP MEDIA Corp,1853825
+2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1853825/000149315225009872/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Datacentrex, Inc.",1853825
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/910329/000162828025006094/med-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,MEDIFAST INC,910329
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"GRI Bio, Inc.",1824293
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/860731/000086073125000007/tyl-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,TYLER TECHNOLOGIES INC,860731
@@ -327,7 +326,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/874238/000087423825000025/strl-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,"STERLING INFRASTRUCTURE, INC.",874238
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/877212/000087721225000027/zbra-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,ZEBRA TECHNOLOGIES CORP,877212
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1606498/000160649825000024/avns-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"AVANOS MEDICAL, INC.",1606498
-2024-12-19,domestic,https://www.sec.gov/Archives/edgar/data/1802974/000180297424000053/avo-20241031.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"Mission Produce, Inc.",1802974
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009350/dyai20241231_10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1123852/000112385225000005/nspm-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,NORTHERN STATES POWER CO,1123852
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1010086/000143774925007056/siga20241231_10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,SIGA TECHNOLOGIES INC,1010086
@@ -430,7 +428,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/24090/000002409025000018/cia-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,"CITIZENS, INC.",24090
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/97210/000095017025023784/ter-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"TERADYNE, INC",97210
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1512499/000143774925005544/lindb20241231c_10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,"LINDBLAD EXPEDITIONS HOLDINGS, INC.",1512499
-2024-12-19,domestic,https://www.sec.gov/Archives/edgar/data/1826000/000182600024000073/lat-20221231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"Latch, Inc.",1826000
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1289340/000149315225010352/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"Stereotaxis, Inc.",1289340
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1739566/000173956625000053/utz-20241229.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,"Utz Brands, Inc.",1739566
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/84246/000155837025001301/rli-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,RLI CORP,84246
@@ -621,7 +618,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/894405/000155837025002037/arcb-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,ARCBEST CORP /DE/,894405
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1759655/000175965525000018/prva-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"Privia Health Group, Inc.",1759655
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1770787/000177078725000013/txg-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"10x Genomics, Inc.",1770787
-2024-12-20,domestic,https://www.sec.gov/Archives/edgar/data/1090872/000109087224000049/a-20241031.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Industrial Applications and Services,"AGILENT TECHNOLOGIES, INC.",1090872
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1537054/000095017025039384/gogo-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Gogo Inc.,1537054
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1838359/000155837025002499/rgti-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Rigetti Computing, Inc.",1838359
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"SOUNDHOUND AI, INC.",1840856
@@ -842,7 +838,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1080014/000095017025027864/inva-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"Innoviva, Inc.",1080014
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1807846/000095017025026108/ml-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Crypto Assets,MONEYLION INC.,1807846
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1486159/000148615925000005/chrd-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,Chord Energy Corp,1486159
-2024-12-19,domestic,https://www.sec.gov/Archives/edgar/data/1645590/000164559024000139/hpe-20241031.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Hewlett Packard Enterprise Co,1645590
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1953926/000155837025002631/zbio-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"Zenas BioPharma, Inc.",1953926
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/912593/000091259325000086/sui-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,SUN COMMUNITIES INC,912593
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/2012593/000095017025036828/rapp-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"Rapport Therapeutics, Inc.",2012593
@@ -872,7 +867,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/798941/000079894125000010/fcnca-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,FIRST CITIZENS BANCSHARES INC /DE/,798941
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/1676725/000095017025022183/idya-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"IDEAYA Biosciences, Inc.",1676725
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1828185/000182818525000021/brns-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Barinthus Biotherapeutics plc.,1828185
-2024-12-19,domestic,https://www.sec.gov/Archives/edgar/data/1980845/000095017024138472/engn-20241031.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,enGene Holdings Inc.,1980845
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1693011/000095017025035940/inzy-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"Inozyme Pharma, Inc.",1693011
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/783325/000010781525000103/wec-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,"WEC ENERGY GROUP, INC.",783325
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/2040807/000095017025044778/mtsr-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"Metsera, Inc.",2040807
