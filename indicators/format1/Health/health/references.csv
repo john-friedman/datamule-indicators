@@ -1,6 +1,5 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1069530/000143774925005919/sava20241231c_10k.htm#:~:text=Alzheimer,Life Sciences,CASSAVA SCIENCES INC,1069530
-2024-12-23,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1314052/000173112224002041/e6219_10-k.htm#:~:text=Alzheimer,Life Sciences,ANAVEX LIFE SCIENCES CORP.,1314052
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=Alzheimer,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1503274/000150327425000031/qtrx-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,Quanterix Corp,1503274
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1679628/000164117225001261/form10-k.htm#:~:text=Alzheimer,Life Sciences,"JUPITER NEUROSCIENCES, INC.",1679628
@@ -396,7 +395,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001136/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001293/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002252/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-12-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124015671/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-01-21,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1819810/000181981025000016/exhibit21-agreementandpl.htm#:~:text=mpox&text=monkeypox,Manufacturing,Redwire Corp,1819810
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/935703/000110465925029393/tm2510014d2_ex2-1.htm#:~:text=mpox&text=monkeypox,Trade & Services,"DOLLAR TREE, INC.",935703
 2025-03-07,zika_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=zika,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159

@@ -130,7 +130,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1661998/000095017025036823/qttb-20241231.htm#:~:text=orphan%20drug,Life Sciences,Q32 Bio Inc.,1661998
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1652130/000095017025029007/ntla-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Intellia Therapeutics, Inc.",1652130
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1472012/000155837025003302/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Immunome Inc.,1472012
-2024-12-23,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1314052/000173112224002041/e6219_10-k.htm#:~:text=orphan%20drug,Life Sciences,ANAVEX LIFE SCIENCES CORP.,1314052
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1739410/000173941025000040/rlyb-20241231.htm#:~:text=orphan%20drug,Life Sciences,Rallybio Corp,1739410
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1810182/000095017025034761/alxo-20241231.htm#:~:text=orphan%20drug,Life Sciences,ALX ONCOLOGY HOLDINGS INC,1810182
 2025-02-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ALNYLAM PHARMACEUTICALS, INC.",1178670
@@ -546,7 +545,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1726445/000095017025030878/ck0001726445-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Seer, Inc.",1726445
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1785279/000095017025040217/mgx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Metagenomi, Inc.",1785279
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1960262/000101376225004397/ea0234631-10k_ludwig.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"LUDWIG ENTERPRISES, INC.",1960262
-2024-12-23,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1314052/000173112224002041/e6219_10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,ANAVEX LIFE SCIENCES CORP.,1314052
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1782303/000095017025045725/bold-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Boundless Bio, Inc.",1782303
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1650664/000165066425000022/edit-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Editas Medicine, Inc.",1650664
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1699382/000095017025030414/pmvp-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"PMV Pharmaceuticals, Inc.",1699382

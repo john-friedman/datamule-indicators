@@ -137,7 +137,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1374328/000143774925009469/ftlf20241231_10k.htm#:~:text=consumer%20confidence,Life Sciences,"FITLIFE BRANDS, INC.",1374328
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1129155/000155837025001921/mpx-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,MARINE PRODUCTS CORP,1129155
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/799167/000143774925005570/mrtn20241231_10k.htm#:~:text=consumer%20confidence,Energy & Transportation,MARTEN TRANSPORT LTD,799167
-2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1976900/000149315224051440/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,DFP HOLDINGS Ltd,1976900
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/96869/000009686925000006/trc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,TEJON RANCH CO,96869
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1766502/000176650225000014/chwy-20250202.htm#:~:text=consumer%20confidence,Trade & Services,"Chewy, Inc.",1766502
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1484778/000148477825000023/tdup-20241231.htm#:~:text=consumer%20confidence,Trade & Services,ThredUp Inc.,1484778
@@ -259,7 +258,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000008/dar-20241228.htm#:~:text=consumer%20confidence,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1606163/000162828025011745/lmb-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Limbach Holdings, Inc.",1606163
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1598981/000164117225000290/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,SKYX Platforms Corp.,1598981
-2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1342423/000134242324000035/lmnr-20241031.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Limoneira CO,1342423
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1617406/000161740625000006/pk-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Park Hotels & Resorts Inc.,1617406
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/7431/000095017025026060/awi-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,ARMSTRONG WORLD INDUSTRIES INC,7431
 2025-02-04,domestic,https://www.sec.gov/Archives/edgar/data/1633917/000163391725000019/pypl-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"PayPal Holdings, Inc.",1633917
@@ -307,7 +305,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1612630/000162828025012702/jynt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JOINT Corp,1612630
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/887596/000141057825000195/cake-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,CHEESECAKE FACTORY INC,887596
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1236275/000162828025009626/qxo-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO, Inc.",1236275
-2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1301991/000109690624002294/smme-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"SmartMetric, Inc.",1301991
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/313927/000095017025019801/chd-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CHURCH & DWIGHT CO INC /DE/,313927
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1474098/000147409825000039/peb-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Pebblebrook Hotel Trust,1474098
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1771515/000177151525000017/go-20241228.htm#:~:text=consumer%20confidence,Trade & Services,Grocery Outlet Holding Corp.,1771515
@@ -502,7 +499,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/59527/000005952725000006/leco-20241231x10k.htm#:~:text=consumer%20confidence,Technology,LINCOLN ELECTRIC HOLDINGS INC,59527
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/84748/000008474825000026/rog-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,ROGERS CORP,84748
 2025-02-11,domestic,https://www.sec.gov/Archives/edgar/data/751364/000095017025017472/nnn-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"NNN REIT, INC.",751364
-2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1045942/000143774924038259/trkg20240930_10k.htm#:~:text=consumer%20confidence,Manufacturing,"Track Group, Inc.",1045942
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1156388/000095017025027520/bgfv-20241229.htm#:~:text=consumer%20confidence,Trade & Services,BIG 5 SPORTING GOODS Corp,1156388
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1282637/000128263725000004/neu-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,NEWMARKET CORP,1282637
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1007587/000100758725000003/kvhi-20241231.htm#:~:text=consumer%20confidence,Technology,KVH INDUSTRIES INC \DE\,1007587
