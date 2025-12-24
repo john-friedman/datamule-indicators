@@ -53,7 +53,7 @@ Technology,0,97,inclusion_domestic
 Technology,1,165,inclusion_domestic
 Trade & Services,0,102,inclusion_domestic
 Trade & Services,1,172,inclusion_domestic
-Crypto Assets,1,2,diversity_international
+Crypto Assets,1,3,diversity_international
 Energy & Transportation,0,12,diversity_international
 Energy & Transportation,1,24,diversity_international
 Finance,0,18,diversity_international
@@ -61,7 +61,7 @@ Finance,1,28,diversity_international
 Industrial Applications and Services,0,7,diversity_international
 Industrial Applications and Services,1,9,diversity_international
 Life Sciences,0,9,diversity_international
-Life Sciences,1,21,diversity_international
+Life Sciences,1,20,diversity_international
 Manufacturing,0,10,diversity_international
 Manufacturing,1,32,diversity_international
 Real Estate & Construction,0,3,diversity_international
