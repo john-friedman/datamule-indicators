@@ -10,7 +10,7 @@ Industrial Applications and Services,1,239,environmental_domestic
 Life Sciences,0,76,environmental_domestic
 Life Sciences,1,109,environmental_domestic
 Manufacturing,0,287,environmental_domestic
-Manufacturing,1,485,environmental_domestic
+Manufacturing,1,484,environmental_domestic
 Real Estate & Construction,0,303,environmental_domestic
 Real Estate & Construction,1,367,environmental_domestic
 Technology,0,157,environmental_domestic
@@ -28,7 +28,7 @@ Industrial Applications and Services,1,170,social_domestic
 Life Sciences,0,96,social_domestic
 Life Sciences,1,120,social_domestic
 Manufacturing,0,182,social_domestic
-Manufacturing,1,307,social_domestic
+Manufacturing,1,306,social_domestic
 Real Estate & Construction,0,156,social_domestic
 Real Estate & Construction,1,188,social_domestic
 Technology,0,135,social_domestic
@@ -64,7 +64,7 @@ Industrial Applications and Services,1,23,environmental_international
 Life Sciences,0,16,environmental_international
 Life Sciences,1,33,environmental_international
 Manufacturing,0,36,environmental_international
-Manufacturing,1,110,environmental_international
+Manufacturing,1,109,environmental_international
 Real Estate & Construction,0,6,environmental_international
 Real Estate & Construction,1,17,environmental_international
 Technology,0,28,environmental_international
@@ -82,7 +82,7 @@ Industrial Applications and Services,1,23,social_international
 Life Sciences,0,20,social_international
 Life Sciences,1,45,social_international
 Manufacturing,0,31,social_international
-Manufacturing,1,96,social_international
+Manufacturing,1,95,social_international
 Real Estate & Construction,0,5,social_international
 Real Estate & Construction,1,16,social_international
 Technology,0,23,social_international
@@ -100,10 +100,10 @@ Industrial Applications and Services,1,40,governance_international
 Life Sciences,0,27,governance_international
 Life Sciences,1,85,governance_international
 Manufacturing,0,27,governance_international
-Manufacturing,1,106,governance_international
+Manufacturing,1,105,governance_international
 Real Estate & Construction,0,3,governance_international
 Real Estate & Construction,1,19,governance_international
 Technology,0,27,governance_international
 Technology,1,117,governance_international
 Trade & Services,0,15,governance_international
-Trade & Services,1,102,governance_international
+Trade & Services,1,101,governance_international
