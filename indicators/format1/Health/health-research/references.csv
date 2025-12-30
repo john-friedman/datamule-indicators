@@ -12,8 +12,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,ai_domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
 2025-03-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/1674632/000095017025044516/bbnx-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"Beta Bionics, Inc.",1674632
 2025-03-10,ai_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"Tenaya Therapeutics, Inc.",1858848
-2024-12-30,ai_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052509/form20-f.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Technology,"Ehave, Inc.",1653606
-2024-12-30,ai_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052506/form20-f.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Technology,"Ehave, Inc.",1653606
 2025-03-03,ai_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,GSK plc,1131399
 2025-03-27,ai_international,https://www.sec.gov/Archives/edgar/data/1809196/000095017025045724/imtx-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,Immatics N.V.,1809196
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1211583/000155837025003710/fencf-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,FENNEC PHARMACEUTICALS INC.,1211583
@@ -857,8 +855,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1738758/000121390025021907/ea0233233-20f_cheerhold.htm#:~:text=healthcare%20blockchain,Technology,"Cheer Holding, Inc.",1738758
 2025-03-31,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1954694/000164117225001706/form20f.htm#:~:text=healthcare%20blockchain,Technology,Lucas GC Ltd,1954694
 2025-02-18,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1927578/000141057825000153/ntcl-20240930x20f.htm#:~:text=healthcare%20blockchain,Technology,NetClass Technology Inc,1927578
-2024-12-30,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052506/form20-f.htm#:~:text=healthcare%20blockchain,Technology,"Ehave, Inc.",1653606
-2024-12-30,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1653606/000149315224052509/form20-f.htm#:~:text=healthcare%20blockchain,Technology,"Ehave, Inc.",1653606
 2025-03-20,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1951222/000119380525000334/e664249_20f-sealsq.htm#:~:text=healthcare%20blockchain,Manufacturing,SEALSQ Corp,1951222
 2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1557860/000162828025009110/glob-20241231.htm#:~:text=healthcare%20blockchain,Technology,Globant S.A.,1557860
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,ArcelorMittal,1243429
