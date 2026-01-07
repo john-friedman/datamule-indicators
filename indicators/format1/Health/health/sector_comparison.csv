@@ -95,8 +95,8 @@ Trade & Services,0,1,mpox_domestic
 Industrial Applications and Services,0,1,zika_domestic
 Industrial Applications and Services,1,2,zika_domestic
 Life Sciences,1,1,zika_domestic
-Industrial Applications and Services,0,4,h5n1-avian_domestic
-Industrial Applications and Services,1,13,h5n1-avian_domestic
+Industrial Applications and Services,0,3,h5n1-avian_domestic
+Industrial Applications and Services,1,14,h5n1-avian_domestic
 Life Sciences,0,15,h5n1-avian_domestic
 Life Sciences,1,26,h5n1-avian_domestic
 Manufacturing,0,7,h5n1-avian_domestic
@@ -123,7 +123,7 @@ Manufacturing,1,1,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,1,1,mpox_international
 Finance,1,1,zika_international
-Life Sciences,0,12,zika_international
+Life Sciences,0,11,zika_international
 Life Sciences,1,40,zika_international
 Manufacturing,1,2,zika_international
 Real Estate & Construction,0,1,zika_international
