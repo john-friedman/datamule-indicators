@@ -482,7 +482,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1736243/000155837025003117/acxp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Acurx Pharmaceuticals, Inc.",1736243
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1709941/000095017025042759/bioa-20241231.htm#:~:text=orphan%20drug,Life Sciences,"BioAge Labs, Inc.",1709941
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1704292/000162828025008409/zlab-20241231.htm#:~:text=orphan%20drug,Life Sciences,Zai Lab Ltd,1704292
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Athira Pharma, Inc.",1620463
+2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=orphan%20drug,Life Sciences,"LeonaBio, Inc.",1620463
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1455365/000155837025003341/cgtx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,COGNITION THERAPEUTICS INC,1455365
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1703057/000162828025008689/abcl-20241231.htm#:~:text=orphan%20drug,Life Sciences,AbCellera Biologics Inc.,1703057
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/944809/000143774925005811/opk20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"OPKO HEALTH, INC.",944809
@@ -659,7 +659,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1817229/000095017025042623/vor-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Vor Biopharma Inc.,1817229
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1281895/000095017025029002/rckt-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ROCKET PHARMACEUTICALS, INC.",1281895
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Athira Pharma, Inc.",1620463
+2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"LeonaBio, Inc.",1620463
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1725160/000172516025000067/zntl-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Zentalis Pharmaceuticals, Inc.",1725160
 2025-03-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1800315/000095017025041981/glto-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Galecto, Inc.",1800315
 2025-03-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1850119/000155837025003299/ipsc-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Century Therapeutics, Inc.",1850119

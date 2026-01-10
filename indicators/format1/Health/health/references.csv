@@ -65,7 +65,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1528115/000095017025030849/annx-20241231.htm#:~:text=Alzheimer,Life Sciences,"Annexon, Inc.",1528115
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1822462/000162828025010933/fhtx-20241231.htm#:~:text=Alzheimer,Life Sciences,Foghorn Therapeutics Inc.,1822462
 2025-03-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1787297/000155837025002101/pasg-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Passage BIO, Inc.",1787297
-2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=Alzheimer,Life Sciences,"Athira Pharma, Inc.",1620463
+2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=Alzheimer,Life Sciences,"LeonaBio, Inc.",1620463
 2025-03-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1357459/000095017025043859/pali-20241231.htm#:~:text=Alzheimer,Life Sciences,"PALISADE BIO, INC.",1357459
 2025-02-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1088856/000162828025008167/cort-20241231.htm#:~:text=Alzheimer,Life Sciences,CORCEPT THERAPEUTICS INC,1088856
 2025-02-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1013488/000095017025027899/bjri-20241231.htm#:~:text=Alzheimer,Trade & Services,BJs RESTAURANTS INC,1013488
@@ -372,7 +372,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-06,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-03-21,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-01-22,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225003136/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
-2025-01-10,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225001603/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2025-02-07,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
