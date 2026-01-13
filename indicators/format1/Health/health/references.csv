@@ -385,7 +385,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000054/pressrelease_03102025.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000083/pressrelease-3192025bayvie.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
-2025-01-13,mpox_domestic,https://www.sec.gov/Archives/edgar/data/744452/000110465925002888/tm253059d1_ex99-1.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,BNB PLUS CORP.,744452
 2025-02-03,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001105/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001136/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001293/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -401,7 +400,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-23,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925005455/tm253126d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-03-24,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026854/tm2510102d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-03-03,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925019446/tm258064d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
-2025-01-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000110465925002863/tm253091d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000100069425000006/q42024earningspressrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
 2025-01-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925001459/ex_767668.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
 2025-03-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925008617/ex_792722.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
@@ -416,7 +414,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-02-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000007/a2024_q4xppcearningsrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-03-14,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000021/ex991investordayslides.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,PILGRIMS PRIDE CORP,802481
-2025-01-13,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000004/a994definitiveagreemtpress.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Salarius Pharmaceuticals, Inc.",1615219
 2025-03-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2025-02-25,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1580560/000119312525035188/d843798dex992.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Trade & Services,Flywire Corp,1580560
 2025-01-16,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1084201/000110465925003961/tm253535d1_ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,SINOVAC BIOTECH LTD,1084201
