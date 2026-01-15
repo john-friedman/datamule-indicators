@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
-Crypto Assets,0,4,domestic_us
-Crypto Assets,1,1,domestic_us
+Crypto Assets,0,3,domestic_us
+Crypto Assets,1,2,domestic_us
 Energy & Transportation,1,2,domestic_us
 Finance,1,11,domestic_us
 Industrial Applications and Services,0,1,domestic_us
@@ -19,7 +19,7 @@ Industrial Applications and Services,0,1,international_us
 Industrial Applications and Services,1,1,international_us
 Life Sciences,1,1,international_us
 Manufacturing,0,1,international_us
-Manufacturing,1,9,international_us
+Manufacturing,1,8,international_us
 Technology,0,2,international_us
 Technology,1,15,international_us
 Trade & Services,0,1,international_us
