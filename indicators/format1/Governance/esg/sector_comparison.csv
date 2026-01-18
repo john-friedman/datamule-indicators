@@ -12,7 +12,7 @@ Life Sciences,1,109,environmental_domestic
 Manufacturing,0,285,environmental_domestic
 Manufacturing,1,484,environmental_domestic
 Real Estate & Construction,0,301,environmental_domestic
-Real Estate & Construction,1,367,environmental_domestic
+Real Estate & Construction,1,366,environmental_domestic
 Technology,0,156,environmental_domestic
 Technology,1,249,environmental_domestic
 Trade & Services,0,196,environmental_domestic
@@ -30,7 +30,7 @@ Life Sciences,1,120,social_domestic
 Manufacturing,0,181,social_domestic
 Manufacturing,1,306,social_domestic
 Real Estate & Construction,0,154,social_domestic
-Real Estate & Construction,1,188,social_domestic
+Real Estate & Construction,1,187,social_domestic
 Technology,0,133,social_domestic
 Technology,1,206,social_domestic
 Trade & Services,0,174,social_domestic
@@ -48,7 +48,7 @@ Life Sciences,1,142,governance_domestic
 Manufacturing,0,97,governance_domestic
 Manufacturing,1,155,governance_domestic
 Real Estate & Construction,0,66,governance_domestic
-Real Estate & Construction,1,110,governance_domestic
+Real Estate & Construction,1,109,governance_domestic
 Technology,0,99,governance_domestic
 Technology,1,140,governance_domestic
 Trade & Services,0,84,governance_domestic
