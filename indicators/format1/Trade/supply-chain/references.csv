@@ -104,7 +104,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1058307/000143774925008787/nxpl20241231_10k.htm#:~:text=Supply%20chain%20constraints,,,1058307
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1641281/000095017025043873/bolt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Bolt Biotherapeutics, Inc.",1641281
 2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1111711/000111171125000008/nix-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,NISOURCE INC.,1111711
-2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1388658/000138865825000028/irtc-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"iRhythm Technologies, Inc.",1388658
+2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1388658/000138865825000028/irtc-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"iRhythm Holdings, Inc.",1388658
 2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1606909/000160690925000097/panl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pangaea Logistics Solutions Ltd.,1606909
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/797468/000079746825000029/oxy-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,OCCIDENTAL PETROLEUM CORP /DE/,797468
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1680247/000168024725000030/pump-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,ProPetro Holding Corp.,1680247
@@ -304,7 +304,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1469367/000146936725000039/run-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Sunrun Inc.,1469367
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1320350/000095017025029003/lnsr-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"LENSAR, Inc.",1320350
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1816613/000095017025046869/mkfg-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Markforged Holding Corp,1816613
-2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1517228/000095017025027196/comm-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"CommScope Holding Company, Inc.",1517228
+2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1517228/000095017025027196/comm-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Vistance Networks, Inc.",1517228
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1046025/000104602525000046/hfwa-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,HERITAGE FINANCIAL CORP /WA/,1046025
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1554859/000155485925000011/smlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Semler Scientific, Inc.",1554859
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm#:~:text=Supply%20chain%20constraints,Crypto Assets,Cipher Mining Inc.,1819989
