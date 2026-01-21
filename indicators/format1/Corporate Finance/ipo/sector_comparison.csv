@@ -6,8 +6,8 @@ Finance,1,11,domestic_us
 Industrial Applications and Services,0,1,domestic_us
 Industrial Applications and Services,1,10,domestic_us
 Life Sciences,1,6,domestic_us
-Manufacturing,0,2,domestic_us
-Manufacturing,1,11,domestic_us
+Manufacturing,0,1,domestic_us
+Manufacturing,1,12,domestic_us
 Real Estate & Construction,0,3,domestic_us
 Real Estate & Construction,1,4,domestic_us
 Technology,0,5,domestic_us
@@ -19,8 +19,8 @@ Industrial Applications and Services,1,2,international_us
 Life Sciences,1,1,international_us
 Manufacturing,0,1,international_us
 Manufacturing,1,8,international_us
-Technology,0,2,international_us
-Technology,1,15,international_us
+Technology,0,1,international_us
+Technology,1,16,international_us
 Trade & Services,0,1,international_us
 Crypto Assets,0,1,domestic_eu
 Crypto Assets,1,2,domestic_eu

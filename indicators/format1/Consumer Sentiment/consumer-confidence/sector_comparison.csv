@@ -13,8 +13,8 @@ Manufacturing,0,153,domestic
 Manufacturing,1,301,domestic
 Real Estate & Construction,0,195,domestic
 Real Estate & Construction,1,256,domestic
-Technology,0,113,domestic
-Technology,1,166,domestic
+Technology,0,112,domestic
+Technology,1,167,domestic
 Trade & Services,0,200,domestic
 Trade & Services,1,336,domestic
 Crypto Assets,1,5,international
@@ -31,6 +31,6 @@ Manufacturing,1,75,international
 Real Estate & Construction,0,5,international
 Real Estate & Construction,1,17,international
 Technology,0,14,international
-Technology,1,59,international
+Technology,1,58,international
 Trade & Services,0,12,international
 Trade & Services,1,61,international
