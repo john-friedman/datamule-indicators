@@ -8,7 +8,7 @@ Industrial Applications and Services,1,4,launch_domestic
 Life Sciences,0,4,launch_domestic
 Life Sciences,1,4,launch_domestic
 Manufacturing,0,20,launch_domestic
-Manufacturing,1,25,launch_domestic
+Manufacturing,1,24,launch_domestic
 Real Estate & Construction,0,2,launch_domestic
 Real Estate & Construction,1,2,launch_domestic
 Technology,0,8,launch_domestic
@@ -22,7 +22,7 @@ Finance,0,1,satellite_domestic
 Finance,1,2,satellite_domestic
 Industrial Applications and Services,1,3,satellite_domestic
 Manufacturing,0,13,satellite_domestic
-Manufacturing,1,26,satellite_domestic
+Manufacturing,1,25,satellite_domestic
 Real Estate & Construction,0,4,satellite_domestic
 Real Estate & Construction,1,4,satellite_domestic
 Technology,0,20,satellite_domestic

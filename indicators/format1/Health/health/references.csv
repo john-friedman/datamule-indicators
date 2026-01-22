@@ -330,7 +330,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,Atai Beckley N.V.,1840904
 2025-03-13,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1651625/000155837025002855/aciu-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,AC Immune SA,1651625
 2025-02-05,alzheimer_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Alzheimer,Life Sciences,NOVO NORDISK A S,353278
-2025-01-22,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1892500/000121390025005490/ea0227485-20f_clearmind.htm#:~:text=Alzheimer,Life Sciences,Clearmind Medicine Inc.,1892500
 2025-03-04,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1840706/000184070625000009/soph-20241231.htm#:~:text=Alzheimer,Technology,SOPHiA GENETICS SA,1840706
 2025-03-03,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Alzheimer,Life Sciences,GSK plc,1131399
 2025-02-18,alzheimer_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,ASTRAZENECA PLC,901832
@@ -338,7 +337,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1818838/000141057825000419/adag-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,Adagene Inc.,1818838
 2025-03-27,alzheimer_international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=Alzheimer,Finance,AEGON LTD.,769218
 2025-02-05,obesity_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Obesity,Life Sciences,NOVO NORDISK A S,353278
-2025-01-22,obesity_international,https://www.sec.gov/Archives/edgar/data/1892500/000121390025005490/ea0227485-20f_clearmind.htm#:~:text=Obesity,Life Sciences,Clearmind Medicine Inc.,1892500
 2025-02-18,obesity_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231xex15d3.htm#:~:text=Obesity,Life Sciences,ASTRAZENECA PLC,901832
 2025-02-12,obesity_international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=Obesity,Life Sciences,Ascendis Pharma A/S,1612042
 2025-03-06,obesity_international,https://www.sec.gov/Archives/edgar/data/1849853/000095017025034633/stvn-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Stevanato Group S.p.A.,1849853
@@ -367,10 +365,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,nash_international,https://www.sec.gov/Archives/edgar/data/1889109/000141057825000356/blte-20241231x20f.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"BELITE BIO, INC",1889109
 2025-02-21,nash_international,https://www.sec.gov/Archives/edgar/data/1060955/000106095525000016/iclr-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,ICON PLC,1060955
 2025-02-12,nash_international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Ascendis Pharma A/S,1612042
-2025-01-22,ptsd_international,https://www.sec.gov/Archives/edgar/data/1892500/000121390025005490/ea0227485-20f_clearmind.htm#:~:text=PTSD,Life Sciences,Clearmind Medicine Inc.,1892500
 2025-02-06,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000004/exh991-pressreleaseq42024.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-03-21,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"Traws Pharma, Inc.",1130598
-2025-01-22,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1445815/000149315225003136/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"BIOXYTRAN, INC",1445815
 2025-02-07,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
