@@ -42,7 +42,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-06,domestic,https://www.sec.gov/Archives/edgar/data/822416/000082241625000007/phm-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,PULTEGROUP INC/MI/,822416
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/930245/000147237525000028/ixform10k.htm#:~:text=consumer%20confidence,Trade & Services,Agassi Sports Entertainment Corp.,930245
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/1953366/000155837025001097/stho-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Star Holdings,1953366
-2025-01-24,domestic,https://www.sec.gov/Archives/edgar/data/1830696/000149315225003478/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,GLOBAL LEADERS CORP,1830696
 2025-02-07,domestic,https://www.sec.gov/Archives/edgar/data/1354866/000143774925003081/byrn20241130_10k.htm#:~:text=consumer%20confidence,Manufacturing,Byrna Technologies Inc.,1354866
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/720858/000072085825000007/itic-20241231.htm#:~:text=consumer%20confidence,Finance,INVESTORS TITLE CO,720858
 2025-02-05,domestic,https://www.sec.gov/Archives/edgar/data/847942/000149315225005023/form10-k.htm#:~:text=consumer%20confidence,Finance,STRATEGIC ACQUISITIONS INC /NV/,847942
@@ -369,7 +368,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1757073/000175707325000007/nvst-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Envista Holdings Corp,1757073
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,Monster Beverage Corp,865752
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1559865/000155986525000007/evtc-20241231.htm#:~:text=consumer%20confidence,Technology,"EVERTEC, Inc.",1559865
-2025-01-24,domestic,https://www.sec.gov/Archives/edgar/data/795266/000079526625000014/kbh-20241130.htm#:~:text=consumer%20confidence,Real Estate & Construction,KB HOME,795266
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/752642/000149315225008351/form10-k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"UMH PROPERTIES, INC.",752642
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1804745/000180474525000010/drvn-20241228.htm#:~:text=consumer%20confidence,Trade & Services,Driven Brands Holdings Inc.,1804745
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/791963/000079196325000010/opy-20241231.htm#:~:text=consumer%20confidence,Finance,OPPENHEIMER HOLDINGS INC,791963
@@ -1251,7 +1249,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,international,https://www.sec.gov/Archives/edgar/data/1651717/000165171725000011/nomd-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Nomad Foods Ltd,1651717
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1867102/000110465925022354/evtl-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,Vertical Aerospace Ltd.,1867102
 2025-03-10,international,https://www.sec.gov/Archives/edgar/data/1738758/000121390025021907/ea0233233-20f_cheerhold.htm#:~:text=consumer%20confidence,Technology,"Cheer Holding, Inc.",1738758
-2025-01-24,international,https://www.sec.gov/Archives/edgar/data/1837821/000121390025006519/ea0227825-20f_jinmedical.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Jin Medical International Ltd.,1837821
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Stellantis N.V.,1605484
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/1928948/000121390025018123/ea0231767-20f_hightrend.htm#:~:text=consumer%20confidence,Energy & Transportation,High-Trend International Group,1928948
 2025-02-14,international,https://www.sec.gov/Archives/edgar/data/1984014/000121390025014457/ea0230411-20f_bloomz.htm#:~:text=consumer%20confidence,Trade & Services,Harrison Global Holdings Inc.,1984014

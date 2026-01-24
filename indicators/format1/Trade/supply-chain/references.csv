@@ -206,7 +206,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1877322/000187732225000021/esab-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,ESAB Corp,1877322
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/738214/000143774925007768/amtx20241231_10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"AEMETIS, INC",738214
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1822928/000143774925007614/hlly20241112_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Holley Inc.,1822928
-2025-01-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1177394/000117739425000009/snx-20241130.htm#:~:text=Supply%20chain%20constraints,Trade & Services,TD SYNNEX CORP,1177394
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1534675/000149315225008697/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Tecnoglass Inc.,1534675
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/8818/000000881825000003/avy-20241228.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Avery Dennison Corp,8818
 2025-03-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1789029/000095017025042849/aeva-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Aeva Technologies, Inc.",1789029
@@ -278,7 +277,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/4447/000162828025008716/hes-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,HESS CORP,4447
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1808665/000180866525000009/asrt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Assertio Holdings, Inc.",1808665
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1158463/000115846325000005/jblu-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,JETBLUE AIRWAYS CORP,1158463
-2025-01-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/795266/000079526625000014/kbh-20241130.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,KB HOME,795266
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1824920/000095017025027722/ionq-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"IonQ, Inc.",1824920
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/894081/000143774925005937/atsg20241231_10k.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"Air Transport Services Group, Inc.",894081
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/jnj-20241229.htm#:~:text=Supply%20chain%20constraints,Life Sciences,JOHNSON & JOHNSON,200406
