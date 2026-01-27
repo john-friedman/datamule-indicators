@@ -680,7 +680,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/898174/000089817425000027/rga-20241231.htm#:~:text=consumer%20confidence,Finance,REINSURANCE GROUP OF AMERICA INC,898174
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1964979/000095017025046063/alur-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"ALLURION TECHNOLOGIES, INC.",1964979
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1270436/000143774925007158/cohn20241231_10k.htm#:~:text=consumer%20confidence,Finance,Cohen & Co Inc.,1270436
-2025-01-27,domestic,https://www.sec.gov/Archives/edgar/data/1035443/000103544325000067/are-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",1035443
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1490161/000095017025045749/sowg-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Sow Good Inc.,1490161
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/749647/000149315225008460/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"Imunon, Inc.",749647
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/350852/000114036125006428/ef20038948_10k.htm#:~:text=consumer%20confidence,Finance,COMMUNITY TRUST BANCORP INC /KY/,350852
@@ -737,7 +736,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1040829/000155837025001286/rhp-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Ryman Hospitality Properties, Inc.",1040829
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1459839/000145983925000036/sibn-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"SI-BONE, Inc.",1459839
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/2011954/000162828025009131/twnp-20241229.htm#:~:text=consumer%20confidence,Trade & Services,Twin Hospitality Group Inc.,2011954
-2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1823144/000182314425000004/cmpo-20241231.htm#:~:text=consumer%20confidence,Crypto Assets,"CompoSecure, Inc.",1823144
+2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1823144/000182314425000004/cmpo-20241231.htm#:~:text=consumer%20confidence,Crypto Assets,"GPGI, Inc.",1823144
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1574235/000149315225011084/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"Pulmatrix, Inc.",1574235
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1534254/000153425425000004/cion-20241231.htm#:~:text=consumer%20confidence,,CION Investment Corp,1534254
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1770121/000095017025040254/sana-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Sana Biotechnology, Inc.",1770121
@@ -1256,7 +1255,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1073404/000141057825000353/ggb-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,GERDAU S.A.,1073404
 2025-01-28,international,https://www.sec.gov/Archives/edgar/data/1808110/000121390025007160/ea0208402-20f_ddcenter.htm#:~:text=consumer%20confidence,Manufacturing,DDC Enterprise Ltd,1808110
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1087711/000162828025011199/san-20241231.htm#:~:text=consumer%20confidence,Finance,Santander UK plc,1087711
-2025-01-27,international,https://www.sec.gov/Archives/edgar/data/1959726/000149315225003767/form20-f.htm#:~:text=consumer%20confidence,Trade & Services,Autozi Internet Technology (Global) Ltd.,1959726
 2025-02-20,international,https://www.sec.gov/Archives/edgar/data/1160106/000116010625000005/lyg-20241231_d2.htm#:~:text=consumer%20confidence,Finance,Lloyds Banking Group plc,1160106
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1867729/000119312525062519/d921190d20f.htm#:~:text=consumer%20confidence,Technology,WeRide Inc.,1867729
 2025-02-24,international,https://www.sec.gov/Archives/edgar/data/1986247/000121390025016603/ea0231351-20f_parkhabio.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Park Ha Biological Technology Co., Ltd.",1986247

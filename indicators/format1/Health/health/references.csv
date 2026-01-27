@@ -281,7 +281,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1730430/000155837025001505/knsa-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Kiniksa Pharmaceuticals International, plc",1730430
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1689375/000168937525000011/trda-20241231.htm#:~:text=Obesity,Life Sciences,"Entrada Therapeutics, Inc.",1689375
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1636282/000163628225000020/syre-20241231.htm#:~:text=Obesity,Life Sciences,"Spyre Therapeutics, Inc.",1636282
-2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1625297/000162529725000016/indv-20241231.htm#:~:text=Obesity,Life Sciences,INDIVIOR PLC,1625297
+2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1625297/000162529725000016/indv-20241231.htm#:~:text=Obesity,Life Sciences,"Indivior Pharmaceuticals, Inc.",1625297
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1232524/000123252425000011/jazz-20241231.htm#:~:text=Obesity,Life Sciences,Jazz Pharmaceuticals plc,1232524
 2025-03-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1674632/000095017025044516/bbnx-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"Beta Bionics, Inc.",1674632
 2025-02-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/885590/000088559025000007/bhc-20241231.htm#:~:text=Obesity,Life Sciences,Bausch Health Companies Inc.,885590
@@ -308,7 +308,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=PTSD,Life Sciences,"Silo Pharma, Inc.",1514183
 2025-03-03,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1593773/000147793225001401/kgnr_10k.htm#:~:text=PTSD,Technology,AMJ Global Technology,1593773
 2025-03-14,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1719406/000143774925007743/nrxp20241231c_10k.htm#:~:text=PTSD,Life Sciences,"NRX Pharmaceuticals, Inc.",1719406
-2025-01-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1601280/000107997325000141/mdxl_10k-123123.htm#:~:text=PTSD,Energy & Transportation,"MediXall Group, Inc.",1601280
 2025-03-03,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1621221/000164033425000335/artl_10k.htm#:~:text=PTSD,Life Sciences,"ARTELO BIOSCIENCES, INC.",1621221
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=PTSD,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
 2025-02-20,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1773427/000177342725000010/swtx-20241231.htm#:~:text=PTSD,Life Sciences,"SpringWorks Therapeutics, Inc.",1773427

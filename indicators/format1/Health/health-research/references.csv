@@ -487,7 +487,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/944809/000143774925005811/opk20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"OPKO HEALTH, INC.",944809
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1991792/000095017025046351/ck0001991792-20241231.htm#:~:text=orphan%20drug,Life Sciences,"CG Oncology, Inc.",1991792
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1744659/000095017025029514/akro-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Akero Therapeutics, Inc.",1744659
-2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1625297/000162529725000016/indv-20241231.htm#:~:text=orphan%20drug,Life Sciences,INDIVIOR PLC,1625297
+2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1625297/000162529725000016/indv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Indivior Pharmaceuticals, Inc.",1625297
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1393434/000155837025002000/ocul-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"OCULAR THERAPEUTIX, INC",1393434
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1677940/000117184325001758/bysi20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,BeyondSpring Inc.,1677940
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1572616/000095017025030807/guts-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,"FRACTYL HEALTH, INC.",1572616
@@ -858,7 +858,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,ArcelorMittal,1243429
 2025-02-19,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1653242/000165324225000010/ntb-20241231.htm#:~:text=healthcare%20blockchain,Finance,Bank of N.T. Butterfield & Son Ltd,1653242
 2025-03-14,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/938323/000119312525054371/d854846d20f.htm#:~:text=healthcare%20blockchain,Manufacturing,PEARSON PLC,938323
-2025-01-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1687451/000141057825000055/zkin-20240930x20f.htm#:~:text=healthcare%20blockchain,Manufacturing,"ZK International Group Co., Ltd.",1687451
 2025-02-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1167831/000116010625000012/lbk-20241231.htm#:~:text=healthcare%20blockchain,Finance,Lloyds Bank plc,1167831
 2025-03-05,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm#:~:text=healthcare%20blockchain,Technology,ASML HOLDING NV,937966
 2025-03-04,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1833835/000095017025032340/psfe-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,Paysafe Ltd,1833835
