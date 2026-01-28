@@ -189,7 +189,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1937993/000121390025023759/ea0232553-10k_cadrenal.htm#:~:text=orphan%20drug,Life Sciences,"Cadrenal Therapeutics, Inc.",1937993
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1808865/000095017025033066/itos-20241231.htm#:~:text=orphan%20drug,Life Sciences,"iTeos Therapeutics, Inc.",1808865
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1703647/000095017025040759/krro-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Korro Bio, Inc.",1703647
-2025-01-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1549595/000154959525000016/nrix-20241130.htm#:~:text=orphan%20drug,Life Sciences,"Nurix Therapeutics, Inc.",1549595
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1619856/000161985625000015/crbu-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Caribou Biosciences, Inc.",1619856
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1559053/000155905325000009/prta-20241231.htm#:~:text=orphan%20drug,Life Sciences,PROTHENA CORP PUBLIC LTD CO,1559053
@@ -366,7 +365,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1984086/000095017025045745/sepn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Septerna, Inc.",1984086
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1962918/000196291825000022/slrn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ACELYRIN, Inc.",1962918
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=orphan%20drug,Life Sciences,"Silo Pharma, Inc.",1514183
-2025-01-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/793171/000149315225003942/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Vitro Biopharma, Inc.",793171
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1721484/000095017025029968/lgvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,Longeveron Inc.,1721484
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1494650/000149465025000064/optn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"OptiNose, Inc.",1494650
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1326732/000132673225000029/xncr-20241231.htm#:~:text=orphan%20drug,Life Sciences,Xencor Inc,1326732
@@ -700,7 +698,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,genomic_international,https://www.sec.gov/Archives/edgar/data/1627281/000095017025039038/clls-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Cellectis S.A.,1627281
 2025-01-31,genomic_international,https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/nvs-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,NOVARTIS AG,1114448
 2025-02-21,genomic_international,https://www.sec.gov/Archives/edgar/data/1060955/000106095525000016/iclr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,ICON PLC,1060955
-2025-01-28,genomic_international,https://www.sec.gov/Archives/edgar/data/1816815/000149315225003851/form20-f.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Bon Natural Life Ltd,1816815
 2025-03-21,genomic_international,https://www.sec.gov/Archives/edgar/data/1576789/000162828025014212/wix-20241231.htm#:~:text=genomic&text=genomic%20research,Technology,Wix.com Ltd.,1576789
 2025-03-20,genomic_international,https://www.sec.gov/Archives/edgar/data/1027664/000162828025013971/eslt-20241231.htm#:~:text=genomic&text=genomic%20research,Manufacturing,ELBIT SYSTEMS LTD,1027664
 2025-03-04,genomic_international,https://www.sec.gov/Archives/edgar/data/1119774/000117891325000679/zk2532769.htm#:~:text=genomic&text=genomic%20research,Life Sciences,COMPUGEN LTD,1119774

@@ -8,7 +8,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1720893/000155837025003985/btai-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"BioXcel Therapeutics, Inc.",1720893
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=Alzheimer,Life Sciences,"Silo Pharma, Inc.",1514183
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=Alzheimer,Crypto Assets,TAO Synergies Inc.,1571934
-2025-01-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/793171/000149315225003942/form10-k.htm#:~:text=Alzheimer,Life Sciences,"Vitro Biopharma, Inc.",793171
 2025-02-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1721484/000095017025029968/lgvn-20241231.htm#:~:text=Alzheimer,Life Sciences,Longeveron Inc.,1721484
 2025-02-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1521036/000162828025007970/lnth-20241231.htm#:~:text=Alzheimer,Life Sciences,"Lantheus Holdings, Inc.",1521036
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1593773/000147793225001401/kgnr_10k.htm#:~:text=Alzheimer,Technology,AMJ Global Technology,1593773
@@ -393,7 +392,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925019446/tm258064d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-02-27,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1000694/000100069425000006/q42024earningspressrelease.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,NOVAVAX INC,1000694
 2025-03-21,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925008617/ex_792722.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
-2025-01-28,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1971532/000149315225003909/form8-k.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Telomir Pharmaceuticals, Inc.",1971532
 2025-02-06,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095025000071/ex99-1q12025er.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
 2025-03-26,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-01-30,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1022079/000102207925000008/dgx123120248-kexhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,QUEST DIAGNOSTICS INC,1022079
