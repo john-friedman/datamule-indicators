@@ -60,7 +60,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1474432/000162828025015044/pstg-20250202.htm#:~:text=Supply%20chain%20constraints,Technology,"Pure Storage, Inc.",1474432
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1831651/000183165125000019/shls-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Shoals Technologies Group, Inc.",1831651
 2025-02-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1166003/000116600325000017/xpo-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"XPO, Inc.",1166003
-2025-01-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/14177/000149315225004182/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BRIDGFORD FOODS CORP,14177
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1030894/000103089425000014/cls-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,CELESTICA INC,1030894
 2025-03-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1036262/000143774925007520/intt20241231_10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,INTEST CORP,1036262
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm#:~:text=Supply%20chain%20constraints,Manufacturing,NVIDIA CORP,1045810
@@ -85,8 +84,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1297996/000155837025001424/dlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"DIGITAL REALTY TRUST, INC.",1297996
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1494877/000155837025001424/dlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"DIGITAL REALTY TRUST, L.P.",1494877
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/784977/000078497725000012/por-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,PORTLAND GENERAL ELECTRIC CO /OR/,784977
-2025-01-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1067701/000106770125000008/uri-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"UNITED RENTALS, INC.",1067701
-2025-01-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1047166/000106770125000008/uri-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,UNITED RENTALS NORTH AMERICA INC,1047166
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1667011/000166701125000010/aip-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Arteris, Inc.",1667011
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1798749/000155837025003750/avte-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Jade Biosciences, Inc.",1798749
 2025-03-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1805077/000180507725000015/eose-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Eos Energy Enterprises, Inc.",1805077
@@ -226,7 +223,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1087294/000162828025011366/cpix-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,CUMBERLAND PHARMACEUTICALS INC,1087294
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/883569/000088356925000010/fosl-20241228.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Fossil Group, Inc.",883569
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/729580/000143774925005652/belfb20241231_10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BEL FUSE INC /NJ,729580
-2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1062231/000106223125000008/axl-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,AMERICAN AXLE & MANUFACTURING HOLDINGS INC,1062231
+2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1062231/000106223125000008/axl-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Dauch Corp,1062231
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1875444/000187544425000021/arhs-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Arhaus, Inc.",1875444
 2025-03-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"LifeMD, Inc.",948320
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1625641/000162564125000027/law-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"CS Disco, Inc.",1625641
@@ -340,7 +337,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1050915/000105091525000005/pwr-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"QUANTA SERVICES, INC.",1050915
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/74208/000007420825000010/udr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"UDR, Inc.",74208
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1819253/000095017025039394/btmd-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,biote Corp.,1819253
-2025-01-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1288469/000128846925000008/mxl-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"MAXLINEAR, INC",1288469
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1315098/000131509825000033/rblx-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Roblox Corp,1315098
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/850141/000162828025008838/hmn-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,HORACE MANN EDUCATORS CORP /DE/,850141
 2025-03-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1881487/000095017025036251/acdc-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,ProFrac Holding Corp.,1881487
