@@ -1,7 +1,6 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-07,ai_domestic,https://www.sec.gov/Archives/edgar/data/827187/000082718725000018/snbr-20241228.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Manufacturing,Sleep Number Corp,827187
 2025-02-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/1637207/000163720725000016/plnt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Trade & Services,"Planet Fitness, Inc.",1637207
-2025-01-30,ai_domestic,https://www.sec.gov/Archives/edgar/data/1373715/000137371525000010/now-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Technology,"ServiceNow, Inc.",1373715
 2025-02-19,ai_domestic,https://www.sec.gov/Archives/edgar/data/1100682/000110068225000011/crl-20241228.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",1100682
 2025-03-04,ai_domestic,https://www.sec.gov/Archives/edgar/data/1487428/000143774925006114/hrzn20241231_10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,,Horizon Technology Finance Corp,1487428
 2025-02-27,ai_domestic,https://www.sec.gov/Archives/edgar/data/1816590/000162828025008412/cmps-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,COMPASS Pathways plc,1816590
@@ -426,7 +425,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/bmy-20241231.htm#:~:text=orphan%20drug,Life Sciences,BRISTOL MYERS SQUIBB CO,14272
 2025-02-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1860742/000186074225000004/blco-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,Bausch & Lomb Corp,1860742
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1061983/000095017025029206/cytk-20241231.htm#:~:text=orphan%20drug,Life Sciences,CYTOKINETICS INC,1061983
-2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1813814/000095017025034176/mnmd-20241231.htm#:~:text=orphan%20drug,Life Sciences,Mind Medicine (MindMed) Inc.,1813814
+2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1813814/000095017025034176/mnmd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Definium Therapeutics, Inc.",1813814
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1855644/000141057825000443/zura-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Zura Bio Ltd,1855644
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1708331/000173112225000316/e6385_10k.htm#:~:text=orphan%20drug,Life Sciences,"Virpax Pharmaceuticals, Inc.",1708331
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1790340/000179034025000042/imrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,Immuneering Corp,1790340

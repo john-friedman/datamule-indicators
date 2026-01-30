@@ -56,7 +56,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1338749/000095017025019711/pch-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,POTLATCHDELTIC CORP,1338749
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1672013/000167201325000009/golf-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Acushnet Holdings Corp.,1672013
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/814586/000168316825001592/lifeway_i10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,"Lifeway Foods, Inc.",814586
-2025-01-30,domestic,https://www.sec.gov/Archives/edgar/data/1576940/000157694025000006/ccs-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Century Communities, Inc.",1576940
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1828962/000182896225000039/crct-20241231.htm#:~:text=consumer%20confidence,Technology,"Cricut, Inc.",1828962
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/18498/000095017025044864/gco-20250201.htm#:~:text=consumer%20confidence,Trade & Services,GENESCO INC,18498
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/945841/000094584125000032/pool-20241231.htm#:~:text=consumer%20confidence,Trade & Services,POOL CORP,945841
@@ -418,7 +417,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1704711/000170471125000031/fnko-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Funko, Inc.",1704711
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1531177/000095017025035500/sght-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Sight Sciences, Inc.",1531177
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1580864/000095017025037265/vrm-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Vroom, Inc.",1580864
-2025-01-30,domestic,https://www.sec.gov/Archives/edgar/data/908937/000090893725000005/siri-20241231.htm#:~:text=consumer%20confidence,Technology,SIRIUS XM HOLDINGS INC.,908937
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1530979/000153097925000016/hnst-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Honest Company, Inc.",1530979
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1856236/000095017025037202/ewcz-20250104.htm#:~:text=consumer%20confidence,Trade & Services,"European Wax Center, Inc.",1856236
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/895456/000143774925008025/rcky20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"ROCKY BRANDS, INC.",895456
@@ -519,7 +517,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/799288/000095017025046044/le-20250131.htm#:~:text=consumer%20confidence,Trade & Services,"LANDS' END, INC.",799288
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1661458/000166145825000003/hri-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Highlands REIT, Inc.",1661458
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1408075/000140807525000007/gpk-20241231.htm#:~:text=consumer%20confidence,Manufacturing,GRAPHIC PACKAGING HOLDING CO,1408075
-2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/2016221/000141057825000412/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Melar Acquisition Corp. I/Cayman,2016221
+2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/2016221/000141057825000412/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,Melar Acquisition Corp. I/Cayman,2016221
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/828146/000141057825000511/link-20241231x10k.htm#:~:text=consumer%20confidence,Technology,INTERLINK ELECTRONICS INC,828146
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1050377/000155837025001382/cnxn-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,PC CONNECTION INC,1050377
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/29534/000155837025003413/dg-20250131x10k.htm#:~:text=consumer%20confidence,Trade & Services,DOLLAR GENERAL CORP,29534
@@ -1217,11 +1215,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/19617/000001961725000270/jpm-20241231.htm#:~:text=consumer%20confidence,Finance,JPMORGAN CHASE & CO,19617
 2025-02-05,domestic,https://www.sec.gov/Archives/edgar/data/1287750/000128775025000007/arcc-20241231.htm#:~:text=consumer%20confidence,,ARES CAPITAL CORP,1287750
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1734107/000119312525053425/d901296dex441.htm#:~:text=consumer%20confidence,Technology,Sohu.com Ltd,1734107
-2025-01-30,international,https://www.sec.gov/Archives/edgar/data/1967822/000121390025008172/ea0227461-20f_creative.htm#:~:text=consumer%20confidence,Trade & Services,Creative Global Technology Holdings Ltd,1967822
 2025-03-10,international,https://www.sec.gov/Archives/edgar/data/1985487/000095017025035904/kspi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Joint Stock Co Kaspi.kz,1985487
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1988894/000162828025011314/as-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Amer Sports, Inc.",1988894
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000003/onholdingag-20241231.htm#:~:text=consumer%20confidence,Manufacturing,On Holding AG,1858985
-2025-01-30,international,https://www.sec.gov/Archives/edgar/data/1955104/000095017025011073/zapp-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Zapp Electric Vehicles Group Ltd,1955104
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1843586/000095017025038739/otly-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Oatly Group AB,1843586
 2025-02-18,international,https://www.sec.gov/Archives/edgar/data/1979610/000173112225000239/e6355_20-f.htm#:~:text=consumer%20confidence,Real Estate & Construction,WF International Ltd.,1979610
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1745201/000095017025036852/vik-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Viking Holdings Ltd,1745201

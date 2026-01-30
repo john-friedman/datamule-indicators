@@ -13,7 +13,7 @@ Manufacturing,0,12,general_domestic
 Manufacturing,1,7,general_domestic
 Real Estate & Construction,0,9,general_domestic
 Real Estate & Construction,1,7,general_domestic
-Technology,0,57,general_domestic
+Technology,0,56,general_domestic
 Technology,1,66,general_domestic
 Trade & Services,0,17,general_domestic
 Trade & Services,1,14,general_domestic
@@ -48,7 +48,7 @@ Manufacturing,1,2,google_domestic
 Real Estate & Construction,0,1,google_domestic
 Real Estate & Construction,1,2,google_domestic
 Technology,0,38,google_domestic
-Technology,1,39,google_domestic
+Technology,1,38,google_domestic
 Trade & Services,0,8,google_domestic
 Trade & Services,1,7,google_domestic
 Crypto Assets,1,1,general_international

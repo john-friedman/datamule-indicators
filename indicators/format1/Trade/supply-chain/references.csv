@@ -80,7 +80,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/747540/000121390025018755/ea0231937-10k_surgecomp.htm#:~:text=Supply%20chain%20constraints,Trade & Services,SURGE COMPONENTS INC,747540
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1267238/000126723825000008/aiz-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,"ASSURANT, INC.",1267238
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/819793/000081979325000007/ain-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ALBANY INTERNATIONAL CORP /DE/,819793
-2025-01-30,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Tesla, Inc.",1318605
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1297996/000155837025001424/dlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"DIGITAL REALTY TRUST, INC.",1297996
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1494877/000155837025001424/dlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"DIGITAL REALTY TRUST, L.P.",1494877
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/784977/000078497725000012/por-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,PORTLAND GENERAL ELECTRIC CO /OR/,784977
@@ -452,7 +451,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,constraints_intl,https://www.sec.gov/Archives/edgar/data/1129928/000112992825000019/oncyf-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,ONCOLYTICS BIOTECH INC,1129928
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1041934/000155837025003828/edap-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,EDAP TMS SA,1041934
 2025-03-26,constraints_intl,https://www.sec.gov/Archives/edgar/data/1708441/000162828025014832/mynd-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Mynd.ai, Inc.",1708441
-2025-01-30,constraints_intl,https://www.sec.gov/Archives/edgar/data/1967822/000121390025008172/ea0227461-20f_creative.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Creative Global Technology Holdings Ltd,1967822
 2025-03-20,constraints_intl,https://www.sec.gov/Archives/edgar/data/1140625/000114062525000062/exhibit154equinor2024ann.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,EQUINOR ASA,1140625
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/897322/000117891325001071/zk2532800.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GILAT SATELLITE NETWORKS LTD,897322
 2025-03-12,constraints_intl,https://www.sec.gov/Archives/edgar/data/1835654/000117891325000817/zk2532805.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Innoviz Technologies Ltd.,1835654
