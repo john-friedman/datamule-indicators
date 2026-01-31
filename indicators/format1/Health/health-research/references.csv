@@ -518,7 +518,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1631487/000101376225002502/ea0235317-20f_collplant.htm#:~:text=orphan%20drug,Industrial Applications and Services,CollPlant Biotechnologies Ltd,1631487
 2025-03-11,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1893645/000121390025022732/ea0232371-20f_polyrizon.htm#:~:text=orphan%20drug,Industrial Applications and Services,Polyrizon Ltd.,1893645
 2025-02-26,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1512717/000119312525035910/d857007d20f.htm#:~:text=orphan%20drug,Life Sciences,Theratechnologies Inc.,1512717
-2025-01-31,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/nvs-20241231.htm#:~:text=orphan%20drug,Life Sciences,NOVARTIS AG,1114448
 2025-03-03,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=orphan%20drug,Life Sciences,GSK plc,1131399
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1393772/000109690625000350/budz-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"WEED, INC.",1393772
 2025-02-12,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1110803/000111080325000019/ilmn-20241229.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"ILLUMINA, INC.",1110803
@@ -695,7 +694,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,genomic_international,https://www.sec.gov/Archives/edgar/data/1801198/000180119825000012/exhibit4_241.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Legend Biotech Corp,1801198
 2025-03-19,genomic_international,https://www.sec.gov/Archives/edgar/data/1648257/000141057825000377/hcm-20241231x20f.htm#:~:text=genomic&text=genomic%20research,Life Sciences,HUTCHMED (China) Ltd,1648257
 2025-03-14,genomic_international,https://www.sec.gov/Archives/edgar/data/1627281/000095017025039038/clls-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Cellectis S.A.,1627281
-2025-01-31,genomic_international,https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/nvs-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,NOVARTIS AG,1114448
 2025-02-21,genomic_international,https://www.sec.gov/Archives/edgar/data/1060955/000106095525000016/iclr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,ICON PLC,1060955
 2025-03-21,genomic_international,https://www.sec.gov/Archives/edgar/data/1576789/000162828025014212/wix-20241231.htm#:~:text=genomic&text=genomic%20research,Technology,Wix.com Ltd.,1576789
 2025-03-20,genomic_international,https://www.sec.gov/Archives/edgar/data/1027664/000162828025013971/eslt-20241231.htm#:~:text=genomic&text=genomic%20research,Manufacturing,ELBIT SYSTEMS LTD,1027664

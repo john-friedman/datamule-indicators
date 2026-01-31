@@ -56,8 +56,8 @@ Real Estate & Construction,0,1,investment_domestic
 Real Estate & Construction,1,1,investment_domestic
 Energy & Transportation,1,1,technology_domestic
 Manufacturing,1,3,technology_domestic
-Technology,0,6,technology_domestic
-Technology,1,8,technology_domestic
+Technology,0,5,technology_domestic
+Technology,1,9,technology_domestic
 Finance,0,1,risks_domestic
 Finance,1,1,risks_domestic
 Manufacturing,1,1,risks_domestic

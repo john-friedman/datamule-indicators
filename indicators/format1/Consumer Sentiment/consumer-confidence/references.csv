@@ -244,7 +244,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1359841/000135984125000008/hbi-20241228.htm#:~:text=consumer%20confidence,Trade & Services,Hanesbrands Inc.,1359841
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1492691/000149269125000013/knx-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Knight-Swift Transportation Holdings Inc.,1492691
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1552033/000155203325000015/tru-20241231.htm#:~:text=consumer%20confidence,Trade & Services,TransUnion,1552033
-2025-01-31,domestic,https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm#:~:text=consumer%20confidence,Manufacturing,INTEL CORP,50863
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/1439288/000143928825000019/zws-20241231.htm#:~:text=consumer%20confidence,Technology,Zurn Elkay Water Solutions Corp,1439288
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/3453/000155837025001875/matx-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,"Matson, Inc.",3453
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000008/dar-20241228.htm#:~:text=consumer%20confidence,Manufacturing,DARLING INGREDIENTS INC.,916540
@@ -499,7 +498,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1712184/000171218425000031/lila-20241231.htm#:~:text=consumer%20confidence,Technology,Liberty Latin America Ltd.,1712184
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/712537/000071253725000061/fcf-20241231.htm#:~:text=consumer%20confidence,Finance,FIRST COMMONWEALTH FINANCIAL CORP /PA/,712537
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1259429/000121390025020801/ea0229536_10k.htm#:~:text=consumer%20confidence,,Oxford Square Capital Corp.,1259429
-2025-01-31,domestic,https://www.sec.gov/Archives/edgar/data/1035267/000103526725000017/isrg-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,INTUITIVE SURGICAL INC,1035267
 2025-02-06,domestic,https://www.sec.gov/Archives/edgar/data/39263/000003926325000017/cfr-20241231.htm#:~:text=consumer%20confidence,Finance,"CULLEN/FROST BANKERS, INC.",39263
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/934549/000093454925000004/actg-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,ACACIA RESEARCH CORP,934549
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1335105/000164117225000208/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"LIXTE BIOTECHNOLOGY HOLDINGS, INC.",1335105
@@ -853,7 +851,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1157647/000183988225014778/wneb-10k_123124.htm#:~:text=consumer%20confidence,Finance,"Western New England Bancorp, Inc.",1157647
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1779474/000177947425000007/maps-20241231.htm#:~:text=consumer%20confidence,Technology,"WM TECHNOLOGY, INC.",1779474
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1880438/000095017025044366/antx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"AN2 Therapeutics, Inc.",1880438
-2025-01-31,domestic,https://www.sec.gov/Archives/edgar/data/1283699/000128369925000012/tmus-20241231.htm#:~:text=consumer%20confidence,Technology,"T-Mobile US, Inc.",1283699
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1528115/000095017025030849/annx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Annexon, Inc.",1528115
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1582313/000095017025029149/xene-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Xenon Pharmaceuticals Inc.,1582313
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1163668/000114036125007609/ef20039031_10k.htm#:~:text=consumer%20confidence,Finance,"SOUTH PLAINS FINANCIAL, INC.",1163668
