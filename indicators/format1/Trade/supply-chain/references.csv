@@ -1,7 +1,6 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1094285/000109428525000053/tdy-ex1012_performanceplan.htm#:~:text=Supply%20chain%20constraints,Manufacturing,TELEDYNE TECHNOLOGIES INC,1094285
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1334036/000133403625000009/crox-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Crocs, Inc.",1334036
-2025-02-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/12927/000001292725000015/ba-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BOEING CO,12927
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/61986/000095017025024838/mtw-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,MANITOWOC CO INC,61986
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1017303/000114036125010065/ef20039038_10k.htm#:~:text=Supply%20chain%20constraints,Technology,TRANSACT TECHNOLOGIES INC,1017303
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/355811/000035581125000009/gntx-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GENTEX CORP,355811
@@ -13,7 +12,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/863436/000095017025025644/bhe-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BENCHMARK ELECTRONICS INC,863436
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/886346/000088634625000006/kai-20241228.htm#:~:text=Supply%20chain%20constraints,Technology,KADANT INC,886346
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1438423/000155837025001827/mram-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,EVERSPIN TECHNOLOGIES INC.,1438423
-2025-02-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/40545/000004054525000015/ge-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GENERAL ELECTRIC CO,40545
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1758766/000175876625000005/stem-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"STEM, INC.",1758766
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1167419/000155837025001888/riot-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Crypto Assets,"Riot Platforms, Inc.",1167419
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1910139/000141057825000127/mbly-20241228x10k.htm#:~:text=Supply%20chain%20constraints,Technology,Mobileye Global Inc.,1910139
