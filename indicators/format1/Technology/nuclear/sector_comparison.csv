@@ -5,8 +5,8 @@ Energy & Transportation,0,104,power_domestic
 Energy & Transportation,1,110,power_domestic
 Finance,0,1,power_domestic
 Finance,1,2,power_domestic
-Industrial Applications and Services,0,9,power_domestic
-Industrial Applications and Services,1,12,power_domestic
+Industrial Applications and Services,0,6,power_domestic
+Industrial Applications and Services,1,15,power_domestic
 Life Sciences,0,3,power_domestic
 Life Sciences,1,7,power_domestic
 Manufacturing,0,15,power_domestic
@@ -60,8 +60,8 @@ Energy & Transportation,0,86,regulation_domestic
 Energy & Transportation,1,91,regulation_domestic
 Finance,0,1,regulation_domestic
 Finance,1,2,regulation_domestic
-Industrial Applications and Services,0,10,regulation_domestic
-Industrial Applications and Services,1,15,regulation_domestic
+Industrial Applications and Services,0,8,regulation_domestic
+Industrial Applications and Services,1,17,regulation_domestic
 Life Sciences,0,6,regulation_domestic
 Life Sciences,1,6,regulation_domestic
 Manufacturing,0,3,regulation_domestic

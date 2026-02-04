@@ -50,7 +50,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1013857/000101385725000024/pega-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,PEGASYSTEMS INC,1013857
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/882095/000088209525000006/gild-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"GILEAD SCIENCES, INC.",882095
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1596961/000159696125000024/rmbl-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"RideNow Group, Inc.",1596961
-2025-02-04,domestic,https://www.sec.gov/Archives/edgar/data/1038074/000103807425000003/slab-20241228.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,SILICON LABORATORIES INC.,1038074
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1684144/000155837025002904/zom-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Zomedica Corp.,1684144
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1683606/000095017025029023/cars-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Cars.com Inc.,1683606
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1579733/000095017025028365/vitl-20241229.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,"Vital Farms, Inc.",1579733
@@ -449,7 +448,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/bkng-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,Booking Holdings Inc.,1075531
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1173489/000143774925005523/ceva20241231_10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,CEVA INC,1173489
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1874097/000121390025021260/ea0229992-10k_cyngn.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Cyngn Inc.,1874097
-2025-02-04,domestic,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000035/bkr-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,Baker Hughes Co,1701605
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1754226/000155837025003120/tmb-20241231x10k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,"Orange County Bancorp, Inc. /DE/",1754226
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1037976/000103797625000006/jll-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,JONES LANG LASALLE INC,1037976
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1273685/000127368525000028/nymt-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Real Estate & Construction,"ADAMAS TRUST, INC.",1273685
@@ -523,7 +521,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1158172/000115817225000021/scor-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"COMSCORE, INC.",1158172
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1635282/000163528225000029/rmni-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"Rimini Street, Inc.",1635282
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1178253/000095017025038044/scyx-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,SCYNEXIS INC,1178253
-2025-02-04,domestic,https://www.sec.gov/Archives/edgar/data/77476/000007747625000007/pep-20241228.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,PEPSICO INC,77476
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1403475/000140347525000026/bmrc-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Finance,Bank of Marin Bancorp,1403475
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1141391/000114139125000011/ma-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,Mastercard Inc,1141391
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1559720/000155972025000010/abnb-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"Airbnb, Inc.",1559720

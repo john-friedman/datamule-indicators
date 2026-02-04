@@ -20,7 +20,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1576885/000157688525000049/abos-20241231.htm#:~:text=Alzheimer,Life Sciences,"Acumen Pharmaceuticals, Inc.",1576885
 2025-03-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1477845/000155837025003482/anvs-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Annovis Bio, Inc.",1477845
 2025-03-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1527352/000182912625001794/nexalintech_10k.htm#:~:text=Alzheimer,Industrial Applications and Services,"Nexalin Technology, Inc.",1527352
-2025-02-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1971532/000149315225004872/form10-k.htm#:~:text=Alzheimer,Life Sciences,"Telomir Pharmaceuticals, Inc.",1971532
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1833769/000095017025040281/hypr-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Hyperfine, Inc.",1833769
 2025-03-13,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1735438/000155837025002867/mgtx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,MeiraGTx Holdings plc,1735438
 2025-02-11,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1655759/000165575925000016/arvn-20241231.htm#:~:text=Alzheimer,Life Sciences,"ARVINAS, INC.",1655759
@@ -243,7 +242,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/30697/000003069725000003/wen-20241229.htm#:~:text=Obesity,Trade & Services,Wendy's Co,30697
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1136869/000095017025026604/zbh-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"ZIMMER BIOMET HOLDINGS, INC.",1136869
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1438133/000143813325000036/tndm-20241231.htm#:~:text=Obesity,Industrial Applications and Services,TANDEM DIABETES CARE INC,1438133
-2025-02-04,obesity_domestic,https://www.sec.gov/Archives/edgar/data/77476/000007747625000007/pep-20241228.htm#:~:text=Obesity,Manufacturing,PEPSICO INC,77476
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1401040/000143774925008018/dmtp20241231_10k.htm#:~:text=Obesity,Life Sciences,DiaMedica Therapeutics Inc.,1401040
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1560293/000101376225002734/ea0234739-10k_tenon.htm#:~:text=Obesity,Industrial Applications and Services,"Tenon Medical, Inc.",1560293
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1620533/000162053325000016/shak-20241225.htm#:~:text=Obesity,Trade & Services,Shake Shack Inc.,1620533
@@ -376,7 +374,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000054/pressrelease_03102025.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000083/pressrelease-3192025bayvie.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
-2025-02-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001136/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125001293/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-04,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002252/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/935703/000110465925029393/tm2510014d2_ex2-1.htm#:~:text=mpox&text=monkeypox,Trade & Services,"DOLLAR TREE, INC.",935703

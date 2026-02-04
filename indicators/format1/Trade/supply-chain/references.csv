@@ -90,7 +90,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1649744/000164974425000006/dlth-20250202x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,DULUTH HOLDINGS INC.,1649744
 2025-03-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1068148/000106814825000003/pkoh-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PARK OHIO INDUSTRIES INC/OH,1068148
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/72909/000007290925000004/nspw-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,NORTHERN STATES POWER CO /WI/,72909
-2025-02-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/100790/000002991525000003/ucc-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,UNION CARBIDE CORP /NEW/,100790
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/924822/000155837025002276/mlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,MILLER INDUSTRIES INC /TN/,924822
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1837671/000183767125000011/cpt-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,Copper Property CTL Pass Through Trust,1837671
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1692819/000169281925000013/vistra-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Vistra Corp.,1692819
@@ -335,8 +334,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1315098/000131509825000033/rblx-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Roblox Corp,1315098
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/850141/000162828025008838/hmn-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,HORACE MANN EDUCATORS CORP /DE/,850141
 2025-03-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1881487/000095017025036251/acdc-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,ProFrac Holding Corp.,1881487
-2025-02-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1751788/000175178825000012/dow-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,DOW INC.,1751788
-2025-02-04,constraints_domestic,https://www.sec.gov/Archives/edgar/data/29915/000175178825000012/dow-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,DOW CHEMICAL CO /DE/,29915
 2025-03-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1455365/000155837025003341/cgtx-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,COGNITION THERAPEUTICS INC,1455365
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/917520/000091752025000017/iart-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,INTEGRA LIFESCIENCES HOLDINGS CORP,917520
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1001316/000143774925005908/tgtx20241231_10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"TG THERAPEUTICS, INC.",1001316
