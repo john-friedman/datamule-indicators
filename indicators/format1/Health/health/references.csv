@@ -176,7 +176,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1744659/000095017025029514/akro-20241231.htm#:~:text=Obesity,Life Sciences,"Akero Therapeutics, Inc.",1744659
 2025-02-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/318154/000031815425000010/amgn-20241231.htm#:~:text=Obesity,Life Sciences,AMGEN INC,318154
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1658247/000095017025029050/crnx-20241231.htm#:~:text=Obesity,Life Sciences,"Crinetics Pharmaceuticals, Inc.",1658247
-2025-02-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/872589/000180422025000011/regn-20241231.htm#:~:text=Obesity,Life Sciences,"REGENERON PHARMACEUTICALS, INC.",872589
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1088856/000162828025008167/cort-20241231.htm#:~:text=Obesity,Life Sciences,CORCEPT THERAPEUTICS INC,1088856
 2025-03-10,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Obesity,Life Sciences,"Tenaya Therapeutics, Inc.",1858848
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1661181/000095017025029137/orgo-20241231.htm#:~:text=Obesity,Life Sciences,Organogenesis Holdings Inc.,1661181
@@ -324,14 +323,12 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1771706/000155837025002130/vreof-20241231x10k.htm#:~:text=PTSD,Life Sciences,Vireo Growth Inc.,1771706
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,Atai Beckley N.V.,1840904
 2025-03-13,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1651625/000155837025002855/aciu-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,AC Immune SA,1651625
-2025-02-05,alzheimer_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Alzheimer,Life Sciences,NOVO NORDISK A S,353278
 2025-03-04,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1840706/000184070625000009/soph-20241231.htm#:~:text=Alzheimer,Technology,SOPHiA GENETICS SA,1840706
 2025-03-03,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Alzheimer,Life Sciences,GSK plc,1131399
 2025-02-18,alzheimer_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,ASTRAZENECA PLC,901832
 2025-03-20,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1697862/000169786225000024/argx-20241231.htm#:~:text=Alzheimer,Life Sciences,ARGENX SE,1697862
 2025-03-24,alzheimer_international,https://www.sec.gov/Archives/edgar/data/1818838/000141057825000419/adag-20241231x20f.htm#:~:text=Alzheimer,Life Sciences,Adagene Inc.,1818838
 2025-03-27,alzheimer_international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=Alzheimer,Finance,AEGON LTD.,769218
-2025-02-05,obesity_international,https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/nvo-20241231_d2.htm#:~:text=Obesity,Life Sciences,NOVO NORDISK A S,353278
 2025-02-18,obesity_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231xex15d3.htm#:~:text=Obesity,Life Sciences,ASTRAZENECA PLC,901832
 2025-02-12,obesity_international,https://www.sec.gov/Archives/edgar/data/1612042/000095017025018852/asnd-20241231.htm#:~:text=Obesity,Life Sciences,Ascendis Pharma A/S,1612042
 2025-03-06,obesity_international,https://www.sec.gov/Archives/edgar/data/1849853/000095017025034633/stvn-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Stevanato Group S.p.A.,1849853
@@ -411,7 +408,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025013977/valnevapr3-20x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-24,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025014459/valnevapr24-3x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-02-28,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025008984/valnevapr28-2x25.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2025-02-05,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000162828025003919/valnevapr5-2x2025.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2025-03-11,zika_international,https://www.sec.gov/Archives/edgar/data/933267/000165495425002558/a6kirsa2025.htm#:~:text=zika,Real Estate & Construction,IRSA INVESTMENTS & REPRESENTATIONS INC,933267
 2025-02-26,zika_international,https://www.sec.gov/Archives/edgar/data/1438569/000110465925017501/tm257688d1_6k.htm#:~:text=zika,Life Sciences,Grifols SA,1438569
 2025-03-26,zika_international,https://www.sec.gov/Archives/edgar/data/930157/000110465925027955/tm251260d2_ex99-1.pdf#:~:text=zika,Trade & Services,RENTOKIL INITIAL PLC /FI,930157

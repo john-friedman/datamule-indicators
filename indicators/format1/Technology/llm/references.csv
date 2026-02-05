@@ -17,7 +17,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=Large%20Language%20Models,Technology,"SOUNDHOUND AI, INC.",1840856
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1327811/000132781125000056/wday-20250131.htm#:~:text=Large%20Language%20Models,Technology,"Workday, Inc.",1327811
 2025-02-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1321655/000132165525000022/pltr-20241231.htm#:~:text=Large%20Language%20Models,Technology,Palantir Technologies Inc.,1321655
-2025-02-05,general_domestic,https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/amd-20241228.htm#:~:text=Large%20Language%20Models,Manufacturing,ADVANCED MICRO DEVICES INC,2488
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/917273/000091727325000021/rmbs-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,RAMBUS INC,917273
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1298675/000129867525000011/cube-20241231x10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,CubeSmart,1298675
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1300485/000129867525000011/cube-20241231x10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,"CubeSmart, L.P.",1300485
@@ -63,7 +62,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1275014/000162828025007865/uctt-20241227xexx23hisme.htm#:~:text=Large%20Language%20Models,Manufacturing,"Ultra Clean Holdings, Inc.",1275014
 2025-03-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Large%20Language%20Models,Trade & Services,TON Strategy Co,1566610
 2025-02-19,general_domestic,https://www.sec.gov/Archives/edgar/data/1441683/000144168325000017/appn-20241231.htm#:~:text=Large%20Language%20Models,Technology,APPIAN CORP,1441683
-2025-02-05,general_domestic,https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm#:~:text=Large%20Language%20Models,Technology,Alphabet Inc.,1652044
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1173489/000143774925005523/ceva20241231_10k.htm#:~:text=Large%20Language%20Models,Technology,CEVA INC,1173489
 2025-02-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1442145/000143774925005160/vrsk20241231_10k.htm#:~:text=Large%20Language%20Models,Technology,"Verisk Analytics, Inc.",1442145
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1172052/000117205225000006/saft-20241231x10k.htm#:~:text=Large%20Language%20Models,Finance,SAFETY INSURANCE GROUP INC,1172052
@@ -170,7 +168,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,anthropic_domestic,https://www.sec.gov/Archives/edgar/data/1585521/000158552125000042/zm-20250131.htm#:~:text=Claude%20%20Large%20Language%20Models&text=Anthropic%20%20Large%20Language%20Models,Technology,"Zoom Communications, Inc.",1585521
 2025-02-13,anthropic_domestic,https://www.sec.gov/Archives/edgar/data/1713445/000171344525000018/rddt-20241231.htm#:~:text=Claude%20%20Large%20Language%20Models&text=Anthropic%20%20Large%20Language%20Models,Technology,"Reddit, Inc.",1713445
 2025-03-10,google_domestic,https://www.sec.gov/Archives/edgar/data/1533998/000155837025002527/drio-20241231x10k.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Industrial Applications and Services,DarioHealth Corp.,1533998
-2025-02-05,google_domestic,https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,Alphabet Inc.,1652044
 2025-02-13,google_domestic,https://www.sec.gov/Archives/edgar/data/1713445/000171344525000018/rddt-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Reddit, Inc.",1713445
 2025-02-26,google_domestic,https://www.sec.gov/Archives/edgar/data/1286139/000128613925000044/lz-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"LEGALZOOM.COM, INC.",1286139
 2025-02-25,google_domestic,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Super Micro Computer, Inc.",1375365

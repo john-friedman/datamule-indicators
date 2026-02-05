@@ -386,7 +386,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1521036/000162828025007970/lnth-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Lantheus Holdings, Inc.",1521036
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1410098/000101376225001852/ea0234537-10k_cormedix.htm#:~:text=orphan%20drug,Life Sciences,CorMedix Inc.,1410098
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1187953/000147793225001736/celz_10k.htm#:~:text=orphan%20drug,Life Sciences,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",1187953
-2025-02-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/872589/000180422025000011/regn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"REGENERON PHARMACEUTICALS, INC.",872589
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1576885/000157688525000049/abos-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Acumen Pharmaceuticals, Inc.",1576885
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1512762/000155837025003126/chrs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Coherus Oncology, Inc.",1512762
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817713/000095017025029177/janx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Janux Therapeutics, Inc.",1817713
@@ -436,7 +435,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm#:~:text=orphan%20drug,Life Sciences,AbbVie Inc.,1551152
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1178253/000095017025038044/scyx-20241231.htm#:~:text=orphan%20drug,Life Sciences,SCYNEXIS INC,1178253
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1857044/000149315225010136/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Indaptus Therapeutics, Inc.",1857044
-2025-02-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/818686/000119312525020826/d865574d10k.htm#:~:text=orphan%20drug,Life Sciences,TEVA PHARMACEUTICAL INDUSTRIES LTD,818686
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1868279/000155837025001999/avbp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"ArriVent BioPharma, Inc.",1868279
 2025-02-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1933414/000193341425000009/mlys-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Mineralys Therapeutics, Inc.",1933414
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1070494/000095017025029253/acad-20241231.htm#:~:text=orphan%20drug,Life Sciences,ACADIA PHARMACEUTICALS INC,1070494
@@ -569,7 +567,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BeOne Medicines Ltd.,1651308
 2025-02-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/313616/000031361625000043/dhr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,DANAHER CORP /DE/,313616
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1289237/000168316825001583/uspb_i10k-122824.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"U. S. Premium Beef, LLC",1289237
-2025-02-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/872589/000180422025000011/regn-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"REGENERON PHARMACEUTICALS, INC.",872589
 2025-02-25,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1127537/000112753725000012/lung-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Pulmonx Corp,1127537
 2025-02-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1077183/000107718325000028/neo-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,NEOGENOMICS INC,1077183
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1601830/000160183025000035/rxrx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"RECURSION PHARMACEUTICALS, INC.",1601830
