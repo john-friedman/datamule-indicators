@@ -449,7 +449,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1966494/000095017025037929/crgx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"CARGO Therapeutics, Inc.",1966494
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1819576/000155837025003237/lqda-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Liquidia Corp,1819576
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1958777/000164117225001691/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"FibroBiologics, Inc.",1958777
-2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/921299/000095017025040280/fgen-20241231.htm#:~:text=orphan%20drug,Life Sciences,FIBROGEN INC,921299
+2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/921299/000095017025040280/fgen-20241231.htm#:~:text=orphan%20drug,Life Sciences,"KYNTRA BIO, INC.",921299
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000143774925007056/siga20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,ALUMIS INC.,1847367
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1434868/000162828025011154/espr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Esperion Therapeutics, Inc.",1434868
@@ -808,7 +808,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/763563/000076356325000058/chmg-20241231.htm#:~:text=healthcare%20blockchain,Finance,CHEMUNG FINANCIAL CORP,763563
 2025-02-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1691421/000169142125000031/lmnd-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Lemonade, Inc.",1691421
 2025-02-24,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1086222/000108622225000028/akam-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,AKAMAI TECHNOLOGIES INC,1086222
-2025-02-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1571949/000157194925000003/ice-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Intercontinental Exchange, Inc.",1571949
 2025-03-17,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1754226/000155837025003120/tmb-20241231x10k.htm#:~:text=healthcare%20blockchain,Finance,"Orange County Bancorp, Inc. /DE/",1754226
 2025-02-13,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1627475/000162747525000011/upwk-20241231.htm#:~:text=healthcare%20blockchain,Technology,"UPWORK, INC",1627475
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1830043/000095017025030151/bmbl-20241231.htm#:~:text=healthcare%20blockchain,Technology,Bumble Inc.,1830043
@@ -833,7 +832,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/705432/000070543225000020/sbsi-20241231.htm#:~:text=healthcare%20blockchain,Finance,SOUTHSIDE BANCSHARES INC,705432
 2025-02-18,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1845942/000173112225000237/e6347_10-k.htm#:~:text=healthcare%20blockchain,Technology,Bannix Acquisition Corp.,1845942
 2025-02-21,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/18349/000001834925000049/syn-20241231.htm#:~:text=healthcare%20blockchain,Finance,SYNOVUS FINANCIAL CORP,18349
-2025-02-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/39263/000003926325000017/cfr-20241231.htm#:~:text=healthcare%20blockchain,Finance,"CULLEN/FROST BANKERS, INC.",39263
 2025-02-19,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/36270/000162828025006267/mtb-20241231.htm#:~:text=healthcare%20blockchain,Finance,M&T BANK CORP,36270
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1057706/000105770625000002/fbp-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRST BANCORP /PR/,1057706
 2025-02-19,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/36146/000095017025023184/trmk-20241231.htm#:~:text=healthcare%20blockchain,Finance,TRUSTMARK CORP,36146

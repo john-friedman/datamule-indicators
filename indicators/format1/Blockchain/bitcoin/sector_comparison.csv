@@ -37,12 +37,12 @@ Trade & Services,0,2,holdings_domestic
 Trade & Services,1,5,holdings_domestic
 Crypto Assets,0,39,mining_domestic
 Crypto Assets,1,45,mining_domestic
-Energy & Transportation,0,134,mining_domestic
-Energy & Transportation,1,159,mining_domestic
+Energy & Transportation,0,133,mining_domestic
+Energy & Transportation,1,160,mining_domestic
 Finance,0,6,mining_domestic
 Finance,1,6,mining_domestic
 Industrial Applications and Services,0,18,mining_domestic
-Industrial Applications and Services,1,19,mining_domestic
+Industrial Applications and Services,1,18,mining_domestic
 Life Sciences,0,2,mining_domestic
 Life Sciences,1,1,mining_domestic
 Manufacturing,0,22,mining_domestic
@@ -57,8 +57,8 @@ Crypto Assets,0,8,investment_domestic
 Crypto Assets,1,6,investment_domestic
 Industrial Applications and Services,1,2,investment_domestic
 Manufacturing,0,1,investment_domestic
-Real Estate & Construction,0,7,investment_domestic
-Real Estate & Construction,1,2,investment_domestic
+Real Estate & Construction,0,6,investment_domestic
+Real Estate & Construction,1,3,investment_domestic
 Technology,0,4,investment_domestic
 Technology,1,7,investment_domestic
 Trade & Services,0,1,investment_domestic

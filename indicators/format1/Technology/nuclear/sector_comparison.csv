@@ -9,22 +9,22 @@ Industrial Applications and Services,0,6,power_domestic
 Industrial Applications and Services,1,15,power_domestic
 Life Sciences,0,3,power_domestic
 Life Sciences,1,7,power_domestic
-Manufacturing,0,14,power_domestic
-Manufacturing,1,21,power_domestic
+Manufacturing,0,12,power_domestic
+Manufacturing,1,23,power_domestic
 Real Estate & Construction,0,1,power_domestic
 Real Estate & Construction,1,6,power_domestic
 Technology,0,5,power_domestic
 Technology,1,10,power_domestic
 Trade & Services,0,3,power_domestic
 Trade & Services,1,9,power_domestic
-Energy & Transportation,0,100,fuel_domestic
-Energy & Transportation,1,105,fuel_domestic
+Energy & Transportation,0,99,fuel_domestic
+Energy & Transportation,1,106,fuel_domestic
 Finance,0,2,fuel_domestic
 Finance,1,3,fuel_domestic
 Industrial Applications and Services,0,4,fuel_domestic
 Industrial Applications and Services,1,7,fuel_domestic
-Manufacturing,0,2,fuel_domestic
-Manufacturing,1,1,fuel_domestic
+Manufacturing,0,1,fuel_domestic
+Manufacturing,1,2,fuel_domestic
 Real Estate & Construction,0,1,fuel_domestic
 Real Estate & Construction,1,1,fuel_domestic
 Technology,0,1,fuel_domestic
@@ -35,9 +35,9 @@ Energy & Transportation,1,3,technology_domestic
 Industrial Applications and Services,0,28,technology_domestic
 Industrial Applications and Services,1,44,technology_domestic
 Life Sciences,0,80,technology_domestic
-Life Sciences,1,127,technology_domestic
-Manufacturing,0,4,technology_domestic
-Manufacturing,1,4,technology_domestic
+Life Sciences,1,126,technology_domestic
+Manufacturing,0,3,technology_domestic
+Manufacturing,1,5,technology_domestic
 Real Estate & Construction,0,3,technology_domestic
 Real Estate & Construction,1,3,technology_domestic
 Technology,0,3,technology_domestic
@@ -49,23 +49,23 @@ Finance,0,2,services_domestic
 Finance,1,1,services_domestic
 Industrial Applications and Services,0,4,services_domestic
 Industrial Applications and Services,1,4,services_domestic
-Manufacturing,0,5,services_domestic
-Manufacturing,1,8,services_domestic
+Manufacturing,0,3,services_domestic
+Manufacturing,1,10,services_domestic
 Real Estate & Construction,0,1,services_domestic
 Real Estate & Construction,1,3,services_domestic
 Technology,0,1,services_domestic
 Technology,1,3,services_domestic
 Trade & Services,1,1,services_domestic
-Energy & Transportation,0,86,regulation_domestic
-Energy & Transportation,1,91,regulation_domestic
+Energy & Transportation,0,85,regulation_domestic
+Energy & Transportation,1,92,regulation_domestic
 Finance,0,1,regulation_domestic
 Finance,1,2,regulation_domestic
 Industrial Applications and Services,0,8,regulation_domestic
 Industrial Applications and Services,1,17,regulation_domestic
 Life Sciences,0,6,regulation_domestic
 Life Sciences,1,6,regulation_domestic
-Manufacturing,0,3,regulation_domestic
-Manufacturing,1,4,regulation_domestic
+Manufacturing,0,1,regulation_domestic
+Manufacturing,1,6,regulation_domestic
 Real Estate & Construction,0,2,regulation_domestic
 Real Estate & Construction,1,3,regulation_domestic
 Technology,0,3,regulation_domestic
@@ -89,8 +89,8 @@ Finance,0,2,risk_domestic
 Finance,1,3,risk_domestic
 Industrial Applications and Services,0,4,risk_domestic
 Industrial Applications and Services,1,6,risk_domestic
-Manufacturing,0,3,risk_domestic
-Manufacturing,1,3,risk_domestic
+Manufacturing,0,2,risk_domestic
+Manufacturing,1,4,risk_domestic
 Real Estate & Construction,0,2,risk_domestic
 Real Estate & Construction,1,3,risk_domestic
 Technology,0,4,risk_domestic
