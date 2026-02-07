@@ -4,7 +4,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-19,ai_domestic,https://www.sec.gov/Archives/edgar/data/1100682/000110068225000011/crl-20241228.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",1100682
 2025-03-04,ai_domestic,https://www.sec.gov/Archives/edgar/data/1487428/000143774925006114/hrzn20241231_10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,,Horizon Technology Finance Corp,1487428
 2025-02-27,ai_domestic,https://www.sec.gov/Archives/edgar/data/1816590/000162828025008412/cmps-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,COMPASS Pathways plc,1816590
-2025-02-07,ai_domestic,https://www.sec.gov/Archives/edgar/data/1521332/000152133225000010/aptv-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Manufacturing,Aptiv PLC,1521332
 2025-02-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/310158/000162828025007732/mrk-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"Merck & Co., Inc.",310158
 2025-03-06,ai_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"EyePoint, Inc.",1314102
 2025-03-17,ai_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,Atai Beckley N.V.,1840904
@@ -619,7 +618,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1693011/000095017025035940/inzy-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Inozyme Pharma, Inc.",1693011
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1760542/000155837025001853/hook-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,HOOKIPA Pharma Inc.,1760542
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1603454/000164117225001826/form10-k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Celcuity Inc.,1603454
-2025-02-07,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1408198/000140819825000053/msci-20241231.htm#:~:text=genomic&text=genomic%20research,Trade & Services,MSCI Inc.,1408198
 2025-02-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1655759/000165575925000016/arvn-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ARVINAS, INC.",1655759
 2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/749647/000149315225008460/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Imunon, Inc.",749647
 2025-03-07,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1850902/000095017025035705/tkno-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Alpha Teknova, Inc.",1850902
@@ -722,7 +720,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1901799/000095017025043923/btm-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Bitcoin Depot Inc.,1901799
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/64463/000164117225001756/form10-k.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Soluna Holdings, Inc",64463
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1044777/000162828025008750/ospn-20241231.htm#:~:text=healthcare%20blockchain,Technology,OneSpan Inc.,1044777
-2025-02-07,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1758730/000175873025000038/tw-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Tradeweb Markets Inc.,1758730
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2006815/000182912625002231/voyageracq_10k.htm#:~:text=healthcare%20blockchain,Life Sciences,Voyager Acquisition Corp./Cayman Islands,2006815
 2025-02-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1053706/000105370625000007/crai-20241228.htm#:~:text=healthcare%20blockchain,Trade & Services,"CRA INTERNATIONAL, INC.",1053706
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2014982/000121390025026255/ea0235387-10k_simacq1.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,SIM Acquisition Corp. I,2014982
@@ -760,7 +757,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1140536/000095017025026278/wtw-20241231.htm#:~:text=healthcare%20blockchain,Finance,WILLIS TOWERS WATSON PLC,1140536
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1946563/000101376225003343/ea0232429-10k_60degrees.htm#:~:text=healthcare%20blockchain,Life Sciences,"60 DEGREES PHARMACEUTICALS, INC.",1946563
 2025-02-10,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/62709/000006270925000015/mmc-20241231.htm#:~:text=healthcare%20blockchain,Finance,"MARSH & MCLENNAN COMPANIES, INC.",62709
-2025-02-07,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/syf-20241231.htm#:~:text=healthcare%20blockchain,Finance,Synchrony Financial,1601712
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1718939/000171893925000080/idai-20241231.htm#:~:text=healthcare%20blockchain,Technology,T Stamp Inc,1718939
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1212545/000121254525000090/wal-20241231.htm#:~:text=healthcare%20blockchain,Finance,WESTERN ALLIANCE BANCORPORATION,1212545
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/318300/000031830025000093/pebo-20241231.htm#:~:text=healthcare%20blockchain,Finance,PEOPLES BANCORP INC,318300

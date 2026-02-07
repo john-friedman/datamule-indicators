@@ -10,7 +10,7 @@ Life Sciences,0,80,alzheimer_domestic
 Life Sciences,1,118,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,13,alzheimer_domestic
-Real Estate & Construction,1,19,alzheimer_domestic
+Real Estate & Construction,1,18,alzheimer_domestic
 Technology,0,2,alzheimer_domestic
 Technology,1,7,alzheimer_domestic
 Trade & Services,0,4,alzheimer_domestic
@@ -19,7 +19,7 @@ Crypto Assets,0,1,obesity_domestic
 Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,39,obesity_domestic
-Industrial Applications and Services,1,54,obesity_domestic
+Industrial Applications and Services,1,53,obesity_domestic
 Life Sciences,0,85,obesity_domestic
 Life Sciences,1,104,obesity_domestic
 Manufacturing,0,15,obesity_domestic
@@ -73,8 +73,8 @@ Industrial Applications and Services,1,1,ptsd_international
 Life Sciences,1,4,ptsd_international
 Technology,1,2,ptsd_international
 Industrial Applications and Services,1,5,h1n1-swine_domestic
-Life Sciences,0,2,h1n1-swine_domestic
-Life Sciences,1,12,h1n1-swine_domestic
+Life Sciences,0,1,h1n1-swine_domestic
+Life Sciences,1,13,h1n1-swine_domestic
 Manufacturing,1,5,h1n1-swine_domestic
 Real Estate & Construction,1,1,h1n1-swine_domestic
 Technology,1,1,h1n1-swine_domestic
@@ -82,8 +82,8 @@ Energy & Transportation,1,2,mpox_domestic
 Finance,1,3,mpox_domestic
 Industrial Applications and Services,0,1,mpox_domestic
 Industrial Applications and Services,1,10,mpox_domestic
-Life Sciences,0,11,mpox_domestic
-Life Sciences,1,46,mpox_domestic
+Life Sciences,0,10,mpox_domestic
+Life Sciences,1,47,mpox_domestic
 Manufacturing,1,3,mpox_domestic
 Technology,1,2,mpox_domestic
 Trade & Services,0,1,mpox_domestic
@@ -91,8 +91,8 @@ Industrial Applications and Services,0,1,zika_domestic
 Industrial Applications and Services,1,2,zika_domestic
 Industrial Applications and Services,0,2,h5n1-avian_domestic
 Industrial Applications and Services,1,15,h5n1-avian_domestic
-Life Sciences,0,10,h5n1-avian_domestic
-Life Sciences,1,31,h5n1-avian_domestic
+Life Sciences,0,9,h5n1-avian_domestic
+Life Sciences,1,32,h5n1-avian_domestic
 Manufacturing,0,4,h5n1-avian_domestic
 Manufacturing,1,27,h5n1-avian_domestic
 Technology,1,1,h5n1-avian_domestic

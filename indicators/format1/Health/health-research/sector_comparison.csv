@@ -3,8 +3,8 @@ Industrial Applications and Services,0,3,ai_domestic
 Industrial Applications and Services,1,2,ai_domestic
 Life Sciences,0,5,ai_domestic
 Life Sciences,1,8,ai_domestic
-Manufacturing,0,2,ai_domestic
-Manufacturing,1,1,ai_domestic
+Manufacturing,0,1,ai_domestic
+Manufacturing,1,2,ai_domestic
 Real Estate & Construction,1,1,ai_domestic
 Technology,1,1,ai_domestic
 Trade & Services,0,1,ai_domestic
@@ -21,7 +21,7 @@ Energy & Transportation,1,1,orphan-drug_domestic
 Industrial Applications and Services,0,15,orphan-drug_domestic
 Industrial Applications and Services,1,22,orphan-drug_domestic
 Life Sciences,0,454,orphan-drug_domestic
-Life Sciences,1,536,orphan-drug_domestic
+Life Sciences,1,534,orphan-drug_domestic
 Real Estate & Construction,1,1,orphan-drug_domestic
 Trade & Services,0,1,orphan-drug_domestic
 Trade & Services,1,2,orphan-drug_domestic
@@ -40,8 +40,8 @@ Manufacturing,1,3,genomic_domestic
 Real Estate & Construction,1,1,genomic_domestic
 Technology,0,3,genomic_domestic
 Technology,1,4,genomic_domestic
-Trade & Services,0,3,genomic_domestic
-Trade & Services,1,6,genomic_domestic
+Trade & Services,0,2,genomic_domestic
+Trade & Services,1,7,genomic_domestic
 Industrial Applications and Services,0,4,genomic_international
 Industrial Applications and Services,1,9,genomic_international
 Life Sciences,0,10,genomic_international
@@ -51,11 +51,11 @@ Manufacturing,1,5,genomic_international
 Technology,0,3,genomic_international
 Technology,1,3,genomic_international
 Trade & Services,1,1,genomic_international
-Crypto Assets,0,21,healthcare-blockchain_domestic
+Crypto Assets,0,20,healthcare-blockchain_domestic
 Crypto Assets,1,18,healthcare-blockchain_domestic
 Energy & Transportation,0,4,healthcare-blockchain_domestic
 Energy & Transportation,1,5,healthcare-blockchain_domestic
-Finance,0,56,healthcare-blockchain_domestic
+Finance,0,55,healthcare-blockchain_domestic
 Finance,1,53,healthcare-blockchain_domestic
 Industrial Applications and Services,0,3,healthcare-blockchain_domestic
 Industrial Applications and Services,1,3,healthcare-blockchain_domestic
