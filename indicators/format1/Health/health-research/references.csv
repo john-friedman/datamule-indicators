@@ -76,7 +76,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1763950/000164117225000926/form10-k.htm#:~:text=orphan%20drug,Life Sciences,Lantern Pharma Inc.,1763950
 2025-02-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1773427/000177342725000010/swtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SpringWorks Therapeutics, Inc.",1773427
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1845337/000095017025026654/dawn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Day One Biopharmaceuticals, Inc.",1845337
-2025-02-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/914475/000091447525000037/nbix-20241231.htm#:~:text=orphan%20drug,Life Sciences,NEUROCRINE BIOSCIENCES INC,914475
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1137883/000141057825000545/bcli-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,BRAINSTORM CELL THERAPEUTICS INC.,1137883
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1806310/000095017025027348/tsha-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Taysha Gene Therapies, Inc.",1806310
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1740279/000095017025038738/inab-20241231.htm#:~:text=orphan%20drug,Life Sciences,"IN8BIO, INC.",1740279
@@ -310,7 +309,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817229/000095017025042623/vor-20241231.htm#:~:text=orphan%20drug,Life Sciences,Vor Biopharma Inc.,1817229
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/2022416/000117891325000887/zk2532833.htm#:~:text=orphan%20drug,Life Sciences,Silexion Therapeutics Corp,2022416
-2025-02-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/879169/000162828025004633/incy-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,INCYTE CORP,879169
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1826457/000095017025042344/glue-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Monte Rosa Therapeutics, Inc.",1826457
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1657312/000165731225000010/vrna-20241231.htm#:~:text=orphan%20drug,Life Sciences,Verona Pharma plc,1657312
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1827506/000182750625000027/trml-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Tourmaline Bio, Inc.",1827506
@@ -756,7 +754,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000164117225000085/form10-k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1140536/000095017025026278/wtw-20241231.htm#:~:text=healthcare%20blockchain,Finance,WILLIS TOWERS WATSON PLC,1140536
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1946563/000101376225003343/ea0232429-10k_60degrees.htm#:~:text=healthcare%20blockchain,Life Sciences,"60 DEGREES PHARMACEUTICALS, INC.",1946563
-2025-02-10,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/62709/000006270925000015/mmc-20241231.htm#:~:text=healthcare%20blockchain,Finance,"MARSH & MCLENNAN COMPANIES, INC.",62709
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1718939/000171893925000080/idai-20241231.htm#:~:text=healthcare%20blockchain,Technology,T Stamp Inc,1718939
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1212545/000121254525000090/wal-20241231.htm#:~:text=healthcare%20blockchain,Finance,WESTERN ALLIANCE BANCORPORATION,1212545
 2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/318300/000031830025000093/pebo-20241231.htm#:~:text=healthcare%20blockchain,Finance,PEOPLES BANCORP INC,318300

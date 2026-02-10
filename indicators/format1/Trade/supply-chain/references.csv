@@ -38,7 +38,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/24545/000002454525000007/tap-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,MOLSON COORS BEVERAGE CO,24545
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1674101/000162828025005905/vrt-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Vertiv Holdings Co,1674101
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1071236/000107123625000026/rrbi-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,RED RIVER BANCSHARES INC,1071236
-2025-02-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1609550/000160955025000011/insp-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Inspire Medical Systems, Inc.",1609550
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1487712/000162828025005392/al-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,AIR LEASE CORP,1487712
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1111485/000095017025026681/rxst-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"RxSight, Inc.",1111485
 2025-02-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/823768/000155837025001132/wm-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,WASTE MANAGEMENT INC,823768
@@ -69,7 +68,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1141688/000164117225000643/form10-k.htm#:~:text=Supply%20chain%20constraints,Finance,LANDMARK BANCORP INC,1141688
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1505155/000150515525000024/upld-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Upland Software, Inc.",1505155
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1856525/000185652525000081/cnm-20250202.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Core & Main, Inc.",1856525
-2025-02-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1097864/000162828025004557/on-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ON SEMICONDUCTOR CORP,1097864
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Solana Co,1610853
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/747540/000121390025018755/ea0231937-10k_surgecomp.htm#:~:text=Supply%20chain%20constraints,Trade & Services,SURGE COMPONENTS INC,747540
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1267238/000126723825000008/aiz-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,"ASSURANT, INC.",1267238
@@ -100,7 +98,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/818479/000081847925000035/xray-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,DENTSPLY SIRONA Inc.,818479
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2025410/000095017025037939/saro-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"StandardAero, Inc.",2025410
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1598981/000164117225000290/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SKYX Platforms Corp.,1598981
-2025-02-10,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1463101/000146310125000024/enph-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Enphase Energy, Inc.",1463101
 2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1286043/000128604325000014/krg-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,KITE REALTY GROUP TRUST,1286043
 2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1636315/000128604325000014/krg-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Kite Realty Group, L.P.",1636315
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1773751/000177375125000062/hims-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Hims & Hers Health, Inc.",1773751

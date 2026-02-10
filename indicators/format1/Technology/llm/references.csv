@@ -99,7 +99,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1288847/000128884725000028/fivn-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Five9, Inc.",1288847
 2025-02-25,general_domestic,https://www.sec.gov/Archives/edgar/data/750004/000075000425000016/lnw-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Light & Wonder, Inc.",750004
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=Large%20Language%20Models,Technology,VERINT SYSTEMS INC,1166388
-2025-02-10,general_domestic,https://www.sec.gov/Archives/edgar/data/62709/000006270925000015/mmc-20241231.htm#:~:text=Large%20Language%20Models,Finance,"MARSH & MCLENNAN COMPANIES, INC.",62709
 2025-02-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1579684/000157968425000007/gci-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,"USA TODAY Co., Inc.",1579684
 2025-02-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm#:~:text=Large%20Language%20Models,Crypto Assets,Cipher Mining Inc.,1819989
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/818479/000081847925000035/xray-20241231.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,DENTSPLY SIRONA Inc.,818479
@@ -123,7 +122,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1579091/000157909125000015/cart-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,Maplebear Inc.,1579091
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1703056/000170305625000022/adt-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,ADT Inc.,1703056
 2025-02-13,general_domestic,https://www.sec.gov/Archives/edgar/data/759944/000075994425000013/cfg-20241231.htm#:~:text=Large%20Language%20Models,Finance,CITIZENS FINANCIAL GROUP INC/RI,759944
-2025-02-10,general_domestic,https://www.sec.gov/Archives/edgar/data/230557/000023055725000006/sigi-20241231.htm#:~:text=Large%20Language%20Models,Finance,SELECTIVE INSURANCE GROUP INC,230557
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1674930/000095017025029512/flgt-20241231.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,"Fulgent Genetics, Inc.",1674930
 2025-03-06,general_domestic,https://www.sec.gov/Archives/edgar/data/1316944/000131694425000055/fhlbsf-20241231.htm#:~:text=Large%20Language%20Models,Finance,Federal Home Loan Bank of San Francisco,1316944
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1127703/000187524625000003/pra-20241231.htm#:~:text=Large%20Language%20Models,Finance,PROASSURANCE CORP,1127703

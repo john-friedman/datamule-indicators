@@ -15,8 +15,8 @@ Real Estate & Construction,0,4,adoption_domestic
 Real Estate & Construction,1,8,adoption_domestic
 Technology,0,14,adoption_domestic
 Technology,1,14,adoption_domestic
-Trade & Services,0,8,adoption_domestic
-Trade & Services,1,14,adoption_domestic
+Trade & Services,0,7,adoption_domestic
+Trade & Services,1,15,adoption_domestic
 Crypto Assets,0,5,development_domestic
 Crypto Assets,1,4,development_domestic
 Technology,0,2,development_domestic
@@ -30,5 +30,4 @@ Finance,1,2,risk_domestic
 Industrial Applications and Services,0,1,risk_domestic
 Technology,0,2,risk_domestic
 Technology,1,3,risk_domestic
-Trade & Services,0,1,risk_domestic
-Trade & Services,1,1,risk_domestic
+Trade & Services,1,2,risk_domestic
