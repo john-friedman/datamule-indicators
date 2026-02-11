@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
-Energy & Transportation,0,6,launch_domestic
-Energy & Transportation,1,7,launch_domestic
+Energy & Transportation,0,5,launch_domestic
+Energy & Transportation,1,8,launch_domestic
 Finance,0,1,launch_domestic
 Finance,1,1,launch_domestic
 Industrial Applications and Services,0,3,launch_domestic
@@ -61,7 +61,6 @@ Finance,0,1,risks_domestic
 Finance,1,1,risks_domestic
 Manufacturing,1,1,risks_domestic
 Real Estate & Construction,0,2,risks_domestic
-Real Estate & Construction,1,2,risks_domestic
 Energy & Transportation,0,5,launch_international
 Energy & Transportation,1,7,launch_international
 Industrial Applications and Services,0,1,launch_international

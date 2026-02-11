@@ -6,7 +6,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/355811/000035581125000009/gntx-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GENTEX CORP,355811
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/20639/000114036125010025/ef20038924_10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,AmBase Corp,20639
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1140215/000164117225001344/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"REED'S, INC.",1140215
-2025-02-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1069202/000162828025004859/lii-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,LENNOX INTERNATIONAL INC,1069202
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/mrvl-20250201.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Marvell Technology, Inc.",1835632
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/885508/000088550825000022/strs-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,STRATUS PROPERTIES INC,885508
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/863436/000095017025025644/bhe-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BENCHMARK ELECTRONICS INC,863436
@@ -310,7 +309,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1051512/000105151225000011/tds-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,TELEPHONE & DATA SYSTEMS INC /DE/,1051512
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/764065/000076406525000058/clf-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,CLEVELAND-CLIFFS INC.,764065
 2025-03-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1784700/000095017025043295/ck0001784700-20241231.htm#:~:text=Supply%20chain%20constraints,,Varagon Capital Corp,1784700
-2025-02-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1522727/000152272725000010/usac-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"USA Compression Partners, LP",1522727
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1680062/000168006225000003/acmr-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"ACM Research, Inc.",1680062
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/91767/000009176725000014/son-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SONOCO PRODUCTS CO,91767
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1708035/000170803525000070/ecvt-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Ecovyst Inc.,1708035

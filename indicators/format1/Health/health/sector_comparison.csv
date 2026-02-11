@@ -6,8 +6,8 @@ Finance,0,3,alzheimer_domestic
 Finance,1,4,alzheimer_domestic
 Industrial Applications and Services,0,22,alzheimer_domestic
 Industrial Applications and Services,1,30,alzheimer_domestic
-Life Sciences,0,80,alzheimer_domestic
-Life Sciences,1,118,alzheimer_domestic
+Life Sciences,0,78,alzheimer_domestic
+Life Sciences,1,119,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,13,alzheimer_domestic
 Real Estate & Construction,1,18,alzheimer_domestic
@@ -83,7 +83,7 @@ Finance,1,3,mpox_domestic
 Industrial Applications and Services,0,1,mpox_domestic
 Industrial Applications and Services,1,10,mpox_domestic
 Life Sciences,0,10,mpox_domestic
-Life Sciences,1,47,mpox_domestic
+Life Sciences,1,46,mpox_domestic
 Manufacturing,1,3,mpox_domestic
 Technology,1,2,mpox_domestic
 Trade & Services,0,1,mpox_domestic
