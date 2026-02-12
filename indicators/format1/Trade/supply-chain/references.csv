@@ -89,7 +89,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1692819/000169281925000013/vistra-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Vistra Corp.,1692819
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1058307/000143774925008787/nxpl20241231_10k.htm#:~:text=Supply%20chain%20constraints,,,1058307
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1641281/000095017025043873/bolt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Bolt Biotherapeutics, Inc.",1641281
-2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1111711/000111171125000008/nix-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,NISOURCE INC.,1111711
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1388658/000138865825000028/irtc-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"iRhythm Holdings, Inc.",1388658
 2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1606909/000160690925000097/panl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pangaea Logistics Solutions Ltd.,1606909
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/797468/000079746825000029/oxy-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,OCCIDENTAL PETROLEUM CORP /DE/,797468
@@ -97,8 +96,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/818479/000081847925000035/xray-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,DENTSPLY SIRONA Inc.,818479
 2025-03-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2025410/000095017025037939/saro-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"StandardAero, Inc.",2025410
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1598981/000164117225000290/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SKYX Platforms Corp.,1598981
-2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1286043/000128604325000014/krg-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,KITE REALTY GROUP TRUST,1286043
-2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1636315/000128604325000014/krg-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Kite Realty Group, L.P.",1636315
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1773751/000177375125000062/hims-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Hims & Hers Health, Inc.",1773751
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1857853/000185785325000018/tra-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Traeger, Inc.",1857853
 2025-03-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/76282/000007628225000013/pkoh-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PARK OHIO HOLDINGS CORP,76282
@@ -237,7 +234,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/48732/000113031025000040/cnp-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,CENTERPOINT ENERGY HOUSTON ELECTRIC LLC,48732
 2025-02-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1042773/000113031025000040/cnp-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,CENTERPOINT ENERGY RESOURCES CORP,1042773
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1780201/000155837025003845/tmb-20241229x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Lulu's Fashion Lounge Holdings, Inc.",1780201
-2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1479094/000147909425000006/stag-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"STAG Industrial, Inc.",1479094
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1395937/000095017025030394/sndx-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Syndax Pharmaceuticals Inc,1395937
 2025-02-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1607939/000160793925000011/udmy-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Udemy, Inc.",1607939
 2025-03-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1832483/000183248325000010/patr-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Serve Robotics Inc. /DE/,1832483
@@ -328,7 +324,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1001316/000143774925005908/tgtx20241231_10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"TG THERAPEUTICS, INC.",1001316
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1792580/000095017025027914/ovv-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Ovintiv Inc.,1792580
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/101382/000095017025028420/umbf-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,UMB FINANCIAL CORP,101382
-2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1590717/000162828025005118/ctre-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"CareTrust REIT, Inc.",1590717
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2028686/000202868625000012/slic-20241231.htm#:~:text=Supply%20chain%20constraints,,SL Investment Fund II LLC,2028686
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1964789/000155837025001996/hut-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Crypto Assets,Hut 8 Corp.,1964789
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/887343/000088734325000054/colb-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,"COLUMBIA BANKING SYSTEM, INC.",887343
