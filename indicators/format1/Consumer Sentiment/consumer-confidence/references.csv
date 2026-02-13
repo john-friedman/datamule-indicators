@@ -35,7 +35,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/916076/000095017025024770/mlm-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,MARTIN MARIETTA MATERIALS INC,916076
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1365135/000095017025024137/wu-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Western Union CO,1365135
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,HAVERTY FURNITURE COMPANIES INC,216085
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/21665/000002166525000008/cl-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,COLGATE PALMOLIVE CO,21665
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1285550/000095017025027934/clpt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"ClearPoint Neuro, Inc.",1285550
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/895447/000095017025043195/scvl-20250201.htm#:~:text=consumer%20confidence,Trade & Services,SHOE CARNIVAL INC,895447
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/930245/000147237525000028/ixform10k.htm#:~:text=consumer%20confidence,Trade & Services,Agassi Sports Entertainment Corp.,930245
@@ -44,12 +43,10 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/813298/000095017025042703/dxlg-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"DESTINATION XL GROUP, INC.",813298
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1546417/000154641725000034/blmn-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"Bloomin' Brands, Inc.",1546417
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1418135/000141813525000013/kdp-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Keurig Dr Pepper Inc.,1418135
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1665918/000166591825000017/usfd-20241228.htm#:~:text=consumer%20confidence,Trade & Services,US Foods Holding Corp.,1665918
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/822663/000175392625000424/ipar-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,INTERPARFUMS INC,822663
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/20212/000002021225000051/chdn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Churchill Downs Inc,20212
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/105319/000095017025029511/ww-20241228.htm#:~:text=consumer%20confidence,Trade & Services,"WW INTERNATIONAL, INC.",105319
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1982518/000198251825000007/sdhc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Smith Douglas Homes Corp.,1982518
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1338749/000095017025019711/pch-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,POTLATCHDELTIC CORP,1338749
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1672013/000167201325000009/golf-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Acushnet Holdings Corp.,1672013
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/814586/000168316825001592/lifeway_i10k-123124.htm#:~:text=consumer%20confidence,Manufacturing,"Lifeway Foods, Inc.",814586
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1828962/000182896225000039/crct-20241231.htm#:~:text=consumer%20confidence,Technology,"Cricut, Inc.",1828962
@@ -100,7 +97,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1705012/000162828025009125/fat-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"Fat Brands, Inc",1705012
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/885639/000095017025042662/kss-20250201.htm#:~:text=consumer%20confidence,Trade & Services,KOHLS Corp,885639
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1061069/000143774925008584/awx20241231_10k.htm#:~:text=consumer%20confidence,Energy & Transportation,AVALON HOLDINGS CORP,1061069
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1136893/000113689325000014/fis-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Fidelity National Information Services, Inc.",1136893
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/912242/000091224225000023/mac-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,MACERICH CO,912242
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/838875/000119983525000089/wvvi-10k.htm#:~:text=consumer%20confidence,Manufacturing,WILLAMETTE VALLEY VINEYARDS INC,838875
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1318742/000155837025001748/nclc-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,NCL CORP Ltd.,1318742
@@ -110,13 +106,11 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1662991/000166299125000041/szl-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Sezzle Inc.,1662991
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1441816/000144181625000057/mdb-20250131.htm#:~:text=consumer%20confidence,Technology,"MongoDB, Inc.",1441816
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1513761/000155837025001743/nclh-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,Norwegian Cruise Line Holdings Ltd.,1513761
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1866581/000186658125000048/bros-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Dutch Bros Inc.,1866581
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1130713/000113071325000024/byon-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"BED BATH & BEYOND, INC.",1130713
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1870940/000187094025000008/airs-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Airsculpt Technologies, Inc.",1870940
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1898604/000164117225000804/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,Vestand Inc.,1898604
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1328581/000132858125000010/bcc-20241231.htm#:~:text=consumer%20confidence,Trade & Services,BOISE CASCADE Co,1328581
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1395942/000139594225000007/kar-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"OPENLANE, Inc.",1395942
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1910139/000141057825000127/mbly-20241228x10k.htm#:~:text=consumer%20confidence,Technology,Mobileye Global Inc.,1910139
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1031203/000103120325000013/gpi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,GROUP 1 AUTOMOTIVE INC,1031203
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1680873/000168087325000006/hffg-20241231.htm#:~:text=consumer%20confidence,Trade & Services,HF Foods Group Inc.,1680873
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1830188/000183018825000012/uhg-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"United Homes Group, Inc.",1830188
@@ -212,7 +206,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1936224/000095017025043326/srfm-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,SURF AIR MOBILITY INC.,1936224
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1088034/000143774925009368/usio20241231_10k.htm#:~:text=consumer%20confidence,Finance,"Usio, Inc.",1088034
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1393612/000139361225000009/dfs-20241231.htm#:~:text=consumer%20confidence,Finance,Discover Financial Services,1393612
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1468174/000146817425000009/h-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Hyatt Hotels Corp,1468174
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1938046/000164117225000085/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/dltr-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"DOLLAR TREE, INC.",935703
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/851310/000085131025000021/hlit-20241231.htm#:~:text=consumer%20confidence,Manufacturing,HARMONIC INC.,851310
@@ -222,14 +215,12 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/105418/000010541825000014/wmk-20241228x10k.htm#:~:text=consumer%20confidence,Trade & Services,WEIS MARKETS INC,105418
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1874178/000187417825000007/rivn-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Rivian Automotive, Inc. / DE",1874178
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1227500/000095017025035585/eqbk-20241231.htm#:~:text=consumer%20confidence,Finance,EQUITY BANCSHARES INC,1227500
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1174922/000117492225000039/wynn-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,WYNN RESORTS LTD,1174922
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1674335/000167433525000055/jeld-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"JELD-WEN Holding, Inc.",1674335
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1163370/000116337025000007/nrim-20241231.htm#:~:text=consumer%20confidence,Finance,NORTHRIM BANCORP INC,1163370
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/793952/000079395225000063/hog-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"HARLEY-DAVIDSON, INC.",793952
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1070494/000095017025029253/acad-20241231.htm#:~:text=consumer%20confidence,Life Sciences,ACADIA PHARMACEUTICALS INC,1070494
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1359841/000135984125000008/hbi-20241228.htm#:~:text=consumer%20confidence,Trade & Services,Hanesbrands Inc.,1359841
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1492691/000149269125000013/knx-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Knight-Swift Transportation Holdings Inc.,1492691
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1552033/000155203325000015/tru-20241231.htm#:~:text=consumer%20confidence,Trade & Services,TransUnion,1552033
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/3453/000155837025001875/matx-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,"Matson, Inc.",3453
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/916540/000091654025000008/dar-20241228.htm#:~:text=consumer%20confidence,Manufacturing,DARLING INGREDIENTS INC.,916540
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1606163/000162828025011745/lmb-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Limbach Holdings, Inc.",1606163
@@ -278,7 +269,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1612630/000162828025012702/jynt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,JOINT Corp,1612630
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/887596/000141057825000195/cake-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,CHEESECAKE FACTORY INC,887596
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1236275/000162828025009626/qxo-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO, Inc.",1236275
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/313927/000095017025019801/chd-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CHURCH & DWIGHT CO INC /DE/,313927
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1474098/000147409825000039/peb-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Pebblebrook Hotel Trust,1474098
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1771515/000177151525000017/go-20241228.htm#:~:text=consumer%20confidence,Trade & Services,Grocery Outlet Holding Corp.,1771515
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/889609/000168316825001548/cps_i10k-123124.htm#:~:text=consumer%20confidence,Finance,"CONSUMER PORTFOLIO SERVICES, INC.",889609
@@ -310,7 +300,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1368757/000095017025042607/gttj-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"GTJ REIT, INC.",1368757
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1570562/000157056225000020/eols-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Evolus, Inc.",1570562
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1653653/000165365325000004/rrr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Red Rock Resorts, Inc.",1653653
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1334036/000133403625000009/crox-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Crocs, Inc.",1334036
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1562088/000156208825000042/duol-20241231.htm#:~:text=consumer%20confidence,Technology,"Duolingo, Inc.",1562088
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1545654/000154565425000005/alex-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Alexander & Baldwin, Inc.",1545654
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/911147/000091114725000010/cnty-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,CENTURY CASINOS INC /CO/,911147
@@ -340,7 +329,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/55067/000162828025007118/k-20241228.htm#:~:text=consumer%20confidence,Manufacturing,KELLANOVA,55067
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1333493/000133349325000027/ehth-20241231.htm#:~:text=consumer%20confidence,Finance,"eHealth, Inc.",1333493
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1637207/000163720725000016/plnt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Planet Fitness, Inc.",1637207
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1757073/000175707325000007/nvst-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Envista Holdings Corp,1757073
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,Monster Beverage Corp,865752
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1559865/000155986525000007/evtc-20241231.htm#:~:text=consumer%20confidence,Technology,"EVERTEC, Inc.",1559865
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/752642/000149315225008351/form10-k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"UMH PROPERTIES, INC.",752642
@@ -432,7 +420,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/356171/000035617125000012/tcbk-20241231.htm#:~:text=consumer%20confidence,Finance,TRICO BANCSHARES /,356171
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1782303/000095017025045725/bold-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Boundless Bio, Inc.",1782303
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1831631/000183163125000023/ldi-20241231.htm#:~:text=consumer%20confidence,Finance,"loanDepot, Inc.",1831631
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/740260/000074026025000052/vtr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Ventas, Inc.",740260
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/946155/000162828025010848/tiaareal-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,TIAA REAL ESTATE ACCOUNT,946155
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/89439/000008943925000010/mli-20241228.htm#:~:text=consumer%20confidence,Manufacturing,MUELLER INDUSTRIES INC,89439
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1784058/000101376225003414/ea0234804-10k_ponygroup.htm#:~:text=consumer%20confidence,Energy & Transportation,Pony Group Inc.,1784058
@@ -450,10 +437,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1611647/000161164725000007/frpt-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Freshpet, Inc.",1611647
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/2023676/000101376225002287/ea0234914-10k_launch2.htm#:~:text=consumer%20confidence,Real Estate & Construction,Launch Two Acquisition Corp.,2023676
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/63908/000006390825000012/mcd-20241231.htm#:~:text=consumer%20confidence,Trade & Services,MCDONALDS CORP,63908
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1307748/000130774825000028/ivtp-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,InvenTrust Properties Corp.,1307748
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/95552/000095017025034599/sup-20241231.htm#:~:text=consumer%20confidence,Manufacturing,SUPERIOR INDUSTRIES INTERNATIONAL INC,95552
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1013488/000095017025027899/bjri-20241231.htm#:~:text=consumer%20confidence,Trade & Services,BJs RESTAURANTS INC,1013488
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/88121/000008812125000017/seb-20241231x10k.htm#:~:text=consumer%20confidence,Trade & Services,SEABOARD CORP /DE/,88121
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1846084/000095017025034279/jetmf-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Global Crossing Airlines Group Inc.,1846084
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/59527/000005952725000006/leco-20241231x10k.htm#:~:text=consumer%20confidence,Technology,LINCOLN ELECTRIC HOLDINGS INC,59527
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/84748/000008474825000026/rog-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,ROGERS CORP,84748
@@ -493,7 +478,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/874238/000087423825000025/strl-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"STERLING INFRASTRUCTURE, INC.",874238
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1606498/000160649825000024/avns-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"AVANOS MEDICAL, INC.",1606498
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/917470/000143774925004742/zeus20241231_10k.htm#:~:text=consumer%20confidence,Trade & Services,OLYMPIC STEEL INC,917470
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/55785/000005578525000013/kmb-20241231.htm#:~:text=consumer%20confidence,Manufacturing,KIMBERLY CLARK CORP,55785
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/103145/000155837025001001/veco-20241231x10k.htm#:~:text=consumer%20confidence,Technology,VEECO INSTRUMENTS INC,103145
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/821026/000082102625000050/ande-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Andersons, Inc.",821026
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1177609/000117760925000009/five-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"FIVE BELOW, INC",1177609
@@ -502,7 +486,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/833079/000083307925000021/mth-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Meritage Homes CORP,833079
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/743238/000143774925004501/shyf20241231c_10k.htm#:~:text=consumer%20confidence,Technology,"SHYFT GROUP, INC.",743238
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1626115/000095017025029132/pjt-20241231.htm#:~:text=consumer%20confidence,Finance,PJT Partners Inc.,1626115
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1722684/000172268425000005/wh-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"WYNDHAM HOTELS & RESORTS, INC.",1722684
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1463972/000155837025002903/vuzi-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,Vuzix Corp,1463972
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,ALUMIS INC.,1847367
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1099590/000109959025000007/meli-20241231.htm#:~:text=consumer%20confidence,Trade & Services,MERCADOLIBRE INC,1099590
@@ -639,7 +622,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1278021/000095017025025606/mktx-20241231.htm#:~:text=consumer%20confidence,Crypto Assets,MARKETAXESS HOLDINGS INC,1278021
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/921825/000092182525000019/fr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,FIRST INDUSTRIAL REALTY TRUST INC,921825
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1033128/000092182525000019/fr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,FIRST INDUSTRIAL LP,1033128
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/802481/000080248125000011/ppc-20241229.htm#:~:text=consumer%20confidence,Manufacturing,PILGRIMS PRIDE CORP,802481
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1821160/000182116025000007/ghld-20241231.htm#:~:text=consumer%20confidence,Finance,Guild Holdings Co,1821160
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1653477/000165347725000015/ngvt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Ingevity Corp,1653477
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1563190/000156319025000050/comp-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Compass, Inc.",1563190
@@ -690,7 +672,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1757499/000149315225008300/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"Shuttle Pharmaceuticals Holdings, Inc.",1757499
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1370946/000137094625000077/oc-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Owens Corning,1370946
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1419536/000141953625000047/cbnk-20241231.htm#:~:text=consumer%20confidence,Finance,Capital Bancorp Inc,1419536
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1616862/000161686225000013/axta-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Axalta Coating Systems Ltd.,1616862
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1130144/000155837025002056/bsrr-20241231x10k.htm#:~:text=consumer%20confidence,Finance,SIERRA BANCORP,1130144
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1798749/000155837025003750/avte-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,"Jade Biosciences, Inc.",1798749
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/928658/000143774925005696/cvti20241231_10k.htm#:~:text=consumer%20confidence,Energy & Transportation,"COVENANT LOGISTICS GROUP, INC.",928658
@@ -699,7 +680,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1395937/000095017025030394/sndx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Syndax Pharmaceuticals Inc,1395937
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1517375/000151737525000022/spt-20241231.htm#:~:text=consumer%20confidence,Technology,"Sprout Social, Inc.",1517375
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/727207/000162828025014205/axdx-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Accelerate Diagnostics, Inc",727207
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1559720/000155972025000010/abnb-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Airbnb, Inc.",1559720
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1431695/000143169525000010/olo-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Olo Inc.,1431695
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1782170/000178217025000018/rely-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Remitly Global, Inc.",1782170
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1728205/000172820525000047/ex962s-k1300authierlithi.htm#:~:text=consumer%20confidence,Energy & Transportation,Piedmont Lithium Inc.,1728205
@@ -778,7 +758,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1838359/000155837025002499/rgti-20241231x10k.htm#:~:text=consumer%20confidence,Technology,"Rigetti Computing, Inc.",1838359
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1537054/000095017025039384/gogo-20241231.htm#:~:text=consumer%20confidence,Technology,Gogo Inc.,1537054
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=consumer%20confidence,Technology,"SOUNDHOUND AI, INC.",1840856
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/5272/000000527225000012/aig-20241231.htm#:~:text=consumer%20confidence,Finance,"AMERICAN INTERNATIONAL GROUP, INC.",5272
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1311370/000162828025007441/laz-20241231.htm#:~:text=consumer%20confidence,Finance,"Lazard, Inc.",1311370
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1000228/000100022825000014/hsic-20241228.htm#:~:text=consumer%20confidence,Trade & Services,HENRY SCHEIN INC,1000228
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1581760/000158176025000008/lifx-20241231.htm#:~:text=consumer%20confidence,Technology,"Life360, Inc.",1581760
@@ -828,7 +807,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1123360/000112336025000011/gpn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,GLOBAL PAYMENTS INC,1123360
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1477815/000162828025008367/sg-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"Sweetgreen, Inc.",1477815
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1333986/000133398625000011/eqh-20241231.htm#:~:text=consumer%20confidence,Finance,"Equitable Holdings, Inc.",1333986
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1409970/000140997025000009/lc-20241231.htm#:~:text=consumer%20confidence,Finance,LendingClub Corp,1409970
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1370637/000137063725000017/etsy-20241231.htm#:~:text=consumer%20confidence,Trade & Services,ETSY INC,1370637
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/874015/000087401525000089/form10k.htm#:~:text=consumer%20confidence,Life Sciences,IONIS PHARMACEUTICALS INC,874015
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1787740/000095017025043234/tivc-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Tivic Health Systems, Inc.",1787740
@@ -883,7 +861,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1484612/000095017025030045/om-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Outset Medical, Inc.",1484612
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/70318/000007031825000009/thc-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,TENET HEALTHCARE CORP,70318
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1597033/000159703325000027/sabr-20241231.htm#:~:text=consumer%20confidence,Technology,Sabre Corp,1597033
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1691303/000169130325000010/hcc-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"WARRIOR MET COAL, INC.",1691303
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1616543/000155837025002044/sens-20241231x10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Senseonics Holdings, Inc.",1616543
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/791908/000155837025003131/xoma-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,XOMA Royalty Corp,791908
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1509470/000149315225009940/form10-k.htm#:~:text=consumer%20confidence,,SURO CAPITAL CORP.,1509470
@@ -927,10 +904,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1690585/000095017025037131/dnth-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Dianthus Therapeutics, Inc. /DE/",1690585
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1860879/000182912625001989/rigelresources_10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Rigel Resource Acquisition Corp.,1860879
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1384101/000138410125000014/vcyt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"VERACYTE, INC.",1384101
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1052752/000095017025019976/gty-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,GETTY REALTY CORP /MD/,1052752
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1793659/000179365925000047/rsi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Rush Street Interactive, Inc.",1793659
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1357459/000095017025043859/pali-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"PALISADE BIO, INC.",1357459
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1534504/000153450425000011/pbf-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,PBF Energy Inc.,1534504
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1496323/000095017025034597/igms-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"IGM Biosciences, Inc.",1496323
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1585101/000158510125000017/hgit-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"HINES GLOBAL INCOME TRUST, INC.",1585101
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1995807/000095017025034049/lb-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,LandBridge Co LLC,1995807
@@ -978,7 +953,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774925008572/vxrt20241231_10k.htm#:~:text=consumer%20confidence,Life Sciences,"Vaxart, Inc.",72444
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1806952/000162828025011978/lyel-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Lyell Immunopharma, Inc.",1806952
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1447362/000144736225000031/cstl-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CASTLE BIOSCIENCES INC,1447362
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/2027537/000202753725000004/gsreft-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Goldman Sachs Real Estate Finance Trust Inc,2027537
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1267238/000126723825000008/aiz-20241231.htm#:~:text=consumer%20confidence,Finance,"ASSURANT, INC.",1267238
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1575965/000157596525000008/glpi-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Gaming & Leisure Properties, Inc.",1575965
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1874944/000187494425000003/vcsa-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Vacasa, Inc.",1874944
@@ -990,8 +964,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1212545/000121254525000090/wal-20241231.htm#:~:text=consumer%20confidence,Finance,WESTERN ALLIANCE BANCORPORATION,1212545
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1853816/000165495425002885/drma_10k.htm#:~:text=consumer%20confidence,Life Sciences,"Dermata Therapeutics, Inc.",1853816
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1816708/000162828025012035/owlt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Owlet, Inc.",1816708
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/759944/000075994425000013/cfg-20241231.htm#:~:text=consumer%20confidence,Finance,CITIZENS FINANCIAL GROUP INC/RI,759944
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1318220/000155837025000893/wcn-20241231x10k.htm#:~:text=consumer%20confidence,Energy & Transportation,"Waste Connections, Inc.",1318220
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/907654/000121390025021165/ea0230445-10k_orukathe.htm#:~:text=consumer%20confidence,Life Sciences,"Oruka Therapeutics, Inc.",907654
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1331520/000133152025000076/homb-20241231.htm#:~:text=consumer%20confidence,Finance,HOME BANCSHARES INC,1331520
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/203596/000095017025030795/wsbc-20241231.htm#:~:text=consumer%20confidence,Finance,WESBANCO INC,203596
@@ -1066,7 +1038,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1975736/000162828025012551/kfits-20241231.htm#:~:text=consumer%20confidence,,KKR FS Income Trust Select,1975736
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1390777/000139077725000046/bk-20241231_d2.htm#:~:text=consumer%20confidence,Finance,Bank of New York Mellon Corp,1390777
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/764038/000155837025001274/ssb-20241231x10k.htm#:~:text=consumer%20confidence,Finance,SouthState Bank Corp,764038
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1508655/000095017025019845/tslx-20241231.htm#:~:text=consumer%20confidence,,"Sixth Street Specialty Lending, Inc.",1508655
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1772704/000095017025032221/ck0001772704-20241231.htm#:~:text=consumer%20confidence,,Goldman Sachs Private Middle Market Credit II LLC,1772704
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1899996/000095017025041961/ck0001899996-20241231.htm#:~:text=consumer%20confidence,,Fidelity Private Credit Co LLC,1899996
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1817241/000095017025043837/artv-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Artiva Biotherapeutics, Inc.",1817241
@@ -1143,7 +1114,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1527469/000152746925000016/ahl-20241231.htm#:~:text=consumer%20confidence,Finance,Athene Holding Ltd.,1527469
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1742313/000174231325000012/mcip-20241231.htm#:~:text=consumer%20confidence,,Monroe Capital Income Plus Corp,1742313
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1276187/000127618725000018/et-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Energy Transfer LP,1276187
-2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/1889539/000188953925000014/crbg-20241231.htm#:~:text=consumer%20confidence,Finance,"Corebridge Financial, Inc.",1889539
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1633336/000095017025023153/ccap-20241231.htm#:~:text=consumer%20confidence,,"Crescent Capital BDC, Inc.",1633336
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1786108/000095017025027341/trin-20241231.htm#:~:text=consumer%20confidence,,Trinity Capital Inc.,1786108
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm#:~:text=consumer%20confidence,Finance,GOLDMAN SACHS GROUP INC,886982
@@ -1227,7 +1197,5 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,international,https://www.sec.gov/Archives/edgar/data/1114446/000161052025000027/ubs-20241231.htm#:~:text=consumer%20confidence,Finance,UBS AG,1114446
 2025-03-06,international,https://www.sec.gov/Archives/edgar/data/1039765/000162828025010764/ing-20241231.htm#:~:text=consumer%20confidence,Finance,ING GROEP NV,1039765
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/814052/000081405225000036/tef-20241231.htm#:~:text=consumer%20confidence,Technology,TELEFONICA S A,814052
-2025-02-13,international,https://www.sec.gov/Archives/edgar/data/312070/000031207025000007/bbplc-20241231.htm#:~:text=consumer%20confidence,Finance,BARCLAYS BANK PLC,312070
 2025-03-17,international,https://www.sec.gov/Archives/edgar/data/1610520/000161052025000023/ubs-20241231.htm#:~:text=consumer%20confidence,Finance,UBS Group AG,1610520
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=consumer%20confidence,Finance,AEGON LTD.,769218
-2025-02-13,international,https://www.sec.gov/Archives/edgar/data/312069/000031206925000114/bcs-20241231.htm#:~:text=consumer%20confidence,Finance,BARCLAYS PLC,312069
