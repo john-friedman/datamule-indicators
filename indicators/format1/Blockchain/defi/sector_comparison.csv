@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
 Crypto Assets,0,30,adoption_domestic
-Crypto Assets,1,30,adoption_domestic
+Crypto Assets,1,29,adoption_domestic
 Energy & Transportation,0,2,adoption_domestic
 Energy & Transportation,1,3,adoption_domestic
 Finance,0,3,adoption_domestic
@@ -17,21 +17,21 @@ Technology,1,3,adoption_domestic
 Trade & Services,0,4,adoption_domestic
 Trade & Services,1,7,adoption_domestic
 Crypto Assets,0,29,protocols_domestic
-Crypto Assets,1,26,protocols_domestic
-Energy & Transportation,0,145,protocols_domestic
+Crypto Assets,1,25,protocols_domestic
+Energy & Transportation,0,141,protocols_domestic
 Energy & Transportation,1,163,protocols_domestic
-Finance,0,94,protocols_domestic
-Finance,1,102,protocols_domestic
-Industrial Applications and Services,0,121,protocols_domestic
-Industrial Applications and Services,1,157,protocols_domestic
-Life Sciences,0,433,protocols_domestic
-Life Sciences,1,500,protocols_domestic
-Manufacturing,0,108,protocols_domestic
-Manufacturing,1,150,protocols_domestic
-Real Estate & Construction,0,57,protocols_domestic
-Real Estate & Construction,1,75,protocols_domestic
-Technology,0,96,protocols_domestic
-Technology,1,131,protocols_domestic
+Finance,0,90,protocols_domestic
+Finance,1,104,protocols_domestic
+Industrial Applications and Services,0,120,protocols_domestic
+Industrial Applications and Services,1,155,protocols_domestic
+Life Sciences,0,429,protocols_domestic
+Life Sciences,1,495,protocols_domestic
+Manufacturing,0,105,protocols_domestic
+Manufacturing,1,149,protocols_domestic
+Real Estate & Construction,0,53,protocols_domestic
+Real Estate & Construction,1,77,protocols_domestic
+Technology,0,94,protocols_domestic
+Technology,1,129,protocols_domestic
 Trade & Services,0,72,protocols_domestic
-Trade & Services,1,95,protocols_domestic
+Trade & Services,1,94,protocols_domestic
 Crypto Assets,0,2,risk_domestic

@@ -79,7 +79,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1909747/000162828025010947/jush-20241231.htm#:~:text=Alzheimer,Life Sciences,Jushi Holdings Inc.,1909747
 2025-02-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1492298/000149229825000008/sbra-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"Sabra Health Care REIT, Inc.",1492298
 2025-03-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1503707/000150370725000019/nshi-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"NorthStar Healthcare Income, Inc.",1503707
-2025-02-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm#:~:text=Alzheimer,Life Sciences,AbbVie Inc.,1551152
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1200375/000120037525000003/cdxs-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"CODEXIS, INC.",1200375
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/896262/000089626225000018/amed-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,AMEDISYS INC,896262
 2025-03-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1290476/000155837025003706/vbfc-20241231x10k.htm#:~:text=Alzheimer,Finance,Village Bank & Trust Financial Corp.,1290476
@@ -160,7 +159,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1641489/000164148925000014/vtvt-20241231.htm#:~:text=Obesity,Life Sciences,vTv Therapeutics Inc.,1641489
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/105319/000095017025029511/ww-20241228.htm#:~:text=Obesity,Trade & Services,"WW INTERNATIONAL, INC.",105319
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1744659/000095017025029514/akro-20241231.htm#:~:text=Obesity,Life Sciences,"Akero Therapeutics, Inc.",1744659
-2025-02-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/318154/000031815425000010/amgn-20241231.htm#:~:text=Obesity,Life Sciences,AMGEN INC,318154
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1658247/000095017025029050/crnx-20241231.htm#:~:text=Obesity,Life Sciences,"Crinetics Pharmaceuticals, Inc.",1658247
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1088856/000162828025008167/cort-20241231.htm#:~:text=Obesity,Life Sciences,CORCEPT THERAPEUTICS INC,1088856
 2025-03-10,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Obesity,Life Sciences,"Tenaya Therapeutics, Inc.",1858848

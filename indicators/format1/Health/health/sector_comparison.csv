@@ -6,11 +6,11 @@ Finance,0,3,alzheimer_domestic
 Finance,1,4,alzheimer_domestic
 Industrial Applications and Services,0,20,alzheimer_domestic
 Industrial Applications and Services,1,32,alzheimer_domestic
-Life Sciences,0,74,alzheimer_domestic
-Life Sciences,1,120,alzheimer_domestic
+Life Sciences,0,73,alzheimer_domestic
+Life Sciences,1,118,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,9,alzheimer_domestic
-Real Estate & Construction,1,22,alzheimer_domestic
+Real Estate & Construction,1,19,alzheimer_domestic
 Technology,0,2,alzheimer_domestic
 Technology,1,7,alzheimer_domestic
 Trade & Services,0,4,alzheimer_domestic
@@ -20,8 +20,8 @@ Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,38,obesity_domestic
 Industrial Applications and Services,1,52,obesity_domestic
-Life Sciences,0,84,obesity_domestic
-Life Sciences,1,104,obesity_domestic
+Life Sciences,0,83,obesity_domestic
+Life Sciences,1,103,obesity_domestic
 Manufacturing,0,15,obesity_domestic
 Manufacturing,1,25,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
@@ -32,7 +32,7 @@ Crypto Assets,1,1,nash_domestic
 Industrial Applications and Services,0,2,nash_domestic
 Industrial Applications and Services,1,4,nash_domestic
 Life Sciences,0,15,nash_domestic
-Life Sciences,1,29,nash_domestic
+Life Sciences,1,27,nash_domestic
 Crypto Assets,0,1,ptsd_domestic
 Crypto Assets,1,1,ptsd_domestic
 Energy & Transportation,1,1,ptsd_domestic
@@ -116,7 +116,7 @@ Real Estate & Construction,0,1,mpox_international
 Trade & Services,1,1,mpox_international
 Finance,1,1,zika_international
 Life Sciences,0,7,zika_international
-Life Sciences,1,42,zika_international
+Life Sciences,1,41,zika_international
 Manufacturing,1,1,zika_international
 Real Estate & Construction,0,1,zika_international
 Technology,1,1,zika_international

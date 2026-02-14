@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
-Energy & Transportation,0,5,launch_domestic
-Energy & Transportation,1,8,launch_domestic
+Energy & Transportation,0,4,launch_domestic
+Energy & Transportation,1,9,launch_domestic
 Finance,0,1,launch_domestic
 Finance,1,1,launch_domestic
 Industrial Applications and Services,0,3,launch_domestic
@@ -12,7 +12,7 @@ Manufacturing,1,27,launch_domestic
 Real Estate & Construction,0,1,launch_domestic
 Real Estate & Construction,1,3,launch_domestic
 Technology,0,7,launch_domestic
-Technology,1,16,launch_domestic
+Technology,1,15,launch_domestic
 Trade & Services,1,3,launch_domestic
 Crypto Assets,1,1,satellite_domestic
 Energy & Transportation,0,1,satellite_domestic
@@ -22,20 +22,20 @@ Finance,1,2,satellite_domestic
 Industrial Applications and Services,1,3,satellite_domestic
 Manufacturing,0,11,satellite_domestic
 Manufacturing,1,25,satellite_domestic
-Real Estate & Construction,0,4,satellite_domestic
-Real Estate & Construction,1,4,satellite_domestic
+Real Estate & Construction,0,3,satellite_domestic
+Real Estate & Construction,1,5,satellite_domestic
 Technology,0,18,satellite_domestic
-Technology,1,26,satellite_domestic
+Technology,1,25,satellite_domestic
 Trade & Services,0,3,satellite_domestic
 Trade & Services,1,5,satellite_domestic
-Energy & Transportation,0,2,exploration_domestic
-Energy & Transportation,1,1,exploration_domestic
+Energy & Transportation,0,1,exploration_domestic
+Energy & Transportation,1,2,exploration_domestic
 Industrial Applications and Services,0,4,exploration_domestic
 Industrial Applications and Services,1,9,exploration_domestic
 Life Sciences,0,2,exploration_domestic
 Life Sciences,1,2,exploration_domestic
-Manufacturing,0,7,exploration_domestic
-Manufacturing,1,10,exploration_domestic
+Manufacturing,0,5,exploration_domestic
+Manufacturing,1,12,exploration_domestic
 Technology,0,3,exploration_domestic
 Technology,1,3,exploration_domestic
 Trade & Services,0,1,exploration_domestic

@@ -20,7 +20,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/917273/000091727325000021/rmbs-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,RAMBUS INC,917273
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1298675/000129867525000011/cube-20241231x10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,CubeSmart,1298675
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1300485/000129867525000011/cube-20241231x10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,"CubeSmart, L.P.",1300485
-2025-02-14,general_domestic,https://www.sec.gov/Archives/edgar/data/929008/000092900825000005/wcc-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,WESCO INTERNATIONAL INC,929008
 2025-03-12,general_domestic,https://www.sec.gov/Archives/edgar/data/1362190/000155837025002819/aeye-20241231x10k.htm#:~:text=Large%20Language%20Models,Technology,AUDIOEYE INC,1362190
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1345016/000134501625000007/yelp-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,YELP INC,1345016
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1538379/000162828025008240/ibta-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,"Ibotta, Inc.",1538379
@@ -42,7 +41,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1052354/000095017025043325/ck0001052354-20241231.htm#:~:text=Large%20Language%20Models,Crypto Assets,MAN AHL DIVERSIFIED I LP,1052354
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/81018/000008101825000004/psco-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,PUBLIC SERVICE CO OF COLORADO,81018
 2025-02-19,general_domestic,https://www.sec.gov/Archives/edgar/data/1764046/000176404625000011/clvt-20241231.htm#:~:text=Large%20Language%20Models,Technology,CLARIVATE PLC,1764046
-2025-02-14,general_domestic,https://www.sec.gov/Archives/edgar/data/1043277/000104327725000012/chrw-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,"C. H. ROBINSON WORLDWIDE, INC.",1043277
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1123852/000112385225000005/nspm-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,NORTHERN STATES POWER CO,1123852
 2025-03-10,general_domestic,https://www.sec.gov/Archives/edgar/data/320121/000032012125000011/tls-20241231.htm#:~:text=Large%20Language%20Models,Technology,TELOS CORP,320121
 2025-02-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1459200/000145920025000004/alrm-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Alarm.com Holdings, Inc.",1459200
@@ -60,7 +58,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1442145/000143774925005160/vrsk20241231_10k.htm#:~:text=Large%20Language%20Models,Technology,"Verisk Analytics, Inc.",1442145
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1172052/000117205225000006/saft-20241231x10k.htm#:~:text=Large%20Language%20Models,Finance,SAFETY INSURANCE GROUP INC,1172052
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm#:~:text=Large%20Language%20Models,Finance,ALLSTATE CORP,899051
-2025-02-14,general_domestic,https://www.sec.gov/Archives/edgar/data/1800667/000095017025021340/frog-20241231.htm#:~:text=Large%20Language%20Models,Technology,JFrog Ltd,1800667
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1562088/000156208825000042/duol-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Duolingo, Inc.",1562088
 2025-02-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1286139/000128613925000044/lz-20241231.htm#:~:text=Large%20Language%20Models,Technology,"LEGALZOOM.COM, INC.",1286139
 2025-02-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1451505/000145150525000018/rig-20241231x10k.htm#:~:text=Large%20Language%20Models,Energy & Transportation,Transocean Ltd.,1451505
@@ -180,7 +177,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,google_domestic,https://www.sec.gov/Archives/edgar/data/1582961/000158296125000035/docn-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"DigitalOcean Holdings, Inc.",1582961
 2025-03-13,google_domestic,https://www.sec.gov/Archives/edgar/data/1614178/000161417825000030/yext-20250131.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Yext, Inc.",1614178
 2025-03-07,google_domestic,https://www.sec.gov/Archives/edgar/data/1023313/000095017025035158/forr-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Trade & Services,"FORRESTER RESEARCH, INC.",1023313
-2025-02-14,google_domestic,https://www.sec.gov/Archives/edgar/data/1800667/000095017025021340/frog-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,JFrog Ltd,1800667
 2025-02-20,google_domestic,https://www.sec.gov/Archives/edgar/data/1579684/000157968425000007/gci-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Manufacturing,"USA TODAY Co., Inc.",1579684
 2025-02-24,google_domestic,https://www.sec.gov/Archives/edgar/data/1651562/000165156225000013/cour-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Coursera, Inc.",1651562
 2025-03-07,google_domestic,https://www.sec.gov/Archives/edgar/data/1454938/000145493825000020/outbrain-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,Teads Holding Co.,1454938
