@@ -16,7 +16,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,EBAY INC,1065088
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=Large%20Language%20Models,Technology,"SOUNDHOUND AI, INC.",1840856
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1327811/000132781125000056/wday-20250131.htm#:~:text=Large%20Language%20Models,Technology,"Workday, Inc.",1327811
-2025-02-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1321655/000132165525000022/pltr-20241231.htm#:~:text=Large%20Language%20Models,Technology,Palantir Technologies Inc.,1321655
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/917273/000091727325000021/rmbs-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,RAMBUS INC,917273
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1298675/000129867525000011/cube-20241231x10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,CubeSmart,1298675
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1300485/000129867525000011/cube-20241231x10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,"CubeSmart, L.P.",1300485
@@ -60,7 +59,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm#:~:text=Large%20Language%20Models,Finance,ALLSTATE CORP,899051
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1562088/000156208825000042/duol-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Duolingo, Inc.",1562088
 2025-02-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1286139/000128613925000044/lz-20241231.htm#:~:text=Large%20Language%20Models,Technology,"LEGALZOOM.COM, INC.",1286139
-2025-02-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1451505/000145150525000018/rig-20241231x10k.htm#:~:text=Large%20Language%20Models,Energy & Transportation,Transocean Ltd.,1451505
 2025-03-10,general_domestic,https://www.sec.gov/Archives/edgar/data/1372612/000095017025036261/box-20250131.htm#:~:text=Large%20Language%20Models,Technology,BOX INC,1372612
 2025-03-13,general_domestic,https://www.sec.gov/Archives/edgar/data/1609151/000160915125000022/weav-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Weave Communications, Inc.",1609151
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/98222/000143774925005487/tdw20241231_10k.htm#:~:text=Large%20Language%20Models,Energy & Transportation,TIDEWATER INC,98222
@@ -68,7 +66,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1866692/000095017025024135/ampl-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Amplitude, Inc.",1866692
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1934850/000193485025000015/fg-20241231.htm#:~:text=Large%20Language%20Models,Finance,"F&G Annuities & Life, Inc.",1934850
 2025-02-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1481792/000148179225000010/quad-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,"Quad/Graphics, Inc.",1481792
-2025-02-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1071739/000107173925000027/cnc-20241231.htm#:~:text=Large%20Language%20Models,Finance,CENTENE CORP,1071739
 2025-02-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1397911/000139791125000018/lpla-20241231.htm#:~:text=Large%20Language%20Models,Crypto Assets,LPL Financial Holdings Inc.,1397911
 2025-03-04,general_domestic,https://www.sec.gov/Archives/edgar/data/1841408/000095017025032164/dave-20241231.htm#:~:text=Large%20Language%20Models,Finance,Dave Inc./DE,1841408
 2025-02-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1043604/000104360425000025/jnpr-20241231.htm#:~:text=Large%20Language%20Models,Technology,JUNIPER NETWORKS INC,1043604
@@ -85,7 +82,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1886894/000164117225000784/form10-k.htm#:~:text=Large%20Language%20Models,Technology,"Snail, Inc.",1886894
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1651562/000165156225000013/cour-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Coursera, Inc.",1651562
 2025-02-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1585521/000158552125000042/zm-20250131.htm#:~:text=Large%20Language%20Models,Technology,"Zoom Communications, Inc.",1585521
-2025-02-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1046568/000095017025022187/prdo-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,PERDOCEO EDUCATION Corp,1046568
 2025-02-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1288847/000128884725000028/fivn-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Five9, Inc.",1288847
 2025-02-25,general_domestic,https://www.sec.gov/Archives/edgar/data/750004/000075000425000016/lnw-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Light & Wonder, Inc.",750004
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=Large%20Language%20Models,Technology,VERINT SYSTEMS INC,1166388

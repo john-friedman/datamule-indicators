@@ -6,8 +6,8 @@ Finance,0,3,alzheimer_domestic
 Finance,1,4,alzheimer_domestic
 Industrial Applications and Services,0,20,alzheimer_domestic
 Industrial Applications and Services,1,30,alzheimer_domestic
-Life Sciences,0,73,alzheimer_domestic
-Life Sciences,1,118,alzheimer_domestic
+Life Sciences,0,71,alzheimer_domestic
+Life Sciences,1,120,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,9,alzheimer_domestic
 Real Estate & Construction,1,19,alzheimer_domestic
@@ -18,12 +18,12 @@ Trade & Services,1,6,alzheimer_domestic
 Crypto Assets,0,1,obesity_domestic
 Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
-Industrial Applications and Services,0,38,obesity_domestic
-Industrial Applications and Services,1,52,obesity_domestic
+Industrial Applications and Services,0,33,obesity_domestic
+Industrial Applications and Services,1,57,obesity_domestic
 Life Sciences,0,83,obesity_domestic
 Life Sciences,1,103,obesity_domestic
-Manufacturing,0,15,obesity_domestic
-Manufacturing,1,25,obesity_domestic
+Manufacturing,0,13,obesity_domestic
+Manufacturing,1,27,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
 Technology,1,2,obesity_domestic
 Trade & Services,0,14,obesity_domestic
@@ -50,8 +50,8 @@ Trade & Services,1,2,ptsd_domestic
 Energy & Transportation,1,1,alzheimer_international
 Finance,0,1,alzheimer_international
 Industrial Applications and Services,1,2,alzheimer_international
-Life Sciences,0,5,alzheimer_international
-Life Sciences,1,23,alzheimer_international
+Life Sciences,0,4,alzheimer_international
+Life Sciences,1,24,alzheimer_international
 Manufacturing,1,1,alzheimer_international
 Technology,0,1,alzheimer_international
 Technology,1,1,alzheimer_international
@@ -60,15 +60,15 @@ Finance,0,2,obesity_international
 Finance,1,3,obesity_international
 Industrial Applications and Services,0,8,obesity_international
 Industrial Applications and Services,1,9,obesity_international
-Life Sciences,0,6,obesity_international
-Life Sciences,1,24,obesity_international
+Life Sciences,0,5,obesity_international
+Life Sciences,1,25,obesity_international
 Manufacturing,0,5,obesity_international
 Manufacturing,1,6,obesity_international
 Technology,1,2,obesity_international
 Trade & Services,1,5,obesity_international
 Industrial Applications and Services,0,1,nash_international
-Life Sciences,0,4,nash_international
-Life Sciences,1,11,nash_international
+Life Sciences,0,3,nash_international
+Life Sciences,1,12,nash_international
 Industrial Applications and Services,1,1,ptsd_international
 Life Sciences,1,4,ptsd_international
 Technology,1,2,ptsd_international
@@ -115,8 +115,8 @@ Manufacturing,1,2,mpox_international
 Real Estate & Construction,0,1,mpox_international
 Trade & Services,1,1,mpox_international
 Finance,1,1,zika_international
-Life Sciences,0,7,zika_international
-Life Sciences,1,41,zika_international
+Life Sciences,0,6,zika_international
+Life Sciences,1,42,zika_international
 Manufacturing,1,1,zika_international
 Real Estate & Construction,0,1,zika_international
 Technology,1,1,zika_international
