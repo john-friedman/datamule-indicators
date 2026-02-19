@@ -1,29 +1,29 @@
 ownerOrg,period,count,component
 Crypto Assets,0,10,domestic
 Crypto Assets,1,22,domestic
-Energy & Transportation,0,70,domestic
-Energy & Transportation,1,105,domestic
-Finance,0,76,domestic
-Finance,1,105,domestic
-Industrial Applications and Services,0,83,domestic
-Industrial Applications and Services,1,137,domestic
-Life Sciences,0,192,domestic
-Life Sciences,1,283,domestic
-Manufacturing,0,71,domestic
+Energy & Transportation,0,64,domestic
+Energy & Transportation,1,109,domestic
+Finance,0,72,domestic
+Finance,1,107,domestic
+Industrial Applications and Services,0,79,domestic
+Industrial Applications and Services,1,139,domestic
+Life Sciences,0,190,domestic
+Life Sciences,1,281,domestic
+Manufacturing,0,69,domestic
 Manufacturing,1,153,domestic
-Real Estate & Construction,0,56,domestic
-Real Estate & Construction,1,94,domestic
-Technology,0,120,domestic
-Technology,1,191,domestic
-Trade & Services,0,74,domestic
-Trade & Services,1,150,domestic
+Real Estate & Construction,0,53,domestic
+Real Estate & Construction,1,93,domestic
+Technology,0,111,domestic
+Technology,1,197,domestic
+Trade & Services,0,71,domestic
+Trade & Services,1,151,domestic
 Crypto Assets,1,9,international
 Energy & Transportation,0,7,international
 Energy & Transportation,1,16,international
 Finance,0,1,international
 Finance,1,7,international
 Industrial Applications and Services,0,7,international
-Industrial Applications and Services,1,12,international
+Industrial Applications and Services,1,11,international
 Life Sciences,0,13,international
 Life Sciences,1,37,international
 Manufacturing,0,9,international

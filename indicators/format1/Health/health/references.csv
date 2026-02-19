@@ -34,7 +34,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1661059/000155837025002402/nxtc-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"NextCure, Inc.",1661059
 2025-03-04,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1658551/000095017025031309/amlx-20241231.htm#:~:text=Alzheimer,Life Sciences,"Amylyx Pharmaceuticals, Inc.",1658551
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1819411/000155837025003823/ganx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Gain Therapeutics, Inc.",1819411
-2025-02-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/874015/000087401525000089/form10k.htm#:~:text=Alzheimer,Life Sciences,IONIS PHARMACEUTICALS INC,874015
 2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Alzheimer,Industrial Applications and Services,Solana Co,1610853
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1053691/000143774925007829/crvo20241231_10k.htm#:~:text=Alzheimer,Life Sciences,CervoMed Inc.,1053691
 2025-02-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1098009/000118518525000157/amgreat10k063024.htm#:~:text=Alzheimer,Life Sciences,America Great Health,1098009
@@ -75,7 +74,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1505497/000164117225001011/form10-k.htm#:~:text=Alzheimer,Industrial Applications and Services,"BioRestorative Therapies, Inc.",1505497
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1043000/000104300025000010/snda-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"SONIDA SENIOR LIVING, INC.",1043000
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1909747/000162828025010947/jush-20241231.htm#:~:text=Alzheimer,Life Sciences,Jushi Holdings Inc.,1909747
-2025-02-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1492298/000149229825000008/sbra-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"Sabra Health Care REIT, Inc.",1492298
 2025-03-14,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1503707/000150370725000019/nshi-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,"NorthStar Healthcare Income, Inc.",1503707
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1200375/000120037525000003/cdxs-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"CODEXIS, INC.",1200375
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/896262/000089626225000018/amed-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,AMEDISYS INC,896262
@@ -124,7 +122,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1727196/000155837025001682/srrk-20241231x10k.htm#:~:text=Obesity,Life Sciences,Scholar Rock Holding Corp,1727196
 2025-03-04,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1631574/000095017025031322/wve-20241231.htm#:~:text=Obesity,Life Sciences,Wave Life Sciences Ltd.,1631574
 2025-03-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1535955/000149315225010146/form10-k.htm#:~:text=Obesity,Life Sciences,Lipocine Inc.,1535955
-2025-02-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm#:~:text=Obesity,Life Sciences,ELI LILLY & Co,59478
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1505497/000164117225001011/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"BioRestorative Therapies, Inc.",1505497
 2025-03-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1829247/000149315225010367/form10-k.htm#:~:text=Obesity,Life Sciences,"BullFrog AI Holdings, Inc.",1829247
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1133818/000155837025003837/bpth-20241231x10k.htm#:~:text=Obesity,Life Sciences,"BIO-PATH HOLDINGS, INC.",1133818
@@ -179,7 +176,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1725255/000162828025007740/ahco-20241231.htm#:~:text=Obesity,Industrial Applications and Services,AdaptHealth Corp.,1725255
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1124105/000095017025040279/gyre-20241231.htm#:~:text=Obesity,Life Sciences,"GYRE THERAPEUTICS, INC.",1124105
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1664710/000166471025000018/exhibit1024form10-kfy2024.htm#:~:text=Obesity,Life Sciences,"Keros Therapeutics, Inc.",1664710
-2025-02-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1180262/000095017025023207/hlf-20241231.htm#:~:text=Obesity,Trade & Services,HERBALIFE LTD.,1180262
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1802665/000155837025001441/hrmy-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Harmony Biosciences Holdings, Inc.",1802665
 2025-03-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1827506/000182750625000027/trml-20241231.htm#:~:text=Obesity,Life Sciences,"Tourmaline Bio, Inc.",1827506
 2025-03-04,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1513525/000121390025019771/ea0232194-10k_adial.htm#:~:text=Obesity,Life Sciences,"ADIAL PHARMACEUTICALS, INC.",1513525

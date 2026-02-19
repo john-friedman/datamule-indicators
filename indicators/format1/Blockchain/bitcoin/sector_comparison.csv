@@ -1,24 +1,24 @@
 ownerOrg,period,count,component
-Crypto Assets,0,58,adoption_domestic
-Crypto Assets,1,74,adoption_domestic
-Energy & Transportation,0,8,adoption_domestic
-Energy & Transportation,1,8,adoption_domestic
-Finance,0,15,adoption_domestic
-Finance,1,14,adoption_domestic
+Crypto Assets,0,54,adoption_domestic
+Crypto Assets,1,78,adoption_domestic
+Energy & Transportation,0,6,adoption_domestic
+Energy & Transportation,1,10,adoption_domestic
+Finance,0,14,adoption_domestic
+Finance,1,15,adoption_domestic
 Industrial Applications and Services,0,6,adoption_domestic
 Industrial Applications and Services,1,7,adoption_domestic
 Life Sciences,0,11,adoption_domestic
-Life Sciences,1,15,adoption_domestic
+Life Sciences,1,14,adoption_domestic
 Manufacturing,0,8,adoption_domestic
-Manufacturing,1,10,adoption_domestic
+Manufacturing,1,9,adoption_domestic
 Office of Structured Finance,0,410,adoption_domestic
 Office of Structured Finance,1,428,adoption_domestic
 Real Estate & Construction,0,13,adoption_domestic
 Real Estate & Construction,1,15,adoption_domestic
 Technology,0,19,adoption_domestic
 Technology,1,24,adoption_domestic
-Trade & Services,0,15,adoption_domestic
-Trade & Services,1,19,adoption_domestic
+Trade & Services,0,14,adoption_domestic
+Trade & Services,1,20,adoption_domestic
 Crypto Assets,0,59,holdings_domestic
 Crypto Assets,1,71,holdings_domestic
 Energy & Transportation,1,1,holdings_domestic
@@ -32,20 +32,20 @@ Manufacturing,1,10,holdings_domestic
 Real Estate & Construction,0,5,holdings_domestic
 Real Estate & Construction,1,2,holdings_domestic
 Technology,0,6,holdings_domestic
-Technology,1,14,holdings_domestic
+Technology,1,13,holdings_domestic
 Trade & Services,0,2,holdings_domestic
 Trade & Services,1,5,holdings_domestic
 Crypto Assets,0,36,mining_domestic
 Crypto Assets,1,46,mining_domestic
-Energy & Transportation,0,112,mining_domestic
-Energy & Transportation,1,160,mining_domestic
+Energy & Transportation,0,104,mining_domestic
+Energy & Transportation,1,165,mining_domestic
 Finance,0,6,mining_domestic
 Finance,1,6,mining_domestic
-Industrial Applications and Services,0,16,mining_domestic
-Industrial Applications and Services,1,18,mining_domestic
+Industrial Applications and Services,0,15,mining_domestic
+Industrial Applications and Services,1,19,mining_domestic
 Life Sciences,0,2,mining_domestic
-Manufacturing,0,21,mining_domestic
-Manufacturing,1,20,mining_domestic
+Manufacturing,0,20,mining_domestic
+Manufacturing,1,21,mining_domestic
 Real Estate & Construction,0,9,mining_domestic
 Real Estate & Construction,1,15,mining_domestic
 Technology,0,16,mining_domestic

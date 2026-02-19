@@ -1,5 +1,4 @@
 filing_date,component,url,ownerOrg,name,cik
-2025-02-19,general_domestic,https://www.sec.gov/Archives/edgar/data/1515673/000095017025023312/rare-ex10_89.htm#:~:text=Large%20Language%20Models,Life Sciences,Ultragenyx Pharmaceutical Inc.,1515673
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/35527/000003552725000079/a2024annualreport.pdf#:~:text=Large%20Language%20Models,Finance,FIFTH THIRD BANCORP,35527
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/903651/000141057825000194/inod-20241231x10k.htm#:~:text=Large%20Language%20Models,Technology,INNODATA INC,903651
 2025-02-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1717115/000095017025025603/tem-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Tempus AI, Inc.",1717115
@@ -39,7 +38,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,general_domestic,https://www.sec.gov/Archives/edgar/data/1325964/000107997325000420/lwlg_10k-123124.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,"Lightwave Logic, Inc.",1325964
 2025-03-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1052354/000095017025043325/ck0001052354-20241231.htm#:~:text=Large%20Language%20Models,Crypto Assets,MAN AHL DIVERSIFIED I LP,1052354
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/81018/000008101825000004/psco-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,PUBLIC SERVICE CO OF COLORADO,81018
-2025-02-19,general_domestic,https://www.sec.gov/Archives/edgar/data/1764046/000176404625000011/clvt-20241231.htm#:~:text=Large%20Language%20Models,Technology,CLARIVATE PLC,1764046
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1123852/000112385225000005/nspm-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,NORTHERN STATES POWER CO,1123852
 2025-03-10,general_domestic,https://www.sec.gov/Archives/edgar/data/320121/000032012125000011/tls-20241231.htm#:~:text=Large%20Language%20Models,Technology,TELOS CORP,320121
 2025-02-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1459200/000145920025000004/alrm-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Alarm.com Holdings, Inc.",1459200
@@ -52,7 +50,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1371285/000137128525000052/trup-20241231.htm#:~:text=Large%20Language%20Models,Finance,"TRUPANION, INC.",1371285
 2025-02-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1275014/000162828025007865/uctt-20241227xexx23hisme.htm#:~:text=Large%20Language%20Models,Manufacturing,"Ultra Clean Holdings, Inc.",1275014
 2025-03-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Large%20Language%20Models,Trade & Services,TON Strategy Co,1566610
-2025-02-19,general_domestic,https://www.sec.gov/Archives/edgar/data/1441683/000144168325000017/appn-20241231.htm#:~:text=Large%20Language%20Models,Technology,APPIAN CORP,1441683
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1173489/000143774925005523/ceva20241231_10k.htm#:~:text=Large%20Language%20Models,Technology,CEVA INC,1173489
 2025-02-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1442145/000143774925005160/vrsk20241231_10k.htm#:~:text=Large%20Language%20Models,Technology,"Verisk Analytics, Inc.",1442145
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1172052/000117205225000006/saft-20241231x10k.htm#:~:text=Large%20Language%20Models,Finance,SAFETY INSURANCE GROUP INC,1172052
@@ -88,7 +85,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1579684/000157968425000007/gci-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,"USA TODAY Co., Inc.",1579684
 2025-02-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm#:~:text=Large%20Language%20Models,Crypto Assets,Cipher Mining Inc.,1819989
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/818479/000081847925000035/xray-20241231.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,DENTSPLY SIRONA Inc.,818479
-2025-02-19,general_domestic,https://www.sec.gov/Archives/edgar/data/1370637/000137063725000017/etsy-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,ETSY INC,1370637
 2025-03-12,general_domestic,https://www.sec.gov/Archives/edgar/data/2025410/000095017025037939/saro-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,"StandardAero, Inc.",2025410
 2025-02-27,general_domestic,https://www.sec.gov/Archives/edgar/data/72903/000007290325000029/xel-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,XCEL ENERGY INC,72903
 2025-03-07,general_domestic,https://www.sec.gov/Archives/edgar/data/1454938/000145493825000020/outbrain-20241231.htm#:~:text=Large%20Language%20Models,Technology,Teads Holding Co.,1454938
@@ -157,7 +153,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,google_domestic,https://www.sec.gov/Archives/edgar/data/1820144/000182014425000013/grnd-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,Grindr Inc.,1820144
 2025-02-28,google_domestic,https://www.sec.gov/Archives/edgar/data/1562088/000156208825000042/duol-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Duolingo, Inc.",1562088
 2025-02-24,google_domestic,https://www.sec.gov/Archives/edgar/data/903651/000141057825000194/inod-20241231x10k.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,INNODATA INC,903651
-2025-02-19,google_domestic,https://www.sec.gov/Archives/edgar/data/1370637/000137063725000017/etsy-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Trade & Services,ETSY INC,1370637
 2025-02-27,google_domestic,https://www.sec.gov/Archives/edgar/data/1538379/000162828025008240/ibta-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Trade & Services,"Ibotta, Inc.",1538379
 2025-02-27,google_domestic,https://www.sec.gov/Archives/edgar/data/1828016/000182801625000011/playtika-20241231.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,Playtika Holding Corp.,1828016
 2025-03-26,google_domestic,https://www.sec.gov/Archives/edgar/data/1886894/000164117225000784/form10-k.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Snail, Inc.",1886894
