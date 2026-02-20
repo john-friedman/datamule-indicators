@@ -1,97 +1,97 @@
 ownerOrg,period,count,component
 Crypto Assets,0,1,diversity_domestic
-Crypto Assets,1,8,diversity_domestic
-Energy & Transportation,0,46,diversity_domestic
-Energy & Transportation,1,186,diversity_domestic
-Finance,0,71,diversity_domestic
-Finance,1,147,diversity_domestic
-Industrial Applications and Services,0,35,diversity_domestic
-Industrial Applications and Services,1,107,diversity_domestic
+Crypto Assets,1,7,diversity_domestic
+Energy & Transportation,0,40,diversity_domestic
+Energy & Transportation,1,170,diversity_domestic
+Finance,0,67,diversity_domestic
+Finance,1,143,diversity_domestic
+Industrial Applications and Services,0,31,diversity_domestic
+Industrial Applications and Services,1,104,diversity_domestic
 Life Sciences,0,61,diversity_domestic
-Life Sciences,1,123,diversity_domestic
-Manufacturing,0,37,diversity_domestic
-Manufacturing,1,136,diversity_domestic
-Real Estate & Construction,0,29,diversity_domestic
-Real Estate & Construction,1,85,diversity_domestic
-Technology,0,32,diversity_domestic
-Technology,1,130,diversity_domestic
-Trade & Services,0,29,diversity_domestic
-Trade & Services,1,162,diversity_domestic
-Crypto Assets,0,13,equity_domestic
-Crypto Assets,1,18,equity_domestic
-Energy & Transportation,0,78,equity_domestic
-Energy & Transportation,1,189,equity_domestic
-Finance,0,152,equity_domestic
-Finance,1,178,equity_domestic
-Industrial Applications and Services,0,92,equity_domestic
-Industrial Applications and Services,1,184,equity_domestic
-Life Sciences,0,139,equity_domestic
-Life Sciences,1,218,equity_domestic
-Manufacturing,0,81,equity_domestic
-Manufacturing,1,232,equity_domestic
-Real Estate & Construction,0,93,equity_domestic
-Real Estate & Construction,1,240,equity_domestic
-Technology,0,101,equity_domestic
+Life Sciences,1,121,diversity_domestic
+Manufacturing,0,28,diversity_domestic
+Manufacturing,1,139,diversity_domestic
+Real Estate & Construction,0,25,diversity_domestic
+Real Estate & Construction,1,81,diversity_domestic
+Technology,0,28,diversity_domestic
+Technology,1,129,diversity_domestic
+Trade & Services,0,25,diversity_domestic
+Trade & Services,1,161,diversity_domestic
+Crypto Assets,0,12,equity_domestic
+Crypto Assets,1,17,equity_domestic
+Energy & Transportation,0,70,equity_domestic
+Energy & Transportation,1,174,equity_domestic
+Finance,0,144,equity_domestic
+Finance,1,181,equity_domestic
+Industrial Applications and Services,0,86,equity_domestic
+Industrial Applications and Services,1,182,equity_domestic
+Life Sciences,0,135,equity_domestic
+Life Sciences,1,217,equity_domestic
+Manufacturing,0,72,equity_domestic
+Manufacturing,1,235,equity_domestic
+Real Estate & Construction,0,88,equity_domestic
+Real Estate & Construction,1,242,equity_domestic
+Technology,0,94,equity_domestic
 Technology,1,206,equity_domestic
-Trade & Services,0,117,equity_domestic
-Trade & Services,1,243,equity_domestic
-Crypto Assets,0,4,inclusion_domestic
-Crypto Assets,1,10,inclusion_domestic
-Energy & Transportation,0,52,inclusion_domestic
-Energy & Transportation,1,128,inclusion_domestic
-Finance,0,115,inclusion_domestic
-Finance,1,161,inclusion_domestic
-Industrial Applications and Services,0,51,inclusion_domestic
-Industrial Applications and Services,1,101,inclusion_domestic
-Life Sciences,0,46,inclusion_domestic
-Life Sciences,1,74,inclusion_domestic
-Manufacturing,0,60,inclusion_domestic
-Manufacturing,1,143,inclusion_domestic
-Real Estate & Construction,0,34,inclusion_domestic
-Real Estate & Construction,1,75,inclusion_domestic
-Technology,0,67,inclusion_domestic
-Technology,1,157,inclusion_domestic
-Trade & Services,0,79,inclusion_domestic
-Trade & Services,1,176,inclusion_domestic
+Trade & Services,0,110,equity_domestic
+Trade & Services,1,247,equity_domestic
+Crypto Assets,0,2,inclusion_domestic
+Crypto Assets,1,11,inclusion_domestic
+Energy & Transportation,0,46,inclusion_domestic
+Energy & Transportation,1,122,inclusion_domestic
+Finance,0,110,inclusion_domestic
+Finance,1,162,inclusion_domestic
+Industrial Applications and Services,0,49,inclusion_domestic
+Industrial Applications and Services,1,99,inclusion_domestic
+Life Sciences,0,44,inclusion_domestic
+Life Sciences,1,73,inclusion_domestic
+Manufacturing,0,57,inclusion_domestic
+Manufacturing,1,141,inclusion_domestic
+Real Estate & Construction,0,31,inclusion_domestic
+Real Estate & Construction,1,74,inclusion_domestic
+Technology,0,58,inclusion_domestic
+Technology,1,164,inclusion_domestic
+Trade & Services,0,73,inclusion_domestic
+Trade & Services,1,177,inclusion_domestic
 Crypto Assets,1,3,diversity_international
-Energy & Transportation,0,12,diversity_international
-Energy & Transportation,1,24,diversity_international
-Finance,0,16,diversity_international
-Finance,1,28,diversity_international
+Energy & Transportation,0,10,diversity_international
+Energy & Transportation,1,26,diversity_international
+Finance,0,13,diversity_international
+Finance,1,30,diversity_international
 Industrial Applications and Services,0,7,diversity_international
 Industrial Applications and Services,1,8,diversity_international
 Life Sciences,0,5,diversity_international
-Life Sciences,1,21,diversity_international
+Life Sciences,1,20,diversity_international
 Manufacturing,0,9,diversity_international
 Manufacturing,1,32,diversity_international
 Real Estate & Construction,0,3,diversity_international
 Real Estate & Construction,1,4,diversity_international
 Technology,0,5,diversity_international
 Technology,1,20,diversity_international
-Trade & Services,0,3,diversity_international
-Trade & Services,1,13,diversity_international
+Trade & Services,0,2,diversity_international
+Trade & Services,1,14,diversity_international
 Crypto Assets,1,4,equity_international
-Energy & Transportation,0,13,equity_international
-Energy & Transportation,1,36,equity_international
-Finance,0,11,equity_international
+Energy & Transportation,0,11,equity_international
+Energy & Transportation,1,38,equity_international
+Finance,0,9,equity_international
 Finance,1,28,equity_international
-Industrial Applications and Services,0,15,equity_international
-Industrial Applications and Services,1,20,equity_international
+Industrial Applications and Services,0,14,equity_international
+Industrial Applications and Services,1,21,equity_international
 Life Sciences,0,12,equity_international
-Life Sciences,1,37,equity_international
+Life Sciences,1,36,equity_international
 Manufacturing,0,17,equity_international
 Manufacturing,1,48,equity_international
 Real Estate & Construction,0,1,equity_international
 Real Estate & Construction,1,5,equity_international
 Technology,0,25,equity_international
 Technology,1,54,equity_international
-Trade & Services,0,7,equity_international
-Trade & Services,1,30,equity_international
+Trade & Services,0,6,equity_international
+Trade & Services,1,31,equity_international
 Crypto Assets,1,1,inclusion_international
-Energy & Transportation,0,8,inclusion_international
-Energy & Transportation,1,21,inclusion_international
-Finance,0,10,inclusion_international
-Finance,1,15,inclusion_international
+Energy & Transportation,0,6,inclusion_international
+Energy & Transportation,1,23,inclusion_international
+Finance,0,8,inclusion_international
+Finance,1,16,inclusion_international
 Industrial Applications and Services,0,6,inclusion_international
 Industrial Applications and Services,1,7,inclusion_international
 Life Sciences,0,2,inclusion_international
@@ -102,5 +102,4 @@ Real Estate & Construction,0,1,inclusion_international
 Real Estate & Construction,1,3,inclusion_international
 Technology,0,8,inclusion_international
 Technology,1,17,inclusion_international
-Trade & Services,0,1,inclusion_international
-Trade & Services,1,10,inclusion_international
+Trade & Services,1,11,inclusion_international
