@@ -1,36 +1,36 @@
 ownerOrg,period,count,component
 Crypto Assets,0,9,domestic
-Crypto Assets,1,17,domestic
-Energy & Transportation,0,41,domestic
-Energy & Transportation,1,97,domestic
-Finance,0,144,domestic
-Finance,1,209,domestic
-Industrial Applications and Services,0,83,domestic
+Crypto Assets,1,16,domestic
+Energy & Transportation,0,40,domestic
+Energy & Transportation,1,94,domestic
+Finance,0,137,domestic
+Finance,1,206,domestic
+Industrial Applications and Services,0,81,domestic
 Industrial Applications and Services,1,157,domestic
-Life Sciences,0,160,domestic
-Life Sciences,1,228,domestic
-Manufacturing,0,106,domestic
-Manufacturing,1,304,domestic
-Real Estate & Construction,0,123,domestic
-Real Estate & Construction,1,263,domestic
-Technology,0,85,domestic
-Technology,1,173,domestic
-Trade & Services,0,153,domestic
-Trade & Services,1,349,domestic
+Life Sciences,0,157,domestic
+Life Sciences,1,227,domestic
+Manufacturing,0,97,domestic
+Manufacturing,1,306,domestic
+Real Estate & Construction,0,109,domestic
+Real Estate & Construction,1,258,domestic
+Technology,0,83,domestic
+Technology,1,168,domestic
+Trade & Services,0,142,domestic
+Trade & Services,1,345,domestic
 Crypto Assets,1,5,international
 Energy & Transportation,0,7,international
 Energy & Transportation,1,35,international
-Finance,0,10,international
+Finance,0,9,international
 Finance,1,30,international
-Industrial Applications and Services,0,11,international
-Industrial Applications and Services,1,19,international
+Industrial Applications and Services,0,10,international
+Industrial Applications and Services,1,20,international
 Life Sciences,0,5,international
 Life Sciences,1,17,international
-Manufacturing,0,17,international
-Manufacturing,1,77,international
+Manufacturing,0,16,international
+Manufacturing,1,76,international
 Real Estate & Construction,0,4,international
 Real Estate & Construction,1,18,international
 Technology,0,14,international
-Technology,1,56,international
+Technology,1,55,international
 Trade & Services,0,9,international
 Trade & Services,1,64,international

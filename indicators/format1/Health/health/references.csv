@@ -11,7 +11,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1721484/000095017025029968/lgvn-20241231.htm#:~:text=Alzheimer,Life Sciences,Longeveron Inc.,1721484
 2025-02-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1521036/000162828025007970/lnth-20241231.htm#:~:text=Alzheimer,Life Sciences,"Lantheus Holdings, Inc.",1521036
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1593773/000147793225001401/kgnr_10k.htm#:~:text=Alzheimer,Technology,AMJ Global Technology,1593773
-2025-02-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1567514/000162828025006993/itci-20241231.htm#:~:text=Alzheimer,Life Sciences,"Intra-Cellular Therapies, Inc.",1567514
 2025-03-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1907108/000095017025043486/lxeo-20241231.htm#:~:text=Alzheimer,Life Sciences,"Lexeo Therapeutics, Inc.",1907108
 2025-03-13,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1784440/000118518525000176/notr10k311224.htm#:~:text=Alzheimer,Technology,"BioScience Health Innovations, Inc.",1784440
 2025-03-20,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1455365/000155837025003341/cgtx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,COGNITION THERAPEUTICS INC,1455365
@@ -77,7 +76,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/896262/000089626225000018/amed-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,AMEDISYS INC,896262
 2025-03-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1290476/000155837025003706/vbfc-20241231x10k.htm#:~:text=Alzheimer,Finance,Village Bank & Trust Financial Corp.,1290476
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/946644/000164117225000847/form10-k.htm#:~:text=Alzheimer,Life Sciences,AIM ImmunoTech Inc.,946644
-2025-02-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=Alzheimer,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
 2025-03-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1750155/000175015525000006/cweb-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Charlotte's Web Holdings, Inc.",1750155
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=Alzheimer,Life Sciences,Aptose Biosciences Inc.,882361
 2025-03-13,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1832332/000095017025038504/avah-20241228.htm#:~:text=Alzheimer,Industrial Applications and Services,"Aveanna Healthcare Holdings, Inc.",1832332
@@ -132,7 +130,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711786/000101376225004108/ea0233805-10k_hoth.htm#:~:text=Obesity,Life Sciences,"Hoth Therapeutics, Inc.",1711786
 2025-03-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1870940/000187094025000008/airs-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"Airsculpt Technologies, Inc.",1870940
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=Obesity,Life Sciences,Biohaven Ltd.,1935979
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1377121/000155837025001317/ptgx-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Protagonist Therapeutics, Inc",1377121
 2025-03-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=Obesity,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm#:~:text=Obesity,Manufacturing,Monster Beverage Corp,865752
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1638097/000117891325001112/zk2532895.htm#:~:text=Obesity,Life Sciences,Entera Bio Ltd.,1638097
@@ -153,7 +150,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Obesity,Life Sciences,"Tenaya Therapeutics, Inc.",1858848
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1661181/000095017025029137/orgo-20241231.htm#:~:text=Obesity,Life Sciences,Organogenesis Holdings Inc.,1661181
 2025-03-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1735438/000155837025002867/mgtx-20241231x10k.htm#:~:text=Obesity,Life Sciences,MeiraGTx Holdings plc,1735438
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1145197/000114519725000007/podd-20241231.htm#:~:text=Obesity,Industrial Applications and Services,INSULET CORP,1145197
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1158895/000143774925005637/lmat20241231_10k.htm#:~:text=Obesity,Industrial Applications and Services,LEMAITRE VASCULAR INC,1158895
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/celh-20241231.htm#:~:text=Obesity,Manufacturing,"Celsius Holdings, Inc.",1341766
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1195734/000119573425000029/pbpb-20241229.htm#:~:text=Obesity,Trade & Services,POTBELLY CORP,1195734
@@ -164,7 +160,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1531978/000155837025002386/fna-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,"Paragon 28, Inc.",1531978
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1484565/000095017025029545/slno-20241231.htm#:~:text=Obesity,Life Sciences,SOLENO THERAPEUTICS INC,1484565
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1400118/000155837025002747/sgmt-20241231x10k.htm#:~:text=Obesity,Life Sciences,Sagimet Biosciences Inc.,1400118
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1567514/000162828025006993/itci-20241231.htm#:~:text=Obesity,Life Sciences,"Intra-Cellular Therapies, Inc.",1567514
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1006281/000155837025003039/plx-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Protalix BioTherapeutics, Inc.",1006281
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1891101/000189110125000006/brcc-20241231.htm#:~:text=Obesity,Manufacturing,BRC Inc.,1891101
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/2011514/000114036125008455/ef20043984_10k.htm#:~:text=Obesity,Industrial Applications and Services,Anteris Technologies Global Corp.,2011514
@@ -202,24 +197,19 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1471824/000143774925006324/tags20241231_10k.htm#:~:text=Obesity,Crypto Assets,Teucrium Commodity Trust,1471824
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1176309/000101376225003450/ea0234394-10k_oramed.htm#:~:text=Obesity,Life Sciences,ORAMED PHARMACEUTICALS INC.,1176309
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/784199/000078419925000029/aort-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"ARTIVION, INC.",784199
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/30697/000003069725000003/wen-20241229.htm#:~:text=Obesity,Trade & Services,Wendy's Co,30697
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1136869/000095017025026604/zbh-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"ZIMMER BIOMET HOLDINGS, INC.",1136869
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1438133/000143813325000036/tndm-20241231.htm#:~:text=Obesity,Industrial Applications and Services,TANDEM DIABETES CARE INC,1438133
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1401040/000143774925008018/dmtp20241231_10k.htm#:~:text=Obesity,Life Sciences,DiaMedica Therapeutics Inc.,1401040
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1560293/000101376225002734/ea0234739-10k_tenon.htm#:~:text=Obesity,Industrial Applications and Services,"Tenon Medical, Inc.",1560293
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1620533/000162053325000016/shak-20241225.htm#:~:text=Obesity,Trade & Services,Shake Shack Inc.,1620533
 2025-03-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/49754/000162828025010259/din-20241231.htm#:~:text=Obesity,Trade & Services,"Dine Brands Global, Inc.",49754
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1799011/000164117225000205/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,Lucid Diagnostics Inc.,1799011
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1618756/000161875625000087/qsr-20241231.htm#:~:text=Obesity,Trade & Services,Restaurant Brands International Inc.,1618756
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1624326/000164117225000364/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,PAVmed Inc.,1624326
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/884624/000095017025026066/ofix-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Orthofix Medical Inc.,884624
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1810560/000095017025034584/revb-20241231.htm#:~:text=Obesity,Life Sciences,"REVELATION BIOSCIENCES, INC.",1810560
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1870144/000107997325000428/cdio_10k-123124.htm#:~:text=Obesity,Life Sciences,"Cardio Diagnostics Holdings, Inc.",1870144
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1618755/000161875525000010/qsr-20241231.htm#:~:text=Obesity,Trade & Services,Restaurant Brands International Limited Partnership,1618755
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1863127/000095017025046124/tyra-20241231.htm#:~:text=Obesity,Life Sciences,"Tyra Biosciences, Inc.",1863127
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1484612/000095017025030045/om-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"Outset Medical, Inc.",1484612
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1341235/000095017025030102/aldx-20241231.htm#:~:text=Obesity,Life Sciences,"Aldeyra Therapeutics, Inc.",1341235
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm#:~:text=Obesity,Life Sciences,"Moderna, Inc.",1682852
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=Obesity,Life Sciences,CDT Equity Inc.,1896212
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1133869/000155837025003707/capr-20241231x10k.htm#:~:text=Obesity,Life Sciences,"CAPRICOR THERAPEUTICS, INC.",1133869
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1930313/000164117225001062/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,SBC Medical Group Holdings Inc,1930313
@@ -230,7 +220,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1665988/000162828025011831/bvs-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Bioventus Inc.,1665988
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1434868/000162828025011154/espr-20241231.htm#:~:text=Obesity,Life Sciences,"Esperion Therapeutics, Inc.",1434868
 2025-03-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1372299/000162828025010271/ocgn-20241231.htm#:~:text=Obesity,Life Sciences,"Ocugen, Inc.",1372299
-2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1438533/000143853325000010/tvtx-20241231.htm#:~:text=Obesity,Life Sciences,"Travere Therapeutics, Inc.",1438533
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1607962/000117891325000736/zk2532799.htm#:~:text=Obesity,Industrial Applications and Services,Lifeward Ltd.,1607962
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1396814/000139681425000041/pcrx-20241231.htm#:~:text=Obesity,Life Sciences,"Pacira BioSciences, Inc.",1396814
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1814974/000143774925008868/bbxi20241231_10k.htm#:~:text=Obesity,Trade & Services,"BBX Capital, Inc.",1814974
@@ -277,8 +266,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=PTSD,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-06,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1909747/000162828025010947/jush-20241231.htm#:~:text=PTSD,Life Sciences,Jushi Holdings Inc.,1909747
 2025-03-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=PTSD,Crypto Assets,TAO Synergies Inc.,1571934
-2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=PTSD,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
-2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1070985/000095017025024745/cxw-20241231.htm#:~:text=PTSD,Real Estate & Construction,"CoreCivic, Inc.",1070985
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1776738/000177673825000003/cbstf-20241231.htm#:~:text=PTSD,Industrial Applications and Services,Cannabist Co Holdings Inc.,1776738
 2025-03-04,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1771706/000155837025002130/vreof-20241231x10k.htm#:~:text=PTSD,Life Sciences,Vireo Growth Inc.,1771706
 2025-03-17,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=PTSD,Life Sciences,Atai Beckley N.V.,1840904
@@ -311,7 +298,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,nash_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,GSK plc,1131399
 2025-02-26,nash_international,https://www.sec.gov/Archives/edgar/data/1512717/000119312525035910/d857007d20f.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Theratechnologies Inc.,1512717
 2025-03-17,nash_international,https://www.sec.gov/Archives/edgar/data/1889109/000141057825000356/blte-20241231x20f.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"BELITE BIO, INC",1889109
-2025-02-21,nash_international,https://www.sec.gov/Archives/edgar/data/1060955/000106095525000016/iclr-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,ICON PLC,1060955
 2025-03-21,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-10,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002523/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
