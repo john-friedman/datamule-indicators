@@ -3,31 +3,31 @@ Crypto Assets,0,2,alzheimer_domestic
 Crypto Assets,1,3,alzheimer_domestic
 Energy & Transportation,1,1,alzheimer_domestic
 Finance,0,3,alzheimer_domestic
-Finance,1,4,alzheimer_domestic
+Finance,1,3,alzheimer_domestic
 Industrial Applications and Services,0,19,alzheimer_domestic
 Industrial Applications and Services,1,29,alzheimer_domestic
 Life Sciences,0,68,alzheimer_domestic
-Life Sciences,1,114,alzheimer_domestic
+Life Sciences,1,113,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,7,alzheimer_domestic
 Real Estate & Construction,1,21,alzheimer_domestic
 Technology,0,2,alzheimer_domestic
 Technology,1,7,alzheimer_domestic
 Trade & Services,0,4,alzheimer_domestic
-Trade & Services,1,6,alzheimer_domestic
+Trade & Services,1,4,alzheimer_domestic
 Crypto Assets,0,1,obesity_domestic
 Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,32,obesity_domestic
-Industrial Applications and Services,1,55,obesity_domestic
+Industrial Applications and Services,1,52,obesity_domestic
 Life Sciences,0,76,obesity_domestic
-Life Sciences,1,103,obesity_domestic
+Life Sciences,1,101,obesity_domestic
 Manufacturing,0,9,obesity_domestic
 Manufacturing,1,25,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
 Technology,1,2,obesity_domestic
 Trade & Services,0,9,obesity_domestic
-Trade & Services,1,35,obesity_domestic
+Trade & Services,1,34,obesity_domestic
 Crypto Assets,1,1,nash_domestic
 Industrial Applications and Services,0,2,nash_domestic
 Industrial Applications and Services,1,4,nash_domestic
@@ -60,7 +60,7 @@ Finance,1,2,obesity_international
 Industrial Applications and Services,0,8,obesity_international
 Industrial Applications and Services,1,9,obesity_international
 Life Sciences,0,5,obesity_international
-Life Sciences,1,24,obesity_international
+Life Sciences,1,23,obesity_international
 Manufacturing,0,5,obesity_international
 Manufacturing,1,6,obesity_international
 Technology,1,2,obesity_international
