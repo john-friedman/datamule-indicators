@@ -1,8 +1,8 @@
 ownerOrg,period,count,component
 Crypto Assets,0,1,power_domestic
 Crypto Assets,1,2,power_domestic
-Energy & Transportation,0,57,power_domestic
-Energy & Transportation,1,100,power_domestic
+Energy & Transportation,0,49,power_domestic
+Energy & Transportation,1,108,power_domestic
 Finance,0,1,power_domestic
 Finance,1,1,power_domestic
 Industrial Applications and Services,0,6,power_domestic
@@ -12,12 +12,12 @@ Life Sciences,1,6,power_domestic
 Manufacturing,0,8,power_domestic
 Manufacturing,1,23,power_domestic
 Real Estate & Construction,1,5,power_domestic
-Technology,0,4,power_domestic
-Technology,1,9,power_domestic
+Technology,0,3,power_domestic
+Technology,1,10,power_domestic
 Trade & Services,0,2,power_domestic
 Trade & Services,1,8,power_domestic
-Energy & Transportation,0,49,fuel_domestic
-Energy & Transportation,1,101,fuel_domestic
+Energy & Transportation,0,41,fuel_domestic
+Energy & Transportation,1,109,fuel_domestic
 Finance,0,2,fuel_domestic
 Finance,1,2,fuel_domestic
 Industrial Applications and Services,0,4,fuel_domestic
@@ -25,24 +25,23 @@ Industrial Applications and Services,1,7,fuel_domestic
 Manufacturing,0,1,fuel_domestic
 Manufacturing,1,2,fuel_domestic
 Real Estate & Construction,1,1,fuel_domestic
-Technology,0,1,fuel_domestic
-Technology,1,2,fuel_domestic
+Technology,1,3,fuel_domestic
 Trade & Services,0,1,fuel_domestic
 Energy & Transportation,0,1,technology_domestic
 Energy & Transportation,1,2,technology_domestic
 Industrial Applications and Services,0,21,technology_domestic
 Industrial Applications and Services,1,44,technology_domestic
-Life Sciences,0,74,technology_domestic
-Life Sciences,1,121,technology_domestic
+Life Sciences,0,72,technology_domestic
+Life Sciences,1,123,technology_domestic
 Manufacturing,0,3,technology_domestic
 Manufacturing,1,5,technology_domestic
 Real Estate & Construction,0,1,technology_domestic
 Real Estate & Construction,1,3,technology_domestic
-Technology,0,2,technology_domestic
-Technology,1,4,technology_domestic
+Technology,0,1,technology_domestic
+Technology,1,5,technology_domestic
 Trade & Services,1,4,technology_domestic
-Energy & Transportation,0,43,services_domestic
-Energy & Transportation,1,86,services_domestic
+Energy & Transportation,0,35,services_domestic
+Energy & Transportation,1,94,services_domestic
 Finance,0,2,services_domestic
 Finance,1,1,services_domestic
 Industrial Applications and Services,0,3,services_domestic
@@ -50,13 +49,11 @@ Industrial Applications and Services,1,5,services_domestic
 Manufacturing,0,2,services_domestic
 Manufacturing,1,9,services_domestic
 Real Estate & Construction,1,3,services_domestic
-Technology,0,1,services_domestic
-Technology,1,3,services_domestic
+Technology,1,4,services_domestic
 Trade & Services,1,1,services_domestic
-Energy & Transportation,0,50,regulation_domestic
-Energy & Transportation,1,87,regulation_domestic
-Finance,0,1,regulation_domestic
-Finance,1,2,regulation_domestic
+Energy & Transportation,0,42,regulation_domestic
+Energy & Transportation,1,95,regulation_domestic
+Finance,1,3,regulation_domestic
 Industrial Applications and Services,0,7,regulation_domestic
 Industrial Applications and Services,1,17,regulation_domestic
 Life Sciences,0,6,regulation_domestic
@@ -64,8 +61,8 @@ Life Sciences,1,5,regulation_domestic
 Manufacturing,0,1,regulation_domestic
 Manufacturing,1,6,regulation_domestic
 Real Estate & Construction,1,3,regulation_domestic
-Technology,0,2,regulation_domestic
-Technology,1,3,regulation_domestic
+Technology,0,1,regulation_domestic
+Technology,1,4,regulation_domestic
 Trade & Services,0,2,regulation_domestic
 Trade & Services,1,4,regulation_domestic
 Crypto Assets,1,1,fusion_domestic
@@ -78,8 +75,8 @@ Manufacturing,1,3,fusion_domestic
 Technology,0,1,fusion_domestic
 Technology,1,2,fusion_domestic
 Trade & Services,1,1,fusion_domestic
-Energy & Transportation,0,43,risk_domestic
-Energy & Transportation,1,76,risk_domestic
+Energy & Transportation,0,35,risk_domestic
+Energy & Transportation,1,84,risk_domestic
 Finance,0,2,risk_domestic
 Finance,1,1,risk_domestic
 Industrial Applications and Services,0,4,risk_domestic
@@ -88,8 +85,7 @@ Manufacturing,0,1,risk_domestic
 Manufacturing,1,3,risk_domestic
 Real Estate & Construction,0,1,risk_domestic
 Real Estate & Construction,1,2,risk_domestic
-Technology,0,1,risk_domestic
-Technology,1,4,risk_domestic
+Technology,1,5,risk_domestic
 Trade & Services,1,1,risk_domestic
 Crypto Assets,1,1,research_domestic
 Energy & Transportation,0,1,research_domestic

@@ -67,7 +67,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1803737/000180373725000049/ehab-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Enhabit, Inc.",1803737
 2025-03-05,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1141103/000162828025010519/ccrn-20241231.htm#:~:text=Alzheimer,Trade & Services,CROSS COUNTRY HEALTHCARE INC,1141103
 2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Alzheimer,Trade & Services,TON Strategy Co,1566610
-2025-02-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/887905/000155837025001395/ltc-20241231x10k.htm#:~:text=Alzheimer,Real Estate & Construction,LTC PROPERTIES INC,887905
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1505497/000164117225001011/form10-k.htm#:~:text=Alzheimer,Industrial Applications and Services,"BioRestorative Therapies, Inc.",1505497
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1043000/000104300025000010/snda-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"SONIDA SENIOR LIVING, INC.",1043000
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1909747/000162828025010947/jush-20241231.htm#:~:text=Alzheimer,Life Sciences,Jushi Holdings Inc.,1909747
@@ -189,7 +188,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1289340/000149315225010352/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"Stereotaxis, Inc.",1289340
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1418135/000141813525000013/kdp-20241231.htm#:~:text=Obesity,Manufacturing,Keurig Dr Pepper Inc.,1418135
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1606366/000160636625000008/loco-20241225x10k.htm#:~:text=Obesity,Trade & Services,"El Pollo Loco Holdings, Inc.",1606366
-2025-02-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1286681/000095017025025223/dpz-20241229.htm#:~:text=Obesity,Trade & Services,DOMINOS PIZZA INC,1286681
 2025-03-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,Solana Co,1610853
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=Obesity,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"LifeMD, Inc.",948320
