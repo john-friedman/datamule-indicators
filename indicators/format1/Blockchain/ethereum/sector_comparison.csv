@@ -1,10 +1,10 @@
 ownerOrg,period,count,component
-Crypto Assets,0,45,adoption_domestic
-Crypto Assets,1,46,adoption_domestic
+Crypto Assets,0,43,adoption_domestic
+Crypto Assets,1,48,adoption_domestic
 Energy & Transportation,0,2,adoption_domestic
 Energy & Transportation,1,1,adoption_domestic
-Finance,0,3,adoption_domestic
-Finance,1,8,adoption_domestic
+Finance,0,2,adoption_domestic
+Finance,1,9,adoption_domestic
 Industrial Applications and Services,0,5,adoption_domestic
 Industrial Applications and Services,1,5,adoption_domestic
 Life Sciences,0,2,adoption_domestic
