@@ -1,10 +1,8 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-07,ai_domestic,https://www.sec.gov/Archives/edgar/data/827187/000082718725000018/snbr-20241228.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Manufacturing,Sleep Number Corp,827187
 2025-03-04,ai_domestic,https://www.sec.gov/Archives/edgar/data/1487428/000143774925006114/hrzn20241231_10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,,Horizon Technology Finance Corp,1487428
-2025-02-27,ai_domestic,https://www.sec.gov/Archives/edgar/data/1816590/000162828025008412/cmps-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,COMPASS Pathways plc,1816590
 2025-03-06,ai_domestic,https://www.sec.gov/Archives/edgar/data/1314102/000095017025034601/eypt-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"EyePoint, Inc.",1314102
 2025-03-17,ai_domestic,https://www.sec.gov/Archives/edgar/data/1840904/000095017025040244/atai-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,Atai Beckley N.V.,1840904
-2025-02-28,ai_domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
 2025-03-25,ai_domestic,https://www.sec.gov/Archives/edgar/data/1674632/000095017025044516/bbnx-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Industrial Applications and Services,"Beta Bionics, Inc.",1674632
 2025-03-10,ai_domestic,https://www.sec.gov/Archives/edgar/data/1858848/000095017025036329/tnya-20241231.htm#:~:text=Health%20Research%20Artificial%20Intelligence,Life Sciences,"Tenaya Therapeutics, Inc.",1858848
 2025-03-03,ai_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Health%20Research%20%20Artificial%20Intelligence,Life Sciences,GSK plc,1131399
@@ -12,7 +10,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1211583/000155837025003710/fencf-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,FENNEC PHARMACEUTICALS INC.,1211583
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1398733/000162828025010506/aqst-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aquestive Therapeutics, Inc.",1398733
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1108205/000110820525000031/cris-20241231.htm#:~:text=orphan%20drug,Life Sciences,CURIS INC,1108205
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1070081/000107008125000012/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"PTC THERAPEUTICS, INC.",1070081
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1553643/000101376225003426/ea0229064-10k_relmada.htm#:~:text=orphan%20drug,Life Sciences,"RELMADA THERAPEUTICS, INC.",1553643
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1729427/000168316825002139/cns_i10k-123124.htm#:~:text=orphan%20drug,Life Sciences,"CNS Pharmaceuticals, Inc.",1729427
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1789769/000178976925000017/til-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Instil Bio, Inc.",1789769
@@ -24,17 +21,11 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1527599/000095017025034820/sybx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SYNLOGIC, INC.",1527599
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1907108/000095017025043486/lxeo-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Lexeo Therapeutics, Inc.",1907108
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1798749/000155837025003750/avte-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Jade Biosciences, Inc.",1798749
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/749647/000149315225008460/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Imunon, Inc.",749647
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1034842/000155837025002169/rigl-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,RIGEL PHARMACEUTICALS INC,1034842
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1564824/000095017025037933/allk-20241231.htm#:~:text=orphan%20drug,Life Sciences,Allakos Inc.,1564824
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1359931/000121390025020368/ea0231646-10k_protara.htm#:~:text=orphan%20drug,Life Sciences,"Protara Therapeutics, Inc.",1359931
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1818794/000095017025028356/dyn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Dyne Therapeutics, Inc.",1818794
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1789972/000095017025028346/cgem-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Cullinan Therapeutics, Inc.",1789972
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1867096/000186709625000039/xers-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Xeris Biopharma Holdings, Inc.",1867096
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1479615/000095017025029129/sln-20241231.htm#:~:text=orphan%20drug,Life Sciences,Silence Therapeutics plc,1479615
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1454789/000141057825000309/atxs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Astria Therapeutics, Inc.",1454789
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1861560/000095017025028328/nuvl-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Nuvalent, Inc.",1861560
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/886744/000095017025027982/gern-20241231.htm#:~:text=orphan%20drug,Life Sciences,GERON CORP,886744
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1528115/000095017025030849/annx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Annexon, Inc.",1528115
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1563665/000143774925010213/hrgn20241231_10k.htm#:~:text=orphan%20drug,Industrial Applications and Services,"Harvard Apparatus Regenerative Technology, Inc.",1563665
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1623526/000095017025041170/stok-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Stoke Therapeutics, Inc.",1623526
@@ -73,23 +64,18 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/894158/000141057825000285/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Theriva Biologics, Inc.",894158
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1699382/000095017025030414/pmvp-20241231.htm#:~:text=orphan%20drug,Life Sciences,"PMV Pharmaceuticals, Inc.",1699382
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1595097/000095017025037335/crbp-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Corbus Pharmaceuticals Holdings, Inc.",1595097
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1662579/000162828025008433/cccc-20241231.htm#:~:text=orphan%20drug,Life Sciences,"C4 Therapeutics, Inc.",1662579
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1768446/000095017025044350/clym-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Climb Bio, Inc.",1768446
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1526119/000155837025003372/vstm-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Verastem, Inc.",1526119
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1658247/000095017025029050/crnx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Crinetics Pharmaceuticals, Inc.",1658247
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1501989/000095017025034575/ctmx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"CytomX Therapeutics, Inc.",1501989
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1496323/000095017025034597/igms-20241231.htm#:~:text=orphan%20drug,Life Sciences,"IGM Biosciences, Inc.",1496323
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1645666/000164566625000010/kzr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Kezar Life Sciences, Inc.",1645666
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1771910/000162828025015131/adc-20241231.htm#:~:text=orphan%20drug,Life Sciences,ADC Therapeutics SA,1771910
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1636651/000162828025011844/ovid-20241231.htm#:~:text=orphan%20drug,Life Sciences,Ovid Therapeutics Inc.,1636651
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1590560/000155837025001699/qure-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,uniQure N.V.,1590560
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1782223/000095017025040771/pyxs-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Pyxis Oncology, Inc.",1782223
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1873835/000164117225000387/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Immix Biopharma, Inc.",1873835
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1710072/000155837025002006/ewtx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Edgewise Therapeutics, Inc.",1710072
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1583648/000095017025047212/pvla-20241231.htm#:~:text=orphan%20drug,Life Sciences,"PALVELLA THERAPEUTICS, INC.",1583648
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1774857/000095017025047835/aard_10k_20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aardvark Therapeutics, Inc.",1774857
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1840574/000095017025028376/verv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Verve Therapeutics, Inc.",1840574
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/873303/000095017025029973/srpt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Sarepta Therapeutics, Inc.",873303
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1422142/000162828025015269/aadi-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Whitehawk Therapeutics, Inc.",1422142
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1133869/000155837025003707/capr-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"CAPRICOR THERAPEUTICS, INC.",1133869
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1012477/000101247725000010/avdl-20241231.htm#:~:text=orphan%20drug,Life Sciences,AVADEL PHARMACEUTICALS PLC,1012477
@@ -98,7 +84,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1840229/000095017025041379/inkt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"MiNK Therapeutics, Inc.",1840229
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1863127/000095017025046124/tyra-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Tyra Biosciences, Inc.",1863127
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1661998/000095017025036823/qttb-20241231.htm#:~:text=orphan%20drug,Life Sciences,Q32 Bio Inc.,1661998
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1652130/000095017025029007/ntla-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Intellia Therapeutics, Inc.",1652130
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1472012/000155837025003302/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Immunome Inc.,1472012
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1739410/000173941025000040/rlyb-20241231.htm#:~:text=orphan%20drug,Life Sciences,Rallybio Corp,1739410
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1810182/000095017025034761/alxo-20241231.htm#:~:text=orphan%20drug,Life Sciences,ALX ONCOLOGY HOLDINGS INC,1810182
@@ -106,9 +91,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1621227/000155837025003544/adap-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Adaptimmune Therapeutics PLC,1621227
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1678660/000095017025035921/prld-20241231.htm#:~:text=orphan%20drug,Life Sciences,Prelude Therapeutics Inc,1678660
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1785530/000178553025000008/howl-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Werewolf Therapeutics, Inc.",1785530
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/744218/000141057825000216/cldx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Celldex Therapeutics, Inc.",744218
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1739174/000101376225002283/ea0234724-10k_biomx.htm#:~:text=orphan%20drug,Life Sciences,BiomX Inc.,1739174
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1786205/000095017025029150/aclx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Arcellx, Inc.",1786205
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/318306/000149315225010978/form10-k.htm#:~:text=orphan%20drug,Life Sciences,ABEONA THERAPEUTICS INC.,318306
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1735438/000155837025002867/mgtx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,MeiraGTx Holdings plc,1735438
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1720893/000155837025003985/btai-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"BioXcel Therapeutics, Inc.",1720893
@@ -116,12 +99,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1604464/000095017025035507/atra-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Atara Biotherapeutics, Inc.",1604464
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1783032/000155837025002397/elev-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Elevation Oncology, Inc.",1783032
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1840748/000155837025003988/lvtx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,LAVA Therapeutics NV,1840748
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1492422/000095017025029507/apls-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Apellis Pharmaceuticals, Inc.",1492422
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1133818/000155837025003837/bpth-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"BIO-PATH HOLDINGS, INC.",1133818
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1650648/000095017025030056/fdmt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"4D Molecular Therapeutics, Inc.",1650648
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1722964/000155837025002105/ymab-20241231xex10d42.htm#:~:text=orphan%20drug,Life Sciences,"Y-mAbs Therapeutics, Inc.",1722964
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1750149/000095017025046096/ikt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Inhibikase Therapeutics, Inc.",1750149
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/887359/000162828025008447/vcel-20241231.htm#:~:text=orphan%20drug,Life Sciences,Vericel Corp,887359
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1759138/000095017025047201/caba-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Cabaletta Bio, Inc.",1759138
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1787400/000095017025045262/nktx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Nkarta, Inc.",1787400
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1672619/000095017025038758/elvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Enliven Therapeutics, Inc.",1672619
@@ -138,9 +118,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1736730/000173673025000022/camp-20241231.htm#:~:text=orphan%20drug,Life Sciences,Camp4 Therapeutics Corp,1736730
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1835022/000095017025040782/coya-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Coya Therapeutics, Inc.",1835022
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1827087/000095017025038329/vigl-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Vigil Neuroscience, Inc.",1827087
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1816736/000095017025028390/iron-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Disc Medicine, Inc.",1816736
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1671502/000141057825000336/qnrx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Quoin Pharmaceuticals, Ltd.",1671502
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1819133/000095017025028353/tngx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Tango Therapeutics, Inc.",1819133
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1374690/000095017025043925/lrmr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Larimar Therapeutics, Inc.",1374690
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1662774/000166277425000012/qncx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Quince Therapeutics, Inc.",1662774
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/876343/000095017025036309/lctx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Lineage Cell Therapeutics, Inc.",876343
@@ -149,27 +127,19 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1808865/000095017025033066/itos-20241231.htm#:~:text=orphan%20drug,Life Sciences,"iTeos Therapeutics, Inc.",1808865
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1703647/000095017025040759/krro-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Korro Bio, Inc.",1703647
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1619856/000161985625000015/crbu-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Caribou Biosciences, Inc.",1619856
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1649904/000155837025001889/rytm-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"RHYTHM PHARMACEUTICALS, INC.",1649904
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1559053/000155905325000009/prta-20241231.htm#:~:text=orphan%20drug,Life Sciences,PROTHENA CORP PUBLIC LTD CO,1559053
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1807120/000095017025035910/dsgn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Design Therapeutics, Inc.",1807120
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1828185/000182818525000021/brns-20241231.htm#:~:text=orphan%20drug,Life Sciences,Barinthus Biotherapeutics plc.,1828185
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/34956/000095017025044398/tennx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"TENAX THERAPEUTICS, INC.",34956
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1714899/000171489925000066/dnli-20241231.htm#:~:text=orphan%20drug,Life Sciences,Denali Therapeutics Inc.,1714899
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1001316/000143774925005908/tgtx20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"TG THERAPEUTICS, INC.",1001316
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1840233/000155837025002640/xlo-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Xilio Therapeutics, Inc.",1840233
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1727196/000155837025001682/srrk-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Scholar Rock Holding Corp,1727196
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1855175/000143774925006458/cont20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"Contineum Therapeutics, Inc.",1855175
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000021/ebs-20241231.htm#:~:text=orphan%20drug,Life Sciences,Emergent BioSolutions Inc.,1367644
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1888886/000155837025001826/gpcr-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Structure Therapeutics Inc.,1888886
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/791908/000155837025003131/xoma-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,XOMA Royalty Corp,791908
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1601830/000160183025000035/rxrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"RECURSION PHARMACEUTICALS, INC.",1601830
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000037/flks-20241231.htm#:~:text=orphan%20drug,Life Sciences,Decoy Therapeutics Inc.,1615219
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1781174/000095017025046056/acrv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Acrivon Therapeutics, Inc.",1781174
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1626971/000155837025003621/crvs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Corvus Pharmaceuticals, Inc.",1626971
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1680048/000155837025003913/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"MUSTANG BIO, INC.",1680048
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1228627/000114036125011410/ef20039022_10k.htm#:~:text=orphan%20drug,Life Sciences,"Opus Genetics, Inc.",1228627
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1599901/000159990125000059/rna-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Avidity Biosciences, Inc.",1599901
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1831828/000095017025029969/vera-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Vera Therapeutics, Inc.",1831828
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1811063/000095017025034903/nuvb-20241231.htm#:~:text=orphan%20drug,Life Sciences,Nuvation Bio Inc.,1811063
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1701541/000170154125000016/bdtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Black Diamond Therapeutics, Inc.",1701541
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1446847/000155837025004072/irwd-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,IRONWOOD PHARMACEUTICALS INC,1446847
@@ -179,7 +149,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1795091/000121390025026238/ea0235597-10k_ostherap.htm#:~:text=orphan%20drug,Life Sciences,OS Therapies Inc,1795091
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1720580/000095017025034587/acet-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Adicet Bio, Inc.",1720580
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817241/000095017025043837/artv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Artiva Biotherapeutics, Inc.",1817241
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1689548/000168954825000040/prax-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Praxis Precision Medicines, Inc.",1689548
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1659617/000143774925008751/mbrx20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"Moleculin Biotech, Inc.",1659617
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1800315/000095017025041981/glto-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Galecto, Inc.",1800315
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1761918/000095017025042682/eras-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Erasca, Inc.",1761918
@@ -188,7 +157,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1681087/000095017025042648/tecx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Tectonic Therapeutic, Inc.",1681087
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=orphan%20drug,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1937653/000193765325000014/zyme-20241231.htm#:~:text=orphan%20drug,Life Sciences,Zymeworks Inc.,1937653
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/320017/000032001725000011/lsta-20241231.htm#:~:text=orphan%20drug,Life Sciences,"LISATA THERAPEUTICS, INC.",320017
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1719714/000095017025044787/mreo-20241231.htm#:~:text=orphan%20drug,Life Sciences,Mereo BioPharma Group plc,1719714
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1679628/000164117225001261/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"JUPITER NEUROSCIENCES, INC.",1679628
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1737287/000173728725000036/allo-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Allogene Therapeutics, Inc.",1737287
@@ -199,27 +167,21 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1042418/000164117225001190/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Inhibitor Therapeutics, Inc.",1042418
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1501796/000095017025043943/aura-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aura Biosciences, Inc.",1501796
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1880438/000095017025044366/antx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"AN2 Therapeutics, Inc.",1880438
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1281895/000095017025029002/rckt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ROCKET PHARMACEUTICALS, INC.",1281895
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1819411/000155837025003823/ganx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Gain Therapeutics, Inc.",1819411
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1689375/000168937525000011/trda-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Entrada Therapeutics, Inc.",1689375
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1285819/000143774925010216/omer20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,OMEROS CORP,1285819
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1638097/000117891325001112/zk2532895.htm#:~:text=orphan%20drug,Life Sciences,Entera Bio Ltd.,1638097
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1829802/000095017025046338/snse-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Sensei Biotherapeutics, Inc.",1829802
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1601485/000160148525000049/angn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Elicio Therapeutics, Inc.",1601485
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/2023658/000202365825000012/bcax-20241231.htm#:~:text=orphan%20drug,Life Sciences,Bicara Therapeutics Inc.,2023658
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1422143/000095017025029975/kura-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Kura Oncology, Inc.",1422143
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1755237/000095017025032037/cycn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Cyclerion Therapeutics, Inc.",1755237
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1053691/000143774925007829/crvo20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,CervoMed Inc.,1053691
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1760542/000155837025001853/hook-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,HOOKIPA Pharma Inc.,1760542
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/2007919/000200791925000019/inbx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Inhibrx Biosciences, Inc.",2007919
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000155837025004165/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1652935/000168316825001581/actuate_i10k-123124.htm#:~:text=orphan%20drug,Life Sciences,"ACTUATE THERAPEUTICS, INC.",1652935
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1341235/000095017025030102/aldx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aldeyra Therapeutics, Inc.",1341235
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1390478/000139047825000003/sls-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SELLAS Life Sciences Group, Inc.",1390478
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1847903/000184790325000051/cnta-20241231.htm#:~:text=orphan%20drug,Life Sciences,Centessa Pharmaceuticals plc,1847903
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1434316/000095017025033510/fate-20241231.htm#:~:text=orphan%20drug,Life Sciences,FATE THERAPEUTICS INC,1434316
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1835579/000095017025034188/ikna-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ImageneBio, Inc.",1835579
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1894562/000162828025008884/prme-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Prime Medicine, Inc.",1894562
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1539029/000095017025046134/clsd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Clearside Biomedical, Inc.",1539029
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1785279/000095017025040217/mgx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Metagenomi, Inc.",1785279
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,Biohaven Ltd.,1935979
@@ -230,42 +192,34 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1673772/000095017025034185/rapt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"RAPT Therapeutics, Inc.",1673772
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1728117/000172811725000021/goss-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Gossamer Bio, Inc.",1728117
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1609809/000095017025038427/mcrb-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Seres Therapeutics, Inc.",1609809
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1651311/000095017025029024/mrus-20241231.htm#:~:text=orphan%20drug,Life Sciences,Merus N.V.,1651311
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1831363/000095017025042695/tern-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Terns Pharmaceuticals, Inc.",1831363
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1472091/000114036125010717/ef20039023_10k.htm#:~:text=orphan%20drug,Life Sciences,PDS Biotechnology Corp,1472091
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1787740/000095017025043234/tivc-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,"Tivic Health Systems, Inc.",1787740
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1818382/000181838225000034/huma-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Humacyte, Inc.",1818382
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1087294/000162828025011366/cpix-20241231.htm#:~:text=orphan%20drug,Life Sciences,CUMBERLAND PHARMACEUTICALS INC,1087294
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1082038/000095017025046209/drrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,DURECT CORP,1082038
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1851194/000095017025029245/vtyx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Ventyx Biosciences, Inc.",1851194
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1426800/000095017025042673/asmb-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ASSEMBLY BIOSCIENCES, INC.",1426800
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1006281/000155837025003039/plx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Protalix BioTherapeutics, Inc.",1006281
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=orphan%20drug,Life Sciences,"GRI Bio, Inc.",1824293
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1293971/000129397125000009/blue-20241231.htm#:~:text=orphan%20drug,Life Sciences,"bluebird bio, Inc.",1293971
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1706431/000162828025008245/vir-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Vir Biotechnology, Inc.",1706431
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1501697/000162828025014805/xfor-20241231.htm#:~:text=orphan%20drug,Life Sciences,"X4 Pharmaceuticals, Inc",1501697
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1072379/000141057825000598/nwbo-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,NORTHWEST BIOTHERAPEUTICS INC,1072379
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1824893/000095017025047712/srzn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Surrozen, Inc./DE",1824893
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/921114/000155837025003406/armp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Armata Pharmaceuticals, Inc.",921114
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1425205/000155837025001834/iova-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"IOVANCE BIOTHERAPEUTICS, INC.",1425205
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1770121/000095017025040254/sana-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Sana Biotechnology, Inc.",1770121
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1641281/000095017025043873/bolt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Bolt Biotherapeutics, Inc.",1641281
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1638287/000155837025003386/mtva-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,MetaVia Inc.,1638287
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1788028/000121390025018384/ea0231788-10k_jasper.htm#:~:text=orphan%20drug,Life Sciences,"Jasper Therapeutics, Inc.",1788028
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817229/000095017025042623/vor-20241231.htm#:~:text=orphan%20drug,Life Sciences,Vor Biopharma Inc.,1817229
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/2022416/000117891325000887/zk2532833.htm#:~:text=orphan%20drug,Life Sciences,Silexion Therapeutics Corp,2022416
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1826457/000095017025042344/glue-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Monte Rosa Therapeutics, Inc.",1826457
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1657312/000165731225000010/vrna-20241231.htm#:~:text=orphan%20drug,Life Sciences,Verona Pharma plc,1657312
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1827506/000182750625000027/trml-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Tourmaline Bio, Inc.",1827506
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1453687/000145368725000060/rnac-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Cartesian Therapeutics, Inc.",1453687
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1815442/000095017025028355/kymr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Kymera Therapeutics, Inc.",1815442
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1799448/000095017025035929/algs-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aligos Therapeutics, Inc.",1799448
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1783328/000095017025033077/tcrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"TScan Therapeutics, Inc.",1783328
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1590877/000095017025038770/rgnx-20241231.htm#:~:text=orphan%20drug,Life Sciences,REGENXBIO Inc.,1590877
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/728387/000095017025045242/catx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Perspective Therapeutics, Inc.",728387
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1062822/000106282225000013/lxrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"LEXICON PHARMACEUTICALS, INC.",1062822
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/886163/000088616325000012/lgnd-20241231.htm#:~:text=orphan%20drug,Life Sciences,LIGAND PHARMACEUTICALS INC,886163
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1776111/000095017025039838/mbx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"MBX Biosciences, Inc.",1776111
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1445283/000095017025034880/kant-20241231.htm#:~:text=orphan%20drug,Life Sciences,"KINETA, INC./DE",1445283
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1360214/000164117225000925/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"HARROW, INC.",1360214
@@ -277,7 +231,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1463361/000095017025035564/ubx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Unity Biotechnology, Inc.",1463361
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1878313/000095017025043190/maia-20241231.htm#:~:text=orphan%20drug,Life Sciences,"MAIA Biotechnology, Inc.",1878313
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1372514/000137251425000012/kprx-20241231.htm#:~:text=orphan%20drug,Life Sciences,KIORA PHARMACEUTICALS INC,1372514
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1401667/000143774925005496/pbyi20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"PUMA BIOTECHNOLOGY, INC.",1401667
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1835268/000183526825000014/cntb-20241231.htm#:~:text=orphan%20drug,Life Sciences,Connect Biopharma Holdings Ltd,1835268
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1842939/000095017025047891/xage-ex19_1.htm#:~:text=orphan%20drug,Industrial Applications and Services,"Longevity Health Holdings, Inc.",1842939
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1374339/000155837025004068/pmn-20241231xex19d1.htm#:~:text=orphan%20drug,Life Sciences,ProMIS Neurosciences Inc.,1374339
@@ -285,9 +238,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=orphan%20drug,Life Sciences,CDT Equity Inc.,1896212
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1806952/000162828025011978/lyel-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Lyell Immunopharma, Inc.",1806952
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1098972/000095017025040289/agen-20241231.htm#:~:text=orphan%20drug,Life Sciences,AGENUS INC,1098972
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1326190/000132619025000015/alt-20241231xex19.htm#:~:text=orphan%20drug,Life Sciences,"Altimmune, Inc.",1326190
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1583107/000155837025002447/tbph-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Theravance Biopharma, Inc.",1583107
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1484565/000095017025029545/slno-20241231.htm#:~:text=orphan%20drug,Life Sciences,SOLENO THERAPEUTICS INC,1484565
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1672688/000162828025013464/absi-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,Absci Corp,1672688
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1429260/000155837025004160/fbio-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Fortress Biotech, Inc.",1429260
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1477845/000155837025003482/anvs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Annovis Bio, Inc.",1477845
@@ -303,10 +254,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1984086/000095017025045745/sepn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Septerna, Inc.",1984086
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1962918/000196291825000022/slrn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ACELYRIN, Inc.",1962918
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=orphan%20drug,Life Sciences,"Silo Pharma, Inc.",1514183
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1721484/000095017025029968/lgvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,Longeveron Inc.,1721484
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1494650/000149465025000064/optn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"OptiNose, Inc.",1494650
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1326732/000132673225000029/xncr-20241231.htm#:~:text=orphan%20drug,Life Sciences,Xencor Inc,1326732
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1816590/000162828025008412/cmps-20241231.htm#:~:text=orphan%20drug,Life Sciences,COMPASS Pathways plc,1816590
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1124105/000095017025040279/gyre-20241231.htm#:~:text=orphan%20drug,Life Sciences,"GYRE THERAPEUTICS, INC.",1124105
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/832489/000143774925009614/govx20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"GeoVax Labs, Inc.",832489
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=orphan%20drug,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
@@ -315,7 +263,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1644963/000143774925010196/atxi20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"AVENUE THERAPEUTICS, INC.",1644963
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1725160/000172516025000067/zntl-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Zentalis Pharmaceuticals, Inc.",1725160
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1651407/000141057825000528/ckpt-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Checkpoint Therapeutics, Inc.",1651407
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1636282/000163628225000020/syre-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Spyre Therapeutics, Inc.",1636282
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1865494/000095017025047744/iobt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"IO Biotech, Inc.",1865494
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1014763/000149315225009568/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Ainos, Inc.",1014763
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1750284/000095017025041204/olma-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Olema Pharmaceuticals, Inc.",1750284
@@ -325,11 +272,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1187953/000147793225001736/celz_10k.htm#:~:text=orphan%20drug,Life Sciences,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",1187953
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1576885/000157688525000049/abos-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Acumen Pharmaceuticals, Inc.",1576885
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1512762/000155837025003126/chrs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Coherus Oncology, Inc.",1512762
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817713/000095017025029177/janx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Janux Therapeutics, Inc.",1817713
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1400118/000155837025002747/sgmt-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Sagimet Biosciences Inc.,1400118
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1585608/000095017025047184/jagx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Jaguar Health, Inc.",1585608
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1174940/000149315225010389/form10-k.htm#:~:text=orphan%20drug,Life Sciences,ORAGENICS INC,1174940
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1023024/000102302425000015/anip-20241231.htm#:~:text=orphan%20drug,Life Sciences,ANI PHARMACEUTICALS INC,1023024
 2025-03-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1850119/000155837025003299/ipsc-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Century Therapeutics, Inc.",1850119
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1567892/000156789225000010/mnk-20241227.htm#:~:text=orphan%20drug,Life Sciences,Keenova Therapeutics plc,1567892
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1563577/000095017025047798/grtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Galera Therapeutics, Inc.",1563577
@@ -338,7 +283,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1855485/000164117225001810/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Calidi Biotherapeutics, Inc.",1855485
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1833214/000095017025046994/sabs-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SAB Biotherapeutics, Inc.",1833214
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1796129/000119312525065487/d789305d10k.htm#:~:text=orphan%20drug,Life Sciences,"Vincerx Pharma, Inc.",1796129
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1557746/000155837025001819/acrs-20241231xex10d26.htm#:~:text=orphan%20drug,Life Sciences,"Aclaris Therapeutics, Inc.",1557746
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/799698/000164117225001038/form10-k.htm#:~:text=orphan%20drug,Life Sciences,LadRx Corp,799698
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1766140/000121390025025828/ea0235049-10k_unicycive.htm#:~:text=orphan%20drug,Life Sciences,"Unicycive Therapeutics, Inc.",1766140
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=orphan%20drug,Life Sciences,Aptose Biosciences Inc.,882361
@@ -350,12 +294,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1125345/000112534525000042/mgnx-20241231.htm#:~:text=orphan%20drug,Life Sciences,MACROGENICS INC,1125345
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1117480/000111748025000004/cmrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,CHIMERIX INC,1117480
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1509745/000141057825000454/lptx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,CYPHERPUNK TECHNOLOGIES INC.,1509745
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=orphan%20drug,Life Sciences,BeOne Medicines Ltd.,1651308
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1468748/000095017025046098/kod-20241231.htm#:~:text=orphan%20drug,Life Sciences,Kodiak Sciences Inc.,1468748
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1582313/000095017025029149/xene-20241231.htm#:~:text=orphan%20drug,Life Sciences,Xenon Pharmaceuticals Inc.,1582313
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1610618/000161061825000017/cdtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Cidara Therapeutics, Inc.",1610618
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1738021/000117184325001106/cmpx20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"Compass Therapeutics, Inc.",1738021
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1061983/000095017025029206/cytk-20241231.htm#:~:text=orphan%20drug,Life Sciences,CYTOKINETICS INC,1061983
 2025-03-06,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1813814/000095017025034176/mnmd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Definium Therapeutics, Inc.",1813814
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1855644/000141057825000443/zura-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Zura Bio Ltd,1855644
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1708331/000173112225000316/e6385_10k.htm#:~:text=orphan%20drug,Life Sciences,"Virpax Pharmaceuticals, Inc.",1708331
@@ -365,7 +305,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1178253/000095017025038044/scyx-20241231.htm#:~:text=orphan%20drug,Life Sciences,SCYNEXIS INC,1178253
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1857044/000149315225010136/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Indaptus Therapeutics, Inc.",1857044
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1868279/000155837025001999/avbp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"ArriVent BioPharma, Inc.",1868279
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1070494/000095017025029253/acad-20241231.htm#:~:text=orphan%20drug,Life Sciences,ACADIA PHARMACEUTICALS INC,1070494
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/925741/000143774925009397/bcda20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"BioCardia, Inc.",925741
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1829247/000149315225010367/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"BullFrog AI Holdings, Inc.",1829247
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1782303/000095017025045725/bold-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Boundless Bio, Inc.",1782303
@@ -386,28 +325,21 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1403708/000095017025038712/evok-20241231.htm#:~:text=orphan%20drug,Life Sciences,Evoke Pharma Inc,1403708
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/748592/000149315225010051/form10-k.htm#:~:text=orphan%20drug,Life Sciences,Ernexa Therapeutics Inc.,748592
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1712762/000164117225001840/form10-k.htm#:~:text=orphan%20drug,Industrial Applications and Services,"bioAffinity Technologies, Inc.",1712762
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1370053/000137005325000024/anab-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ANAPTYSBIO, INC",1370053
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1831868/000095017025046200/icu-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,SeaStar Medical Holding Corp,1831868
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/882095/000088209525000006/gild-20241231.htm#:~:text=orphan%20drug,Life Sciences,"GILEAD SCIENCES, INC.",882095
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1840563/000101376225003553/ea0234665-10k_pmgchold.htm#:~:text=orphan%20drug,Life Sciences,PMGC Holdings Inc.,1840563
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1923840/000095017025045736/thrd-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Third Harmonic Bio, Inc.",1923840
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1741830/000174183025000009/kron-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Kronos Bio, Inc.",1741830
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1736243/000155837025003117/acxp-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Acurx Pharmaceuticals, Inc.",1736243
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1709941/000095017025042759/bioa-20241231.htm#:~:text=orphan%20drug,Life Sciences,"BioAge Labs, Inc.",1709941
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1704292/000162828025008409/zlab-20241231.htm#:~:text=orphan%20drug,Life Sciences,Zai Lab Ltd,1704292
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=orphan%20drug,Life Sciences,"LeonaBio, Inc.",1620463
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1455365/000155837025003341/cgtx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,COGNITION THERAPEUTICS INC,1455365
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1703057/000162828025008689/abcl-20241231.htm#:~:text=orphan%20drug,Life Sciences,AbCellera Biologics Inc.,1703057
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/944809/000143774925005811/opk20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,"OPKO HEALTH, INC.",944809
 2025-03-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1991792/000095017025046351/ck0001991792-20241231.htm#:~:text=orphan%20drug,Life Sciences,"CG Oncology, Inc.",1991792
-2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1744659/000095017025029514/akro-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Akero Therapeutics, Inc.",1744659
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1625297/000162529725000016/indv-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Indivior Pharmaceuticals, Inc.",1625297
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1393434/000155837025002000/ocul-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"OCULAR THERAPEUTIX, INC",1393434
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1677940/000117184325001758/bysi20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,BeyondSpring Inc.,1677940
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1572616/000095017025030807/guts-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,"FRACTYL HEALTH, INC.",1572616
 2025-03-20,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1708688/000121390025025292/ea0234504-20f_inflarxnv.htm#:~:text=orphan%20drug,Life Sciences,InflaRx N.V.,1708688
 2025-03-14,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1627281/000095017025039038/clls-20241231.htm#:~:text=orphan%20drug,Life Sciences,Cellectis S.A.,1627281
-2025-02-27,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1855129/000114036125006175/ef20039003_20f.htm#:~:text=orphan%20drug,Life Sciences,GH Research PLC,1855129
 2025-03-11,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1953530/000095017025037224/ocs-20241231.htm#:~:text=orphan%20drug,Life Sciences,Oculis Holding AG,1953530
 2025-03-27,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1809196/000095017025045724/imtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,Immatics N.V.,1809196
 2025-03-05,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1567529/000121390025020360/ea0230605-20f_kamada.htm#:~:text=orphan%20drug,Life Sciences,KAMADA LTD,1567529
@@ -431,13 +363,10 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1893645/000121390025022732/ea0232371-20f_polyrizon.htm#:~:text=orphan%20drug,Industrial Applications and Services,Polyrizon Ltd.,1893645
 2025-03-03,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=orphan%20drug,Life Sciences,GSK plc,1131399
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1393772/000109690625000350/budz-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"WEED, INC.",1393772
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1384101/000138410125000014/vcyt-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"VERACYTE, INC.",1384101
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1001233/000162828025013088/sgmo-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"SANGAMO THERAPEUTICS, INC",1001233
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1534120/000162828025013986/ex-2112024listofsubsidiari.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Avalo Therapeutics, Inc.",1534120
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1527753/000095017025029221/psnl-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Personalis, Inc.",1527753
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1763950/000164117225000926/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Lantern Pharma Inc.,1763950
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1054102/000164117225001686/form10-k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"INTERPACE BIOSCIENCES, INC.",1054102
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1604821/000155837025001869/ntra-20241231xex10d210.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Natera, Inc.",1604821
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1726445/000095017025030878/ck0001726445-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Seer, Inc.",1726445
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1785279/000095017025040217/mgx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Metagenomi, Inc.",1785279
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1960262/000101376225004397/ea0234631-10k_ludwig.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"LUDWIG ENTERPRISES, INC.",1960262
@@ -445,61 +374,46 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1650664/000165066425000022/edit-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Editas Medicine, Inc.",1650664
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1699382/000095017025030414/pmvp-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"PMV Pharmaceuticals, Inc.",1699382
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1808158/000095017025030405/rptx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Repare Therapeutics Inc.,1808158
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1808805/000180880525000008/naut-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Nautilus Biotechnology, Inc.",1808805
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1699031/000169903125000041/gral-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"GRAIL, Inc.",1699031
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1411690/000141169025000037/bngo-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Bionano Genomics, Inc.",1411690
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1894562/000162828025008884/prme-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Prime Medicine, Inc.",1894562
 2025-03-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1822462/000162828025010933/fhtx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Foghorn Therapeutics Inc.,1822462
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1833214/000095017025046994/sabs-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"SAB Biotherapeutics, Inc.",1833214
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1446159/000117184325001863/poai20241231_10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Axe Compute Inc.,1446159
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1439725/000095017025030835/bdsx-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,BIODESIX INC,1439725
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1447362/000144736225000031/cstl-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,CASTLE BIOSCIENCES INC,1447362
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1299130/000129913025000061/pacb-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",1299130
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1619856/000161985625000015/crbu-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Caribou Biosciences, Inc.",1619856
 2025-03-24,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1662774/000166277425000012/qncx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Quince Therapeutics, Inc.",1662774
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1807120/000095017025035910/dsgn-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Design Therapeutics, Inc.",1807120
 2025-03-07,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1116463/000111646325000010/osur-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,ORASURE TECHNOLOGIES INC,1116463
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/899923/000089992325000019/mygn-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,MYRIAD GENETICS INC,899923
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1717310/000171731025000002/vll9-20241231.htm#:~:text=genomic&text=genomic%20research,,"Venture Lending & Leasing IX, Inc.",1717310
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1861560/000095017025028328/nuvl-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Nuvalent, Inc.",1861560
 2025-03-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1162194/000095017025036608/lab-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,STANDARD BIOTOOLS INC.,1162194
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1842295/000095017025047208/maze-10k-2024.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Maze Therapeutics, Inc.",1842295
 2025-03-14,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1829247/000149315225010367/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"BullFrog AI Holdings, Inc.",1829247
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1860657/000143774925010198/allr20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Allarity Therapeutics, Inc.",1860657
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1652130/000095017025029007/ntla-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Intellia Therapeutics, Inc.",1652130
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1609809/000095017025038427/mcrb-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Seres Therapeutics, Inc.",1609809
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1674930/000095017025029512/flgt-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Fulgent Genetics, Inc.",1674930
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BeOne Medicines Ltd.,1651308
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1289237/000168316825001583/uspb_i10k-122824.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"U. S. Premium Beef, LLC",1289237
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1601830/000160183025000035/rxrx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"RECURSION PHARMACEUTICALS, INC.",1601830
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1726711/000121390025026256/ea0235549-10k_aditxt.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Aditxt, Inc.",1726711
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1705843/000162828025014139/cbus-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Cibus, Inc.",1705843
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1217234/000121723425000012/cdna-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"CareDx, Inc.",1217234
 2025-03-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1660334/000095017025037172/vrca-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Verrica Pharmaceuticals Inc.,1660334
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1711933/000155837025003124/akya-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Akoya Biosciences, Inc.",1711933
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1781174/000095017025046056/acrv-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Acrivon Therapeutics, Inc.",1781174
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1736730/000173673025000022/camp-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Camp4 Therapeutics Corp,1736730
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1426800/000095017025042673/asmb-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ASSEMBLY BIOSCIENCES, INC.",1426800
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1704292/000162828025008409/zlab-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Zai Lab Ltd,1704292
 2025-03-25,genomic_domestic,https://www.sec.gov/Archives/edgar/data/91388/000009138825000017/smf-20241229.htm#:~:text=genomic&text=genomic%20research,Manufacturing,SMITHFIELD FOODS INC,91388
 2025-03-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/ex10-56.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-25,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1781983/000155837025003588/apre-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Aprea Therapeutics, Inc.",1781983
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/944809/000143774925005811/opk20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"OPKO HEALTH, INC.",944809
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651311/000095017025029024/mrus-ex10_4.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Merus N.V.,1651311
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1535955/000149315225010146/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Lipocine Inc.,1535955
 2025-03-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1703647/000095017025040759/krro-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Korro Bio, Inc.",1703647
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1434316/000095017025033510/fate-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,FATE THERAPEUTICS INC,1434316
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1109354/000095017025030897/brkr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,BRUKER CORP,1109354
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/883107/000199937125003471/solesence_10k-123124.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"SOLESENCE, INC.",883107
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1637715/000095017025036252/okur-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"OnKure Therapeutics, Inc.",1637715
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/851520/000095017025030001/expo-20250103.htm#:~:text=genomic&text=genomic%20research,Trade & Services,EXPONENT INC,851520
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1357874/000095017025044775/dtil-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,PRECISION BIOSCIENCES INC,1357874
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1652935/000168316825001581/actuate_i10k-123124.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ACTUATE THERAPEUTICS, INC.",1652935
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1861657/000164117225000654/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Canton Strategic Holdings, Inc.",1861657
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/105319/000095017025029511/ww-20241228.htm#:~:text=genomic&text=genomic%20research,Trade & Services,"WW INTERNATIONAL, INC.",105319
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1863127/000095017025046124/tyra-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Tyra Biosciences, Inc.",1863127
 2025-03-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/2022416/000117891325000887/zk2532833.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Silexion Therapeutics Corp,2022416
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1831915/000162828025008780/ctkb-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Cytek Biosciences, Inc.",1831915
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1770121/000095017025040254/sana-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Sana Biotechnology, Inc.",1770121
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1790340/000179034025000042/imrx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Immuneering Corp,1790340
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1739410/000173941025000040/rlyb-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Rallybio Corp,1739410
@@ -508,11 +422,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1839285/000121390025026218/ea0233582-10k_healthcare.htm#:~:text=genomic&text=genomic%20research,Technology,"Healthcare Triangle, Inc.",1839285
 2025-03-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1895618/000101376225004271/ea0234668-10k_gaxosai.htm#:~:text=genomic&text=genomic%20research,Technology,GAXOS.AI INC.,1895618
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1693011/000095017025035940/inzy-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Inozyme Pharma, Inc.",1693011
-2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1760542/000155837025001853/hook-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,HOOKIPA Pharma Inc.,1760542
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1603454/000164117225001826/form10-k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Celcuity Inc.,1603454
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/749647/000149315225008460/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Imunon, Inc.",749647
 2025-03-07,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1850902/000095017025035705/tkno-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Alpha Teknova, Inc.",1850902
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1840574/000095017025028376/verv-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Verve Therapeutics, Inc.",1840574
 2025-03-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1395937/000095017025030394/sndx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Syndax Pharmaceuticals Inc,1395937
 2025-03-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1287098/000155837025002721/mxct-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"MAXCYTE, INC.",1287098
@@ -521,20 +432,16 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1768224/000095017025034787/arct-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Arcturus Therapeutics Holdings Inc.,1768224
 2025-03-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1741830/000174183025000009/kron-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Kronos Bio, Inc.",1741830
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1816431/000181643125000014/qsi-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Quantum-Si Inc,1816431
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1582313/000095017025029149/xene-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Xenon Pharmaceuticals Inc.,1582313
 2025-03-11,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1274737/000127473725000019/exdx-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,EXAGEN INC.,1274737
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1095981/000095017025047698/pstv-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"PLUS THERAPEUTICS, INC.",1095981
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/925741/000143774925009397/bcda20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"BioCardia, Inc.",925741
 2025-03-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Aptose Biosciences Inc.,882361
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1678660/000095017025035921/prld-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Prelude Therapeutics Inc,1678660
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1738021/000117184325001106/cmpx20241231_10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Compass Therapeutics, Inc.",1738021
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1839998/000162828025015237/aonc-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"American Oncology Network, Inc.",1839998
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1478320/000095017025030913/adpt-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Adaptive Biotechnologies Corp,1478320
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1787400/000095017025045262/nktx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Nkarta, Inc.",1787400
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1817229/000095017025042623/vor-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Vor Biopharma Inc.,1817229
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1281895/000095017025029002/rckt-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"ROCKET PHARMACEUTICALS, INC.",1281895
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1620463/000095017025029069/atha-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"LeonaBio, Inc.",1620463
 2025-03-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1725160/000172516025000067/zntl-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Zentalis Pharmaceuticals, Inc.",1725160
 2025-03-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1800315/000095017025041981/glto-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Galecto, Inc.",1800315
 2025-03-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1850119/000155837025003299/ipsc-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Century Therapeutics, Inc.",1850119
@@ -543,7 +450,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1501989/000095017025034575/ctmx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"CytomX Therapeutics, Inc.",1501989
 2025-03-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/2023658/000202365825000012/bcax-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Bicara Therapeutics Inc.,2023658
 2025-03-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1593899/000095017025034808/avir-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Atea Pharmaceuticals, Inc.",1593899
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1590560/000155837025001699/qure-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,uniQure N.V.,1590560
 2025-03-19,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,ALUMIS INC.,1847367
 2025-03-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1679628/000164117225001261/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"JUPITER NEUROSCIENCES, INC.",1679628
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1390478/000139047825000003/sls-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"SELLAS Life Sciences Group, Inc.",1390478
@@ -551,11 +457,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1485003/000162828025015673/carm-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Carisma Therapeutics Inc.,1485003
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1601485/000160148525000049/angn-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Elicio Therapeutics, Inc.",1601485
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1761918/000095017025042682/eras-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Erasca, Inc.",1761918
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1689375/000168937525000011/trda-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Entrada Therapeutics, Inc.",1689375
 2025-03-12,genomic_domestic,https://www.sec.gov/Archives/edgar/data/2022626/000095017025037621/upb-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Upstream Bio, Inc.",2022626
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1737287/000173728725000036/allo-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Allogene Therapeutics, Inc.",1737287
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1786205/000095017025029150/aclx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Arcellx, Inc.",1786205
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1425205/000155837025001834/iova-20241231x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"IOVANCE BIOTHERAPEUTICS, INC.",1425205
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1937653/000193765325000014/zyme-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Zymeworks Inc.,1937653
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1442836/000162828025009246/mrsn-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Mersana Therapeutics, Inc.",1442836
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1999480/000199948025000025/alto-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Alto Neuroscience, Inc.",1999480
@@ -578,9 +481,8 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,genomic_international,https://www.sec.gov/Archives/edgar/data/1838716/000164117225001207/form20-f.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Genenta Science S.p.A.,1838716
 2025-03-28,genomic_international,https://www.sec.gov/Archives/edgar/data/1329099/000119312525066199/d853848d20f.htm#:~:text=genomic&text=genomic%20research,Technology,"Baidu, Inc.",1329099
 2025-03-03,genomic_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,GSK plc,1131399
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1554859/000155485925000011/smlr-20241231x10k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"Semler Scientific, Inc.",1554859
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1436229/000149315225010973/form10-k.htm#:~:text=healthcare%20blockchain,Crypto Assets,BTCS Inc.,1436229
-2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1690080/000121390025026273/ea0235286-10k_180life.htm#:~:text=healthcare%20blockchain,Crypto Assets,ETHZilla Corp,1690080
+2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1690080/000121390025026273/ea0235286-10k_180life.htm#:~:text=healthcare%20blockchain,Crypto Assets,FORUM MARKETS Inc,1690080
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1895618/000101376225004271/ea0234668-10k_gaxosai.htm#:~:text=healthcare%20blockchain,Technology,GAXOS.AI INC.,1895618
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1665300/000095017025047919/phun-20241231.htm#:~:text=healthcare%20blockchain,Technology,"Phunware, Inc.",1665300
 2025-03-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1821534/000095017025034884/exod-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Exodus Movement, Inc.",1821534
@@ -595,16 +497,13 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1682149/000141057825000600/dvlt-20241231x10k.htm#:~:text=healthcare%20blockchain,Trade & Services,Datavault AI Inc.,1682149
 2025-03-24,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1901799/000095017025043923/btm-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,Bitcoin Depot Inc.,1901799
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/64463/000164117225001756/form10-k.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Soluna Holdings, Inc",64463
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1044777/000162828025008750/ospn-20241231.htm#:~:text=healthcare%20blockchain,Technology,OneSpan Inc.,1044777
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2006815/000182912625002231/voyageracq_10k.htm#:~:text=healthcare%20blockchain,Life Sciences,Voyager Acquisition Corp./Cayman Islands,2006815
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2014982/000121390025026255/ea0235387-10k_simacq1.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,SIM Acquisition Corp. I,2014982
 2025-03-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1695473/000164117225000512/form10-k.htm#:~:text=healthcare%20blockchain,Life Sciences,"Greater Cannabis Company, Inc.",1695473
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1095565/000143774925005705/hstm20241231_10k.htm#:~:text=healthcare%20blockchain,Technology,HEALTHSTREAM INC,1095565
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1839285/000121390025026218/ea0233582-10k_healthcare.htm#:~:text=healthcare%20blockchain,Technology,"Healthcare Triangle, Inc.",1839285
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/771999/000164117225001576/form10-k.htm#:~:text=healthcare%20blockchain,Manufacturing,"DSS, INC.",771999
 2025-03-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2030763/000164117225000612/form10-k.htm#:~:text=healthcare%20blockchain,Trade & Services,"Wellgistics Health, Inc.",2030763
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1107280/000143774925008527/ovtz20241231c_10k.htm#:~:text=healthcare%20blockchain,Trade & Services,OCULUS INC.,1107280
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1488813/000148881325000013/cubi-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Customers Bancorp, Inc.",1488813
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1692415/000164117225000932/form10-k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"Co-Diagnostics, Inc.",1692415
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2020987/000121390025025559/ea0234427-10k_yhnacq1.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,YHN Acquisition I Ltd,2020987
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2023658/000202365825000012/bcax-20241231.htm#:~:text=healthcare%20blockchain,Life Sciences,Bicara Therapeutics Inc.,2023658
@@ -621,45 +520,29 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000164117225000085/form10-k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
 2025-03-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1946563/000101376225003343/ea0232429-10k_60degrees.htm#:~:text=healthcare%20blockchain,Life Sciences,"60 DEGREES PHARMACEUTICALS, INC.",1946563
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1718939/000171893925000080/idai-20241231.htm#:~:text=healthcare%20blockchain,Technology,T Stamp Inc,1718939
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/318300/000031830025000093/pebo-20241231.htm#:~:text=healthcare%20blockchain,Finance,PEOPLES BANCORP INC,318300
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1930054/000119312525054797/d935128d10k.htm#:~:text=healthcare%20blockchain,,Blackstone Private Equity Strategies Fund L.P.,1930054
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1777319/000164117225001660/form10-k.htm#:~:text=healthcare%20blockchain,Trade & Services,"CISO Global, Inc.",1777319
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/894671/000114036125008828/sec10k123124.htm#:~:text=healthcare%20blockchain,Finance,OHIO VALLEY BANC CORP,894671
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1390777/000139077725000046/bk-20241231_d2.htm#:~:text=healthcare%20blockchain,Finance,Bank of New York Mellon Corp,1390777
 2025-03-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1830081/000101376225001863/ea0234307-10k_rumble.htm#:~:text=healthcare%20blockchain,Technology,Rumble Inc.,1830081
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1915328/000141057825000601/isrlu-20241231x10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Israel Acquisitions Corp,1915328
 2025-03-11,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1841156/000095017025036566/pay-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,"Paymentus Holdings, Inc.",1841156
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1734342/000173434225000023/amtb-20241231.htm#:~:text=healthcare%20blockchain,Finance,Amerant Bancorp Inc.,1734342
 2025-03-13,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1277902/000127790225000043/mvbf-20241231.htm#:~:text=healthcare%20blockchain,Finance,MVB FINANCIAL CORP,1277902
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/314489/000031448925000041/buse-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRST BUSEY CORP /NV/,314489
 2025-03-03,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1108134/000110813425000003/bhlb-20241231.htm#:~:text=healthcare%20blockchain,Finance,Beacon Financial Corp,1108134
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1424929/000142492925000007/foxf-20250103.htm#:~:text=healthcare%20blockchain,Manufacturing,FOX FACTORY HOLDING CORP,1424929
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1622536/000162828025008786/tln-20241231.htm#:~:text=healthcare%20blockchain,Energy & Transportation,Talen Energy Corp,1622536
 2025-03-21,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1884046/000141057825000411/spkl-20241231x10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Spark I Acquisition Corp,1884046
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/946647/000095017025029956/pfc-20241231.htm#:~:text=healthcare%20blockchain,Finance,PREMIER FINANCIAL CORP,946647
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/36377/000155837025001943/fhb-20241231x10k.htm#:~:text=healthcare%20blockchain,Finance,"FIRST HAWAIIAN, INC.",36377
 2025-03-21,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/895447/000095017025043195/scvl-20250201.htm#:~:text=healthcare%20blockchain,Trade & Services,SHOE CARNIVAL INC,895447
 2025-03-11,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/726601/000072660125000013/ccbg-20241231.htm#:~:text=healthcare%20blockchain,Finance,CAPITAL CITY BANK GROUP INC,726601
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/860413/000086041325000022/fibk-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRST INTERSTATE BANCSYSTEM INC,860413
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm#:~:text=healthcare%20blockchain,Finance,GOLDMAN SACHS GROUP INC,886982
 2025-03-11,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/750574/000119312525051574/d889705d10k.htm#:~:text=healthcare%20blockchain,Finance,"AUBURN NATIONAL BANCORPORATION, INC",750574
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1516912/000151691225000064/obnk-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Origin Bancorp, Inc.",1516912
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1102993/000110299325000018/lpsn-20241231.htm#:~:text=healthcare%20blockchain,Technology,LIVEPERSON INC,1102993
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/795800/000164117225000043/form10-k.htm#:~:text=healthcare%20blockchain,Energy & Transportation,NexMetals Mining Corp.,795800
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1527166/000152716625000006/cg-20241231.htm#:~:text=healthcare%20blockchain,Finance,Carlyle Group Inc.,1527166
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1176948/000162828025008665/ares-20241231.htm#:~:text=healthcare%20blockchain,Finance,Ares Management Corp,1176948
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/790359/000114036125006528/ef20039015_10k.htm#:~:text=healthcare%20blockchain,Finance,NBT BANCORP INC,790359
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1814287/000181428725000006/abl-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Abacus Global Management, Inc.",1814287
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/763563/000076356325000058/chmg-20241231.htm#:~:text=healthcare%20blockchain,Finance,CHEMUNG FINANCIAL CORP,763563
 2025-03-17,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1754226/000155837025003120/tmb-20241231x10k.htm#:~:text=healthcare%20blockchain,Finance,"Orange County Bancorp, Inc. /DE/",1754226
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1830043/000095017025030151/bmbl-20241231.htm#:~:text=healthcare%20blockchain,Technology,Bumble Inc.,1830043
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/776901/000077690125000093/indb-20241231.htm#:~:text=healthcare%20blockchain,Finance,INDEPENDENT BANK CORP,776901
 2025-03-07,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/750686/000075068625000044/cac-20241231.htm#:~:text=healthcare%20blockchain,Finance,CAMDEN NATIONAL CORP,750686
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/717806/000095017025039251/fusb-20241231.htm#:~:text=healthcare%20blockchain,Finance,"FIRST US BANCSHARES, INC.",717806
 2025-03-17,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1038773/000155837025003135/smbk-20241231x10k.htm#:~:text=healthcare%20blockchain,Finance,SMARTFINANCIAL INC.,1038773
 2025-03-12,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/740663/000143774925007257/flic20241231_10k.htm#:~:text=healthcare%20blockchain,Finance,FIRST OF LONG ISLAND CORP,740663
 2025-03-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/709337/000095017025034480/fmnb-20241231.htm#:~:text=healthcare%20blockchain,Finance,FARMERS NATIONAL BANC CORP /OH/,709337
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1842566/000165495425002153/airsp_10k.htm#:~:text=healthcare%20blockchain,Technology,"Airship AI Holdings, Inc.",1842566
 2025-03-03,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1974138/000197413825000016/ncr-20241231.htm#:~:text=healthcare%20blockchain,Technology,NCR Atleos Corp,1974138
 2025-03-07,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1709442/000170944225000008/fcb-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRSTSUN CAPITAL BANCORP,1709442
 2025-03-04,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1850059/000182912625001450/flagshipacq_10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Flag Ship Acquisition Corp,1850059
@@ -667,26 +550,17 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=healthcare%20blockchain,Technology,VERINT SYSTEMS INC,1166388
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1336706/000162828025015483/npb-20241231.htm#:~:text=healthcare%20blockchain,Finance,NORTHPOINTE BANCSHARES INC,1336706
 2025-03-03,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/356171/000035617125000012/tcbk-20241231.htm#:~:text=healthcare%20blockchain,Finance,TRICO BANCSHARES /,356171
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/705432/000070543225000020/sbsi-20241231.htm#:~:text=healthcare%20blockchain,Finance,SOUTHSIDE BANCSHARES INC,705432
-2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1057706/000105770625000002/fbp-20241231.htm#:~:text=healthcare%20blockchain,Finance,FIRST BANCORP /PR/,1057706
 2025-03-03,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1169770/000162828025009438/banc-20241231.htm#:~:text=healthcare%20blockchain,Finance,"BANC OF CALIFORNIA, INC.",1169770
-2025-02-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1810546/000162828025008583/ebc-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Eastern Bankshares, Inc.",1810546
 2025-03-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1771885/000165495425003516/qntm_20f.htm#:~:text=healthcare%20blockchain,Life Sciences,Quantum Biopharma Ltd.,1771885
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1738758/000121390025021907/ea0233233-20f_cheerhold.htm#:~:text=healthcare%20blockchain,Technology,"Cheer Holding, Inc.",1738758
 2025-03-31,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1954694/000164117225001706/form20f.htm#:~:text=healthcare%20blockchain,Technology,Lucas GC Ltd,1954694
 2025-03-20,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1951222/000119380525000334/e664249_20f-sealsq.htm#:~:text=healthcare%20blockchain,Manufacturing,SEALSQ Corp,1951222
-2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1557860/000162828025009110/glob-20241231.htm#:~:text=healthcare%20blockchain,Technology,Globant S.A.,1557860
 2025-03-10,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1243429/000124342925000017/mt-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,ArcelorMittal,1243429
 2025-03-14,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/938323/000119312525054371/d854846d20f.htm#:~:text=healthcare%20blockchain,Manufacturing,PEARSON PLC,938323
-2025-02-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1167831/000116010625000012/lbk-20241231.htm#:~:text=healthcare%20blockchain,Finance,Lloyds Bank plc,1167831
 2025-03-05,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm#:~:text=healthcare%20blockchain,Technology,ASML HOLDING NV,937966
 2025-03-04,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1833835/000095017025032340/psfe-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,Paysafe Ltd,1833835
 2025-03-24,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1927719/000141057825000425/crgo-20241231x20f.htm#:~:text=healthcare%20blockchain,Energy & Transportation,Freightos Ltd,1927719
 2025-03-18,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1854587/000162828025013334/cele-20241231.htm#:~:text=healthcare%20blockchain,Technology,Cellebrite DI Ltd.,1854587
-2025-02-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/932787/000093278725000006/stm-20241231.htm#:~:text=healthcare%20blockchain,Manufacturing,STMicroelectronics N.V.,932787
-2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1471055/000129281425000697/bsbrform20f_2024.htm#:~:text=healthcare%20blockchain,Finance,Banco Santander (Brasil) S.A.,1471055
 2025-03-19,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1267395/000126739525000019/ahl-20241231.htm#:~:text=healthcare%20blockchain,Finance,ASPEN INSURANCE HOLDINGS LTD,1267395
 2025-03-13,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1159508/000115950825000020/deutschebankag-20241231.htm#:~:text=healthcare%20blockchain,Finance,DEUTSCHE BANK AKTIENGESELLSCHAFT,1159508
 2025-03-06,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/1039765/000162828025010764/ing-20241231.htm#:~:text=healthcare%20blockchain,Finance,ING GROEP NV,1039765
-2025-02-27,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/814052/000081405225000036/tef-20241231.htm#:~:text=healthcare%20blockchain,Technology,TELEFONICA S A,814052
-2025-02-28,healthcare-blockchain_international,https://www.sec.gov/Archives/edgar/data/891478/000089147825000054/san-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Banco Santander, S.A.",891478
