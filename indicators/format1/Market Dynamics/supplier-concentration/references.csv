@@ -1,7 +1,6 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/89140/000143774925007993/svt20241231c_10k.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Manufacturing,SERVOTRONICS INC /DE/,89140
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/101295/000117184325001611/ug20241231_10k.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Industrial Applications and Services,UNITED GUARDIAN INC,101295
-2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/834365/000162828025009511/blfs-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Industrial Applications and Services,BIOLIFE SOLUTIONS INC,834365
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/918541/000091854125000018/nnbr-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Technology,NN INC,918541
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1758766/000175876625000005/stem-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Technology,"STEM, INC.",1758766
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1096275/000164117225000850/form10-k.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Manufacturing,Worksport Ltd,1096275
@@ -12,14 +11,11 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1500435/000162828025013046/gpro-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Industrial Applications and Services,"GoPro, Inc.",1500435
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1490161/000095017025045749/sowg-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Manufacturing,Sow Good Inc.,1490161
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/921299/000095017025040280/fgen-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Life Sciences,"KYNTRA BIO, INC.",921299
-2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1395937/000095017025030394/sndx-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Life Sciences,Syndax Pharmaceuticals Inc,1395937
-2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1042893/000095017025031003/invx-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Energy & Transportation,"Innovex International, Inc.",1042893
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1604950/000095017025042159/scph-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Life Sciences,scPharmaceuticals Inc.,1604950
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1743745/000149315225011057/form10-k.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Trade & Services,"Greenlane Holdings, Inc.",1743745
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1407973/000095017025045214/sonx-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Industrial Applications and Services,"Sonendo, Inc.",1407973
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/1828962/000182896225000039/crct-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Technology,"Cricut, Inc.",1828962
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1494650/000149465025000064/optn-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Life Sciences,"OptiNose, Inc.",1494650
-2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1297184/000129718425000008/amph-20241231x10k.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Life Sciences,"Amphastar Pharmaceuticals, Inc.",1297184
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1860424/000095017025035197/ck0001860424-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,,Onex Direct Lending BDC Fund,1860424
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/2008861/000200886125000007/ndoi-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Life Sciences,Endo LP,2008861
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1709048/000170904825000024/gfs-20241231.htm#:~:text=Supplier%20Concentration&text=Single-source%20supplier%20risk,Manufacturing,GLOBALFOUNDRIES Inc.,1709048

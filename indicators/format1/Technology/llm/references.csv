@@ -19,7 +19,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,general_domestic,https://www.sec.gov/Archives/edgar/data/320121/000032012125000011/tls-20241231.htm#:~:text=Large%20Language%20Models,Technology,TELOS CORP,320121
 2025-03-20,general_domestic,https://www.sec.gov/Archives/edgar/data/1758009/000121390025025561/ea0234742-10k_quantum.htm#:~:text=Large%20Language%20Models,Technology,Quantum Computing Inc.,1758009
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1847874/000143774925007028/minf20241231_10k.htm#:~:text=Large%20Language%20Models,Real Estate & Construction,Mobile Infrastructure Corp,1847874
-2025-03-03,general_domestic,https://www.sec.gov/Archives/edgar/data/1822966/000182296625000024/smr-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,NUSCALE POWER Corp,1822966
 2025-03-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Large%20Language%20Models,Trade & Services,TON Strategy Co,1566610
 2025-03-10,general_domestic,https://www.sec.gov/Archives/edgar/data/1372612/000095017025036261/box-20250131.htm#:~:text=Large%20Language%20Models,Technology,BOX INC,1372612
 2025-03-13,general_domestic,https://www.sec.gov/Archives/edgar/data/1609151/000160915125000022/weav-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Weave Communications, Inc.",1609151
@@ -32,8 +31,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=Large%20Language%20Models,Technology,VERINT SYSTEMS INC,1166388
 2025-03-12,general_domestic,https://www.sec.gov/Archives/edgar/data/2025410/000095017025037939/saro-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,"StandardAero, Inc.",2025410
 2025-03-07,general_domestic,https://www.sec.gov/Archives/edgar/data/1454938/000145493825000020/outbrain-20241231.htm#:~:text=Large%20Language%20Models,Technology,Teads Holding Co.,1454938
-2025-03-03,general_domestic,https://www.sec.gov/Archives/edgar/data/1805284/000180528425000010/rkt-20241231.htm#:~:text=Large%20Language%20Models,Finance,"Rocket Companies, Inc.",1805284
-2025-03-03,general_domestic,https://www.sec.gov/Archives/edgar/data/1857816/000185781625000015/gct-20241231.htm#:~:text=Large%20Language%20Models,Trade & Services,GigaCloud Technology Inc,1857816
 2025-03-27,general_domestic,https://www.sec.gov/Archives/edgar/data/2030781/000203078125000011/spparent-20250131x10k.htm#:~:text=Large%20Language%20Models,Technology,"SailPoint, Inc.",2030781
 2025-03-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1640147/000164014725000052/snow-20250131.htm#:~:text=Large%20Language%20Models,Technology,Snowflake Inc.,1640147
 2025-03-06,general_domestic,https://www.sec.gov/Archives/edgar/data/1120970/000143774925006453/lode20241231_10k.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,Comstock Inc.,1120970
