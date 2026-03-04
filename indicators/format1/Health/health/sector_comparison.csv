@@ -5,9 +5,9 @@ Energy & Transportation,1,1,alzheimer_domestic
 Finance,0,2,alzheimer_domestic
 Finance,1,3,alzheimer_domestic
 Industrial Applications and Services,0,10,alzheimer_domestic
-Industrial Applications and Services,1,34,alzheimer_domestic
-Life Sciences,0,44,alzheimer_domestic
-Life Sciences,1,116,alzheimer_domestic
+Industrial Applications and Services,1,33,alzheimer_domestic
+Life Sciences,0,39,alzheimer_domestic
+Life Sciences,1,120,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,4,alzheimer_domestic
 Real Estate & Construction,1,21,alzheimer_domestic
@@ -20,8 +20,8 @@ Crypto Assets,1,2,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
 Industrial Applications and Services,0,23,obesity_domestic
 Industrial Applications and Services,1,53,obesity_domestic
-Life Sciences,0,49,obesity_domestic
-Life Sciences,1,116,obesity_domestic
+Life Sciences,0,46,obesity_domestic
+Life Sciences,1,119,obesity_domestic
 Manufacturing,0,4,obesity_domestic
 Manufacturing,1,27,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
@@ -38,8 +38,8 @@ Crypto Assets,1,1,ptsd_domestic
 Energy & Transportation,1,1,ptsd_domestic
 Industrial Applications and Services,0,3,ptsd_domestic
 Industrial Applications and Services,1,7,ptsd_domestic
-Life Sciences,0,11,ptsd_domestic
-Life Sciences,1,27,ptsd_domestic
+Life Sciences,0,10,ptsd_domestic
+Life Sciences,1,28,ptsd_domestic
 Manufacturing,1,1,ptsd_domestic
 Real Estate & Construction,1,4,ptsd_domestic
 Technology,1,4,ptsd_domestic
@@ -51,8 +51,7 @@ Industrial Applications and Services,1,2,alzheimer_international
 Life Sciences,0,3,alzheimer_international
 Life Sciences,1,24,alzheimer_international
 Manufacturing,1,1,alzheimer_international
-Technology,0,1,alzheimer_international
-Technology,1,1,alzheimer_international
+Technology,1,2,alzheimer_international
 Energy & Transportation,1,2,obesity_international
 Finance,0,2,obesity_international
 Finance,1,2,obesity_international
@@ -80,8 +79,8 @@ Energy & Transportation,1,2,mpox_domestic
 Finance,1,2,mpox_domestic
 Industrial Applications and Services,0,1,mpox_domestic
 Industrial Applications and Services,1,9,mpox_domestic
-Life Sciences,0,9,mpox_domestic
-Life Sciences,1,44,mpox_domestic
+Life Sciences,0,8,mpox_domestic
+Life Sciences,1,45,mpox_domestic
 Manufacturing,1,3,mpox_domestic
 Technology,1,2,mpox_domestic
 Trade & Services,0,1,mpox_domestic
@@ -89,8 +88,8 @@ Industrial Applications and Services,0,1,zika_domestic
 Industrial Applications and Services,1,2,zika_domestic
 Industrial Applications and Services,0,1,h5n1-avian_domestic
 Industrial Applications and Services,1,15,h5n1-avian_domestic
-Life Sciences,0,7,h5n1-avian_domestic
-Life Sciences,1,34,h5n1-avian_domestic
+Life Sciences,0,6,h5n1-avian_domestic
+Life Sciences,1,35,h5n1-avian_domestic
 Manufacturing,0,1,h5n1-avian_domestic
 Manufacturing,1,27,h5n1-avian_domestic
 Technology,1,1,h5n1-avian_domestic
@@ -112,7 +111,7 @@ Real Estate & Construction,0,1,mpox_international
 Trade & Services,1,1,mpox_international
 Finance,1,1,zika_international
 Life Sciences,0,3,zika_international
-Life Sciences,1,44,zika_international
+Life Sciences,1,43,zika_international
 Manufacturing,1,1,zika_international
 Real Estate & Construction,0,1,zika_international
 Technology,1,1,zika_international
