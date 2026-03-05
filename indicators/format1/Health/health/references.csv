@@ -34,7 +34,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1822791/000143774925008956/clnn20241231_10k.htm#:~:text=Alzheimer,Life Sciences,Clene Inc.,1822791
 2025-03-19,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,ALUMIS INC.,1847367
 2025-03-06,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1803737/000180373725000049/ehab-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"Enhabit, Inc.",1803737
-2025-03-05,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1141103/000162828025010519/ccrn-20241231.htm#:~:text=Alzheimer,Trade & Services,CROSS COUNTRY HEALTHCARE INC,1141103
 2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Alzheimer,Trade & Services,TON Strategy Co,1566610
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1505497/000164117225001011/form10-k.htm#:~:text=Alzheimer,Industrial Applications and Services,"BioRestorative Therapies, Inc.",1505497
 2025-03-17,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1043000/000104300025000010/snda-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"SONIDA SENIOR LIVING, INC.",1043000
@@ -116,11 +115,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=Obesity,Life Sciences,"Inmune Bio, Inc.",1711754
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/948320/000149315225009790/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"LifeMD, Inc.",948320
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1490161/000095017025045749/sowg-20241231.htm#:~:text=Obesity,Manufacturing,Sow Good Inc.,1490161
-2025-03-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1471824/000143774925006324/tags20241231_10k.htm#:~:text=Obesity,Crypto Assets,Teucrium Commodity Trust,1471824
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1176309/000101376225003450/ea0234394-10k_oramed.htm#:~:text=Obesity,Life Sciences,ORAMED PHARMACEUTICALS INC.,1176309
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1401040/000143774925008018/dmtp20241231_10k.htm#:~:text=Obesity,Life Sciences,DiaMedica Therapeutics Inc.,1401040
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1560293/000101376225002734/ea0234739-10k_tenon.htm#:~:text=Obesity,Industrial Applications and Services,"Tenon Medical, Inc.",1560293
-2025-03-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/49754/000162828025010259/din-20241231.htm#:~:text=Obesity,Trade & Services,"Dine Brands Global, Inc.",49754
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1799011/000164117225000205/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,Lucid Diagnostics Inc.,1799011
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1624326/000164117225000364/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,PAVmed Inc.,1624326
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1810560/000095017025034584/revb-20241231.htm#:~:text=Obesity,Life Sciences,"REVELATION BIOSCIENCES, INC.",1810560
@@ -133,7 +130,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/897448/000095017025037620/amrn-20241231.htm#:~:text=Obesity,Life Sciences,AMARIN CORP PLC\UK,897448
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1665988/000162828025011831/bvs-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Bioventus Inc.,1665988
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1434868/000162828025011154/espr-20241231.htm#:~:text=Obesity,Life Sciences,"Esperion Therapeutics, Inc.",1434868
-2025-03-05,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1372299/000162828025010271/ocgn-20241231.htm#:~:text=Obesity,Life Sciences,"Ocugen, Inc.",1372299
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1607962/000117891325000736/zk2532799.htm#:~:text=Obesity,Industrial Applications and Services,Lifeward Ltd.,1607962
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1814974/000143774925008868/bbxi20241231_10k.htm#:~:text=Obesity,Trade & Services,"BBX Capital, Inc.",1814974
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1953926/000155837025002631/zbio-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Zenas BioPharma, Inc.",1953926
@@ -142,7 +138,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,nash_domestic,https://www.sec.gov/Archives/edgar/data/1082038/000095017025046209/drrx-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,DURECT CORP,1082038
 2025-03-12,nash_domestic,https://www.sec.gov/Archives/edgar/data/1400118/000155837025002747/sgmt-20241231x10k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Sagimet Biosciences Inc.,1400118
 2025-03-13,nash_domestic,https://www.sec.gov/Archives/edgar/data/1535955/000149315225010146/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,Lipocine Inc.,1535955
-2025-03-05,nash_domestic,https://www.sec.gov/Archives/edgar/data/1359931/000121390025020368/ea0231646-10k_protara.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Protara Therapeutics, Inc.",1359931
 2025-03-14,nash_domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"GRI Bio, Inc.",1824293
 2025-03-10,nash_domestic,https://www.sec.gov/Archives/edgar/data/1799448/000095017025035929/algs-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,"Aligos Therapeutics, Inc.",1799448
 2025-03-20,nash_domestic,https://www.sec.gov/Archives/edgar/data/1641489/000164148925000014/vtvt-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,vTv Therapeutics Inc.,1641489

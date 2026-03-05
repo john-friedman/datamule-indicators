@@ -2,7 +2,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm#:~:text=Large%20Language%20Models,Manufacturing,AMBARELLA INC,1280263
 2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1734722/000173472225000007/path-20250131.htm#:~:text=Large%20Language%20Models,Technology,"UiPath, Inc.",1734722
 2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,Oklo Inc.,1849056
-2025-03-05,general_domestic,https://www.sec.gov/Archives/edgar/data/714562/000071456225000010/thff-20241231x10k.htm#:~:text=Large%20Language%20Models,Finance,FIRST FINANCIAL CORP /IN/,714562
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=Large%20Language%20Models,Crypto Assets,Nakamoto Inc.,1946573
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1840856/000162828025011821/soun-20241231.htm#:~:text=Large%20Language%20Models,Technology,"SOUNDHOUND AI, INC.",1840856
 2025-03-11,general_domestic,https://www.sec.gov/Archives/edgar/data/1327811/000132781125000056/wday-20250131.htm#:~:text=Large%20Language%20Models,Technology,"Workday, Inc.",1327811
@@ -22,7 +21,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Large%20Language%20Models,Trade & Services,TON Strategy Co,1566610
 2025-03-10,general_domestic,https://www.sec.gov/Archives/edgar/data/1372612/000095017025036261/box-20250131.htm#:~:text=Large%20Language%20Models,Technology,BOX INC,1372612
 2025-03-13,general_domestic,https://www.sec.gov/Archives/edgar/data/1609151/000160915125000022/weav-20241231.htm#:~:text=Large%20Language%20Models,Technology,"Weave Communications, Inc.",1609151
-2025-03-05,general_domestic,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/crm-20250131.htm#:~:text=Large%20Language%20Models,Technology,"Salesforce, Inc.",1108524
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1583708/000158370825000051/s-20250131.htm#:~:text=Large%20Language%20Models,Technology,"SentinelOne, Inc.",1583708
 2025-03-13,general_domestic,https://www.sec.gov/Archives/edgar/data/1614178/000161417825000030/yext-20250131.htm#:~:text=Large%20Language%20Models,Technology,"Yext, Inc.",1614178
 2025-03-14,general_domestic,https://www.sec.gov/Archives/edgar/data/1102993/000110299325000018/lpsn-20241231.htm#:~:text=Large%20Language%20Models,Technology,LIVEPERSON INC,1102993
