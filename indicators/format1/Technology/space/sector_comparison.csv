@@ -21,8 +21,8 @@ Manufacturing,0,7,satellite_domestic
 Manufacturing,1,24,satellite_domestic
 Real Estate & Construction,0,1,satellite_domestic
 Real Estate & Construction,1,3,satellite_domestic
-Technology,0,5,satellite_domestic
-Technology,1,27,satellite_domestic
+Technology,0,4,satellite_domestic
+Technology,1,28,satellite_domestic
 Trade & Services,0,1,satellite_domestic
 Trade & Services,1,5,satellite_domestic
 Energy & Transportation,1,2,exploration_domestic
