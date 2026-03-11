@@ -5,8 +5,8 @@ Finance,0,1,alzheimer_domestic
 Finance,1,3,alzheimer_domestic
 Industrial Applications and Services,0,9,alzheimer_domestic
 Industrial Applications and Services,1,32,alzheimer_domestic
-Life Sciences,0,36,alzheimer_domestic
-Life Sciences,1,116,alzheimer_domestic
+Life Sciences,0,34,alzheimer_domestic
+Life Sciences,1,117,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
 Real Estate & Construction,0,3,alzheimer_domestic
 Real Estate & Construction,1,22,alzheimer_domestic
@@ -16,28 +16,28 @@ Trade & Services,0,1,alzheimer_domestic
 Trade & Services,1,5,alzheimer_domestic
 Crypto Assets,1,3,obesity_domestic
 Energy & Transportation,1,1,obesity_domestic
-Industrial Applications and Services,0,19,obesity_domestic
-Industrial Applications and Services,1,54,obesity_domestic
-Life Sciences,0,40,obesity_domestic
+Industrial Applications and Services,0,17,obesity_domestic
+Industrial Applications and Services,1,55,obesity_domestic
+Life Sciences,0,37,obesity_domestic
 Life Sciences,1,118,obesity_domestic
 Manufacturing,0,3,obesity_domestic
 Manufacturing,1,27,obesity_domestic
 Real Estate & Construction,1,2,obesity_domestic
 Technology,1,2,obesity_domestic
-Trade & Services,0,2,obesity_domestic
-Trade & Services,1,29,obesity_domestic
+Trade & Services,0,1,obesity_domestic
+Trade & Services,1,30,obesity_domestic
 Crypto Assets,1,1,nash_domestic
 Industrial Applications and Services,0,1,nash_domestic
 Industrial Applications and Services,1,5,nash_domestic
 Life Sciences,0,7,nash_domestic
-Life Sciences,1,28,nash_domestic
+Life Sciences,1,27,nash_domestic
 Crypto Assets,0,1,ptsd_domestic
 Crypto Assets,1,1,ptsd_domestic
 Energy & Transportation,1,1,ptsd_domestic
 Industrial Applications and Services,0,3,ptsd_domestic
 Industrial Applications and Services,1,7,ptsd_domestic
 Life Sciences,0,9,ptsd_domestic
-Life Sciences,1,29,ptsd_domestic
+Life Sciences,1,28,ptsd_domestic
 Manufacturing,1,1,ptsd_domestic
 Real Estate & Construction,1,4,ptsd_domestic
 Technology,1,4,ptsd_domestic
@@ -54,11 +54,11 @@ Energy & Transportation,1,2,obesity_international
 Finance,0,2,obesity_international
 Finance,1,2,obesity_international
 Industrial Applications and Services,0,4,obesity_international
-Industrial Applications and Services,1,11,obesity_international
+Industrial Applications and Services,1,10,obesity_international
 Life Sciences,0,4,obesity_international
 Life Sciences,1,23,obesity_international
 Manufacturing,0,4,obesity_international
-Manufacturing,1,6,obesity_international
+Manufacturing,1,4,obesity_international
 Technology,1,2,obesity_international
 Trade & Services,1,5,obesity_international
 Industrial Applications and Services,1,1,nash_international
@@ -72,11 +72,10 @@ Life Sciences,0,1,h1n1-swine_domestic
 Life Sciences,1,13,h1n1-swine_domestic
 Manufacturing,1,4,h1n1-swine_domestic
 Technology,1,1,h1n1-swine_domestic
-Energy & Transportation,1,2,mpox_domestic
 Finance,1,2,mpox_domestic
 Industrial Applications and Services,1,10,mpox_domestic
-Life Sciences,0,6,mpox_domestic
-Life Sciences,1,46,mpox_domestic
+Life Sciences,0,5,mpox_domestic
+Life Sciences,1,47,mpox_domestic
 Manufacturing,1,3,mpox_domestic
 Technology,1,2,mpox_domestic
 Trade & Services,0,1,mpox_domestic
@@ -93,21 +92,20 @@ Energy & Transportation,1,1,h1n1-swine_international
 Industrial Applications and Services,1,4,h1n1-swine_international
 Life Sciences,1,8,h1n1-swine_international
 Manufacturing,1,4,h1n1-swine_international
-Real Estate & Construction,0,1,h1n1-swine_international
-Real Estate & Construction,1,3,h1n1-swine_international
+Real Estate & Construction,1,4,h1n1-swine_international
 Technology,1,2,h1n1-swine_international
 Trade & Services,1,2,h1n1-swine_international
 Energy & Transportation,0,2,mpox_international
 Energy & Transportation,1,2,mpox_international
 Life Sciences,1,12,mpox_international
 Manufacturing,1,2,mpox_international
-Real Estate & Construction,0,1,mpox_international
+Real Estate & Construction,1,1,mpox_international
 Trade & Services,1,1,mpox_international
 Finance,1,1,zika_international
 Life Sciences,0,3,zika_international
 Life Sciences,1,42,zika_international
 Manufacturing,1,1,zika_international
-Real Estate & Construction,0,1,zika_international
+Real Estate & Construction,1,1,zika_international
 Technology,1,1,zika_international
 Trade & Services,0,1,zika_international
 Trade & Services,1,2,zika_international

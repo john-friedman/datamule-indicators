@@ -6,8 +6,8 @@ Industrial Applications and Services,0,2,launch_domestic
 Industrial Applications and Services,1,5,launch_domestic
 Life Sciences,0,2,launch_domestic
 Life Sciences,1,4,launch_domestic
-Manufacturing,0,7,launch_domestic
-Manufacturing,1,27,launch_domestic
+Manufacturing,0,5,launch_domestic
+Manufacturing,1,29,launch_domestic
 Real Estate & Construction,0,1,launch_domestic
 Real Estate & Construction,1,2,launch_domestic
 Technology,0,3,launch_domestic
@@ -17,8 +17,8 @@ Crypto Assets,1,1,satellite_domestic
 Energy & Transportation,1,6,satellite_domestic
 Finance,1,2,satellite_domestic
 Industrial Applications and Services,1,2,satellite_domestic
-Manufacturing,0,7,satellite_domestic
-Manufacturing,1,24,satellite_domestic
+Manufacturing,0,6,satellite_domestic
+Manufacturing,1,25,satellite_domestic
 Real Estate & Construction,0,1,satellite_domestic
 Real Estate & Construction,1,3,satellite_domestic
 Technology,0,4,satellite_domestic
@@ -29,15 +29,15 @@ Energy & Transportation,1,2,exploration_domestic
 Industrial Applications and Services,0,1,exploration_domestic
 Industrial Applications and Services,1,7,exploration_domestic
 Life Sciences,1,4,exploration_domestic
-Manufacturing,0,3,exploration_domestic
-Manufacturing,1,11,exploration_domestic
+Manufacturing,0,2,exploration_domestic
+Manufacturing,1,12,exploration_domestic
 Technology,0,2,exploration_domestic
 Technology,1,3,exploration_domestic
 Trade & Services,1,1,exploration_domestic
 Energy & Transportation,1,3,commercial_domestic
 Life Sciences,1,1,commercial_domestic
-Manufacturing,0,3,commercial_domestic
-Manufacturing,1,6,commercial_domestic
+Manufacturing,0,2,commercial_domestic
+Manufacturing,1,7,commercial_domestic
 Real Estate & Construction,0,1,commercial_domestic
 Real Estate & Construction,1,5,commercial_domestic
 Technology,1,2,commercial_domestic
@@ -52,18 +52,17 @@ Technology,1,8,technology_domestic
 Finance,1,1,risks_domestic
 Manufacturing,1,1,risks_domestic
 Real Estate & Construction,1,2,risks_domestic
-Energy & Transportation,0,4,launch_international
-Energy & Transportation,1,8,launch_international
+Energy & Transportation,0,3,launch_international
+Energy & Transportation,1,9,launch_international
 Industrial Applications and Services,0,1,launch_international
 Industrial Applications and Services,1,1,launch_international
-Manufacturing,0,2,launch_international
-Manufacturing,1,10,launch_international
+Manufacturing,0,1,launch_international
+Manufacturing,1,11,launch_international
 Technology,0,1,launch_international
 Technology,1,6,launch_international
 Energy & Transportation,0,1,satellite_international
 Energy & Transportation,1,4,satellite_international
-Finance,0,1,satellite_international
-Finance,1,2,satellite_international
+Finance,1,3,satellite_international
 Industrial Applications and Services,1,2,satellite_international
 Manufacturing,0,3,satellite_international
 Manufacturing,1,9,satellite_international
