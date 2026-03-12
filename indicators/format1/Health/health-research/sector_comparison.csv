@@ -16,19 +16,19 @@ Crypto Assets,1,4,orphan-drug_domestic
 Energy & Transportation,1,1,orphan-drug_domestic
 Industrial Applications and Services,0,8,orphan-drug_domestic
 Industrial Applications and Services,1,22,orphan-drug_domestic
-Life Sciences,0,233,orphan-drug_domestic
-Life Sciences,1,538,orphan-drug_domestic
+Life Sciences,0,226,orphan-drug_domestic
+Life Sciences,1,535,orphan-drug_domestic
 Real Estate & Construction,1,1,orphan-drug_domestic
 Trade & Services,0,1,orphan-drug_domestic
 Trade & Services,1,2,orphan-drug_domestic
 Industrial Applications and Services,0,1,orphan-drug_international
 Industrial Applications and Services,1,5,orphan-drug_international
 Life Sciences,0,16,orphan-drug_international
-Life Sciences,1,87,orphan-drug_international
+Life Sciences,1,86,orphan-drug_international
 Crypto Assets,1,1,genomic_domestic
 Industrial Applications and Services,0,15,genomic_domestic
 Industrial Applications and Services,1,55,genomic_domestic
-Life Sciences,0,55,genomic_domestic
+Life Sciences,0,54,genomic_domestic
 Life Sciences,1,140,genomic_domestic
 Manufacturing,0,1,genomic_domestic
 Manufacturing,1,3,genomic_domestic
@@ -49,8 +49,8 @@ Crypto Assets,0,9,healthcare-blockchain_domestic
 Crypto Assets,1,22,healthcare-blockchain_domestic
 Energy & Transportation,0,2,healthcare-blockchain_domestic
 Energy & Transportation,1,5,healthcare-blockchain_domestic
-Finance,0,10,healthcare-blockchain_domestic
-Finance,1,62,healthcare-blockchain_domestic
+Finance,0,9,healthcare-blockchain_domestic
+Finance,1,63,healthcare-blockchain_domestic
 Industrial Applications and Services,0,2,healthcare-blockchain_domestic
 Industrial Applications and Services,1,4,healthcare-blockchain_domestic
 Life Sciences,0,4,healthcare-blockchain_domestic
@@ -62,7 +62,7 @@ Real Estate & Construction,1,24,healthcare-blockchain_domestic
 Technology,0,10,healthcare-blockchain_domestic
 Technology,1,36,healthcare-blockchain_domestic
 Trade & Services,0,7,healthcare-blockchain_domestic
-Trade & Services,1,30,healthcare-blockchain_domestic
+Trade & Services,1,29,healthcare-blockchain_domestic
 Crypto Assets,1,4,healthcare-blockchain_international
 Energy & Transportation,0,1,healthcare-blockchain_international
 Energy & Transportation,1,5,healthcare-blockchain_international

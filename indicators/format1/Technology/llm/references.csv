@@ -3,7 +3,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1734722/000173472225000007/path-20250131.htm#:~:text=Large%20Language%20Models,Technology,"UiPath, Inc.",1734722
 2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,Oklo Inc.,1849056
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=Large%20Language%20Models,Crypto Assets,Nakamoto Inc.,1946573
-2025-03-12,general_domestic,https://www.sec.gov/Archives/edgar/data/1362190/000155837025002819/aeye-20241231x10k.htm#:~:text=Large%20Language%20Models,Technology,AUDIOEYE INC,1362190
 2025-03-13,general_domestic,https://www.sec.gov/Archives/edgar/data/1464343/000143774925007559/atlc20241231_10k.htm#:~:text=Large%20Language%20Models,Finance,Atlanticus Holdings Corp,1464343
 2025-03-14,general_domestic,https://www.sec.gov/Archives/edgar/data/1224133/000095017025039513/mchx-20241231.htm#:~:text=Large%20Language%20Models,Technology,MARCHEX INC,1224133
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1836833/000183683325000050/pl-20250131.htm#:~:text=Large%20Language%20Models,Manufacturing,Planet Labs PBC,1836833
@@ -19,7 +18,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,general_domestic,https://www.sec.gov/Archives/edgar/data/1102993/000110299325000018/lpsn-20241231.htm#:~:text=Large%20Language%20Models,Technology,LIVEPERSON INC,1102993
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1886894/000164117225000784/form10-k.htm#:~:text=Large%20Language%20Models,Technology,"Snail, Inc.",1886894
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=Large%20Language%20Models,Technology,VERINT SYSTEMS INC,1166388
-2025-03-12,general_domestic,https://www.sec.gov/Archives/edgar/data/2025410/000095017025037939/saro-20241231.htm#:~:text=Large%20Language%20Models,Manufacturing,"StandardAero, Inc.",2025410
 2025-03-27,general_domestic,https://www.sec.gov/Archives/edgar/data/2030781/000203078125000011/spparent-20250131x10k.htm#:~:text=Large%20Language%20Models,Technology,"SailPoint, Inc.",2030781
 2025-03-21,general_domestic,https://www.sec.gov/Archives/edgar/data/1640147/000164014725000052/snow-20250131.htm#:~:text=Large%20Language%20Models,Technology,Snowflake Inc.,1640147
 2025-03-17,general_domestic,https://www.sec.gov/Archives/edgar/data/1053691/000143774925007829/crvo20241231_10k.htm#:~:text=Large%20Language%20Models,Life Sciences,CervoMed Inc.,1053691
