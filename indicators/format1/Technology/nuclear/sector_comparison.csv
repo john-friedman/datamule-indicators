@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
 Crypto Assets,1,3,power_domestic
-Energy & Transportation,0,8,power_domestic
+Energy & Transportation,0,7,power_domestic
 Energy & Transportation,1,108,power_domestic
 Finance,0,1,power_domestic
 Finance,1,1,power_domestic
@@ -15,7 +15,7 @@ Technology,1,11,power_domestic
 Trade & Services,0,1,power_domestic
 Trade & Services,1,9,power_domestic
 Energy & Transportation,0,3,fuel_domestic
-Energy & Transportation,1,107,fuel_domestic
+Energy & Transportation,1,106,fuel_domestic
 Finance,0,2,fuel_domestic
 Finance,1,1,fuel_domestic
 Industrial Applications and Services,0,1,fuel_domestic
@@ -25,16 +25,16 @@ Real Estate & Construction,1,1,fuel_domestic
 Technology,1,2,fuel_domestic
 Trade & Services,1,1,fuel_domestic
 Energy & Transportation,1,3,technology_domestic
-Industrial Applications and Services,0,3,technology_domestic
-Industrial Applications and Services,1,48,technology_domestic
-Life Sciences,0,36,technology_domestic
-Life Sciences,1,119,technology_domestic
+Industrial Applications and Services,0,2,technology_domestic
+Industrial Applications and Services,1,49,technology_domestic
+Life Sciences,0,29,technology_domestic
+Life Sciences,1,125,technology_domestic
 Manufacturing,0,1,technology_domestic
 Manufacturing,1,6,technology_domestic
 Real Estate & Construction,1,4,technology_domestic
 Technology,1,5,technology_domestic
 Trade & Services,1,3,technology_domestic
-Energy & Transportation,0,3,services_domestic
+Energy & Transportation,0,2,services_domestic
 Energy & Transportation,1,89,services_domestic
 Finance,0,2,services_domestic
 Finance,1,1,services_domestic
@@ -43,13 +43,13 @@ Manufacturing,1,11,services_domestic
 Real Estate & Construction,1,3,services_domestic
 Technology,1,3,services_domestic
 Trade & Services,1,1,services_domestic
-Energy & Transportation,0,5,regulation_domestic
-Energy & Transportation,1,89,regulation_domestic
+Energy & Transportation,0,3,regulation_domestic
+Energy & Transportation,1,90,regulation_domestic
 Finance,1,1,regulation_domestic
 Industrial Applications and Services,0,1,regulation_domestic
 Industrial Applications and Services,1,18,regulation_domestic
 Life Sciences,0,3,regulation_domestic
-Life Sciences,1,5,regulation_domestic
+Life Sciences,1,4,regulation_domestic
 Manufacturing,1,6,regulation_domestic
 Real Estate & Construction,1,3,regulation_domestic
 Technology,1,3,regulation_domestic

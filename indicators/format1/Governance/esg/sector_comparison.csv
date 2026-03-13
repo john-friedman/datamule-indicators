@@ -1,108 +1,108 @@
 ownerOrg,period,count,component
 Crypto Assets,0,6,environmental_domestic
-Crypto Assets,1,48,environmental_domestic
-Energy & Transportation,0,47,environmental_domestic
-Energy & Transportation,1,535,environmental_domestic
-Finance,0,24,environmental_domestic
-Finance,1,210,environmental_domestic
-Industrial Applications and Services,0,21,environmental_domestic
-Industrial Applications and Services,1,249,environmental_domestic
-Life Sciences,0,18,environmental_domestic
-Life Sciences,1,108,environmental_domestic
-Manufacturing,0,32,environmental_domestic
-Manufacturing,1,492,environmental_domestic
-Real Estate & Construction,0,52,environmental_domestic
-Real Estate & Construction,1,381,environmental_domestic
-Technology,0,25,environmental_domestic
-Technology,1,246,environmental_domestic
-Trade & Services,0,44,environmental_domestic
-Trade & Services,1,308,environmental_domestic
+Crypto Assets,1,46,environmental_domestic
+Energy & Transportation,0,41,environmental_domestic
+Energy & Transportation,1,536,environmental_domestic
+Finance,0,19,environmental_domestic
+Finance,1,212,environmental_domestic
+Industrial Applications and Services,0,17,environmental_domestic
+Industrial Applications and Services,1,246,environmental_domestic
+Life Sciences,0,13,environmental_domestic
+Life Sciences,1,107,environmental_domestic
+Manufacturing,0,29,environmental_domestic
+Manufacturing,1,491,environmental_domestic
+Real Estate & Construction,0,47,environmental_domestic
+Real Estate & Construction,1,380,environmental_domestic
+Technology,0,24,environmental_domestic
+Technology,1,247,environmental_domestic
+Trade & Services,0,38,environmental_domestic
+Trade & Services,1,312,environmental_domestic
 Crypto Assets,0,8,social_domestic
 Crypto Assets,1,58,social_domestic
-Energy & Transportation,0,18,social_domestic
+Energy & Transportation,0,16,social_domestic
 Energy & Transportation,1,269,social_domestic
-Finance,0,40,social_domestic
-Finance,1,213,social_domestic
-Industrial Applications and Services,0,12,social_domestic
-Industrial Applications and Services,1,176,social_domestic
-Life Sciences,0,24,social_domestic
+Finance,0,33,social_domestic
+Finance,1,217,social_domestic
+Industrial Applications and Services,0,10,social_domestic
+Industrial Applications and Services,1,174,social_domestic
+Life Sciences,0,21,social_domestic
 Life Sciences,1,124,social_domestic
-Manufacturing,0,21,social_domestic
-Manufacturing,1,308,social_domestic
-Real Estate & Construction,0,23,social_domestic
-Real Estate & Construction,1,184,social_domestic
-Technology,0,24,social_domestic
-Technology,1,198,social_domestic
-Trade & Services,0,41,social_domestic
-Trade & Services,1,259,social_domestic
+Manufacturing,0,19,social_domestic
+Manufacturing,1,305,social_domestic
+Real Estate & Construction,0,19,social_domestic
+Real Estate & Construction,1,185,social_domestic
+Technology,0,22,social_domestic
+Technology,1,199,social_domestic
+Trade & Services,0,38,social_domestic
+Trade & Services,1,258,social_domestic
 Crypto Assets,0,3,governance_domestic
-Crypto Assets,1,13,governance_domestic
-Energy & Transportation,0,17,governance_domestic
+Crypto Assets,1,12,governance_domestic
+Energy & Transportation,0,15,governance_domestic
 Energy & Transportation,1,141,governance_domestic
-Finance,0,35,governance_domestic
-Finance,1,210,governance_domestic
+Finance,0,29,governance_domestic
+Finance,1,214,governance_domestic
 Industrial Applications and Services,0,10,governance_domestic
-Industrial Applications and Services,1,129,governance_domestic
-Life Sciences,0,37,governance_domestic
-Life Sciences,1,152,governance_domestic
-Manufacturing,0,12,governance_domestic
-Manufacturing,1,171,governance_domestic
-Real Estate & Construction,0,12,governance_domestic
-Real Estate & Construction,1,88,governance_domestic
-Technology,0,17,governance_domestic
-Technology,1,161,governance_domestic
-Trade & Services,0,15,governance_domestic
-Trade & Services,1,143,governance_domestic
+Industrial Applications and Services,1,127,governance_domestic
+Life Sciences,0,32,governance_domestic
+Life Sciences,1,155,governance_domestic
+Manufacturing,0,10,governance_domestic
+Manufacturing,1,170,governance_domestic
+Real Estate & Construction,0,9,governance_domestic
+Real Estate & Construction,1,90,governance_domestic
+Technology,0,15,governance_domestic
+Technology,1,162,governance_domestic
+Trade & Services,0,14,governance_domestic
+Trade & Services,1,144,governance_domestic
 Crypto Assets,0,1,environmental_international
 Crypto Assets,1,16,environmental_international
-Energy & Transportation,0,30,environmental_international
-Energy & Transportation,1,154,environmental_international
-Finance,0,6,environmental_international
-Finance,1,50,environmental_international
-Industrial Applications and Services,0,7,environmental_international
-Industrial Applications and Services,1,25,environmental_international
-Life Sciences,0,6,environmental_international
-Life Sciences,1,32,environmental_international
-Manufacturing,0,15,environmental_international
-Manufacturing,1,110,environmental_international
+Energy & Transportation,0,29,environmental_international
+Energy & Transportation,1,153,environmental_international
+Finance,0,5,environmental_international
+Finance,1,51,environmental_international
+Industrial Applications and Services,0,5,environmental_international
+Industrial Applications and Services,1,27,environmental_international
+Life Sciences,0,5,environmental_international
+Life Sciences,1,33,environmental_international
+Manufacturing,0,13,environmental_international
+Manufacturing,1,112,environmental_international
 Real Estate & Construction,0,3,environmental_international
 Real Estate & Construction,1,16,environmental_international
-Technology,0,11,environmental_international
-Technology,1,79,environmental_international
+Technology,0,10,environmental_international
+Technology,1,80,environmental_international
 Trade & Services,0,1,environmental_international
 Trade & Services,1,41,environmental_international
 Crypto Assets,1,12,social_international
-Energy & Transportation,0,26,social_international
+Energy & Transportation,0,25,social_international
 Energy & Transportation,1,120,social_international
-Finance,0,6,social_international
-Finance,1,53,social_international
-Industrial Applications and Services,0,6,social_international
-Industrial Applications and Services,1,23,social_international
-Life Sciences,0,8,social_international
+Finance,0,5,social_international
+Finance,1,54,social_international
+Industrial Applications and Services,0,4,social_international
+Industrial Applications and Services,1,25,social_international
+Life Sciences,0,7,social_international
 Life Sciences,1,45,social_international
-Manufacturing,0,13,social_international
-Manufacturing,1,92,social_international
+Manufacturing,0,11,social_international
+Manufacturing,1,94,social_international
 Real Estate & Construction,0,3,social_international
 Real Estate & Construction,1,14,social_international
-Technology,0,7,social_international
-Technology,1,70,social_international
+Technology,0,6,social_international
+Technology,1,71,social_international
 Trade & Services,0,4,social_international
 Trade & Services,1,66,social_international
 Crypto Assets,0,1,governance_international
 Crypto Assets,1,19,governance_international
-Energy & Transportation,0,20,governance_international
+Energy & Transportation,0,19,governance_international
 Energy & Transportation,1,91,governance_international
-Finance,0,8,governance_international
-Finance,1,61,governance_international
-Industrial Applications and Services,0,5,governance_international
-Industrial Applications and Services,1,40,governance_international
-Life Sciences,0,14,governance_international
-Life Sciences,1,81,governance_international
-Manufacturing,0,9,governance_international
-Manufacturing,1,102,governance_international
+Finance,0,7,governance_international
+Finance,1,62,governance_international
+Industrial Applications and Services,0,3,governance_international
+Industrial Applications and Services,1,41,governance_international
+Life Sciences,0,12,governance_international
+Life Sciences,1,80,governance_international
+Manufacturing,0,7,governance_international
+Manufacturing,1,104,governance_international
 Real Estate & Construction,0,1,governance_international
 Real Estate & Construction,1,15,governance_international
-Technology,0,11,governance_international
-Technology,1,117,governance_international
+Technology,0,10,governance_international
+Technology,1,118,governance_international
 Trade & Services,0,4,governance_international
 Trade & Services,1,101,governance_international
