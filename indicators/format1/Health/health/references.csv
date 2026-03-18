@@ -10,7 +10,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1477845/000155837025003482/anvs-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Annovis Bio, Inc.",1477845
 2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1695473/000164117225000512/form10-k.htm#:~:text=Alzheimer,Life Sciences,"Greater Cannabis Company, Inc.",1695473
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1711786/000101376225004108/ea0233805-10k_hoth.htm#:~:text=Alzheimer,Life Sciences,"Hoth Therapeutics, Inc.",1711786
-2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1835022/000095017025040782/coya-20241231.htm#:~:text=Alzheimer,Life Sciences,"Coya Therapeutics, Inc.",1835022
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=Alzheimer,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1819411/000155837025003823/ganx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Gain Therapeutics, Inc.",1819411
 2025-03-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Alzheimer,Industrial Applications and Services,Solana Co,1610853
@@ -30,12 +29,9 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/882361/000095017025046366/apto-20241231.htm#:~:text=Alzheimer,Life Sciences,Aptose Biosciences Inc.,882361
 2025-03-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1841330/000101376225001646/ea0230888-10k_pasithea.htm#:~:text=Alzheimer,Life Sciences,Pasithea Therapeutics Corp.,1841330
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/862861/000162828025015469/alts-20241228.htm#:~:text=Alzheimer,Crypto Assets,ALT5 Sigma Corp,862861
-2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1368514/000114036125009257/ef20038923_10k.htm#:~:text=Alzheimer,Life Sciences,"ADMA BIOLOGICS, INC.",1368514
 2025-03-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1643154/000095017025043874/ithuf-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"iANTHUS CAPITAL HOLDINGS, INC.",1643154
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1862150/000164117225000970/form10-k.htm#:~:text=Alzheimer,Life Sciences,Cingulate Inc.,1862150
-2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1703647/000095017025040759/krro-20241231.htm#:~:text=Alzheimer,Life Sciences,"Korro Bio, Inc.",1703647
 2025-03-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1662774/000166277425000012/qncx-20241231.htm#:~:text=Alzheimer,Life Sciences,"Quince Therapeutics, Inc.",1662774
-2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=Alzheimer,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1966394/000196639425000025/fnlr-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,Fortress Net Lease REIT,1966394
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1709941/000095017025042759/bioa-20241231.htm#:~:text=Obesity,Life Sciences,"BioAge Labs, Inc.",1709941
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/2040807/000095017025044778/mtsr-20241231.htm#:~:text=Obesity,Life Sciences,"Metsera, Inc.",2040807
@@ -49,7 +45,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1859007/000164117225000862/form10-k.htm#:~:text=Obesity,Life Sciences,"ZyVersa Therapeutics, Inc.",1859007
 2025-03-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1984086/000095017025045745/sepn-20241231.htm#:~:text=Obesity,Life Sciences,"Septerna, Inc.",1984086
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1711786/000101376225004108/ea0233805-10k_hoth.htm#:~:text=Obesity,Life Sciences,"Hoth Therapeutics, Inc.",1711786
-2025-03-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=Obesity,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1638097/000117891325001112/zk2532895.htm#:~:text=Obesity,Life Sciences,Entera Bio Ltd.,1638097
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1140215/000164117225001344/form10-k.htm#:~:text=Obesity,Manufacturing,"REED'S, INC.",1140215
 2025-03-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1561921/000155837025003460/tela-20241231x10k.htm#:~:text=Obesity,Industrial Applications and Services,"TELA Bio, Inc.",1561921
@@ -59,7 +54,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1826457/000095017025042344/glue-20241231.htm#:~:text=Obesity,Life Sciences,"Monte Rosa Therapeutics, Inc.",1826457
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1651407/000141057825000528/ckpt-20241231x10k.htm#:~:text=Obesity,Life Sciences,"Checkpoint Therapeutics, Inc.",1651407
 2025-03-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/34956/000095017025044398/tennx-20241231.htm#:~:text=Obesity,Life Sciences,"TENAX THERAPEUTICS, INC.",34956
-2025-03-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1101026/000165495425002948/zivo_10k.htm#:~:text=Obesity,Life Sciences,"Zivo Bioscience, Inc.",1101026
 2025-03-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1417663/000162828025014141/snwv-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"SANUWAVE Health, Inc.",1417663
 2025-03-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1509745/000141057825000454/lptx-20241231x10k.htm#:~:text=Obesity,Life Sciences,CYPHERPUNK TECHNOLOGIES INC.,1509745
 2025-03-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=Obesity,Life Sciences,ALUMIS INC.,1847367
@@ -82,7 +76,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,nash_domestic,https://www.sec.gov/Archives/edgar/data/1641489/000164148925000014/vtvt-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,vTv Therapeutics Inc.,1641489
 2025-03-27,nash_domestic,https://www.sec.gov/Archives/edgar/data/1831868/000095017025046200/icu-20241231.htm#:~:text=Non-alcoholic%20steatohepatitis,Industrial Applications and Services,SeaStar Medical Holding Corp,1831868
 2025-03-28,nash_domestic,https://www.sec.gov/Archives/edgar/data/1896212/000164117225001246/form10-k.htm#:~:text=Non-alcoholic%20steatohepatitis,Life Sciences,CDT Equity Inc.,1896212
-2025-03-18,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=PTSD,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=PTSD,Life Sciences,"Silo Pharma, Inc.",1514183
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1904286/000164117225001183/form10-k.htm#:~:text=PTSD,Life Sciences,"MIRA PHARMACEUTICALS, INC.",1904286
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/890821/000164117225001296/form10-k.htm#:~:text=PTSD,Life Sciences,"Enveric Biosciences, Inc.",890821
@@ -104,7 +97,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,obesity_international,https://www.sec.gov/Archives/edgar/data/1116578/000110465925027998/puk-20241231x20f.htm#:~:text=Obesity,Finance,PRUDENTIAL PLC,1116578
 2025-03-27,obesity_international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=Obesity,Finance,AEGON LTD.,769218
 2025-03-21,h1n1-swine_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465925026392/tm259925d1_ex99-2.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Life Sciences,"Traws Pharma, Inc.",1130598
-2025-03-18,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002787/ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125003011/ex99-02.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-03-28,mpox_domestic,https://www.sec.gov/Archives/edgar/data/832489/000143774925009859/ex_795727.htm#:~:text=mpox&text=monkeypox,Life Sciences,"GeoVax Labs, Inc.",832489
 2025-03-26,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809

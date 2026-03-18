@@ -33,7 +33,7 @@ Trade & Services,1,1,exploration_domestic
 Energy & Transportation,1,3,commercial_domestic
 Manufacturing,0,2,commercial_domestic
 Manufacturing,1,7,commercial_domestic
-Real Estate & Construction,1,6,commercial_domestic
+Real Estate & Construction,1,5,commercial_domestic
 Technology,1,2,commercial_domestic
 Manufacturing,1,1,partnerships_domestic
 Technology,1,1,partnerships_domestic
@@ -58,5 +58,5 @@ Finance,1,2,satellite_international
 Industrial Applications and Services,1,1,satellite_international
 Manufacturing,0,3,satellite_international
 Manufacturing,1,9,satellite_international
-Technology,0,4,satellite_international
-Technology,1,14,satellite_international
+Technology,0,3,satellite_international
+Technology,1,15,satellite_international

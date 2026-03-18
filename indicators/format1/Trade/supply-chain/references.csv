@@ -11,7 +11,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1089063/000108906325000012/dks-20250201.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"DICK'S SPORTING GOODS, INC.",1089063
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/100591/000155837025003819/agx-20250131x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,ARGAN INC,100591
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1474432/000162828025015044/pstg-20250202.htm#:~:text=Supply%20chain%20constraints,Technology,"Everpure, Inc.",1474432
-2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1368514/000114036125009257/ef20038923_10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"ADMA BIOLOGICS, INC.",1368514
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1141688/000164117225000643/form10-k.htm#:~:text=Supply%20chain%20constraints,Finance,LANDMARK BANCORP INC,1141688
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1856525/000185652525000081/cnm-20250202.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Core & Main, Inc.",1856525
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Solana Co,1610853
@@ -19,7 +18,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1649744/000164974425000006/dlth-20250202x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,DULUTH HOLDINGS INC.,1649744
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1058307/000143774925008787/nxpl20241231_10k.htm#:~:text=Supply%20chain%20constraints,,,1058307
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1641281/000095017025043873/bolt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Bolt Biotherapeutics, Inc.",1641281
-2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1606909/000160690925000097/panl-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pangaea Logistics Solutions Ltd.,1606909
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1598981/000164117225000290/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SKYX Platforms Corp.,1598981
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1750149/000095017025046096/ikt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Inhibikase Therapeutics, Inc.",1750149
 2025-03-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/839470/000155837025003382/wwr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"WESTWATER RESOURCES, INC.",839470
@@ -46,7 +44,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2018545/000201854525000007/fbredbdc-20241231.htm#:~:text=Supply%20chain%20constraints,,Franklin BSP Real Estate Debt BDC,2018545
 2025-03-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1455365/000155837025003341/cgtx-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,COGNITION THERAPEUTICS INC,1455365
 2025-03-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1819576/000155837025003237/lqda-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Liquidia Corp,1819576
-2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1823239/000182323925000034/mrvi-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"MARAVAI LIFESCIENCES HOLDINGS, INC.",1823239
 2025-03-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1790340/000179034025000042/imrx-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Immuneering Corp,1790340
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1860782/000186078225000024/tsvt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"2seventy bio, Inc.",1860782
 2025-03-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1534969/000095017025042017/sera-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"SERA PROGNOSTICS, INC.",1534969
@@ -57,8 +54,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1329842/000141057825000409/fhlbny-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Finance,Federal Home Loan Bank of New York,1329842
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1817241/000095017025043837/artv-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Artiva Biotherapeutics, Inc.",1817241
 2025-03-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1535778/000153577825000073/msif-20241231.htm#:~:text=Supply%20chain%20constraints,,"MSC INCOME FUND, INC.",1535778
-2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1976336/000095017025041127/ck0001976336-20241231.htm#:~:text=Supply%20chain%20constraints,,Antares Private Credit Fund,1976336
-2025-03-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1993402/000095017025040578/ck0001993402-20241231.htm#:~:text=Supply%20chain%20constraints,,Antares Strategic Credit Fund,1993402
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1564180/000155837025003754/knop-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,KNOT Offshore Partners LP,1564180
 2025-03-25,constraints_intl,https://www.sec.gov/Archives/edgar/data/1978867/000110465925027667/cdlr-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Cadeler A/S,1978867
 2025-03-28,constraints_intl,https://www.sec.gov/Archives/edgar/data/1640043/000164117225001092/form20-f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pyxis Tankers Inc.,1640043

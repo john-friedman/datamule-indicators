@@ -5,18 +5,18 @@ Energy & Transportation,0,6,domestic
 Energy & Transportation,1,108,domestic
 Finance,0,3,domestic
 Finance,1,110,domestic
-Industrial Applications and Services,0,12,domestic
-Industrial Applications and Services,1,135,domestic
-Life Sciences,0,69,domestic
-Life Sciences,1,279,domestic
+Industrial Applications and Services,0,11,domestic
+Industrial Applications and Services,1,134,domestic
+Life Sciences,0,62,domestic
+Life Sciences,1,281,domestic
 Manufacturing,0,10,domestic
-Manufacturing,1,156,domestic
-Real Estate & Construction,0,10,domestic
+Manufacturing,1,155,domestic
+Real Estate & Construction,0,9,domestic
 Real Estate & Construction,1,92,domestic
-Technology,0,21,domestic
-Technology,1,195,domestic
+Technology,0,20,domestic
+Technology,1,196,domestic
 Trade & Services,0,10,domestic
-Trade & Services,1,148,domestic
+Trade & Services,1,147,domestic
 Crypto Assets,1,8,international
 Energy & Transportation,0,2,international
 Energy & Transportation,1,18,international
@@ -28,7 +28,7 @@ Life Sciences,1,39,international
 Manufacturing,0,3,international
 Manufacturing,1,34,international
 Real Estate & Construction,1,6,international
-Technology,0,9,international
-Technology,1,61,international
+Technology,0,8,international
+Technology,1,60,international
 Trade & Services,0,1,international
 Trade & Services,1,45,international
