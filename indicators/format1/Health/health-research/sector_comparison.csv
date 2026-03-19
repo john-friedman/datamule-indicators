@@ -15,19 +15,19 @@ Crypto Assets,1,4,orphan-drug_domestic
 Energy & Transportation,1,1,orphan-drug_domestic
 Industrial Applications and Services,0,7,orphan-drug_domestic
 Industrial Applications and Services,1,23,orphan-drug_domestic
-Life Sciences,0,169,orphan-drug_domestic
-Life Sciences,1,536,orphan-drug_domestic
+Life Sciences,0,162,orphan-drug_domestic
+Life Sciences,1,528,orphan-drug_domestic
 Real Estate & Construction,1,1,orphan-drug_domestic
 Trade & Services,0,1,orphan-drug_domestic
 Trade & Services,1,2,orphan-drug_domestic
 Industrial Applications and Services,0,1,orphan-drug_international
 Industrial Applications and Services,1,5,orphan-drug_international
-Life Sciences,0,12,orphan-drug_international
+Life Sciences,0,10,orphan-drug_international
 Life Sciences,1,84,orphan-drug_international
 Crypto Assets,1,1,genomic_domestic
 Industrial Applications and Services,0,12,genomic_domestic
 Industrial Applications and Services,1,55,genomic_domestic
-Life Sciences,0,38,genomic_domestic
+Life Sciences,0,35,genomic_domestic
 Life Sciences,1,141,genomic_domestic
 Manufacturing,0,1,genomic_domestic
 Manufacturing,1,2,genomic_domestic
@@ -37,7 +37,7 @@ Technology,1,4,genomic_domestic
 Trade & Services,1,7,genomic_domestic
 Industrial Applications and Services,0,2,genomic_international
 Industrial Applications and Services,1,9,genomic_international
-Life Sciences,0,3,genomic_international
+Life Sciences,0,2,genomic_international
 Life Sciences,1,21,genomic_international
 Manufacturing,0,1,genomic_international
 Manufacturing,1,6,genomic_international
@@ -65,8 +65,7 @@ Trade & Services,1,30,healthcare-blockchain_domestic
 Crypto Assets,1,4,healthcare-blockchain_international
 Energy & Transportation,0,1,healthcare-blockchain_international
 Energy & Transportation,1,4,healthcare-blockchain_international
-Finance,0,1,healthcare-blockchain_international
-Finance,1,22,healthcare-blockchain_international
+Finance,1,23,healthcare-blockchain_international
 Industrial Applications and Services,1,2,healthcare-blockchain_international
 Life Sciences,0,1,healthcare-blockchain_international
 Life Sciences,1,3,healthcare-blockchain_international
@@ -75,4 +74,4 @@ Manufacturing,1,7,healthcare-blockchain_international
 Real Estate & Construction,1,1,healthcare-blockchain_international
 Technology,0,1,healthcare-blockchain_international
 Technology,1,31,healthcare-blockchain_international
-Trade & Services,1,9,healthcare-blockchain_international
+Trade & Services,1,8,healthcare-blockchain_international
