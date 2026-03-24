@@ -1,6 +1,4 @@
 filing_date,component,url,ownerOrg,name,cik
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1017303/000114036125010065/ef20039038_10k.htm#:~:text=Supply%20chain%20constraints,Technology,TRANSACT TECHNOLOGIES INC,1017303
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/20639/000114036125010025/ef20038924_10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,AmBase Corp,20639
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1140215/000164117225001344/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"REED'S, INC.",1140215
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/885508/000088550825000022/strs-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,STRATUS PROPERTIES INC,885508
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/701719/000070171925000007/ela-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Envela Corp,701719
@@ -13,10 +11,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1856525/000185652525000081/cnm-20250202.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Core & Main, Inc.",1856525
 2025-03-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1610853/000155837025003619/hsdt-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,Solana Co,1610853
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1798749/000155837025003750/avte-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Jade Biosciences, Inc.",1798749
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1649744/000164974425000006/dlth-20250202x10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,DULUTH HOLDINGS INC.,1649744
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1058307/000143774925008787/nxpl20241231_10k.htm#:~:text=Supply%20chain%20constraints,,,1058307
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1641281/000095017025043873/bolt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Bolt Biotherapeutics, Inc.",1641281
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1598981/000164117225000290/form10-k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SKYX Platforms Corp.,1598981
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1750149/000095017025046096/ikt-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Inhibikase Therapeutics, Inc.",1750149
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/864240/000143774925009524/sypr20241231_10k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,SYPRIS SOLUTIONS INC,864240
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1817004/000164117225000939/form10-k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"NEXTNRG, INC.",1817004
@@ -36,7 +30,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1719714/000095017025044787/mreo-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Mereo BioPharma Group plc,1719714
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1826000/000182600025000035/lat-20231231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Latch, Inc.",1826000
 2025-03-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1965934/000095017025045206/ck0001965934-20241231.htm#:~:text=Supply%20chain%20constraints,,Overland Advantage,1965934
-2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1817241/000095017025043837/artv-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Artiva Biotherapeutics, Inc.",1817241
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1564180/000155837025003754/knop-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,KNOT Offshore Partners LP,1564180
 2025-03-25,constraints_intl,https://www.sec.gov/Archives/edgar/data/1978867/000110465925027667/cdlr-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Cadeler A/S,1978867
 2025-03-28,constraints_intl,https://www.sec.gov/Archives/edgar/data/1640043/000164117225001092/form20-f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Pyxis Tankers Inc.,1640043

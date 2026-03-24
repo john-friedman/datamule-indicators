@@ -1,10 +1,7 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm#:~:text=Large%20Language%20Models,Manufacturing,AMBARELLA INC,1280263
-2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1734722/000173472225000007/path-20250131.htm#:~:text=Large%20Language%20Models,Technology,"UiPath, Inc.",1734722
-2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm#:~:text=Large%20Language%20Models,Energy & Transportation,Oklo Inc.,1849056
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=Large%20Language%20Models,Crypto Assets,Nakamoto Inc.,1946573
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1836833/000183683325000050/pl-20250131.htm#:~:text=Large%20Language%20Models,Manufacturing,Planet Labs PBC,1836833
-2025-03-24,general_domestic,https://www.sec.gov/Archives/edgar/data/1355839/000101376225001600/ea0233784-10k_intelligent.htm#:~:text=Large%20Language%20Models,Technology,INTELLIGENT PROTECTION MANAGEMENT CORP.,1355839
 2025-03-25,general_domestic,https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#:~:text=Large%20Language%20Models,Trade & Services,TON Strategy Co,1566610
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1583708/000158370825000051/s-20250131.htm#:~:text=Large%20Language%20Models,Technology,"SentinelOne, Inc.",1583708
 2025-03-26,general_domestic,https://www.sec.gov/Archives/edgar/data/1886894/000164117225000784/form10-k.htm#:~:text=Large%20Language%20Models,Technology,"Snail, Inc.",1886894
@@ -15,7 +12,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,openai_domestic,https://www.sec.gov/Archives/edgar/data/1583708/000158370825000051/s-20250131.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Technology,"SentinelOne, Inc.",1583708
 2025-03-26,google_domestic,https://www.sec.gov/Archives/edgar/data/1836833/000183683325000050/pl-20250131.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Manufacturing,Planet Labs PBC,1836833
 2025-03-26,google_domestic,https://www.sec.gov/Archives/edgar/data/1886894/000164117225000784/form10-k.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Snail, Inc.",1886894
-2025-03-24,google_domestic,https://www.sec.gov/Archives/edgar/data/1734722/000173472225000007/path-20250131.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"UiPath, Inc.",1734722
 2025-03-26,google_domestic,https://www.sec.gov/Archives/edgar/data/1583708/000158370825000051/s-20250131.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"SentinelOne, Inc.",1583708
 2025-03-26,google_domestic,https://www.sec.gov/Archives/edgar/data/1166388/000116638825000014/vrnt-20250131.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,VERINT SYSTEMS INC,1166388
 2025-03-27,google_domestic,https://www.sec.gov/Archives/edgar/data/2030781/000203078125000011/spparent-20250131x10k.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"SailPoint, Inc.",2030781
