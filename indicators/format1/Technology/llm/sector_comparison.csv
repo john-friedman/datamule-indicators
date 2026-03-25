@@ -11,8 +11,7 @@ Manufacturing,1,14,general_domestic
 Real Estate & Construction,1,11,general_domestic
 Technology,0,4,general_domestic
 Technology,1,82,general_domestic
-Trade & Services,0,1,general_domestic
-Trade & Services,1,21,general_domestic
+Trade & Services,1,22,general_domestic
 Crypto Assets,0,1,openai_domestic
 Crypto Assets,1,1,openai_domestic
 Energy & Transportation,1,8,openai_domestic
@@ -37,12 +36,12 @@ Technology,1,52,google_domestic
 Trade & Services,1,10,google_domestic
 Crypto Assets,1,1,general_international
 Energy & Transportation,1,2,general_international
-Finance,0,2,general_international
-Finance,1,7,general_international
+Finance,0,1,general_international
+Finance,1,8,general_international
 Life Sciences,1,1,general_international
 Manufacturing,1,3,general_international
-Technology,0,4,general_international
-Technology,1,27,general_international
+Technology,0,3,general_international
+Technology,1,28,general_international
 Trade & Services,1,4,general_international
 Technology,0,1,openai_international
 Technology,1,5,openai_international
