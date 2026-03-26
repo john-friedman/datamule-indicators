@@ -1,31 +1,30 @@
 ownerOrg,period,count,component
-Crypto Assets,1,18,domestic
+Crypto Assets,1,17,domestic
 Energy & Transportation,0,1,domestic
-Energy & Transportation,1,90,domestic
-Finance,0,7,domestic
-Finance,1,206,domestic
-Industrial Applications and Services,0,4,domestic
-Industrial Applications and Services,1,171,domestic
-Life Sciences,0,25,domestic
-Life Sciences,1,231,domestic
-Manufacturing,0,6,domestic
-Manufacturing,1,293,domestic
-Real Estate & Construction,0,8,domestic
-Real Estate & Construction,1,264,domestic
-Technology,0,4,domestic
+Energy & Transportation,1,88,domestic
+Finance,0,2,domestic
+Finance,1,208,domestic
+Industrial Applications and Services,0,3,domestic
+Industrial Applications and Services,1,170,domestic
+Life Sciences,0,18,domestic
+Life Sciences,1,230,domestic
+Manufacturing,0,4,domestic
+Manufacturing,1,292,domestic
+Real Estate & Construction,0,1,domestic
+Real Estate & Construction,1,270,domestic
+Technology,0,1,domestic
 Technology,1,183,domestic
-Trade & Services,0,14,domestic
-Trade & Services,1,325,domestic
+Trade & Services,0,6,domestic
+Trade & Services,1,329,domestic
 Crypto Assets,1,4,international
 Energy & Transportation,1,35,international
-Finance,0,2,international
+Finance,0,1,international
 Finance,1,31,international
 Industrial Applications and Services,0,2,international
 Industrial Applications and Services,1,21,international
 Life Sciences,1,17,international
 Manufacturing,1,75,international
 Real Estate & Construction,1,16,international
-Technology,0,2,international
-Technology,1,60,international
-Trade & Services,0,1,international
-Trade & Services,1,65,international
+Technology,0,1,international
+Technology,1,61,international
+Trade & Services,1,66,international
