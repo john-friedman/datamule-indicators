@@ -1,11 +1,7 @@
 filing_date,component,url,ownerOrg,name,cik
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm#:~:text=Large%20Language%20Models,Manufacturing,AMBARELLA INC,1280263
 2025-03-28,general_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=Large%20Language%20Models,Crypto Assets,Nakamoto Inc.,1946573
-2025-03-27,general_domestic,https://www.sec.gov/Archives/edgar/data/2030781/000203078125000011/spparent-20250131x10k.htm#:~:text=Large%20Language%20Models,Technology,"SailPoint, Inc.",2030781
-2025-03-27,general_domestic,https://www.sec.gov/Archives/edgar/data/1964979/000095017025046063/alur-20241231.htm#:~:text=Large%20Language%20Models,Industrial Applications and Services,"ALLURION TECHNOLOGIES, INC.",1964979
 2025-03-28,openai_domestic,https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Crypto Assets,Nakamoto Inc.,1946573
-2025-03-27,google_domestic,https://www.sec.gov/Archives/edgar/data/2030781/000203078125000011/spparent-20250131x10k.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"SailPoint, Inc.",2030781
 2025-03-28,general_international,https://www.sec.gov/Archives/edgar/data/1329099/000119312525066199/d853848d20f.htm#:~:text=Large%20Language%20Models,Technology,"Baidu, Inc.",1329099
-2025-03-27,general_international,https://www.sec.gov/Archives/edgar/data/769218/000119312525064638/d869711d20f.htm#:~:text=Large%20Language%20Models,Finance,AEGON LTD.,769218
 2025-03-28,openai_international,https://www.sec.gov/Archives/edgar/data/1329099/000119312525066199/d853848d20f.htm#:~:text=OpenAI%20%20Large%20Language%20Models&text=ChatGPT%20%20Large%20Language%20Models,Technology,"Baidu, Inc.",1329099
 2025-03-28,google_international,https://www.sec.gov/Archives/edgar/data/1329099/000119312525066199/d853848d20f.htm#:~:text=Bard%20%20Large%20Language%20Models&text=Gemini%20%20Large%20Language%20Models&text=Google%20%20Large%20Language%20Models,Technology,"Baidu, Inc.",1329099

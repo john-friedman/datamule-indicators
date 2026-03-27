@@ -5,35 +5,34 @@ Manufacturing,1,2,ai_domestic
 Technology,1,1,ai_domestic
 Trade & Services,1,2,ai_domestic
 Crypto Assets,1,1,ai_international
-Life Sciences,0,1,ai_international
-Life Sciences,1,2,ai_international
+Life Sciences,1,3,ai_international
 Manufacturing,1,1,ai_international
 Technology,1,2,ai_international
-Crypto Assets,0,2,orphan-drug_domestic
-Crypto Assets,1,3,orphan-drug_domestic
+Crypto Assets,0,1,orphan-drug_domestic
+Crypto Assets,1,4,orphan-drug_domestic
 Energy & Transportation,1,1,orphan-drug_domestic
-Industrial Applications and Services,0,6,orphan-drug_domestic
-Industrial Applications and Services,1,19,orphan-drug_domestic
-Life Sciences,0,93,orphan-drug_domestic
-Life Sciences,1,528,orphan-drug_domestic
+Industrial Applications and Services,0,5,orphan-drug_domestic
+Industrial Applications and Services,1,20,orphan-drug_domestic
+Life Sciences,0,57,orphan-drug_domestic
+Life Sciences,1,548,orphan-drug_domestic
 Real Estate & Construction,1,1,orphan-drug_domestic
 Trade & Services,0,1,orphan-drug_domestic
 Trade & Services,1,2,orphan-drug_domestic
-Industrial Applications and Services,1,6,orphan-drug_international
-Life Sciences,0,6,orphan-drug_international
-Life Sciences,1,77,orphan-drug_international
+Industrial Applications and Services,1,5,orphan-drug_international
+Life Sciences,0,3,orphan-drug_international
+Life Sciences,1,80,orphan-drug_international
 Crypto Assets,1,1,genomic_domestic
-Industrial Applications and Services,0,11,genomic_domestic
+Industrial Applications and Services,0,10,genomic_domestic
 Industrial Applications and Services,1,55,genomic_domestic
-Life Sciences,0,19,genomic_domestic
-Life Sciences,1,137,genomic_domestic
+Life Sciences,0,10,genomic_domestic
+Life Sciences,1,140,genomic_domestic
 Manufacturing,1,3,genomic_domestic
 Real Estate & Construction,1,1,genomic_domestic
 Technology,0,2,genomic_domestic
-Technology,1,4,genomic_domestic
+Technology,1,3,genomic_domestic
 Trade & Services,1,7,genomic_domestic
-Industrial Applications and Services,0,2,genomic_international
-Industrial Applications and Services,1,8,genomic_international
+Industrial Applications and Services,0,1,genomic_international
+Industrial Applications and Services,1,9,genomic_international
 Life Sciences,0,2,genomic_international
 Life Sciences,1,19,genomic_international
 Manufacturing,1,6,genomic_international
@@ -45,16 +44,15 @@ Crypto Assets,1,25,healthcare-blockchain_domestic
 Energy & Transportation,1,7,healthcare-blockchain_domestic
 Finance,0,2,healthcare-blockchain_domestic
 Finance,1,63,healthcare-blockchain_domestic
-Industrial Applications and Services,0,1,healthcare-blockchain_domestic
-Industrial Applications and Services,1,4,healthcare-blockchain_domestic
-Life Sciences,0,3,healthcare-blockchain_domestic
-Life Sciences,1,7,healthcare-blockchain_domestic
+Industrial Applications and Services,1,5,healthcare-blockchain_domestic
+Life Sciences,0,1,healthcare-blockchain_domestic
+Life Sciences,1,9,healthcare-blockchain_domestic
 Manufacturing,0,2,healthcare-blockchain_domestic
-Manufacturing,1,9,healthcare-blockchain_domestic
+Manufacturing,1,8,healthcare-blockchain_domestic
 Real Estate & Construction,0,3,healthcare-blockchain_domestic
-Real Estate & Construction,1,25,healthcare-blockchain_domestic
+Real Estate & Construction,1,24,healthcare-blockchain_domestic
 Technology,0,7,healthcare-blockchain_domestic
-Technology,1,36,healthcare-blockchain_domestic
+Technology,1,35,healthcare-blockchain_domestic
 Trade & Services,0,3,healthcare-blockchain_domestic
 Trade & Services,1,29,healthcare-blockchain_domestic
 Crypto Assets,1,4,healthcare-blockchain_international
@@ -66,5 +64,5 @@ Life Sciences,1,3,healthcare-blockchain_international
 Manufacturing,1,7,healthcare-blockchain_international
 Real Estate & Construction,1,1,healthcare-blockchain_international
 Technology,0,1,healthcare-blockchain_international
-Technology,1,30,healthcare-blockchain_international
+Technology,1,29,healthcare-blockchain_international
 Trade & Services,1,6,healthcare-blockchain_international
