@@ -2,32 +2,31 @@ ownerOrg,period,count,component
 Crypto Assets,1,4,alzheimer_domestic
 Finance,1,4,alzheimer_domestic
 Industrial Applications and Services,1,31,alzheimer_domestic
-Life Sciences,1,118,alzheimer_domestic
+Life Sciences,1,113,alzheimer_domestic
 Manufacturing,1,1,alzheimer_domestic
-Real Estate & Construction,1,20,alzheimer_domestic
-Technology,1,8,alzheimer_domestic
+Real Estate & Construction,1,15,alzheimer_domestic
+Technology,1,6,alzheimer_domestic
 Trade & Services,1,6,alzheimer_domestic
 Crypto Assets,1,2,obesity_domestic
-Industrial Applications and Services,1,54,obesity_domestic
-Life Sciences,1,117,obesity_domestic
-Manufacturing,1,26,obesity_domestic
-Real Estate & Construction,1,2,obesity_domestic
+Industrial Applications and Services,1,53,obesity_domestic
+Life Sciences,1,114,obesity_domestic
+Manufacturing,1,25,obesity_domestic
+Real Estate & Construction,1,1,obesity_domestic
 Technology,1,2,obesity_domestic
 Trade & Services,1,29,obesity_domestic
 Industrial Applications and Services,1,5,nash_domestic
-Life Sciences,1,22,nash_domestic
+Life Sciences,1,20,nash_domestic
 Crypto Assets,1,2,ptsd_domestic
 Energy & Transportation,1,1,ptsd_domestic
 Industrial Applications and Services,1,6,ptsd_domestic
-Life Sciences,1,30,ptsd_domestic
+Life Sciences,1,28,ptsd_domestic
 Manufacturing,1,1,ptsd_domestic
-Real Estate & Construction,1,3,ptsd_domestic
+Real Estate & Construction,1,2,ptsd_domestic
 Technology,1,3,ptsd_domestic
 Trade & Services,1,3,ptsd_domestic
-Energy & Transportation,1,1,alzheimer_international
 Finance,1,1,alzheimer_international
 Industrial Applications and Services,1,1,alzheimer_international
-Life Sciences,1,24,alzheimer_international
+Life Sciences,1,23,alzheimer_international
 Manufacturing,1,1,alzheimer_international
 Technology,1,1,alzheimer_international
 Energy & Transportation,1,2,obesity_international
