@@ -1,13 +1,13 @@
 ownerOrg,period,count,component
 Crypto Assets,1,7,constraints_domestic
-Energy & Transportation,1,88,constraints_domestic
+Energy & Transportation,1,87,constraints_domestic
 Finance,1,26,constraints_domestic
-Industrial Applications and Services,1,78,constraints_domestic
-Life Sciences,1,65,constraints_domestic
-Manufacturing,1,145,constraints_domestic
-Real Estate & Construction,1,40,constraints_domestic
-Technology,1,78,constraints_domestic
-Trade & Services,1,60,constraints_domestic
+Industrial Applications and Services,1,74,constraints_domestic
+Life Sciences,1,62,constraints_domestic
+Manufacturing,1,134,constraints_domestic
+Real Estate & Construction,1,38,constraints_domestic
+Technology,1,74,constraints_domestic
+Trade & Services,1,59,constraints_domestic
 Energy & Transportation,1,23,constraints_intl
 Finance,1,4,constraints_intl
 Industrial Applications and Services,1,4,constraints_intl

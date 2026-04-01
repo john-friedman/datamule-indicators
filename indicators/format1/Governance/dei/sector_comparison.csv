@@ -1,30 +1,30 @@
 ownerOrg,period,count,component
-Crypto Assets,1,4,diversity_domestic
-Energy & Transportation,1,92,diversity_domestic
+Crypto Assets,1,3,diversity_domestic
+Energy & Transportation,1,91,diversity_domestic
 Finance,1,87,diversity_domestic
-Industrial Applications and Services,1,78,diversity_domestic
-Life Sciences,1,86,diversity_domestic
-Manufacturing,1,100,diversity_domestic
-Real Estate & Construction,1,59,diversity_domestic
-Technology,1,87,diversity_domestic
-Trade & Services,1,99,diversity_domestic
-Crypto Assets,1,24,equity_domestic
-Energy & Transportation,1,126,equity_domestic
+Industrial Applications and Services,1,74,diversity_domestic
+Life Sciences,1,82,diversity_domestic
+Manufacturing,1,94,diversity_domestic
+Real Estate & Construction,1,58,diversity_domestic
+Technology,1,80,diversity_domestic
+Trade & Services,1,96,diversity_domestic
+Crypto Assets,1,21,equity_domestic
+Energy & Transportation,1,123,equity_domestic
 Finance,1,183,equity_domestic
-Industrial Applications and Services,1,165,equity_domestic
-Life Sciences,1,186,equity_domestic
-Manufacturing,1,209,equity_domestic
-Real Estate & Construction,1,224,equity_domestic
-Technology,1,191,equity_domestic
-Trade & Services,1,235,equity_domestic
+Industrial Applications and Services,1,160,equity_domestic
+Life Sciences,1,178,equity_domestic
+Manufacturing,1,201,equity_domestic
+Real Estate & Construction,1,200,equity_domestic
+Technology,1,177,equity_domestic
+Trade & Services,1,226,equity_domestic
 Crypto Assets,1,8,inclusion_domestic
-Energy & Transportation,1,109,inclusion_domestic
+Energy & Transportation,1,108,inclusion_domestic
 Finance,1,143,inclusion_domestic
-Industrial Applications and Services,1,93,inclusion_domestic
-Life Sciences,1,64,inclusion_domestic
-Manufacturing,1,138,inclusion_domestic
+Industrial Applications and Services,1,92,inclusion_domestic
+Life Sciences,1,63,inclusion_domestic
+Manufacturing,1,136,inclusion_domestic
 Real Estate & Construction,1,67,inclusion_domestic
-Technology,1,136,inclusion_domestic
+Technology,1,134,inclusion_domestic
 Trade & Services,1,147,inclusion_domestic
 Crypto Assets,1,3,diversity_international
 Energy & Transportation,1,22,diversity_international
@@ -37,12 +37,12 @@ Technology,1,19,diversity_international
 Trade & Services,1,10,diversity_international
 Crypto Assets,1,3,equity_international
 Energy & Transportation,1,34,equity_international
-Finance,1,29,equity_international
+Finance,1,28,equity_international
 Industrial Applications and Services,1,23,equity_international
 Life Sciences,1,32,equity_international
 Manufacturing,1,43,equity_international
 Real Estate & Construction,1,6,equity_international
-Technology,1,58,equity_international
+Technology,1,57,equity_international
 Trade & Services,1,29,equity_international
 Crypto Assets,1,1,inclusion_international
 Energy & Transportation,1,20,inclusion_international
