@@ -31,7 +31,7 @@ Technology,1,8,technology_domestic
 Finance,1,1,risks_domestic
 Manufacturing,1,1,risks_domestic
 Real Estate & Construction,1,2,risks_domestic
-Energy & Transportation,1,9,launch_international
+Energy & Transportation,1,8,launch_international
 Industrial Applications and Services,1,1,launch_international
 Manufacturing,1,9,launch_international
 Technology,1,6,launch_international
@@ -39,4 +39,4 @@ Energy & Transportation,1,5,satellite_international
 Finance,1,2,satellite_international
 Industrial Applications and Services,1,1,satellite_international
 Manufacturing,1,7,satellite_international
-Technology,1,13,satellite_international
+Technology,1,12,satellite_international

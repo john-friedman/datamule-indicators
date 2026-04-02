@@ -6,28 +6,28 @@ Industrial Applications and Services,1,12,power_domestic
 Life Sciences,1,4,power_domestic
 Manufacturing,1,24,power_domestic
 Real Estate & Construction,1,4,power_domestic
-Technology,1,11,power_domestic
+Technology,1,10,power_domestic
 Trade & Services,1,9,power_domestic
 Energy & Transportation,1,106,fuel_domestic
 Finance,1,2,fuel_domestic
 Industrial Applications and Services,1,6,fuel_domestic
 Manufacturing,1,2,fuel_domestic
 Real Estate & Construction,1,1,fuel_domestic
-Technology,1,2,fuel_domestic
+Technology,1,1,fuel_domestic
 Trade & Services,1,1,fuel_domestic
 Energy & Transportation,1,3,technology_domestic
 Industrial Applications and Services,1,38,technology_domestic
-Life Sciences,1,96,technology_domestic
+Life Sciences,1,95,technology_domestic
 Manufacturing,1,6,technology_domestic
 Real Estate & Construction,1,3,technology_domestic
-Technology,1,5,technology_domestic
+Technology,1,4,technology_domestic
 Trade & Services,1,3,technology_domestic
 Energy & Transportation,1,90,services_domestic
 Finance,1,2,services_domestic
 Industrial Applications and Services,1,4,services_domestic
 Manufacturing,1,9,services_domestic
 Real Estate & Construction,1,2,services_domestic
-Technology,1,3,services_domestic
+Technology,1,2,services_domestic
 Trade & Services,1,1,services_domestic
 Energy & Transportation,1,91,regulation_domestic
 Finance,1,1,regulation_domestic
@@ -56,5 +56,5 @@ Industrial Applications and Services,1,3,research_domestic
 Life Sciences,1,2,research_domestic
 Manufacturing,1,2,research_domestic
 Real Estate & Construction,1,1,research_domestic
-Technology,1,2,research_domestic
+Technology,1,1,research_domestic
 Trade & Services,1,1,research_domestic
