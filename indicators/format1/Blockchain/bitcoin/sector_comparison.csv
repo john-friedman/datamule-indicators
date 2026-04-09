@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
-Crypto Assets,0,4,adoption_domestic
-Crypto Assets,1,77,adoption_domestic
+Crypto Assets,0,3,adoption_domestic
+Crypto Assets,1,78,adoption_domestic
 Energy & Transportation,0,1,adoption_domestic
 Energy & Transportation,1,11,adoption_domestic
 Finance,0,1,adoption_domestic
@@ -12,12 +12,12 @@ Manufacturing,0,3,adoption_domestic
 Manufacturing,1,11,adoption_domestic
 Office of Structured Finance,1,410,adoption_domestic
 Real Estate & Construction,0,5,adoption_domestic
-Real Estate & Construction,1,17,adoption_domestic
+Real Estate & Construction,1,16,adoption_domestic
 Technology,0,6,adoption_domestic
 Technology,1,27,adoption_domestic
-Trade & Services,0,5,adoption_domestic
-Trade & Services,1,19,adoption_domestic
-Crypto Assets,0,46,holdings_domestic
+Trade & Services,0,4,adoption_domestic
+Trade & Services,1,20,adoption_domestic
+Crypto Assets,0,45,holdings_domestic
 Crypto Assets,1,75,holdings_domestic
 Energy & Transportation,1,1,holdings_domestic
 Finance,0,2,holdings_domestic
@@ -35,8 +35,8 @@ Trade & Services,0,2,holdings_domestic
 Trade & Services,1,2,holdings_domestic
 Crypto Assets,0,1,mining_domestic
 Crypto Assets,1,52,mining_domestic
-Energy & Transportation,0,12,mining_domestic
-Energy & Transportation,1,161,mining_domestic
+Energy & Transportation,0,10,mining_domestic
+Energy & Transportation,1,163,mining_domestic
 Finance,0,2,mining_domestic
 Finance,1,7,mining_domestic
 Industrial Applications and Services,0,2,mining_domestic
@@ -45,7 +45,7 @@ Life Sciences,1,2,mining_domestic
 Manufacturing,0,2,mining_domestic
 Manufacturing,1,27,mining_domestic
 Real Estate & Construction,0,1,mining_domestic
-Real Estate & Construction,1,14,mining_domestic
+Real Estate & Construction,1,13,mining_domestic
 Technology,0,5,mining_domestic
 Technology,1,25,mining_domestic
 Trade & Services,0,5,mining_domestic
