@@ -5,7 +5,7 @@ Finance,1,2,power_domestic
 Industrial Applications and Services,1,11,power_domestic
 Life Sciences,1,4,power_domestic
 Manufacturing,1,24,power_domestic
-Real Estate & Construction,1,4,power_domestic
+Real Estate & Construction,1,3,power_domestic
 Technology,1,10,power_domestic
 Trade & Services,1,9,power_domestic
 Energy & Transportation,1,106,fuel_domestic
@@ -16,7 +16,7 @@ Real Estate & Construction,1,1,fuel_domestic
 Technology,1,1,fuel_domestic
 Trade & Services,1,1,fuel_domestic
 Energy & Transportation,1,3,technology_domestic
-Industrial Applications and Services,1,36,technology_domestic
+Industrial Applications and Services,1,35,technology_domestic
 Life Sciences,1,95,technology_domestic
 Manufacturing,1,6,technology_domestic
 Real Estate & Construction,1,3,technology_domestic
