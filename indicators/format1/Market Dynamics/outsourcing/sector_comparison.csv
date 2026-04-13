@@ -4,7 +4,7 @@ Energy & Transportation,1,103,domestic
 Finance,1,100,domestic
 Industrial Applications and Services,1,119,domestic
 Life Sciences,1,240,domestic
-Manufacturing,1,144,domestic
+Manufacturing,1,142,domestic
 Real Estate & Construction,1,84,domestic
 Technology,1,176,domestic
 Trade & Services,1,133,domestic
@@ -12,8 +12,8 @@ Crypto Assets,1,7,international
 Energy & Transportation,1,15,international
 Finance,1,7,international
 Industrial Applications and Services,1,13,international
-Life Sciences,1,30,international
-Manufacturing,1,30,international
+Life Sciences,1,29,international
+Manufacturing,1,29,international
 Real Estate & Construction,1,6,international
-Technology,1,54,international
-Trade & Services,1,42,international
+Technology,1,52,international
+Trade & Services,1,40,international

@@ -4,7 +4,7 @@ Energy & Transportation,1,85,constraints_domestic
 Finance,1,25,constraints_domestic
 Industrial Applications and Services,1,72,constraints_domestic
 Life Sciences,1,62,constraints_domestic
-Manufacturing,1,134,constraints_domestic
+Manufacturing,1,131,constraints_domestic
 Real Estate & Construction,1,38,constraints_domestic
 Technology,1,72,constraints_domestic
 Trade & Services,1,56,constraints_domestic
@@ -12,6 +12,6 @@ Energy & Transportation,1,19,constraints_intl
 Finance,1,4,constraints_intl
 Industrial Applications and Services,1,4,constraints_intl
 Life Sciences,1,2,constraints_intl
-Manufacturing,1,19,constraints_intl
+Manufacturing,1,18,constraints_intl
 Technology,1,8,constraints_intl
 Trade & Services,1,4,constraints_intl

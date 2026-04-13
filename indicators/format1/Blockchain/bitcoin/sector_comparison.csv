@@ -9,7 +9,7 @@ Industrial Applications and Services,0,2,adoption_domestic
 Industrial Applications and Services,1,9,adoption_domestic
 Life Sciences,1,14,adoption_domestic
 Manufacturing,0,3,adoption_domestic
-Manufacturing,1,11,adoption_domestic
+Manufacturing,1,10,adoption_domestic
 Office of Structured Finance,1,410,adoption_domestic
 Real Estate & Construction,0,5,adoption_domestic
 Real Estate & Construction,1,14,adoption_domestic
@@ -36,14 +36,14 @@ Trade & Services,1,3,holdings_domestic
 Crypto Assets,0,1,mining_domestic
 Crypto Assets,1,51,mining_domestic
 Energy & Transportation,0,9,mining_domestic
-Energy & Transportation,1,164,mining_domestic
+Energy & Transportation,1,163,mining_domestic
 Finance,0,2,mining_domestic
 Finance,1,7,mining_domestic
 Industrial Applications and Services,0,1,mining_domestic
 Industrial Applications and Services,1,24,mining_domestic
 Life Sciences,1,2,mining_domestic
 Manufacturing,0,2,mining_domestic
-Manufacturing,1,27,mining_domestic
+Manufacturing,1,25,mining_domestic
 Real Estate & Construction,0,1,mining_domestic
 Real Estate & Construction,1,13,mining_domestic
 Technology,0,5,mining_domestic
