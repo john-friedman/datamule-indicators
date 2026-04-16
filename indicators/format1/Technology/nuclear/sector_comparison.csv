@@ -1,14 +1,14 @@
 ownerOrg,period,count,component
 Crypto Assets,1,2,power_domestic
-Energy & Transportation,1,109,power_domestic
+Energy & Transportation,1,108,power_domestic
 Finance,1,2,power_domestic
-Industrial Applications and Services,1,11,power_domestic
+Industrial Applications and Services,1,10,power_domestic
 Life Sciences,1,4,power_domestic
-Manufacturing,1,24,power_domestic
+Manufacturing,1,23,power_domestic
 Real Estate & Construction,1,3,power_domestic
-Technology,1,10,power_domestic
+Technology,1,9,power_domestic
 Trade & Services,1,9,power_domestic
-Energy & Transportation,1,106,fuel_domestic
+Energy & Transportation,1,105,fuel_domestic
 Finance,1,2,fuel_domestic
 Industrial Applications and Services,1,5,fuel_domestic
 Manufacturing,1,2,fuel_domestic
@@ -16,7 +16,7 @@ Real Estate & Construction,1,1,fuel_domestic
 Technology,1,1,fuel_domestic
 Trade & Services,1,1,fuel_domestic
 Energy & Transportation,1,3,technology_domestic
-Industrial Applications and Services,1,35,technology_domestic
+Industrial Applications and Services,1,34,technology_domestic
 Life Sciences,1,93,technology_domestic
 Manufacturing,1,6,technology_domestic
 Real Estate & Construction,1,3,technology_domestic
@@ -29,7 +29,7 @@ Manufacturing,1,9,services_domestic
 Real Estate & Construction,1,2,services_domestic
 Technology,1,2,services_domestic
 Trade & Services,1,1,services_domestic
-Energy & Transportation,1,91,regulation_domestic
+Energy & Transportation,1,90,regulation_domestic
 Finance,1,1,regulation_domestic
 Industrial Applications and Services,1,14,regulation_domestic
 Life Sciences,1,6,regulation_domestic
@@ -43,7 +43,7 @@ Industrial Applications and Services,1,3,fusion_domestic
 Manufacturing,1,1,fusion_domestic
 Technology,1,2,fusion_domestic
 Trade & Services,1,1,fusion_domestic
-Energy & Transportation,1,80,risk_domestic
+Energy & Transportation,1,79,risk_domestic
 Finance,1,2,risk_domestic
 Industrial Applications and Services,1,4,risk_domestic
 Manufacturing,1,3,risk_domestic

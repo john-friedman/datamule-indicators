@@ -1,25 +1,25 @@
 ownerOrg,period,count,component
 Crypto Assets,1,4,diversity_domestic
-Energy & Transportation,1,91,diversity_domestic
+Energy & Transportation,1,90,diversity_domestic
 Finance,1,86,diversity_domestic
-Industrial Applications and Services,1,72,diversity_domestic
+Industrial Applications and Services,1,71,diversity_domestic
 Life Sciences,1,80,diversity_domestic
 Manufacturing,1,91,diversity_domestic
-Real Estate & Construction,1,57,diversity_domestic
-Technology,1,76,diversity_domestic
-Trade & Services,1,86,diversity_domestic
-Crypto Assets,1,20,equity_domestic
-Energy & Transportation,1,119,equity_domestic
+Real Estate & Construction,1,56,diversity_domestic
+Technology,1,74,diversity_domestic
+Trade & Services,1,85,diversity_domestic
+Crypto Assets,1,18,equity_domestic
+Energy & Transportation,1,118,equity_domestic
 Finance,1,181,equity_domestic
-Industrial Applications and Services,1,156,equity_domestic
-Life Sciences,1,174,equity_domestic
-Manufacturing,1,199,equity_domestic
-Real Estate & Construction,1,180,equity_domestic
-Technology,1,176,equity_domestic
-Trade & Services,1,213,equity_domestic
-Crypto Assets,1,8,inclusion_domestic
+Industrial Applications and Services,1,152,equity_domestic
+Life Sciences,1,170,equity_domestic
+Manufacturing,1,197,equity_domestic
+Real Estate & Construction,1,171,equity_domestic
+Technology,1,173,equity_domestic
+Trade & Services,1,211,equity_domestic
+Crypto Assets,1,7,inclusion_domestic
 Energy & Transportation,1,108,inclusion_domestic
-Finance,1,143,inclusion_domestic
+Finance,1,142,inclusion_domestic
 Industrial Applications and Services,1,91,inclusion_domestic
 Life Sciences,1,62,inclusion_domestic
 Manufacturing,1,134,inclusion_domestic
