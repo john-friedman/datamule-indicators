@@ -11,11 +11,11 @@ Trade & Services,1,85,diversity_domestic
 Crypto Assets,1,18,equity_domestic
 Energy & Transportation,1,118,equity_domestic
 Finance,1,181,equity_domestic
-Industrial Applications and Services,1,152,equity_domestic
-Life Sciences,1,170,equity_domestic
+Industrial Applications and Services,1,151,equity_domestic
+Life Sciences,1,169,equity_domestic
 Manufacturing,1,197,equity_domestic
-Real Estate & Construction,1,171,equity_domestic
-Technology,1,173,equity_domestic
+Real Estate & Construction,1,164,equity_domestic
+Technology,1,172,equity_domestic
 Trade & Services,1,211,equity_domestic
 Crypto Assets,1,7,inclusion_domestic
 Energy & Transportation,1,108,inclusion_domestic
@@ -23,7 +23,7 @@ Finance,1,142,inclusion_domestic
 Industrial Applications and Services,1,91,inclusion_domestic
 Life Sciences,1,62,inclusion_domestic
 Manufacturing,1,134,inclusion_domestic
-Real Estate & Construction,1,66,inclusion_domestic
+Real Estate & Construction,1,65,inclusion_domestic
 Technology,1,131,inclusion_domestic
 Trade & Services,1,142,inclusion_domestic
 Crypto Assets,1,3,diversity_international
@@ -33,20 +33,20 @@ Industrial Applications and Services,1,9,diversity_international
 Life Sciences,1,14,diversity_international
 Manufacturing,1,26,diversity_international
 Real Estate & Construction,1,3,diversity_international
-Technology,1,18,diversity_international
+Technology,1,17,diversity_international
 Trade & Services,1,10,diversity_international
 Crypto Assets,1,3,equity_international
-Energy & Transportation,1,32,equity_international
+Energy & Transportation,1,31,equity_international
 Finance,1,26,equity_international
 Industrial Applications and Services,1,22,equity_international
 Life Sciences,1,26,equity_international
 Manufacturing,1,39,equity_international
 Real Estate & Construction,1,6,equity_international
 Technology,1,52,equity_international
-Trade & Services,1,28,equity_international
+Trade & Services,1,27,equity_international
 Crypto Assets,1,1,inclusion_international
 Energy & Transportation,1,18,inclusion_international
-Finance,1,17,inclusion_international
+Finance,1,16,inclusion_international
 Industrial Applications and Services,1,7,inclusion_international
 Life Sciences,1,7,inclusion_international
 Manufacturing,1,13,inclusion_international
