@@ -7,10 +7,10 @@ Life Sciences,1,93,environmental_domestic
 Manufacturing,1,418,environmental_domestic
 Real Estate & Construction,1,323,environmental_domestic
 Technology,1,221,environmental_domestic
-Trade & Services,1,279,environmental_domestic
+Trade & Services,1,277,environmental_domestic
 Crypto Assets,1,55,social_domestic
 Energy & Transportation,1,243,social_domestic
-Finance,1,210,social_domestic
+Finance,1,209,social_domestic
 Industrial Applications and Services,1,154,social_domestic
 Life Sciences,1,105,social_domestic
 Manufacturing,1,268,social_domestic
@@ -19,37 +19,37 @@ Technology,1,183,social_domestic
 Trade & Services,1,231,social_domestic
 Crypto Assets,1,9,governance_domestic
 Energy & Transportation,1,129,governance_domestic
-Finance,1,201,governance_domestic
+Finance,1,200,governance_domestic
 Industrial Applications and Services,1,101,governance_domestic
 Life Sciences,1,113,governance_domestic
 Manufacturing,1,135,governance_domestic
 Real Estate & Construction,1,70,governance_domestic
 Technology,1,137,governance_domestic
-Trade & Services,1,120,governance_domestic
-Crypto Assets,1,12,environmental_international
-Energy & Transportation,1,115,environmental_international
-Finance,1,39,environmental_international
+Trade & Services,1,119,governance_domestic
+Crypto Assets,1,11,environmental_international
+Energy & Transportation,1,112,environmental_international
+Finance,1,38,environmental_international
 Industrial Applications and Services,1,22,environmental_international
-Life Sciences,1,25,environmental_international
-Manufacturing,1,85,environmental_international
+Life Sciences,1,24,environmental_international
+Manufacturing,1,81,environmental_international
 Real Estate & Construction,1,15,environmental_international
-Technology,1,67,environmental_international
-Trade & Services,1,30,environmental_international
+Technology,1,62,environmental_international
+Trade & Services,1,29,environmental_international
 Crypto Assets,1,8,social_international
-Energy & Transportation,1,92,social_international
-Finance,1,44,social_international
+Energy & Transportation,1,88,social_international
+Finance,1,42,social_international
 Industrial Applications and Services,1,21,social_international
-Life Sciences,1,33,social_international
-Manufacturing,1,71,social_international
+Life Sciences,1,31,social_international
+Manufacturing,1,68,social_international
 Real Estate & Construction,1,14,social_international
-Technology,1,54,social_international
-Trade & Services,1,52,social_international
-Crypto Assets,1,15,governance_international
-Energy & Transportation,1,68,governance_international
-Finance,1,50,governance_international
-Industrial Applications and Services,1,29,governance_international
-Life Sciences,1,50,governance_international
-Manufacturing,1,76,governance_international
+Technology,1,52,social_international
+Trade & Services,1,50,social_international
+Crypto Assets,1,14,governance_international
+Energy & Transportation,1,67,governance_international
+Finance,1,49,governance_international
+Industrial Applications and Services,1,28,governance_international
+Life Sciences,1,48,governance_international
+Manufacturing,1,72,governance_international
 Real Estate & Construction,1,12,governance_international
-Technology,1,89,governance_international
-Trade & Services,1,79,governance_international
+Technology,1,84,governance_international
+Trade & Services,1,71,governance_international
