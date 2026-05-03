@@ -1,15 +1,15 @@
 ownerOrg,period,count,component
 Crypto Assets,1,39,environmental_domestic
-Energy & Transportation,1,490,environmental_domestic
+Energy & Transportation,1,489,environmental_domestic
 Finance,1,201,environmental_domestic
 Industrial Applications and Services,1,214,environmental_domestic
 Life Sciences,1,92,environmental_domestic
-Manufacturing,1,414,environmental_domestic
-Real Estate & Construction,1,321,environmental_domestic
+Manufacturing,1,413,environmental_domestic
+Real Estate & Construction,1,320,environmental_domestic
 Technology,1,219,environmental_domestic
-Trade & Services,1,276,environmental_domestic
+Trade & Services,1,275,environmental_domestic
 Crypto Assets,1,55,social_domestic
-Energy & Transportation,1,243,social_domestic
+Energy & Transportation,1,242,social_domestic
 Finance,1,209,social_domestic
 Industrial Applications and Services,1,152,social_domestic
 Life Sciences,1,105,social_domestic
@@ -22,12 +22,12 @@ Energy & Transportation,1,129,governance_domestic
 Finance,1,200,governance_domestic
 Industrial Applications and Services,1,99,governance_domestic
 Life Sciences,1,112,governance_domestic
-Manufacturing,1,133,governance_domestic
+Manufacturing,1,131,governance_domestic
 Real Estate & Construction,1,70,governance_domestic
 Technology,1,137,governance_domestic
-Trade & Services,1,119,governance_domestic
+Trade & Services,1,118,governance_domestic
 Crypto Assets,1,7,environmental_international
-Energy & Transportation,1,84,environmental_international
+Energy & Transportation,1,83,environmental_international
 Finance,1,29,environmental_international
 Industrial Applications and Services,1,19,environmental_international
 Life Sciences,1,21,environmental_international
@@ -36,7 +36,7 @@ Real Estate & Construction,1,10,environmental_international
 Technology,1,42,environmental_international
 Trade & Services,1,22,environmental_international
 Crypto Assets,1,5,social_international
-Energy & Transportation,1,65,social_international
+Energy & Transportation,1,64,social_international
 Finance,1,30,social_international
 Industrial Applications and Services,1,18,social_international
 Life Sciences,1,31,social_international
