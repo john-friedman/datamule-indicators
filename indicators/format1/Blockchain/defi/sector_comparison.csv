@@ -10,8 +10,8 @@ Manufacturing,1,1,adoption_domestic
 Real Estate & Construction,1,3,adoption_domestic
 Technology,1,5,adoption_domestic
 Trade & Services,1,7,adoption_domestic
-Crypto Assets,0,4,protocols_domestic
-Crypto Assets,1,35,protocols_domestic
+Crypto Assets,0,3,protocols_domestic
+Crypto Assets,1,36,protocols_domestic
 Energy & Transportation,0,5,protocols_domestic
 Energy & Transportation,1,161,protocols_domestic
 Finance,0,1,protocols_domestic
@@ -25,7 +25,7 @@ Manufacturing,1,147,protocols_domestic
 Real Estate & Construction,0,1,protocols_domestic
 Real Estate & Construction,1,69,protocols_domestic
 Technology,0,8,protocols_domestic
-Technology,1,122,protocols_domestic
+Technology,1,121,protocols_domestic
 Trade & Services,0,14,protocols_domestic
-Trade & Services,1,91,protocols_domestic
+Trade & Services,1,90,protocols_domestic
 Crypto Assets,1,2,risk_domestic
