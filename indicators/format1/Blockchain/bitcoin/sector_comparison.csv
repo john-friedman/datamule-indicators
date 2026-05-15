@@ -10,19 +10,19 @@ Manufacturing,1,11,adoption_domestic
 Office of Structured Finance,1,410,adoption_domestic
 Real Estate & Construction,0,1,adoption_domestic
 Real Estate & Construction,1,16,adoption_domestic
-Technology,0,2,adoption_domestic
+Technology,0,1,adoption_domestic
 Technology,1,28,adoption_domestic
 Trade & Services,1,20,adoption_domestic
-Crypto Assets,0,31,holdings_domestic
-Crypto Assets,1,83,holdings_domestic
+Crypto Assets,0,27,holdings_domestic
+Crypto Assets,1,86,holdings_domestic
 Energy & Transportation,1,1,holdings_domestic
 Finance,0,1,holdings_domestic
 Finance,1,3,holdings_domestic
 Industrial Applications and Services,0,6,holdings_domestic
 Industrial Applications and Services,1,19,holdings_domestic
 Life Sciences,1,1,holdings_domestic
-Manufacturing,0,10,holdings_domestic
-Manufacturing,1,13,holdings_domestic
+Manufacturing,0,9,holdings_domestic
+Manufacturing,1,14,holdings_domestic
 Real Estate & Construction,0,4,holdings_domestic
 Real Estate & Construction,1,3,holdings_domestic
 Technology,0,3,holdings_domestic
@@ -32,7 +32,7 @@ Trade & Services,1,3,holdings_domestic
 Crypto Assets,0,1,mining_domestic
 Crypto Assets,1,48,mining_domestic
 Energy & Transportation,0,2,mining_domestic
-Energy & Transportation,1,163,mining_domestic
+Energy & Transportation,1,162,mining_domestic
 Finance,1,9,mining_domestic
 Industrial Applications and Services,1,23,mining_domestic
 Life Sciences,1,2,mining_domestic
@@ -40,11 +40,11 @@ Manufacturing,0,2,mining_domestic
 Manufacturing,1,23,mining_domestic
 Real Estate & Construction,1,12,mining_domestic
 Technology,0,2,mining_domestic
-Technology,1,24,mining_domestic
+Technology,1,23,mining_domestic
 Trade & Services,0,1,mining_domestic
 Trade & Services,1,14,mining_domestic
-Crypto Assets,0,2,investment_domestic
-Crypto Assets,1,12,investment_domestic
+Crypto Assets,0,1,investment_domestic
+Crypto Assets,1,13,investment_domestic
 Industrial Applications and Services,1,2,investment_domestic
 Manufacturing,1,1,investment_domestic
 Real Estate & Construction,0,4,investment_domestic

@@ -13,8 +13,8 @@ Industrial Applications and Services,1,16,orphan-drug_domestic
 Life Sciences,1,502,orphan-drug_domestic
 Technology,1,1,orphan-drug_domestic
 Trade & Services,1,2,orphan-drug_domestic
-Industrial Applications and Services,1,3,orphan-drug_international
-Life Sciences,1,44,orphan-drug_international
+Industrial Applications and Services,1,2,orphan-drug_international
+Life Sciences,1,42,orphan-drug_international
 Crypto Assets,1,1,genomic_domestic
 Industrial Applications and Services,1,51,genomic_domestic
 Life Sciences,1,127,genomic_domestic
@@ -22,7 +22,7 @@ Manufacturing,1,2,genomic_domestic
 Real Estate & Construction,1,1,genomic_domestic
 Technology,1,5,genomic_domestic
 Trade & Services,1,4,genomic_domestic
-Industrial Applications and Services,1,6,genomic_international
+Industrial Applications and Services,1,4,genomic_international
 Life Sciences,1,14,genomic_international
 Manufacturing,1,3,genomic_international
 Technology,1,3,genomic_international
@@ -34,14 +34,13 @@ Industrial Applications and Services,1,3,healthcare-blockchain_domestic
 Life Sciences,1,5,healthcare-blockchain_domestic
 Manufacturing,1,8,healthcare-blockchain_domestic
 Real Estate & Construction,1,10,healthcare-blockchain_domestic
-Technology,1,32,healthcare-blockchain_domestic
-Trade & Services,1,26,healthcare-blockchain_domestic
-Crypto Assets,1,3,healthcare-blockchain_international
+Technology,1,31,healthcare-blockchain_domestic
+Trade & Services,1,25,healthcare-blockchain_domestic
+Crypto Assets,1,1,healthcare-blockchain_international
 Energy & Transportation,1,1,healthcare-blockchain_international
 Finance,1,16,healthcare-blockchain_international
-Industrial Applications and Services,1,1,healthcare-blockchain_international
 Life Sciences,1,3,healthcare-blockchain_international
 Manufacturing,1,7,healthcare-blockchain_international
 Real Estate & Construction,1,1,healthcare-blockchain_international
-Technology,1,19,healthcare-blockchain_international
+Technology,1,16,healthcare-blockchain_international
 Trade & Services,1,3,healthcare-blockchain_international
