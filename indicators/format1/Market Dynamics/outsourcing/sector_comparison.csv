@@ -1,13 +1,13 @@
 ownerOrg,period,count,component
 Crypto Assets,1,17,domestic
 Energy & Transportation,1,98,domestic
-Finance,1,99,domestic
+Finance,1,98,domestic
 Industrial Applications and Services,1,115,domestic
 Life Sciences,1,227,domestic
-Manufacturing,1,132,domestic
+Manufacturing,1,131,domestic
 Real Estate & Construction,1,78,domestic
-Technology,1,169,domestic
-Trade & Services,1,126,domestic
+Technology,1,168,domestic
+Trade & Services,1,127,domestic
 Crypto Assets,1,1,international
 Energy & Transportation,1,10,international
 Finance,1,1,international
