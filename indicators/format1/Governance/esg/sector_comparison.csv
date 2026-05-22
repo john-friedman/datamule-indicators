@@ -4,7 +4,7 @@ Energy & Transportation,1,486,environmental_domestic
 Finance,1,200,environmental_domestic
 Industrial Applications and Services,1,211,environmental_domestic
 Life Sciences,1,92,environmental_domestic
-Manufacturing,1,409,environmental_domestic
+Manufacturing,1,406,environmental_domestic
 Real Estate & Construction,1,319,environmental_domestic
 Technology,1,215,environmental_domestic
 Trade & Services,1,271,environmental_domestic
@@ -13,9 +13,9 @@ Energy & Transportation,1,241,social_domestic
 Finance,1,208,social_domestic
 Industrial Applications and Services,1,149,social_domestic
 Life Sciences,1,104,social_domestic
-Manufacturing,1,264,social_domestic
+Manufacturing,1,262,social_domestic
 Real Estate & Construction,1,163,social_domestic
-Technology,1,177,social_domestic
+Technology,1,175,social_domestic
 Trade & Services,1,229,social_domestic
 Crypto Assets,1,9,governance_domestic
 Energy & Transportation,1,128,governance_domestic
@@ -33,7 +33,7 @@ Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,21,environmental_international
 Manufacturing,1,56,environmental_international
 Real Estate & Construction,1,8,environmental_international
-Technology,1,36,environmental_international
+Technology,1,35,environmental_international
 Trade & Services,1,19,environmental_international
 Crypto Assets,1,4,social_international
 Energy & Transportation,1,56,social_international
@@ -42,7 +42,7 @@ Industrial Applications and Services,1,16,social_international
 Life Sciences,1,29,social_international
 Manufacturing,1,49,social_international
 Real Estate & Construction,1,9,social_international
-Technology,1,33,social_international
+Technology,1,32,social_international
 Trade & Services,1,28,social_international
 Crypto Assets,1,10,governance_international
 Energy & Transportation,1,45,governance_international
@@ -51,5 +51,5 @@ Industrial Applications and Services,1,20,governance_international
 Life Sciences,1,41,governance_international
 Manufacturing,1,49,governance_international
 Real Estate & Construction,1,7,governance_international
-Technology,1,48,governance_international
+Technology,1,47,governance_international
 Trade & Services,1,42,governance_international
