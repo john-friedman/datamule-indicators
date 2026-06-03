@@ -2,7 +2,7 @@ ownerOrg,period,count,component
 Crypto Assets,1,4,diversity_domestic
 Energy & Transportation,1,89,diversity_domestic
 Finance,1,83,diversity_domestic
-Industrial Applications and Services,1,68,diversity_domestic
+Industrial Applications and Services,1,67,diversity_domestic
 Life Sciences,1,78,diversity_domestic
 Manufacturing,1,80,diversity_domestic
 Real Estate & Construction,1,56,diversity_domestic
@@ -13,7 +13,7 @@ Energy & Transportation,1,117,equity_domestic
 Finance,1,179,equity_domestic
 Industrial Applications and Services,1,145,equity_domestic
 Life Sciences,1,165,equity_domestic
-Manufacturing,1,177,equity_domestic
+Manufacturing,1,176,equity_domestic
 Real Estate & Construction,1,153,equity_domestic
 Technology,1,163,equity_domestic
 Trade & Services,1,199,equity_domestic
