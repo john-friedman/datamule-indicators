@@ -22,7 +22,7 @@ Energy & Transportation,1,108,inclusion_domestic
 Finance,1,140,inclusion_domestic
 Industrial Applications and Services,1,89,inclusion_domestic
 Life Sciences,1,59,inclusion_domestic
-Manufacturing,1,121,inclusion_domestic
+Manufacturing,1,120,inclusion_domestic
 Real Estate & Construction,1,65,inclusion_domestic
 Technology,1,123,inclusion_domestic
 Trade & Services,1,135,inclusion_domestic
@@ -46,7 +46,7 @@ Trade & Services,1,13,equity_international
 Energy & Transportation,1,10,inclusion_international
 Finance,1,14,inclusion_international
 Industrial Applications and Services,1,6,inclusion_international
-Life Sciences,1,6,inclusion_international
+Life Sciences,1,5,inclusion_international
 Manufacturing,1,9,inclusion_international
 Real Estate & Construction,1,1,inclusion_international
 Technology,1,14,inclusion_international

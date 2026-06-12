@@ -7,7 +7,7 @@ Life Sciences,1,6,domestic_us
 Manufacturing,1,9,domestic_us
 Real Estate & Construction,1,6,domestic_us
 Technology,1,18,domestic_us
-Trade & Services,1,10,domestic_us
+Trade & Services,1,9,domestic_us
 Finance,1,1,international_us
 Industrial Applications and Services,1,2,international_us
 Life Sciences,1,1,international_us
@@ -25,7 +25,7 @@ Energy & Transportation,1,1,international_eu
 Industrial Applications and Services,1,1,international_eu
 Manufacturing,1,2,international_eu
 Technology,1,5,international_eu
-Trade & Services,1,2,international_eu
+Trade & Services,1,1,international_eu
 Energy & Transportation,1,1,domestic_cn
 Industrial Applications and Services,1,1,domestic_cn
 Manufacturing,1,2,domestic_cn
@@ -35,4 +35,4 @@ Crypto Assets,1,2,international_cn
 Energy & Transportation,1,1,international_cn
 Manufacturing,1,2,international_cn
 Technology,1,2,international_cn
-Trade & Services,1,5,international_cn
+Trade & Services,1,4,international_cn
