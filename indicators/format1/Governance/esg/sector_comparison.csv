@@ -20,7 +20,7 @@ Trade & Services,1,223,social_domestic
 Crypto Assets,1,9,governance_domestic
 Energy & Transportation,1,126,governance_domestic
 Finance,1,197,governance_domestic
-Industrial Applications and Services,1,94,governance_domestic
+Industrial Applications and Services,1,93,governance_domestic
 Life Sciences,1,111,governance_domestic
 Manufacturing,1,120,governance_domestic
 Real Estate & Construction,1,70,governance_domestic
@@ -31,7 +31,7 @@ Energy & Transportation,1,73,environmental_international
 Finance,1,29,environmental_international
 Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,19,environmental_international
-Manufacturing,1,53,environmental_international
+Manufacturing,1,52,environmental_international
 Real Estate & Construction,1,8,environmental_international
 Technology,1,34,environmental_international
 Trade & Services,1,18,environmental_international
@@ -40,7 +40,7 @@ Energy & Transportation,1,55,social_international
 Finance,1,30,social_international
 Industrial Applications and Services,1,16,social_international
 Life Sciences,1,28,social_international
-Manufacturing,1,46,social_international
+Manufacturing,1,45,social_international
 Real Estate & Construction,1,9,social_international
 Technology,1,30,social_international
 Trade & Services,1,26,social_international
@@ -49,7 +49,7 @@ Energy & Transportation,1,45,governance_international
 Finance,1,35,governance_international
 Industrial Applications and Services,1,20,governance_international
 Life Sciences,1,40,governance_international
-Manufacturing,1,46,governance_international
+Manufacturing,1,45,governance_international
 Real Estate & Construction,1,7,governance_international
 Technology,1,44,governance_international
 Trade & Services,1,40,governance_international
