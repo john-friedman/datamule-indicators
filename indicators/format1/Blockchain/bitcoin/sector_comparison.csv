@@ -1,5 +1,5 @@
 ownerOrg,period,count,component
-Crypto Assets,1,73,adoption_domestic
+Crypto Assets,1,72,adoption_domestic
 Energy & Transportation,1,10,adoption_domestic
 Finance,1,18,adoption_domestic
 Industrial Applications and Services,1,8,adoption_domestic
@@ -25,7 +25,7 @@ Technology,0,1,holdings_domestic
 Technology,1,13,holdings_domestic
 Trade & Services,0,1,holdings_domestic
 Trade & Services,1,3,holdings_domestic
-Crypto Assets,1,49,mining_domestic
+Crypto Assets,1,48,mining_domestic
 Energy & Transportation,0,1,mining_domestic
 Energy & Transportation,1,160,mining_domestic
 Finance,1,8,mining_domestic
