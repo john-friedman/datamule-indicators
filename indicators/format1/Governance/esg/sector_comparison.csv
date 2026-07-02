@@ -3,19 +3,19 @@ Crypto Assets,1,39,environmental_domestic
 Energy & Transportation,1,482,environmental_domestic
 Finance,1,196,environmental_domestic
 Industrial Applications and Services,1,203,environmental_domestic
-Life Sciences,1,86,environmental_domestic
+Life Sciences,1,85,environmental_domestic
 Manufacturing,1,373,environmental_domestic
-Real Estate & Construction,1,317,environmental_domestic
+Real Estate & Construction,1,316,environmental_domestic
 Technology,1,200,environmental_domestic
 Trade & Services,1,260,environmental_domestic
 Crypto Assets,1,52,social_domestic
 Energy & Transportation,1,239,social_domestic
 Finance,1,204,social_domestic
 Industrial Applications and Services,1,146,social_domestic
-Life Sciences,1,103,social_domestic
-Manufacturing,1,241,social_domestic
+Life Sciences,1,102,social_domestic
+Manufacturing,1,240,social_domestic
 Real Estate & Construction,1,163,social_domestic
-Technology,1,164,social_domestic
+Technology,1,165,social_domestic
 Trade & Services,1,220,social_domestic
 Crypto Assets,1,9,governance_domestic
 Energy & Transportation,1,125,governance_domestic
@@ -27,7 +27,7 @@ Real Estate & Construction,1,69,governance_domestic
 Technology,1,126,governance_domestic
 Trade & Services,1,115,governance_domestic
 Crypto Assets,1,5,environmental_international
-Energy & Transportation,1,71,environmental_international
+Energy & Transportation,1,70,environmental_international
 Finance,1,25,environmental_international
 Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,18,environmental_international
@@ -36,7 +36,7 @@ Real Estate & Construction,1,8,environmental_international
 Technology,1,33,environmental_international
 Trade & Services,1,16,environmental_international
 Crypto Assets,1,4,social_international
-Energy & Transportation,1,53,social_international
+Energy & Transportation,1,52,social_international
 Finance,1,26,social_international
 Industrial Applications and Services,1,16,social_international
 Life Sciences,1,28,social_international
@@ -45,7 +45,7 @@ Real Estate & Construction,1,9,social_international
 Technology,1,29,social_international
 Trade & Services,1,24,social_international
 Crypto Assets,1,9,governance_international
-Energy & Transportation,1,44,governance_international
+Energy & Transportation,1,43,governance_international
 Finance,1,33,governance_international
 Industrial Applications and Services,1,20,governance_international
 Life Sciences,1,39,governance_international
