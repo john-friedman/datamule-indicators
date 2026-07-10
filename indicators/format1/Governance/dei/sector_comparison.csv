@@ -10,13 +10,13 @@ Technology,1,67,diversity_domestic
 Trade & Services,1,79,diversity_domestic
 Crypto Assets,1,17,equity_domestic
 Energy & Transportation,1,114,equity_domestic
-Finance,1,178,equity_domestic
+Finance,1,177,equity_domestic
 Industrial Applications and Services,1,144,equity_domestic
 Life Sciences,1,163,equity_domestic
 Manufacturing,1,164,equity_domestic
 Real Estate & Construction,1,150,equity_domestic
 Technology,1,161,equity_domestic
-Trade & Services,1,196,equity_domestic
+Trade & Services,1,195,equity_domestic
 Crypto Assets,1,6,inclusion_domestic
 Energy & Transportation,1,108,inclusion_domestic
 Finance,1,140,inclusion_domestic
@@ -43,6 +43,7 @@ Manufacturing,1,22,equity_international
 Real Estate & Construction,1,4,equity_international
 Technology,1,36,equity_international
 Trade & Services,1,13,equity_international
+Crypto Assets,1,1,inclusion_international
 Energy & Transportation,1,10,inclusion_international
 Finance,1,13,inclusion_international
 Industrial Applications and Services,1,6,inclusion_international
@@ -50,4 +51,4 @@ Life Sciences,1,5,inclusion_international
 Manufacturing,1,8,inclusion_international
 Real Estate & Construction,1,1,inclusion_international
 Technology,1,12,inclusion_international
-Trade & Services,1,5,inclusion_international
+Trade & Services,1,4,inclusion_international
