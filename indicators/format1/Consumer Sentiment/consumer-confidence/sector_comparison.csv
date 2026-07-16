@@ -1,18 +1,18 @@
 ownerOrg,period,count,component
 Crypto Assets,1,12,domestic
-Energy & Transportation,1,73,domestic
+Energy & Transportation,1,72,domestic
 Finance,1,187,domestic
-Industrial Applications and Services,1,124,domestic
+Industrial Applications and Services,1,122,domestic
 Life Sciences,1,176,domestic
-Manufacturing,1,203,domestic
+Manufacturing,1,201,domestic
 Real Estate & Construction,1,213,domestic
 Technology,1,135,domestic
-Trade & Services,1,247,domestic
+Trade & Services,1,246,domestic
 Energy & Transportation,1,10,international
-Finance,1,15,international
+Finance,1,14,international
 Industrial Applications and Services,1,15,international
 Life Sciences,1,11,international
 Manufacturing,1,30,international
 Real Estate & Construction,1,7,international
 Technology,1,26,international
-Trade & Services,1,25,international
+Trade & Services,1,23,international
