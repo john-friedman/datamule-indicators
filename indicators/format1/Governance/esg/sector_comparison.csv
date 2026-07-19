@@ -4,19 +4,19 @@ Energy & Transportation,1,479,environmental_domestic
 Finance,1,195,environmental_domestic
 Industrial Applications and Services,1,202,environmental_domestic
 Life Sciences,1,84,environmental_domestic
-Manufacturing,1,369,environmental_domestic
+Manufacturing,1,368,environmental_domestic
 Real Estate & Construction,1,315,environmental_domestic
 Technology,1,199,environmental_domestic
-Trade & Services,1,258,environmental_domestic
+Trade & Services,1,256,environmental_domestic
 Crypto Assets,1,52,social_domestic
 Energy & Transportation,1,237,social_domestic
 Finance,1,203,social_domestic
 Industrial Applications and Services,1,146,social_domestic
 Life Sciences,1,102,social_domestic
-Manufacturing,1,239,social_domestic
+Manufacturing,1,238,social_domestic
 Real Estate & Construction,1,163,social_domestic
 Technology,1,165,social_domestic
-Trade & Services,1,219,social_domestic
+Trade & Services,1,218,social_domestic
 Crypto Assets,1,9,governance_domestic
 Energy & Transportation,1,123,governance_domestic
 Finance,1,197,governance_domestic
@@ -25,17 +25,17 @@ Life Sciences,1,111,governance_domestic
 Manufacturing,1,116,governance_domestic
 Real Estate & Construction,1,69,governance_domestic
 Technology,1,125,governance_domestic
-Trade & Services,1,114,governance_domestic
+Trade & Services,1,113,governance_domestic
 Crypto Assets,1,5,environmental_international
 Energy & Transportation,1,69,environmental_international
 Finance,1,25,environmental_international
 Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,18,environmental_international
-Manufacturing,1,47,environmental_international
+Manufacturing,1,46,environmental_international
 Real Estate & Construction,1,8,environmental_international
 Technology,1,33,environmental_international
 Trade & Services,1,16,environmental_international
-Crypto Assets,1,5,social_international
+Crypto Assets,1,4,social_international
 Energy & Transportation,1,51,social_international
 Finance,1,26,social_international
 Industrial Applications and Services,1,16,social_international
