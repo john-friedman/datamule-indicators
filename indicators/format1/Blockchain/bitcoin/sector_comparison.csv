@@ -9,12 +9,12 @@ Office of Structured Finance,1,410,adoption_domestic
 Real Estate & Construction,1,16,adoption_domestic
 Technology,1,25,adoption_domestic
 Trade & Services,1,19,adoption_domestic
-Crypto Assets,0,3,holdings_domestic
-Crypto Assets,1,108,holdings_domestic
+Crypto Assets,0,1,holdings_domestic
+Crypto Assets,1,110,holdings_domestic
 Energy & Transportation,1,1,holdings_domestic
 Finance,1,4,holdings_domestic
-Industrial Applications and Services,0,2,holdings_domestic
-Industrial Applications and Services,1,20,holdings_domestic
+Industrial Applications and Services,0,1,holdings_domestic
+Industrial Applications and Services,1,21,holdings_domestic
 Life Sciences,1,1,holdings_domestic
 Manufacturing,1,20,holdings_domestic
 Real Estate & Construction,1,7,holdings_domestic
@@ -31,8 +31,7 @@ Technology,1,21,mining_domestic
 Trade & Services,1,14,mining_domestic
 Crypto Assets,1,14,investment_domestic
 Manufacturing,1,1,investment_domestic
-Real Estate & Construction,0,1,investment_domestic
-Real Estate & Construction,1,8,investment_domestic
+Real Estate & Construction,1,9,investment_domestic
 Technology,1,9,investment_domestic
 Trade & Services,1,1,investment_domestic
 Crypto Assets,1,2,risk_domestic
