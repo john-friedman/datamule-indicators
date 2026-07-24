@@ -4,7 +4,7 @@ Energy & Transportation,1,479,environmental_domestic
 Finance,1,195,environmental_domestic
 Industrial Applications and Services,1,201,environmental_domestic
 Life Sciences,1,84,environmental_domestic
-Manufacturing,1,368,environmental_domestic
+Manufacturing,1,367,environmental_domestic
 Real Estate & Construction,1,314,environmental_domestic
 Technology,1,199,environmental_domestic
 Trade & Services,1,256,environmental_domestic
@@ -27,7 +27,7 @@ Real Estate & Construction,1,69,governance_domestic
 Technology,1,125,governance_domestic
 Trade & Services,1,113,governance_domestic
 Crypto Assets,1,5,environmental_international
-Energy & Transportation,1,69,environmental_international
+Energy & Transportation,1,68,environmental_international
 Finance,1,25,environmental_international
 Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,18,environmental_international
