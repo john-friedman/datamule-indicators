@@ -1,30 +1,30 @@
 ownerOrg,period,count,component
 Crypto Assets,1,39,environmental_domestic
-Energy & Transportation,1,479,environmental_domestic
+Energy & Transportation,1,478,environmental_domestic
 Finance,1,195,environmental_domestic
-Industrial Applications and Services,1,201,environmental_domestic
+Industrial Applications and Services,1,200,environmental_domestic
 Life Sciences,1,84,environmental_domestic
-Manufacturing,1,367,environmental_domestic
+Manufacturing,1,365,environmental_domestic
 Real Estate & Construction,1,314,environmental_domestic
-Technology,1,199,environmental_domestic
+Technology,1,198,environmental_domestic
 Trade & Services,1,256,environmental_domestic
 Crypto Assets,1,52,social_domestic
 Energy & Transportation,1,237,social_domestic
 Finance,1,203,social_domestic
-Industrial Applications and Services,1,145,social_domestic
+Industrial Applications and Services,1,143,social_domestic
 Life Sciences,1,102,social_domestic
-Manufacturing,1,238,social_domestic
+Manufacturing,1,236,social_domestic
 Real Estate & Construction,1,163,social_domestic
 Technology,1,165,social_domestic
 Trade & Services,1,217,social_domestic
 Crypto Assets,1,9,governance_domestic
-Energy & Transportation,1,123,governance_domestic
+Energy & Transportation,1,122,governance_domestic
 Finance,1,197,governance_domestic
 Industrial Applications and Services,1,92,governance_domestic
 Life Sciences,1,111,governance_domestic
 Manufacturing,1,116,governance_domestic
 Real Estate & Construction,1,69,governance_domestic
-Technology,1,125,governance_domestic
+Technology,1,124,governance_domestic
 Trade & Services,1,113,governance_domestic
 Crypto Assets,1,5,environmental_international
 Energy & Transportation,1,68,environmental_international
