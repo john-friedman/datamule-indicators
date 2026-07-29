@@ -1,15 +1,15 @@
 ownerOrg,period,count,component
 Crypto Assets,1,39,environmental_domestic
-Energy & Transportation,1,478,environmental_domestic
+Energy & Transportation,1,477,environmental_domestic
 Finance,1,195,environmental_domestic
-Industrial Applications and Services,1,200,environmental_domestic
+Industrial Applications and Services,1,199,environmental_domestic
 Life Sciences,1,84,environmental_domestic
 Manufacturing,1,364,environmental_domestic
 Real Estate & Construction,1,314,environmental_domestic
 Technology,1,198,environmental_domestic
-Trade & Services,1,256,environmental_domestic
+Trade & Services,1,255,environmental_domestic
 Crypto Assets,1,52,social_domestic
-Energy & Transportation,1,237,social_domestic
+Energy & Transportation,1,236,social_domestic
 Finance,1,203,social_domestic
 Industrial Applications and Services,1,143,social_domestic
 Life Sciences,1,102,social_domestic
@@ -28,7 +28,7 @@ Technology,1,124,governance_domestic
 Trade & Services,1,113,governance_domestic
 Crypto Assets,1,5,environmental_international
 Energy & Transportation,1,68,environmental_international
-Finance,1,25,environmental_international
+Finance,1,24,environmental_international
 Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,18,environmental_international
 Manufacturing,1,46,environmental_international
@@ -37,7 +37,7 @@ Technology,1,33,environmental_international
 Trade & Services,1,15,environmental_international
 Crypto Assets,1,4,social_international
 Energy & Transportation,1,51,social_international
-Finance,1,26,social_international
+Finance,1,25,social_international
 Industrial Applications and Services,1,16,social_international
 Life Sciences,1,28,social_international
 Manufacturing,1,40,social_international
@@ -46,9 +46,9 @@ Technology,1,29,social_international
 Trade & Services,1,21,social_international
 Crypto Assets,1,9,governance_international
 Energy & Transportation,1,43,governance_international
-Finance,1,31,governance_international
+Finance,1,30,governance_international
 Industrial Applications and Services,1,19,governance_international
-Life Sciences,1,39,governance_international
+Life Sciences,1,38,governance_international
 Manufacturing,1,40,governance_international
 Real Estate & Construction,1,7,governance_international
 Technology,1,42,governance_international
