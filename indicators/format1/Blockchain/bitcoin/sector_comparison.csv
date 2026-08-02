@@ -19,7 +19,7 @@ Real Estate & Construction,1,7,holdings_domestic
 Technology,1,13,holdings_domestic
 Trade & Services,1,4,holdings_domestic
 Crypto Assets,1,48,mining_domestic
-Energy & Transportation,1,158,mining_domestic
+Energy & Transportation,1,157,mining_domestic
 Finance,1,8,mining_domestic
 Industrial Applications and Services,1,22,mining_domestic
 Life Sciences,1,2,mining_domestic
@@ -27,7 +27,7 @@ Manufacturing,1,24,mining_domestic
 Real Estate & Construction,1,12,mining_domestic
 Technology,1,20,mining_domestic
 Trade & Services,1,14,mining_domestic
-Crypto Assets,1,13,investment_domestic
+Crypto Assets,1,12,investment_domestic
 Manufacturing,1,1,investment_domestic
 Real Estate & Construction,1,9,investment_domestic
 Technology,1,8,investment_domestic
