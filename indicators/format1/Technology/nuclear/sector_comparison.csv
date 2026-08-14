@@ -21,7 +21,7 @@ Life Sciences,1,89,technology_domestic
 Manufacturing,1,6,technology_domestic
 Real Estate & Construction,1,3,technology_domestic
 Technology,1,3,technology_domestic
-Trade & Services,1,2,technology_domestic
+Trade & Services,1,1,technology_domestic
 Energy & Transportation,1,89,services_domestic
 Finance,1,2,services_domestic
 Industrial Applications and Services,1,4,services_domestic
@@ -36,7 +36,7 @@ Life Sciences,1,6,regulation_domestic
 Manufacturing,1,4,regulation_domestic
 Real Estate & Construction,1,2,regulation_domestic
 Technology,1,3,regulation_domestic
-Trade & Services,1,4,regulation_domestic
+Trade & Services,1,3,regulation_domestic
 Crypto Assets,1,1,fusion_domestic
 Energy & Transportation,1,5,fusion_domestic
 Industrial Applications and Services,1,2,fusion_domestic
