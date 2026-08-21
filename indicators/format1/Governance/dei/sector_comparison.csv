@@ -4,7 +4,7 @@ Energy & Transportation,1,88,diversity_domestic
 Finance,1,83,diversity_domestic
 Industrial Applications and Services,1,60,diversity_domestic
 Life Sciences,1,76,diversity_domestic
-Manufacturing,1,72,diversity_domestic
+Manufacturing,1,70,diversity_domestic
 Real Estate & Construction,1,56,diversity_domestic
 Technology,1,60,diversity_domestic
 Trade & Services,1,70,diversity_domestic
@@ -14,18 +14,18 @@ Finance,1,177,equity_domestic
 Industrial Applications and Services,1,136,equity_domestic
 Life Sciences,1,162,equity_domestic
 Manufacturing,1,151,equity_domestic
-Real Estate & Construction,1,145,equity_domestic
+Real Estate & Construction,1,144,equity_domestic
 Technology,1,154,equity_domestic
-Trade & Services,1,186,equity_domestic
+Trade & Services,1,183,equity_domestic
 Crypto Assets,1,6,inclusion_domestic
 Energy & Transportation,1,108,inclusion_domestic
 Finance,1,140,inclusion_domestic
 Industrial Applications and Services,1,83,inclusion_domestic
 Life Sciences,1,57,inclusion_domestic
-Manufacturing,1,108,inclusion_domestic
+Manufacturing,1,107,inclusion_domestic
 Real Estate & Construction,1,65,inclusion_domestic
 Technology,1,113,inclusion_domestic
-Trade & Services,1,120,inclusion_domestic
+Trade & Services,1,119,inclusion_domestic
 Crypto Assets,1,1,diversity_international
 Energy & Transportation,1,15,diversity_international
 Finance,1,19,diversity_international
@@ -41,7 +41,7 @@ Industrial Applications and Services,1,17,equity_international
 Life Sciences,1,18,equity_international
 Manufacturing,1,19,equity_international
 Real Estate & Construction,1,3,equity_international
-Technology,1,35,equity_international
+Technology,1,34,equity_international
 Trade & Services,1,11,equity_international
 Energy & Transportation,1,10,inclusion_international
 Finance,1,13,inclusion_international
@@ -49,5 +49,5 @@ Industrial Applications and Services,1,6,inclusion_international
 Life Sciences,1,5,inclusion_international
 Manufacturing,1,7,inclusion_international
 Real Estate & Construction,1,1,inclusion_international
-Technology,1,11,inclusion_international
+Technology,1,10,inclusion_international
 Trade & Services,1,3,inclusion_international
