@@ -1,13 +1,13 @@
 ownerOrg,period,count,component
 Crypto Assets,1,4,alzheimer_domestic
 Finance,1,3,alzheimer_domestic
-Industrial Applications and Services,1,24,alzheimer_domestic
+Industrial Applications and Services,1,23,alzheimer_domestic
 Life Sciences,1,89,alzheimer_domestic
 Real Estate & Construction,1,13,alzheimer_domestic
 Technology,1,3,alzheimer_domestic
 Trade & Services,1,3,alzheimer_domestic
 Crypto Assets,1,2,obesity_domestic
-Industrial Applications and Services,1,44,obesity_domestic
+Industrial Applications and Services,1,43,obesity_domestic
 Life Sciences,1,97,obesity_domestic
 Manufacturing,1,19,obesity_domestic
 Trade & Services,1,20,obesity_domestic
@@ -22,7 +22,7 @@ Real Estate & Construction,1,2,ptsd_domestic
 Technology,1,2,ptsd_domestic
 Trade & Services,1,2,ptsd_domestic
 Finance,1,1,alzheimer_international
-Life Sciences,1,11,alzheimer_international
+Life Sciences,1,10,alzheimer_international
 Manufacturing,1,1,alzheimer_international
 Technology,1,1,alzheimer_international
 Energy & Transportation,1,1,obesity_international
