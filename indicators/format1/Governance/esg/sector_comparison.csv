@@ -2,11 +2,11 @@ ownerOrg,period,count,component
 Crypto Assets,1,39,environmental_domestic
 Energy & Transportation,1,471,environmental_domestic
 Finance,1,193,environmental_domestic
-Industrial Applications and Services,1,191,environmental_domestic
+Industrial Applications and Services,1,190,environmental_domestic
 Life Sciences,1,79,environmental_domestic
-Manufacturing,1,338,environmental_domestic
+Manufacturing,1,336,environmental_domestic
 Real Estate & Construction,1,312,environmental_domestic
-Technology,1,182,environmental_domestic
+Technology,1,181,environmental_domestic
 Trade & Services,1,245,environmental_domestic
 Crypto Assets,1,49,social_domestic
 Energy & Transportation,1,228,social_domestic
@@ -21,7 +21,7 @@ Crypto Assets,1,9,governance_domestic
 Energy & Transportation,1,117,governance_domestic
 Finance,1,194,governance_domestic
 Industrial Applications and Services,1,90,governance_domestic
-Life Sciences,1,105,governance_domestic
+Life Sciences,1,104,governance_domestic
 Manufacturing,1,110,governance_domestic
 Real Estate & Construction,1,69,governance_domestic
 Technology,1,115,governance_domestic
@@ -33,7 +33,7 @@ Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,18,environmental_international
 Manufacturing,1,41,environmental_international
 Real Estate & Construction,1,8,environmental_international
-Technology,1,32,environmental_international
+Technology,1,31,environmental_international
 Trade & Services,1,12,environmental_international
 Crypto Assets,1,2,social_international
 Energy & Transportation,1,48,social_international
@@ -42,7 +42,7 @@ Industrial Applications and Services,1,16,social_international
 Life Sciences,1,23,social_international
 Manufacturing,1,35,social_international
 Real Estate & Construction,1,7,social_international
-Technology,1,28,social_international
+Technology,1,27,social_international
 Trade & Services,1,16,social_international
 Crypto Assets,1,4,governance_international
 Energy & Transportation,1,38,governance_international
