@@ -95,7 +95,7 @@ if __name__ == "__main__":
         shutil.rmtree('indicators')
 
     # Load the data from GitHub
-    data_json = urllib.request.urlopen("https://raw.githubusercontent.com/john-friedman/datamule-data/refs/heads/master/data.json").read()
+    data_json = urllib.request.urlopen("https://raw.githubusercontent.com/john-friedman/datamule-data/refs/heads/scripts/data.json").read()
 
     
     data_dict = json.loads(data_json)
