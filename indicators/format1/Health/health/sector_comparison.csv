@@ -32,7 +32,7 @@ Life Sciences,1,9,obesity_international
 Manufacturing,1,5,obesity_international
 Technology,1,2,obesity_international
 Industrial Applications and Services,1,1,nash_international
-Life Sciences,1,6,nash_international
+Life Sciences,1,5,nash_international
 Life Sciences,1,2,ptsd_international
 Technology,1,2,ptsd_international
 Industrial Applications and Services,1,1,h1n1-swine_domestic
@@ -46,7 +46,7 @@ Manufacturing,1,1,mpox_domestic
 Technology,1,1,mpox_domestic
 Trade & Services,1,1,mpox_domestic
 Industrial Applications and Services,1,2,zika_domestic
-Industrial Applications and Services,1,7,h5n1-avian_domestic
+Industrial Applications and Services,1,6,h5n1-avian_domestic
 Life Sciences,1,23,h5n1-avian_domestic
 Manufacturing,1,14,h5n1-avian_domestic
 Trade & Services,1,1,h5n1-avian_domestic
