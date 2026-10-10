@@ -16,7 +16,7 @@ Life Sciences,1,159,equity_domestic
 Manufacturing,1,135,equity_domestic
 Real Estate & Construction,1,141,equity_domestic
 Technology,1,146,equity_domestic
-Trade & Services,1,169,equity_domestic
+Trade & Services,1,168,equity_domestic
 Crypto Assets,1,6,inclusion_domestic
 Energy & Transportation,1,106,inclusion_domestic
 Finance,1,140,inclusion_domestic
@@ -25,7 +25,7 @@ Life Sciences,1,56,inclusion_domestic
 Manufacturing,1,100,inclusion_domestic
 Real Estate & Construction,1,65,inclusion_domestic
 Technology,1,108,inclusion_domestic
-Trade & Services,1,115,inclusion_domestic
+Trade & Services,1,114,inclusion_domestic
 Energy & Transportation,1,13,diversity_international
 Finance,1,19,diversity_international
 Industrial Applications and Services,1,7,diversity_international
