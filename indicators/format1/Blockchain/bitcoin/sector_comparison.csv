@@ -1,15 +1,15 @@
 ownerOrg,period,count,component
 Crypto Assets,1,68,adoption_domestic
-Energy & Transportation,1,10,adoption_domestic
+Energy & Transportation,1,9,adoption_domestic
 Finance,1,16,adoption_domestic
-Industrial Applications and Services,1,8,adoption_domestic
+Industrial Applications and Services,1,7,adoption_domestic
 Life Sciences,1,13,adoption_domestic
 Manufacturing,1,12,adoption_domestic
 Office of Structured Finance,1,410,adoption_domestic
 Real Estate & Construction,1,15,adoption_domestic
-Technology,1,23,adoption_domestic
+Technology,1,22,adoption_domestic
 Trade & Services,1,17,adoption_domestic
-Crypto Assets,1,94,holdings_domestic
+Crypto Assets,1,93,holdings_domestic
 Finance,1,4,holdings_domestic
 Industrial Applications and Services,1,21,holdings_domestic
 Life Sciences,1,1,holdings_domestic
@@ -18,9 +18,9 @@ Real Estate & Construction,1,7,holdings_domestic
 Technology,1,9,holdings_domestic
 Trade & Services,1,4,holdings_domestic
 Crypto Assets,1,44,mining_domestic
-Energy & Transportation,1,150,mining_domestic
+Energy & Transportation,1,148,mining_domestic
 Finance,1,6,mining_domestic
-Industrial Applications and Services,1,21,mining_domestic
+Industrial Applications and Services,1,20,mining_domestic
 Life Sciences,1,2,mining_domestic
 Manufacturing,1,23,mining_domestic
 Real Estate & Construction,1,10,mining_domestic
