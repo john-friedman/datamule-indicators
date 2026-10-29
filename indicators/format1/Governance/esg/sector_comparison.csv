@@ -1,6 +1,6 @@
 ownerOrg,period,count,component
 Crypto Assets,1,40,environmental_domestic
-Energy & Transportation,1,463,environmental_domestic
+Energy & Transportation,1,462,environmental_domestic
 Finance,1,193,environmental_domestic
 Industrial Applications and Services,1,184,environmental_domestic
 Life Sciences,1,77,environmental_domestic
@@ -9,34 +9,34 @@ Real Estate & Construction,1,312,environmental_domestic
 Technology,1,174,environmental_domestic
 Trade & Services,1,226,environmental_domestic
 Crypto Assets,1,49,social_domestic
-Energy & Transportation,1,224,social_domestic
+Energy & Transportation,1,223,social_domestic
 Finance,1,195,social_domestic
 Industrial Applications and Services,1,136,social_domestic
 Life Sciences,1,97,social_domestic
-Manufacturing,1,203,social_domestic
+Manufacturing,1,202,social_domestic
 Real Estate & Construction,1,162,social_domestic
-Technology,1,145,social_domestic
+Technology,1,144,social_domestic
 Trade & Services,1,195,social_domestic
 Crypto Assets,1,10,governance_domestic
 Energy & Transportation,1,114,governance_domestic
 Finance,1,193,governance_domestic
-Industrial Applications and Services,1,85,governance_domestic
+Industrial Applications and Services,1,84,governance_domestic
 Life Sciences,1,98,governance_domestic
 Manufacturing,1,106,governance_domestic
 Real Estate & Construction,1,68,governance_domestic
-Technology,1,113,governance_domestic
+Technology,1,112,governance_domestic
 Trade & Services,1,100,governance_domestic
 Crypto Assets,1,3,environmental_international
-Energy & Transportation,1,61,environmental_international
+Energy & Transportation,1,60,environmental_international
 Finance,1,22,environmental_international
 Industrial Applications and Services,1,18,environmental_international
 Life Sciences,1,17,environmental_international
 Manufacturing,1,40,environmental_international
 Real Estate & Construction,1,6,environmental_international
 Technology,1,29,environmental_international
-Trade & Services,1,12,environmental_international
+Trade & Services,1,11,environmental_international
 Crypto Assets,1,2,social_international
-Energy & Transportation,1,47,social_international
+Energy & Transportation,1,46,social_international
 Finance,1,24,social_international
 Industrial Applications and Services,1,16,social_international
 Life Sciences,1,22,social_international
@@ -45,11 +45,11 @@ Real Estate & Construction,1,5,social_international
 Technology,1,25,social_international
 Trade & Services,1,16,social_international
 Crypto Assets,1,4,governance_international
-Energy & Transportation,1,38,governance_international
+Energy & Transportation,1,37,governance_international
 Finance,1,28,governance_international
 Industrial Applications and Services,1,17,governance_international
 Life Sciences,1,30,governance_international
 Manufacturing,1,32,governance_international
 Real Estate & Construction,1,4,governance_international
 Technology,1,33,governance_international
-Trade & Services,1,24,governance_international
+Trade & Services,1,22,governance_international
