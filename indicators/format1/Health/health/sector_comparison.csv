@@ -9,7 +9,7 @@ Trade & Services,1,3,alzheimer_domestic
 Crypto Assets,1,3,obesity_domestic
 Industrial Applications and Services,1,41,obesity_domestic
 Life Sciences,1,89,obesity_domestic
-Manufacturing,1,17,obesity_domestic
+Manufacturing,1,16,obesity_domestic
 Trade & Services,1,19,obesity_domestic
 Industrial Applications and Services,1,2,nash_domestic
 Life Sciences,1,16,nash_domestic
@@ -17,7 +17,6 @@ Crypto Assets,1,1,ptsd_domestic
 Energy & Transportation,1,1,ptsd_domestic
 Industrial Applications and Services,1,3,ptsd_domestic
 Life Sciences,1,16,ptsd_domestic
-Manufacturing,1,1,ptsd_domestic
 Real Estate & Construction,1,2,ptsd_domestic
 Technology,1,2,ptsd_domestic
 Trade & Services,1,2,ptsd_domestic
@@ -39,7 +38,7 @@ Manufacturing,1,1,h1n1-swine_domestic
 Crypto Assets,1,1,mpox_domestic
 Finance,1,1,mpox_domestic
 Industrial Applications and Services,1,2,mpox_domestic
-Life Sciences,1,26,mpox_domestic
+Life Sciences,1,25,mpox_domestic
 Manufacturing,1,1,mpox_domestic
 Technology,1,1,mpox_domestic
 Trade & Services,1,1,mpox_domestic
@@ -63,7 +62,7 @@ Real Estate & Construction,1,1,zika_international
 Trade & Services,1,2,zika_international
 Crypto Assets,1,1,h5n1-avian_international
 Energy & Transportation,1,1,h5n1-avian_international
-Industrial Applications and Services,1,4,h5n1-avian_international
+Industrial Applications and Services,1,3,h5n1-avian_international
 Life Sciences,1,5,h5n1-avian_international
 Real Estate & Construction,1,1,h5n1-avian_international
 Trade & Services,1,1,h5n1-avian_international
