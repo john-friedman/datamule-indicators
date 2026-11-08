@@ -16,13 +16,13 @@ Life Sciences,1,96,social_domestic
 Manufacturing,1,200,social_domestic
 Real Estate & Construction,1,162,social_domestic
 Technology,1,143,social_domestic
-Trade & Services,1,195,social_domestic
+Trade & Services,1,194,social_domestic
 Crypto Assets,1,10,governance_domestic
 Energy & Transportation,1,114,governance_domestic
 Finance,1,193,governance_domestic
 Industrial Applications and Services,1,83,governance_domestic
 Life Sciences,1,98,governance_domestic
-Manufacturing,1,105,governance_domestic
+Manufacturing,1,104,governance_domestic
 Real Estate & Construction,1,68,governance_domestic
 Technology,1,112,governance_domestic
 Trade & Services,1,98,governance_domestic
@@ -33,8 +33,8 @@ Industrial Applications and Services,1,16,environmental_international
 Life Sciences,1,17,environmental_international
 Manufacturing,1,39,environmental_international
 Real Estate & Construction,1,6,environmental_international
-Technology,1,29,environmental_international
-Trade & Services,1,10,environmental_international
+Technology,1,28,environmental_international
+Trade & Services,1,9,environmental_international
 Crypto Assets,1,2,social_international
 Energy & Transportation,1,40,social_international
 Finance,1,23,social_international
@@ -43,7 +43,7 @@ Life Sciences,1,21,social_international
 Manufacturing,1,33,social_international
 Real Estate & Construction,1,5,social_international
 Technology,1,24,social_international
-Trade & Services,1,14,social_international
+Trade & Services,1,13,social_international
 Crypto Assets,1,3,governance_international
 Energy & Transportation,1,34,governance_international
 Finance,1,26,governance_international
@@ -51,5 +51,5 @@ Industrial Applications and Services,1,17,governance_international
 Life Sciences,1,29,governance_international
 Manufacturing,1,30,governance_international
 Real Estate & Construction,1,3,governance_international
-Technology,1,30,governance_international
-Trade & Services,1,19,governance_international
+Technology,1,29,governance_international
+Trade & Services,1,18,governance_international
