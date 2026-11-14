@@ -1,30 +1,30 @@
 ownerOrg,period,count,component
 Crypto Assets,1,40,environmental_domestic
-Energy & Transportation,1,460,environmental_domestic
+Energy & Transportation,1,459,environmental_domestic
 Finance,1,192,environmental_domestic
-Industrial Applications and Services,1,183,environmental_domestic
+Industrial Applications and Services,1,182,environmental_domestic
 Life Sciences,1,76,environmental_domestic
-Manufacturing,1,317,environmental_domestic
+Manufacturing,1,316,environmental_domestic
 Real Estate & Construction,1,310,environmental_domestic
-Technology,1,172,environmental_domestic
-Trade & Services,1,221,environmental_domestic
+Technology,1,171,environmental_domestic
+Trade & Services,1,218,environmental_domestic
 Crypto Assets,1,49,social_domestic
-Energy & Transportation,1,223,social_domestic
+Energy & Transportation,1,222,social_domestic
 Finance,1,194,social_domestic
-Industrial Applications and Services,1,135,social_domestic
+Industrial Applications and Services,1,134,social_domestic
 Life Sciences,1,96,social_domestic
-Manufacturing,1,198,social_domestic
+Manufacturing,1,197,social_domestic
 Real Estate & Construction,1,162,social_domestic
-Technology,1,143,social_domestic
-Trade & Services,1,192,social_domestic
+Technology,1,142,social_domestic
+Trade & Services,1,190,social_domestic
 Crypto Assets,1,10,governance_domestic
-Energy & Transportation,1,114,governance_domestic
+Energy & Transportation,1,113,governance_domestic
 Finance,1,192,governance_domestic
-Industrial Applications and Services,1,82,governance_domestic
+Industrial Applications and Services,1,81,governance_domestic
 Life Sciences,1,98,governance_domestic
 Manufacturing,1,104,governance_domestic
 Real Estate & Construction,1,68,governance_domestic
-Technology,1,112,governance_domestic
+Technology,1,111,governance_domestic
 Trade & Services,1,94,governance_domestic
 Crypto Assets,1,3,environmental_international
 Energy & Transportation,1,51,environmental_international
