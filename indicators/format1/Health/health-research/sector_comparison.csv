@@ -12,11 +12,11 @@ Life Sciences,1,469,orphan-drug_domestic
 Technology,1,2,orphan-drug_domestic
 Trade & Services,1,1,orphan-drug_domestic
 Industrial Applications and Services,1,2,orphan-drug_international
-Life Sciences,1,32,orphan-drug_international
+Life Sciences,1,31,orphan-drug_international
 Crypto Assets,1,2,genomic_domestic
 Industrial Applications and Services,1,46,genomic_domestic
 Life Sciences,1,116,genomic_domestic
-Manufacturing,1,2,genomic_domestic
+Manufacturing,1,1,genomic_domestic
 Technology,1,5,genomic_domestic
 Trade & Services,1,3,genomic_domestic
 Industrial Applications and Services,1,4,genomic_international
@@ -38,4 +38,4 @@ Finance,1,14,healthcare-blockchain_international
 Life Sciences,1,2,healthcare-blockchain_international
 Manufacturing,1,5,healthcare-blockchain_international
 Technology,1,9,healthcare-blockchain_international
-Trade & Services,1,2,healthcare-blockchain_international
+Trade & Services,1,1,healthcare-blockchain_international

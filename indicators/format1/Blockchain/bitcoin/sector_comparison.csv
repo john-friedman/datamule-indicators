@@ -15,7 +15,7 @@ Industrial Applications and Services,1,20,holdings_domestic
 Life Sciences,1,1,holdings_domestic
 Manufacturing,1,19,holdings_domestic
 Real Estate & Construction,1,7,holdings_domestic
-Technology,1,9,holdings_domestic
+Technology,1,8,holdings_domestic
 Trade & Services,1,3,holdings_domestic
 Crypto Assets,1,44,mining_domestic
 Energy & Transportation,1,146,mining_domestic
@@ -29,7 +29,7 @@ Trade & Services,1,12,mining_domestic
 Crypto Assets,1,11,investment_domestic
 Manufacturing,1,1,investment_domestic
 Real Estate & Construction,1,9,investment_domestic
-Technology,1,7,investment_domestic
+Technology,1,6,investment_domestic
 Trade & Services,1,1,investment_domestic
 Crypto Assets,1,2,risk_domestic
 Finance,1,2,risk_domestic
