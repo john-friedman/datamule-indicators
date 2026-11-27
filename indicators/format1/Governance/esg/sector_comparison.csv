@@ -2,36 +2,36 @@ ownerOrg,period,count,component
 Crypto Assets,1,39,environmental_domestic
 Energy & Transportation,1,451,environmental_domestic
 Finance,1,190,environmental_domestic
-Industrial Applications and Services,1,174,environmental_domestic
+Industrial Applications and Services,1,172,environmental_domestic
 Life Sciences,1,76,environmental_domestic
-Manufacturing,1,302,environmental_domestic
+Manufacturing,1,300,environmental_domestic
 Real Estate & Construction,1,305,environmental_domestic
-Technology,1,169,environmental_domestic
-Trade & Services,1,211,environmental_domestic
+Technology,1,167,environmental_domestic
+Trade & Services,1,209,environmental_domestic
 Crypto Assets,1,45,social_domestic
 Energy & Transportation,1,217,social_domestic
 Finance,1,190,social_domestic
-Industrial Applications and Services,1,130,social_domestic
+Industrial Applications and Services,1,128,social_domestic
 Life Sciences,1,95,social_domestic
 Manufacturing,1,186,social_domestic
 Real Estate & Construction,1,158,social_domestic
 Technology,1,141,social_domestic
-Trade & Services,1,182,social_domestic
+Trade & Services,1,180,social_domestic
 Crypto Assets,1,10,governance_domestic
 Energy & Transportation,1,113,governance_domestic
 Finance,1,190,governance_domestic
-Industrial Applications and Services,1,77,governance_domestic
+Industrial Applications and Services,1,76,governance_domestic
 Life Sciences,1,95,governance_domestic
-Manufacturing,1,100,governance_domestic
+Manufacturing,1,99,governance_domestic
 Real Estate & Construction,1,67,governance_domestic
-Technology,1,109,governance_domestic
-Trade & Services,1,90,governance_domestic
+Technology,1,108,governance_domestic
+Trade & Services,1,88,governance_domestic
 Crypto Assets,1,4,environmental_international
 Energy & Transportation,1,51,environmental_international
 Finance,1,21,environmental_international
 Industrial Applications and Services,1,16,environmental_international
 Life Sciences,1,16,environmental_international
-Manufacturing,1,38,environmental_international
+Manufacturing,1,37,environmental_international
 Real Estate & Construction,1,6,environmental_international
 Technology,1,28,environmental_international
 Trade & Services,1,8,environmental_international
